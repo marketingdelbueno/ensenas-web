@@ -1,0 +1,23 @@
+.categorias {
+  overflow: hidden;
+  width: 100%;
+
+  .btn {
+    span {
+      float: left;
+    }
+  }
+
+  .categoria {
+  	float: left;
+  	margin-left: 2%;
+  	width: 48%;
+  }
+}
+
+.pagination ul {
+  li.siguiente-mobile,
+  li.anterior-mobile {
+    display: none;
+  }
+}

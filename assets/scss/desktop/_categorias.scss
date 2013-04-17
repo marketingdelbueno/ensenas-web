@@ -1,0 +1,21 @@
+.categorias {
+  float: none;
+  margin: 0 auto;
+
+  .btn {
+    span {
+      float: left;
+    }
+  }
+
+  .categoria {
+  	width: 320px;
+  }
+}
+
+.pagination ul {
+  li.siguiente-mobile,
+  li.anterior-mobile {
+    display: none;
+  }
+}

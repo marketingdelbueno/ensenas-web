@@ -1,0 +1,44 @@
+@import "partials/variables";
+@import "partials/mixins";
+
+header .logo {
+  width: 480px;
+
+  a {
+    background-position: 0 0;
+    height: 115px;
+  }
+}
+
+.form-search {
+  width: 370px;
+
+  .search { 
+    width: 240px;
+  }
+
+  .send {
+    width: 110px;
+  }
+}
+
+.menu {
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 520px;
+
+  a {
+    display: block;
+    height: 111px;
+
+    &:hover {
+      top: 2px;
+    }           
+  }  
+
+  @import "partials/menu-desktop-tablet";
+}
+
+.mercados-app {  
+  display: none;
+}

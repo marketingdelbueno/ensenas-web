@@ -1,0 +1,38 @@
+// directories
+$dir_img_admin: "img_admin/";
+$dir_img: "img/";
+$sprite: "img/sprite.png";
+$dir_fonts: "fonts/";
+
+// Grid
+// values for default
+$columns_total: 10; 
+$columns_width: 80px;
+$columns_margin: 20px;
+
+// fonts
+$font_default: verdana, serif;
+$font_size_default: 16px;
+// $font_second:;
+
+// colors
+$background_color: #fff;
+$font_color_content: #333;
+$font_color_titles: #666;
+$font_color_links: #333;
+$font_color_btn: #fff;
+$font_color_placeholder: #999;
+// colors for buttons
+$btn_success_color_first: #F29220;
+$btn_success_color_second: #F9860F;
+$btn_warning_color_first: #fbb450;
+$btn_warning_color_second: #f89406;
+$btn_error_color_first: #ad4541;
+$btn_error_color_second: #942a25;
+
+// dimensions
+$radius: 4px;
+$btn_big_padding: 11px 19px;
+$btn_default_padding: 4px 12px;
+$btn_small_padding: 2px 10px;
+$btn_mini_padding: 0 6px;

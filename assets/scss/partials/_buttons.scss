@@ -1,0 +1,50 @@
+.btn-mini,
+.btn-small,
+.btn,
+.btn-big {
+  border: 1px solid;
+  border-radius: $radius;
+  color: $font_color_btn;
+  cursor: pointer;
+  display: inline-block;
+  font-family: $font_default;
+  text-align: center;
+  text-decoration: none;
+
+  &:active {
+  	position: relative;
+  	top: 1px;
+  }
+}
+
+.btn-mini {
+  font-size: 11px;
+  height: 22px;
+  line-height: 22px;
+  padding: $btn_mini_padding;
+}
+
+.btn-small {
+  font-size: 12px;
+  height: 26px;
+  line-height: 26px;
+  padding: $btn_small_padding;
+}
+
+.btn {
+  font-size: 14px;
+  height: 30px;
+  line-height: 30px;
+  padding: $btn_default_padding;
+}
+
+.btn-big {
+  font-size: 18px;
+  height: 44px;
+  line-height: 40px;
+  padding: $btn_big_padding;
+}
+
+@include btn($btn_success_color_first, $btn_success_color_second, success);
+@include btn($btn_warning_color_first, $btn_warning_color_second, warning);
+@include btn($btn_error_color_first, $btn_error_color_second, error);

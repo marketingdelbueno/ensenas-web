@@ -1,0 +1,98 @@
+@import "partials/variables";
+@import "partials/mixins";
+
+header .logo {
+  width: 100%;
+  max-width: 320px; 
+
+  h1 {
+  	margin-bottom: 0;
+  }
+
+  a {
+	background-position: 0 -202px;
+    height: 92px;		
+  }
+}
+
+.form-search {
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 96%;
+
+  .search { 
+  	width: 60%;
+  }
+
+  .send {
+  	width: 36%;
+  }
+}
+
+.menu {
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 96%;
+
+  ul li {
+	height: 68px;
+	margin: 0 0 50px;
+	width: 31.50%;
+	@include transition-dur(1s);
+	    
+	a {
+	  display: block;
+	  height: 71px;
+      &:hover {
+        top: 2px;
+	  }          	
+	}
+
+	span {
+	  font-size: 13px;
+	  margin-top: 9px;
+	}
+
+	&.categorias {
+	  a {
+	    background-position: -738px -450px;
+	  	width: 74px;
+	  }
+	}
+	    	
+	&.buscar-az {
+	  a {
+	    background-position: -865px -450px;
+	    width: 61px;
+	  }	
+	}
+	    	
+	&.mas-vistos {
+	  a {
+	    background-position: -610px -450px;  	
+	  	width: 78px;
+	  }
+	}
+	    	
+	&.informacion {
+	  a {
+	    background-position: -983px -446px;
+	    width: 68px;
+	  }
+	}
+	    	
+	&.twitter {  	
+	  a {
+	    background-position: -373px -450px;
+	    width: 70px;
+	  }
+	}
+	    	
+	&.facebook {
+	  a {
+	    background-position: -499px -452px;
+	    width: 63px;
+	  }
+	}  	
+  }
+}

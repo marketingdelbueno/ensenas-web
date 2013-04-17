@@ -1,0 +1,16 @@
+.palabras {
+  overflow: hidden;
+  width: 100%;
+
+  .btn {
+    span {
+      float: left;
+    }
+  }
+
+  .palabra {
+  	float: left;
+  	margin-left: 2%;
+  	width: 48%;
+  }
+}

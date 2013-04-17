@@ -1,0 +1,56 @@
+.back-home { 
+  .btn {
+  	display: block;
+  	text-align: left;
+  	padding: 8px 12px;
+  }
+}
+
+.categorias .social-shared {
+  display: none;
+}
+
+.categoria {
+  width: 100%;
+}
+
+.pagination { 
+  margin: 0 2%;
+  width: 96%;
+  
+  ul {
+    
+    .separation,
+    li.siguiente,
+  	li.anterior {
+      display: none;
+    }
+
+    li {
+      height: 15px;
+      line-height: 15px;
+      padding: 11px 12px;
+      
+      .icon-siguiente {
+        background-position: -751px -354px;
+        float: right;
+      }
+
+      .icon-anterior {
+        background-position: -826px -354px;
+        float: left;
+      }
+
+      &.activo {
+        .icon-anterior {
+          background-position: -876px -354px;          
+        }
+
+        .icon-siguiente {
+          background-position: -925px -354px;
+        }    
+      }
+    }
+  }
+}
+

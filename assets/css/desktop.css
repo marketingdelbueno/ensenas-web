@@ -1,0 +1,149 @@
+/* 
+  grid for desktop.
+*/
+.container {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 1040px; }
+
+.col-10 {
+  float: left;
+  margin-left: 20px;
+  width: 980px; }
+
+.col-9 {
+  float: left;
+  margin-left: 20px;
+  width: 880px; }
+
+.col-8 {
+  float: left;
+  margin-left: 20px;
+  width: 780px; }
+
+.col-7 {
+  float: left;
+  margin-left: 20px;
+  width: 680px; }
+
+.col-6 {
+  float: left;
+  margin-left: 20px;
+  width: 580px; }
+
+.col-5 {
+  float: left;
+  margin-left: 20px;
+  width: 480px; }
+
+.col-4 {
+  float: left;
+  margin-left: 20px;
+  width: 380px; }
+
+.col-3 {
+  float: left;
+  margin-left: 20px;
+  width: 280px; }
+
+.col-2 {
+  float: left;
+  margin-left: 20px;
+  width: 180px; }
+
+.col-1 {
+  float: left;
+  margin-left: 20px;
+  width: 80px; }
+
+header .logo {
+  width: 480px; }
+  header .logo a {
+    background-position: 0 0;
+    height: 115px; }
+
+.form-search {
+  width: 370px; }
+  .form-search .search {
+    width: 240px; }
+  .form-search .send {
+    width: 110px; }
+
+.menu ul li {
+  height: 108px;
+  margin: 30px -5px 20px;
+  width: 175px;
+  transition-duration: 1s;
+  -moz-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  -webkit-transition-duration: 1s; }
+  .menu ul li a {
+    display: block;
+    height: 111px; }
+    .menu ul li a:hover {
+      top: 2px; }
+  .menu ul li.categorias a {
+    background-position: -360px -613px;
+    width: 118px; }
+  .menu ul li.buscar-az a {
+    background-position: -568px -613px;
+    width: 108px; }
+  .menu ul li.mas-vistos a {
+    background-position: -759px -613px;
+    width: 112px; }
+  .menu ul li.informacion a {
+    background-position: -946px -613px;
+    width: 102px; }
+  .menu ul li.twitter a {
+    background-position: 0 -617px;
+    width: 111px; }
+  .menu ul li.facebook a {
+    background-position: -188px -613px;
+    width: 96px; }
+.menu li.twitter {
+  margin-left: 180px; }
+
+.mercados-app {
+  display: none; }
+
+.categorias {
+  float: none;
+  margin: 0 auto; }
+  .categorias .btn span {
+    float: left; }
+  .categorias .categoria {
+    width: 320px; }
+
+.pagination ul li.siguiente-mobile,
+.pagination ul li.anterior-mobile {
+  display: none; }
+
+.buscar-az {
+  margin-left: 180px;
+  margin-right: 180px; }
+  .buscar-az form.search-select {
+    width: 250px; }
+  .buscar-az form.filtro-select {
+    width: 305px; }
+  .buscar-az form.filtro-palabra {
+    width: 320px; }
+
+.vistos {
+  margin-left: 180px;
+  margin-right: 180px; }
+  .vistos .mas-vistos {
+    width: 80%; }
+
+.info .directores,
+.info .programadores {
+  float: left; }
+.info .directores {
+  margin-right: 100px; }
+
+.palabras {
+  float: none;
+  margin: 0 auto; }
+  .palabras .btn span {
+    float: left; }
+  .palabras .palabra {
+    width: 320px; }

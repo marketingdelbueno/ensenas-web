@@ -1,0 +1,57 @@
+ul li {
+  height: 108px;
+  margin: 30px -5px 20px;
+  width: 175px;
+  @include transition-dur(1s);
+    
+  a {
+    display: block;
+    height: 111px;
+
+    &:hover {
+      top: 2px;
+    }          	
+  }
+
+  &.categorias {
+    a {
+      background-position: -360px -613px;
+    	width: 118px;
+    }
+  }
+    	
+  &.buscar-az {
+    a {
+      background-position: -568px -613px;
+      width: 108px;
+  	}	
+  }
+    	
+  &.mas-vistos {
+    a {
+      background-position: -759px -613px;  	
+    	width: 112px;
+    }
+  }
+    	
+  &.informacion {
+    a {
+      background-position: -946px -613px;
+      width: 102px;
+    }
+  }
+    	
+  &.twitter {  	
+    a {
+      background-position: 0 -617px;
+      width: 111px;
+    }
+  }
+    	
+  &.facebook {
+    a {
+      background-position: -188px -613px;
+      width: 96px;
+    }
+  }  	
+}

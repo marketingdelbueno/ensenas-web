@@ -1,0 +1,23 @@
+/* 
+  grid for desktop.
+*/
+
+.container {
+  margin: 0 auto;
+  overflow: hidden;
+  width: $columns_width * $columns_total + 12 * $columns_margin;
+}
+
+$margin_total: 0;
+
+@while $columns_total > 0 {
+  .col-#{$columns_total} { 
+    float: left;
+    margin-left: $columns_margin; 
+    
+    $margin_total: ($columns_total - 1) * $columns_margin;
+    width: $columns_width * $columns_total + $margin_total;
+  }
+  $columns_total: $columns_total - 1;
+}
+
