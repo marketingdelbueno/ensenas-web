@@ -36,10 +36,17 @@
                     </div>
                     <?php $videos = explode(';', rtrim(ltrim(base64_decode($_GET['video'])))); ?>
 
-
                     <video id="video" class="video" controls preload="auto"  autobuffer poster="assets/img/default-video.png" data-setup="{}">
                         <?php 
-                            foreach ($videos as $video): 
+                            
+                            foreach ($videos as $video):
+                                $headers = get_headers($video, 1);
+                                $http_status_code = $headers[0];
+                                
+                                if ($http_status_code == 'HTTP/1.1 302 FOUND') {
+                                    $video = $headers['location'];
+                                }
+                                
                                 $nombre = explode('.', $video);
                                 $extension = rtrim(ltrim($nombre[3]));
                                 
