@@ -36,7 +36,7 @@
                     </div>
                     <?php $videos = explode(';', rtrim(ltrim(base64_decode($_GET['video'])))); ?>
 
-                    <video id="video" class="video" controls preload="auto"  autobuffer poster="assets/img/default-video.png" data-setup="{}">
+                    <video id="video" class="video" controls="controls" preload="auto"  autobuffer poster="assets/img/default-video.png">
                         <?php 
                             
                             foreach ($videos as $video):

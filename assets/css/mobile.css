@@ -117,6 +117,10 @@ header .logo {
       background-position: -499px -452px;
       width: 63px; }
 
+.mercados-app {
+    display: none; 
+}
+    
 .back-home .btn {
   display: block;
   text-align: left;

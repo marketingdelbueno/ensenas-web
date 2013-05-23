@@ -1,36 +1,34 @@
 <?php
-	if(isset($_GET['botonBuscar'])){
-		if( $_GET['palabra']!=null ){
-                        $palabra = $_GET['palabra'];
-			$paginaVideo =  "control.php?palabra={$palabra}&bandera=true";
-			header ("Location: {$paginaVideo}");
-		}
-		else{
-		  echo "<script languaje='javascript'>alert('Debe escribir una palabra para buscar')</script>";
-		}
-	}
+if(isset($_GET['botonBuscar'])){
+    if( $_GET['palabra']!=null ){
+        $palabra = $_GET['palabra'];
+        $paginaVideo =  "control.php?palabra={$palabra}&bandera=true";
+        header ("Location: {$paginaVideo}");
+    }
+    else{
+        echo "<script languaje='javascript'>alert('Debe escribir una palabra para buscar')</script>";
+    }
+}
 ?> 
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <title>Pagina Principal | Enseñas</title>
-  
-  <link rel="stylesheet" type="text/css" href="assets/css/commons.css" media="all">
-  <link rel="stylesheet" type="text/css" href="assets/css/mobile.css" media="only screen and (max-width: 599px) and (min-width: 120px)">
-  <link rel="stylesheet" type="text/css" href="assets/css/tablet.css" media="only screen and (max-width: 999px) and (min-width: 600px)">
-  <link rel="stylesheet" type="text/css" href="assets/css/desktop.css" media="only screen and (min-width: 1000px)">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Pagina Principal | Enseñas</title>
 
-  <script src="assets/js/modernizr.js" type="text/javascript"></script>
-  <!--[if (lt IE 9) & (!IEMobile)]>
-    <link rel="stylesheet" href="assets/css/ie.css">
-  <![endif]-->   
+    <link rel="stylesheet" type="text/css" href="assets/css/commons.css" media="all">
+    <link rel="stylesheet" type="text/css" href="assets/css/mobile.css" media="only screen and (max-width: 599px) and (min-width: 120px)">
+    <link rel="stylesheet" type="text/css" href="assets/css/tablet.css" media="only screen and (max-width: 999px) and (min-width: 600px)">
+    <link rel="stylesheet" type="text/css" href="assets/css/desktop.css" media="only screen and (min-width: 1000px)">
+
+    <script src="assets/js/modernizr.js" type="text/javascript"></script>
+    <!--[if (lt IE 9) & (!IEMobile)]>
+      <link rel="stylesheet" href="assets/css/ie.css">
+    <![endif]-->   
     
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </head>
-
-
 <body>
   <header>
     <div class="container">
@@ -53,8 +51,7 @@
       </li>
     </ul>
   </div>   
-  
-  
+    
   <div class="content">
     <div class="container">
       <section class="wrap-form-search">
