@@ -41,13 +41,8 @@
 				$palabras = file($archivo);
 				$num_categoria = trim($palabras[0]);
 				$posicion = 1;
-		?>			
-        
-        <?
-            }
             
-            
-            for($i=0;$i < (int)$num_categoria ;$i++){ 
+            for($i=0;$i < (int)$num_categoria ;$i++){
                 
                 $name_categoria = rtrim($palabras[$posicion]);
                 $posicion++;
@@ -58,7 +53,7 @@
           <i class="icon-categoria"></i>
           <h3><a onclick="javascript:return show(<?=$i?>)" href="" title=""><?=  utf8_encode($name_categoria);?></a></h3>
           <div style='clear:both;display:none;' id="id<?=$i?>">
-            <?
+            <?php
                 $posicion++;
 							
                 for($j=0;$j<(int)$num_palabras;$j++){
@@ -80,8 +75,8 @@
         </div>
         </div>
         
-        <?        
-            }
+        <?php
+            }}
         ?>
         
         
