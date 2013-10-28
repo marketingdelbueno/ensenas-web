@@ -803,46 +803,46 @@ Prometido,http://dl.dropbox.com/s/zzo9hubymccw9su/prometido.mp4;http://dl.dropbo
 Quiero Conocerlo,http://dl.dropbox.com/s/hc4wg760yyvhn55/quiero_conocerlo.mp4;http://dl.dropbox.com/s/5yzsv7xf70xdkw0/quiero_conocerlo.webm
 Sobrino,http://dl.dropbox.com/s/bvwzx29m12790ij/sobrino.mp4;http://dl.dropbox.com/s/agcsvo77z11zgt6/sobrino.webm
 Suegro,http://dl.dropbox.com/s/042uohy2cw63hs4/suegro.mp4;http://dl.dropbox.com/s/h1lybp1002jbdct/suegro.webm
-Te Amo,http://www.dropbox.com/s/vwvl016umvttfw7/te_amo.mp4;http://dl.dropbox.com/s/x24ll60ddu3ag0o/te_amo.webm
+Te Amo,http://dl.dropbox.com/s/vwvl016umvttfw7/te_amo.mp4;http://dl.dropbox.com/s/x24ll60ddu3ag0o/te_amo.webm
 Tío,http://dl.dropbox.com/s/v3xuxbsdxjwi265/tio.mp4;http://dl.dropbox.com/s/x59erozign2qacz/tio.webm
 Yo lo conozco,http://dl.dropbox.com/s/rgsf6x5nhpsl93o/yo_lo_conozco.mp4;http://dl.dropbox.com/s/vuj0tgwl7sy7n6f/yo_lo_conozco.webm
 RESTAURANTE
 35
-Agua,http://dl.dropbox.com/s/7hn7lhxoht8wi9i/agua.mp4
-Baños,http://dl.dropbox.com/s/rgpnuv3iayeyo07/banyos.mp4
-Bien Cocido,http://dl.dropbox.com/s/rtsvi8zxhqqfj40/bien_cocida.mp4
-Buen Provecho,http://dl.dropbox.com/s/vbjfusl9ae4hobp/buen_provecho.mp4
-Bufete,http://dl.dropbox.com/s/qka60npyuqs0mrt/bufete.mp4
-Cafe,http://dl.dropbox.com/s/t5jxcurhowruec6/cafe.mp4
-Carne,http://dl.dropbox.com/s/p3czdy68uh9675d/carne.mp4
-Cerveza,http://dl.dropbox.com/s/yfd0q65pshcs3k9/cerveza.mp4
-Chef,http://dl.dropbox.com/s/whnr5i3d3suxlr1/chef.mp4
-Cocinero,http://dl.dropbox.com/s/v0fkt8r5y5eyzyc/cocinero.mp4
-Comida Rápida,http://dl.dropbox.com/s/kxqsdea5ft2ylj0/comida_rapida.mp4
-Crudo,http://dl.dropbox.com/s/qxv0jiejl3jhtfx/crudo.mp4
-Cuenta,http://dl.dropbox.com/s/9700h5vpc40eyre/cuenta.mp4
-Delicioso,http://dl.dropbox.com/s/rxv5blnp6to1gy6/delicioso.mp4
-Ensalada,http://dl.dropbox.com/s/6e73qeyy8sfa5c5/ensalada.mp4
-Entrada,http://dl.dropbox.com/s/m1dumhg4jcmvvm5/entrada.mp4
-Mantequilla,http://dl.dropbox.com/s/pkki0aczuhb5w42/mantequilla.mp4
-Menu,http://dl.dropbox.com/s/8ak89x1w41ctbvj/menu.mp4
-Mesa,http://dl.dropbox.com/s/gs464vzusnhmamc/mesa.mp4
-Mesonero,http://dl.dropbox.com/s/sbuye15i7z4xz7p/mesonero.mp4
-Pan,http://dl.dropbox.com/s/mnm512repq6zxu7/pan.mp4
-Pasta,http://dl.dropbox.com/s/o7epp3zup2735az/pasta.mp4
-Pescado,http://dl.dropbox.com/s/ro7msshc26lullf/pescado.mp4
-Pimienta,http://dl.dropbox.com/s/oetqhr6dtqjxvqy/pimienta.mp4
-Plato,http://dl.dropbox.com/s/gdksmph2va3kio8/plato.mp4
-Plato Fuerte,http://dl.dropbox.com/s/o369weluvrj6c9p/plato_fuerte.mp4
-Pollo,http://dl.dropbox.com/s/q0m3cavur2wlqtu/pollo.mp4
-Postre,http://dl.dropbox.com/s/1whuy4xpg97bspb/postre.mp4
-Reservaciones,http://dl.dropbox.com/s/vcpjbiu56s92qny/reservaciones.mp4
-Sal,http://dl.dropbox.com/s/gqizw7zh18ghuw8/sal.mp4
-Termino Medio,http://dl.dropbox.com/s/7dyirrcinjj55mm/termino_medio.mp4
-¿Deseas postre?	http://dl.dropbox.com/s/5a7w03g3mlzqicn/deseas_postre.mp4
-¿Qué deseas beber?,http://dl.dropbox.com/s/rdv2obe7jn0f5rq/que_deseas_beber.mp4
-¿Quieres algo más?,http://dl.dropbox.com/s/f3mma5but8r4f7u/quieres_algo_mas.mp4
-¿Sabes lo que quieres pedir?,http://dl.dropbox.com/s/ief9klrkkw624um/sabes_lo_que_quieres_pedir.mp4
+Agua,http://dl.dropbox.com/s/jh4rmlbsbi1mmoq/agua.mp4;http://dl.dropbox.com/s/5n9hmbrpm6sh8uj/agua.webm
+Baños,http://dl.dropbox.com/s/k15svr99gomqmwv/banyos.mp4;http://dl.dropbox.com/s/kl7ato9l9apl4iw/banyos.webm
+Bien Cocido,http://dl.dropbox.com/s/63iizfs0uddqooc/bien_cocido.mp4;http://dl.dropbox.com/s/eu2wqw7fhvz32uj/bien_cocido.webm
+Buen Provecho,http://dl.dropbox.com/s/i8lovi4l389jbph/buen_provecho.mp4;http://dl.dropbox.com/s/2hcsbef5nwxhx6o/buen_provecho.webm
+Bufete,http://dl.dropbox.com/s/68x6x9w6k9wt1bu/bufete.mp4;http://dl.dropbox.com/s/vrrzw1grrc31487/bufete.webm
+Cafe,http://dl.dropbox.com/s/pptx3qpbz7wi6c8/cafe.mp4;http://dl.dropbox.com/s/4icnuy3nfdxbdm2/cafe.webm
+Carne,http://dl.dropbox.com/s/e53vbs0j5c0l8wo/carne.mp4;http://dl.dropbox.com/s/1m8v1jwipbqsie9/carne.webm
+Cerveza,http://dl.dropbox.com/s/5jy5073fvn8bfg6/cerveza.mp4;http://dl.dropbox.com/s/5hm3mx2tby8n3hf/cerveza.webm
+Chef ,http://dl.dropbox.com/s/0gpcpzskpcmmlyo/chef.mp4;http://dl.dropbox.com/s/dpgjjdl5zz8m7t9/chef.webm
+Cocinero,http://dl.dropbox.com/s/nf2p6fhsuo6wici/cocinero.mp4;http://dl.dropbox.com/s/0lw3v2vu5xe7wbj/cocinero.webm
+Comida Rápida,http://dl.dropbox.com/s/vzl8f4jhsm687ch/comida_rapida.mp4;http://dl.dropbox.com/s/fzxr50ttzjabbxt/comida_rapida.webm
+Crudo,http://dl.dropbox.com/s/ce9dm3v4x52g5q2/crudo.mp4;http://dl.dropbox.com/s/wo3ku6iyswpp6mx/crudo.webm
+Cuenta,http://dl.dropbox.com/s/teqbxe446pg3iel/cuenta.mp4;http://dl.dropbox.com/s/k29dg0w2op1q9o0/cuenta.webm
+Delicioso,http://dl.dropbox.com/s/hbf6r2d42p470jh/delicioso.mp4;http://dl.dropbox.com/s/ub1z4gtttusuxkd/delicioso.webm
+¿Deseas postre?,http://dl.dropbox.com/s/npegq54pi0y221z/deseas_postre.mp4;http://dl.dropbox.com/s/7bdsddykhmiycwc/deseas_postre.webm
+Ensalada,http://dl.dropbox.com/s/chahedcq1xvuwqa/ensalada.mp4;http://dl.dropbox.com/s/xa74h7frwf0iqo4/ensalada.webm
+Entrada,http://dl.dropbox.com/s/rrotgn3866qde9g/entrada.mp4;http://dl.dropbox.com/s/60oi9cgjxdewwpv/entrada.webm
+Mantequilla,http://dl.dropbox.com/s/fdl3kmva2ljqka1/mantequilla.mp4;http://dl.dropbox.com/s/vzoo211hsffh9xs/mantequilla.webm
+Menu,http://dl.dropbox.com/s/pgil3r21a3rw6px/menu.mp4;http://dl.dropbox.com/s/9s9yuydiu4ob9ml/menu.webm
+Mesa,http://dl.dropbox.com/s/driclbiujev4sd5/mesa.mp4;http://dl.dropbox.com/s/mkxw60x7re9zdve/mesa.webm
+Mesonero,http://dl.dropbox.com/s/wvojgnrfd3qjaq7/mesonero.mp4;http://dl.dropbox.com/s/m75u1m94d2y8vv4/mesonero.webm
+Pan,http://dl.dropbox.com/s/op6bcf7zprjbfja/pan.mp4;http://dl.dropbox.com/s/4hts3ninlkycew1/pan.webm
+Pasta,http://dl.dropbox.com/s/5xc52lsvhxtw0eq/pasta.mp4;http://dl.dropbox.com/s/y9a59ozbngrae0d/pasta.webm
+Pescado,http://dl.dropbox.com/s/6htneogmnscuezo/pescado.mp4;http://dl.dropbox.com/s/zx9f0h1emba9f3h/pescado.webm
+Pimienta,http://dl.dropbox.com/s/nbck288l1copfeo/pimienta.mp4;http://dl.dropbox.com/s/sif1gvnkwc3dvf0/pimienta.webm
+Plato,http://dl.dropbox.com/s/5ur0wp5b4ajrpnx/plato.mp4;http://dl.dropbox.com/s/z832uuf2610lhpm/plato.webm
+Plato Fuerte,http://dl.dropbox.com/s/dm4zi4iiiyk82a7/plato_fuerte.mp4;http://dl.dropbox.com/s/pll5mhtqvcgnt0u/plato_fuerte.webm
+Pollo,http://dl.dropbox.com/s/vagwfgmpml7nsl0/pollo.mp4;http://dl.dropbox.com/s/0tquv89ui4r7qob/pollo.webm
+Postre,http://dl.dropbox.com/s/76izd6mvcs4p628/postre.mp4;http://dl.dropbox.com/s/iy335i9ats6ufba/postre.webm
+¿Qué deseas beber?,http://dl.dropbox.com/s/pbsas2q22omh10n/que_deseas_beber.mp4;http://dl.dropbox.com/s/1y8j6lxgcsczot5/que_deseas_beber.webm
+¿Quieres algo más?,http://dl.dropbox.com/s/l3hdhany3pepl3i/quieres_algo_mas.mp4;http://dl.dropbox.com/s/ppqwbcur8qt6wgb/quieres_algo_mas.webm
+Reservaciones,http://dl.dropbox.com/s/wcovmcpe1dg50dj/reservaciones.mp4;http://dl.dropbox.com/s/pp2yeqjq5mtbls1/reservaciones.webm
+¿Sabes lo que quieres pedir?,http://dl.dropbox.com/s/hj7zmxq6bol31jt/sabes_lo_que_quieres_pedir.mp4;http://dl.dropbox.com/s/bstj9sxakt5pqiv/sabes_lo_que_quieres_pedir.webm
+Sal,http://dl.dropbox.com/s/0yoes7fbrmfuusk/sal.mp4;http://dl.dropbox.com/s/zq65ad4876aksww/sal.webm
+Termino Medio,http://dl.dropbox.com/s/th5s2j0mzl8qvf5/termino_medio.mp4;http://dl.dropbox.com/s/h5gx006dxde9kco/termino_medio.webm
 SALUD
 38
 Centro Médico,http://dl.dropbox.com/s/xh86rgxddwgu0wf/centro_medico.mp4
