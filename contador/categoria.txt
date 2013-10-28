@@ -72,7 +72,7 @@ Redondo,http://dl.dropbox.com/s/hs8uyf3icy7y67a/redondo.mp4;http://dl.dropbox.co
 Rojo,http://dl.dropbox.com/s/dudrdyk37cugsd7/rojo.mp4;http://dl.dropbox.com/s/gbdikag28wepamz/rojo.webm
 Rosado,http://dl.dropbox.com/s/yhl57642lqinmyz/rosado.mp4;http://dl.dropbox.com/s/v5tr63kyiyhgtm0/rosado.webm
 Saludable,http://dl.dropbox.com/s/2mzszdw6vnqs5t9/saludable.mp4;http://dl.dropbox.com/s/g66vgsut1uocr3k/saludable.webm
-Simpatico,http://dl.dropbox.com/s/paznbujieo1nsu6/simpatico.mp4;http://dl.dropbox.com/s/u4gm6snwyrjcbtn/simpatico.webm
+Simpático,http://dl.dropbox.com/s/paznbujieo1nsu6/simpatico.mp4;http://dl.dropbox.com/s/u4gm6snwyrjcbtn/simpatico.webm
 Sincero,http://dl.dropbox.com/s/qj3havayceeanqf/sincero.mp4;http://dl.dropbox.com/s/ps4bs6dd2y6k7my/sincero.webm
 Tímido,http://dl.dropbox.com/s/bx0ummaxhy5c8b5/timido.mp4;http://dl.dropbox.com/s/b8fiv08svpezwig/timido.webm
 Verde,http://www.dropbox.com/s/g1or98aryxxn47a/verde.mp4;http://dl.dropbox.com/s/b7u3dgkma11u623/verde.webm
