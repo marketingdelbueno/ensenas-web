@@ -772,41 +772,40 @@ Servicios,http://dl.dropbox.com/s/0d7hc2i5wh6b5vr/SERVICIOS.mp4
 Televisión,http://dl.dropbox.com/s/qza1d6thpo97s61/TELEVISION.mp4
 RELACIONES PERSONALES
 35
-Abuelo,http://dl.dropbox.com/s/kplmmemyu5ev81i/abuelo.mp4
-Adios,http://dl.dropbox.com/s/o18nnom149flqj5/adios.mp4
-Amigo,http://dl.dropbox.com/s/2m886f39hmb59k1/amigo.mp4
-Buenas Noches,http://dl.dropbox.com/s/cs3puqnm4f6zlsz/buenas%20noches.mp4
-Buenas Tardes,http://dl.dropbox.com/s/pa0bbknpfxoe9zu/buenas%20tardes.mp4
-Buenos días,http://dl.dropbox.com/s/rb20h8scdw2q7mz/buenos%20dias.mp4
-Colega,http://dl.dropbox.com/s/om2od0jahcunsev/colega.mp4
-Conocido,http://dl.dropbox.com/s/0dy5hkrhpixofbg/conocido.mp4
-Cuñado,http://dl.dropbox.com/s/v950od7cw0x2sxw/cunyado.mp4
-Esposo,http://dl.dropbox.com/s/qvozkwu5e8e4cjr/esposo.mp4;http://dl.dropbox.com/s/i35zrc4f5su0rwm/esposo.webm
-Ex (como prefijo),http://dl.dropbox.com/s/mhjka78cyc2wovf/ex%20como%20prefijo.mp4;http://dl.dropbox.com/s/i35zrc4f5su0rwm/esposo.webm
-Gemelo,	http://dl.dropbox.com/s/mrk27egqbfssc4e/gemelo.mp4
-Hermano,http://dl.dropbox.com/s/hw0ve32dty6gyre/hermano.mp4
-Hijo,http://dl.dropbox.com/s/fyrq436ftwi7869/hijo.mp4
-Hola,http://dl.dropbox.com/s/x0q0lch1262fph5/hola.mp4
-Jefe,http://dl.dropbox.com/s/jqp92n7frbkeq66/jefe.mp4
-Madre,http://dl.dropbox.com/s/at9vh9vow0j9ul1/madre.mp4
-Nieta,http://dl.dropbox.com/s/4a1vgp4xk75uarr/nieta.mp4
-Nieto,http://dl.dropbox.com/s/3ol3fe6t3g64f9q/nieto.mp4
-Novio,http://dl.dropbox.com/s/71ph7ghveoiv0gf/novio.mp4
-Padre,http://dl.dropbox.com/s/7xiabvlpl0mgtu9/padre.mp4
-Padres,http://dl.dropbox.com/s/k5k9ztdy8nbpyul/padres.mp4
-Pana,http://dl.dropbox.com/s/smsk48qmta3jmnp/pana.mp4
-Primo,http://dl.dropbox.com/s/k6e7rynke3pqelo/primo.mp4
-Prometido,http://dl.dropbox.com/s/x5cw0ibk2btwk1q/prometido.mp4
-Quiero Conocerlo,http://dl.dropbox.com/s/g3gjuhsk8gfufp0/quiero%20conocerlo.mp4
-Sobrino,http://dl.dropbox.com/s/lklv5581d6jf61c/sobrino.mp4
-Suegro,http://dl.dropbox.com/s/x9to0o9w5enfksk/suegro.mp4
-Te Amo,http://dl.dropbox.com/s/8wuxh19pl7tp81i/te%20amo.mp4
-Tío,http://dl.dropbox.com/s/9oe0hixzu49sakh/tio.mp4
-¿Cómo te llamas?,http://dl.dropbox.com/s/8qkxvxinnosl88y/como%20te%20llamas.mp4
-¿En qué trabajas?,http://dl.dropbox.com/s/t3x6h6u8b5rj3my/en%20que%20trabajas.mp4
-¿Lo conoces?,http://dl.dropbox.com/s/um7l1wm82ort5fw/lo%20conoces.mp4
-¿Qué estudias?,	http://dl.dropbox.com/s/mzzbwaf348fjo91/que%20estudias.mp4
-Yo lo conozco,http://dl.dropbox.com/s/ai7hcllyhy92ac5/yo%20lo%20conozco.mp4
+Abuelo,http://dl.dropbox.com/s/6sak7lzpl0ae3vc/abuelo.mp4;http://dl.dropbox.com/s/mjmnxs72344xq82/abuelo.webm
+Adiós,http://dl.dropbox.com/s/rmb50iav0lhjxl5/adios.mp4;http://dl.dropbox.com/s/kkrbwz9wc190vj0/adios.webm
+Amigo,http://dl.dropbox.com/s/vw2x2eem0slwaq8/amigo.mp4;http://dl.dropbox.com/s/ypd1km4oxhd47ao/amigo.webm
+Buenas Noches,http://dl.dropbox.com/s/ajxf6f0ufrpke7d/buenas_noches.mp4;http://dl.dropbox.com/s/sxiy7orsufh1j1l/buenas_noches.webm
+Buenas Tardes,http://dl.dropbox.com/s/m2dwgrbtb49vkkc/buenas_tardes.mp4;http://dl.dropbox.com/s/o5v7byxmns8zyr7/buenas_tardes.webm
+Buenos dias,http://dl.dropbox.com/s/yu2p1qdmr1ajo44/buenos_dias.mp4;http://dl.dropbox.com/s/0xm9jq2ri6cfhlh/buenos_dias.webm
+Colega,http://dl.dropbox.com/s/5qrx7vyjrzlmvlh/colega.mp4;http://dl.dropbox.com/s/9o9j7rgcojrphgr/colega.webm
+¿Cómo te llamas?,http://dl.dropbox.com/s/t4szmwwaw5t6tb3/como_te_llamas.mp4;http://dl.dropbox.com/s/ryitl8vaz0c8ao4/como_te_llamas.webm
+Conocido,http://dl.dropbox.com/s/9ybqyab6qj4pdc4/conocido.mp4;http://dl.dropbox.com/s/wmcv19ajt10l14i/conocido.webm
+Cuñado,http://dl.dropbox.com/s/fojzvg0z31wpwt0/cunyado.mp4;http://dl.dropbox.com/s/814gkhpa0eeu8c4/cunyado.webm
+En que trabajas,http://dl.dropbox.com/s/vb39xykrgfzvle4/en_que_trabajas.mp4;http://dl.dropbox.com/s/chbdvxdggo96fos/en_que_trabajas.webm
+Ex (como prefijo),http://dl.dropbox.com/s/ywbszc611qgnwiu/ex_como_prefijo.mp4;http://dl.dropbox.com/s/z3byeattgn88j26/ex_como_prefijo.webm
+Gemelo,http://dl.dropbox.com/s/htv1dx79rl1ii9y/gemelo.mp4;http://dl.dropbox.com/s/wgvfwepgu8kphgl/gemelo.webm
+Hermano,http://dl.dropbox.com/s/z4iga5wgwhq7ilz/hermano.mp4;http://dl.dropbox.com/s/tnym7ousf7o1cy2/hermano.webm
+Hijo,http://dl.dropbox.com/s/mbn2phl2a82qwaf/hijo.mp4;http://dl.dropbox.com/s/0g5rm9lfhys4end/hijo.webm
+Hola,http://dl.dropbox.com/s/ckojblcwqz3c97k/hola.mp4;http://dl.dropbox.com/s/d5mthq8lkk9lq60/hola.webm
+Jefe,http://dl.dropbox.com/s/ty1hh0sx45yy94h/jefe.mp4;http://dl.dropbox.com/s/3tn5lep9i8ulnne/jefe.webm
+Lo conoces,http://dl.dropbox.com/s/m566242l2xev96n/lo_conoces.mp4;http://dl.dropbox.com/s/tyvvj3gijug6fck/lo_conoces.webm
+Madre,http://dl.dropbox.com/s/ex57wdx8n40vedv/madre.mp4;http://dl.dropbox.com/s/il2ci60nubocy4u/madre.webm
+Nieta,http://dl.dropbox.com/s/rtqsv93c0fjpftj/nieta.mp4;http://dl.dropbox.com/s/xmuy5etunexoxyf/nieta.webm
+Nieto,http://dl.dropbox.com/s/ur4mzuz9ghfx6eo/nieto.mp4;http://dl.dropbox.com/s/gsxfti6nnrezzhc/nieto.webm
+Novio,http://dl.dropbox.com/s/4p0gsxdicynhdqr/novio.mp4;http://dl.dropbox.com/s/dt1uq2k80gn4y3v/novio.webm
+Padre,http://dl.dropbox.com/s/ctxcdp8sttaxtzq/padre.mp4;http://dl.dropbox.com/s/cltuy67bu9rnwih/padre.webm
+Padres,http://dl.dropbox.com/s/rpkakzgrdarp1j5/padres.mp4;http://dl.dropbox.com/s/on1fpyyji7xp4v6/padres.webm
+Pana,http://dl.dropbox.com/s/sh3vo3zib70928l/pana.mp4;http://dl.dropbox.com/s/tdic8b9gpsjh31j/pana.webm
+Primo,http://dl.dropbox.com/s/zenridykif486zs/primo.mp4;http://dl.dropbox.com/s/8qsn636qlp1dula/primo.webm
+Prometido,http://dl.dropbox.com/s/zzo9hubymccw9su/prometido.mp4;http://dl.dropbox.com/s/8cfb2y1t8y2znu5/prometido.webm
+¿Qué estudias?,http://dl.dropbox.com/s/0bafsqctholi3rb/que_estudias.mp4;http://dl.dropbox.com/s/dlpoewdp194mm1n/que_estudias.webm
+Quiero Conocerlo,http://dl.dropbox.com/s/hc4wg760yyvhn55/quiero_conocerlo.mp4;http://dl.dropbox.com/s/5yzsv7xf70xdkw0/quiero_conocerlo.webm
+Sobrino,http://dl.dropbox.com/s/bvwzx29m12790ij/sobrino.mp4;http://dl.dropbox.com/s/agcsvo77z11zgt6/sobrino.webm
+Suegro,http://dl.dropbox.com/s/042uohy2cw63hs4/suegro.mp4;http://dl.dropbox.com/s/h1lybp1002jbdct/suegro.webm
+Te Amo,http://www.dropbox.com/s/vwvl016umvttfw7/te_amo.mp4;http://dl.dropbox.com/s/x24ll60ddu3ag0o/te_amo.webm
+Tío,http://dl.dropbox.com/s/v3xuxbsdxjwi265/tio.mp4;http://dl.dropbox.com/s/x59erozign2qacz/tio.webm
+Yo lo conozco,http://dl.dropbox.com/s/rgsf6x5nhpsl93o/yo_lo_conozco.mp4;http://dl.dropbox.com/s/vuj0tgwl7sy7n6f/yo_lo_conozco.webm
 RESTAURANTE
 35
 Agua,http://dl.dropbox.com/s/7hn7lhxoht8wi9i/agua.mp4
