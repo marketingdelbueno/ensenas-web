@@ -230,29 +230,29 @@ Dia de reyes,http://dl.dropbox.com/s/s5mbnihe6s8fhq0/DIA%20DE%20REYES.mp4;http:/
 Dia del maestro,http://dl.dropbox.com/s/9o7x8gsgoldwrpy/DIA%20DEL%20MAESTRO.mp4;http://dl.dropbox.com/s/9knzh6cly1qghdc/DIA%20DEL%20MAESTRO.webm
 DIRECCIONES
 23
-Apartamento,http://dl.dropbox.com/s/bazd26p6xagm99i/apartamento.mp4;http://dl.dropbox.com/s/7i7ji4htwm28tm0/apartamento.webm
-Autopista,http://dl.dropbox.com/s/aibp5u7xdnakybb/autopista.mp4;http://dl.dropbox.com/s/s9dgaobw5vkszac/autopista.webm
-Avenida,http://dl.dropbox.com/s/d7fzzn6t7oic85l/avenida.mp4;http://dl.dropbox.com/s/08da69saf9m4kr9/avenida.webm
-Barrio,http://dl.dropbox.com/s/u2b0uxtacb8n51x/barrio.mp4;http://dl.dropbox.com/s/2d0200jvz9b8szg/barrio.webm
-Carro por puesto,http://dl.dropbox.com/s/aij2yxovnuex0lp/carro_por_puesto.mp4;http://dl.dropbox.com/s/htqnwzrxavhlkv5/carro_por_puesto.webm
-Casa,http://dl.dropbox.com/s/0h8caughjhzrazd/casa.mp4;http://dl.dropbox.com/s/98pdld8apvz0mkh/casa.webm
-Centro Comercial,http://dl.dropbox.com/s/ahh230cg7bseakx/centro_comercial.mp4;http://dl.dropbox.com/s/eotpzqmjcl3dx6i/centro_comercial.webm
-Cerca,http://dl.dropbox.com/s/4q98gwwatpbsxh6/cerca.mp4;http://dl.dropbox.com/s/iz8fvrg68sbvys5/cerca.webm
-Codigo postal,http://dl.dropbox.com/s/8n9svpc32px47wv/codigo_postal.mp4;http://dl.dropbox.com/s/fgphbza549jq8xk/codigo_postal.webm
-Cuadra,http://dl.dropbox.com/s/h7dtkcn6aeo1vbk/cuadra.mp4;http://dl.dropbox.com/s/bqplwpuzo08odbg/cuadra.webm
-Edificio,http://dl.dropbox.com/s/35femjw9xo17i0j/edificio.mp4;http://dl.dropbox.com/s/bpgvln43mtnzqw2/edificio.webm
-Estación de Metro,http://dl.dropbox.com/s/o2bw2bsre0tlwrd/estacion_de_metro.mp4;http://dl.dropbox.com/s/avbmts285jrvp4d/estacion_de_metro.webm
-Estación de tren,http://dl.dropbox.com/s/x03n2kzroc42e1r/estacion_de_tren.mp4;http://dl.dropbox.com/s/b4hs0sp5ai8zdcq/estacion_de_tren.webm
-Lejos,http://dl.dropbox.com/s/yttubw3nk4ph3ce/lejos.mp4;http://dl.dropbox.com/s/obgyaaoyda51jc5/lejos.webm
-Metro,http://dl.dropbox.com/s/pg5y1u635olmhst/metro.mp4;http://dl.dropbox.com/s/kgl4io6wpp3jvwk/metro.webm
-Metro bus,http://dl.dropbox.com/s/20k50be33fmtotd/metro_bus.mp4;http://dl.dropbox.com/s/6c4labti0c1rdng/metro_bus.webm
-Oficina,http://dl.dropbox.com/s/g6u97pd6vmr61xx/oficina.mp4;http://dl.dropbox.com/s/90wmmlfge9paqkn/oficina.webm
-Parada del bus,http://dl.dropbox.com/s/h57g22buzc4t78m/parada_de_bus.mp4;http://dl.dropbox.com/s/cnvck1x7rr28lrq/parada_de_bus.webm
-Piso,http://dl.dropbox.com/s/laxjqt0wk00k0mq/piso.mp4;http://dl.dropbox.com/s/fjwufxaisbubpei/piso.webm
-Quinta,http://dl.dropbox.com/s/6w4mvam7t0ph2b5/quinta.mp4;http://dl.dropbox.com/s/y29yvyqj4wxi2yc/quinta.webm
-Semaforo,http://dl.dropbox.com/s/wnyzfdsyvbiqekm/semaforo.mp4;http://dl.dropbox.com/s/24dxwmw33ohqj8z/semaforo.webm
-Subida,http://dl.dropbox.com/s/80f5oa6g6h5a8lm/subida.mp4;http://dl.dropbox.com/s/kily4z7fa7e45mf/subida.webm
-Taxi,http://dl.dropbox.com/s/rb2206emrlud58u/taxi.mp4;http://dl.dropbox.com/s/p3on6xmfavesibo/taxi.webm
+Apartamento,http://dl.dropbox.com/s/c6x1ezsmbpxaxbp/apartamento.mp4;http://dl.dropbox.com/s/ahu4925i0o0lvz2/apartamento.webm
+Autopista,http://dl.dropbox.com/s/rgh9x90c1aii009/autopista.mp4;http://dl.dropbox.com/s/kkj0c6x2pisquv2/autopista.webm
+Avenida,http://dl.dropbox.com/s/mp0asf539swbzbq/avenida.mp4;http://dl.dropbox.com/s/3smxedgb90tb160/avenida.webm
+Barrio,http://dl.dropbox.com/s/6dgmfdps91tbmrv/barrio.mp4;http://dl.dropbox.com/s/oiyf7m7ic1ekghc/barrio.webm
+Carro por puesto,http://dl.dropbox.com/s/5a5o60i4nuay298/carro_por_puesto.mp4;http://dl.dropbox.com/s/cfvpekfgvvyyh0d/carro_por_puesto.webm
+Casa,http://dl.dropbox.com/s/7earbr60ikb4ks1/casa.mp4;http://dl.dropbox.com/s/cfd4gfvstl1clr5/casa.webm
+Centro Comercial,http://dl.dropbox.com/s/birakzv4gmde2xy/centro_comercial.mp4;http://dl.dropbox.com/s/oe9g2tvkjeb6r5k/centro_comercial.webm
+Cerca,http://dl.dropbox.com/s/8z0b045cgk7up66/cerca.mp4;http://dl.dropbox.com/s/2b1jutkbh8iiqxc/cerca.webm
+Código postal,http://dl.dropbox.com/s/dopm6gn7g6lzs9n/codigo_postal.mp4;http://dl.dropbox.com/s/439vp2cjx91c97i/codigo_postal.webm
+Cuadra,http://dl.dropbox.com/s/qtwyy57vo7cdmr6/cuadra.mp4;http://dl.dropbox.com/s/aqiskxebbf2x6d3/cuadra.webm
+Edificio,http://dl.dropbox.com/s/hucayhgd6f87jvh/edificio.mp4;http://dl.dropbox.com/s/h7h6q1ldvvv1io9/edificio.webm
+Estación de Metro,http://dl.dropbox.com/s/tisl7pk135reezu/estacion_de_metro.mp4;http://dl.dropbox.com/s/e6ej9ecqc1xr1es/estacion_de_metro.webm
+Estación de tren,http://dl.dropbox.com/s/16ijv9dz6rft679/estacion_de_tren.mp4;http://dl.dropbox.com/s/6snm79t9vgwc9v3/estacion_de_tren.webm
+Lejos,http://dl.dropbox.com/s/k09s0yyfzu9hxec/lejos.mp4;http://dl.dropbox.com/s/jelzgfh5j1onq4e/lejos.webm
+Metro,http://dl.dropbox.com/s/2fk3269s2kwx7ou/metro.mp4;http://dl.dropbox.com/s/sfwac6uzlz2rxso/metro.webm
+Metro bus,http://dl.dropbox.com/s/zxbu89x8ze9rrh5/metro_bus.mp4;http://dl.dropbox.com/s/2vjl66wdnqvqsy5/metro_bus.webm
+Oficina,http://dl.dropbox.com/s/g2vw1v5ufhgqh68/oficina.mp4;http://dl.dropbox.com/s/brnbwntbmzygbnp/oficina.webm
+Parada del bus,http://dl.dropbox.com/s/vofyeqwvt0xpkge/parada_de_bus.mp4;http://dl.dropbox.com/s/rsrwys6gus4oa0j/parada_de_bus.webm
+Piso,http://dl.dropbox.com/s/9uv8tphmklxyteg/piso.mp4;http://dl.dropbox.com/s/km3fkh78wvtca47/piso.webm
+Quinta,http://dl.dropbox.com/s/82f5qgm43c7ukzp/quinta.mp4;http://dl.dropbox.com/s/e949mkwhc51tjkr/quinta.webm
+Semáforo,http://dl.dropbox.com/s/sb2wx5bbzjt70m3/semaforo.mp4;http://dl.dropbox.com/s/tp2q5tcu8rhi17f/semaforo.webm
+Subida,http://dl.dropbox.com/s/lv92f4vslehv2e8/subida.mp4;http://dl.dropbox.com/s/tksj65fnto701vh/subida.webm
+Taxi,http://dl.dropbox.com/s/d17d15dld5jclm3/taxi.mp4;http://dl.dropbox.com/s/28mm325qu6fv3e8/taxi.webm
 DISCAPACIDAD
 37
 Accesibilidad,http://dl.dropbox.com/s/rkm4t1kyhe0q886/accesibilidad.mp4;http://dl.dropbox.com/s/db03ii630ftghj1/accesibilidad.webm
