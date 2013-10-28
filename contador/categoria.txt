@@ -845,44 +845,44 @@ Sal,http://dl.dropbox.com/s/0yoes7fbrmfuusk/sal.mp4;http://dl.dropbox.com/s/zq65
 Termino Medio,http://dl.dropbox.com/s/th5s2j0mzl8qvf5/termino_medio.mp4;http://dl.dropbox.com/s/h5gx006dxde9kco/termino_medio.webm
 SALUD
 38
-Centro Médico,http://dl.dropbox.com/s/xh86rgxddwgu0wf/centro_medico.mp4
-Contagiar,http://dl.dropbox.com/s/7ghfeolad5mfc8s/contagiar.mp4
-Cortado,http://dl.dropbox.com/s/ngeaih4hc9zovw6/cortado.mp4
-Dentista,http://dl.dropbox.com/s/5cmhcdy6oibih2b/dentista.mp4
-Diabético,http://dl.dropbox.com/s/arch6s126pz7e01/diabetico.mp4
-Doctor,http://dl.dropbox.com/s/8qrer63s4mwwjw2/doctor.mp4
-Dolor de Cabeza,http://dl.dropbox.com/s/zkm1vi2uw16hjuv/dolor%20de%20cabeza.mp4
-Dolor de Estómago,http://dl.dropbox.com/s/dfyzy9in63nk4ap/dolor%20de%20estomago.mp4
-Dolor de Garganta,http://dl.dropbox.com/s/8kbzuzlsqfdwdg5/dolor%20de%20garganta.mp4
-Dolor de Muela,http://dl.dropbox.com/s/i9j3hnm53by8iig/dolor%20de%20muela.mp4
-Gripe,http://dl.dropbox.com/s/t05jcvjbaum3bsk/gripe.mp4
-Hematoma,http://dl.dropbox.com/s/xxzzi5vui02hw57/hematoma.mp4
-Herida,http://dl.dropbox.com/s/1sur8vjc1y3iibw/herida.mp4
-Hospital,http://dl.dropbox.com/s/qq019kf4hhhxrtc/hospital.mp4
-Indigestión,http://dl.dropbox.com/s/o25rqex7o23dath/indigestion.mp4
-Infección,http://dl.dropbox.com/s/idcors7lec9lwcg/infeccion.mp4
-Inyección,http://dl.dropbox.com/s/h7j992xwuon1j0d/inyeccion.mp4
-Irritación,http://dl.dropbox.com/s/ei1pmtlvfy0dfkq/irritacion.mp4
-Jarabe,http://dl.dropbox.com/s/xqnulby7c58m20g/jarabe.mp4
-Medicina,http://dl.dropbox.com/s/3snh18jofsa6pk1/medicina.mp4
-Mejorar,http://dl.dropbox.com/s/csfyjfwmw9bhj9s/mejorar.mp4
-Operación,http://dl.dropbox.com/s/61ln9zovhhp9kw1/operacion.mp4
-Antibiótico,http://dl.dropbox.com/s/gn8nbvbyme7fcfw/Proyecto%20Movie%20Geografia.mp4
-Resfriado,http://dl.dropbox.com/s/hdb92n5wccp31l6/resfriado.mp4
-Tos,http://dl.dropbox.com/s/wnfl49maj1p3n00/tos.mp4
-Tranquilizante,http://dl.dropbox.com/s/z3h1kd120bntjbb/tranquilizante.mp4
-Tratamiento,http://dl.dropbox.com/s/uo41m8oz5hlc55b/tratamiento.mp4
-Virus,http://dl.dropbox.com/s/02q1wh7fjj3nbhm/virus.mp4
-Vomitar,http://dl.dropbox.com/s/37m196tomscy0ya/vomitar.mp4
-¿Dónde te Duele?,http://dl.dropbox.com/s/bvsix7m9e22hy5d/donde_te_duele-.mp4
-¿Eres alérgico a algo?,http://dl.dropbox.com/s/ugdcf4m8398ka2h/eres%20alergico%20a%20algo.mp4
-¿Estás herido?,http://dl.dropbox.com/s/ccizr7c54pp70sr/estas_herido.mp4
-¿Qué sientes?,http://dl.dropbox.com/s/rfz0w0pes8gvj2s/que%20sientes.mp4
-¿Quieres ir al hospital?,http://dl.dropbox.com/s/n2odemxde9nshzg/quieres%20ir%20al%20hospital.mp4
-¿Quieres ir al Médico?,http://dl.dropbox.com/s/iz68dqjnud2cnkb/quieres%20ir%20al%20medico.mp4
-¿Quieres que llame a tu doctor?,http://dl.dropbox.com/s/uefq8fxtzmmo95l/quieres%20que%20llame%20a%20tu%20doctor.mp4
-¿Te sientes mejor?,http://dl.dropbox.com/s/akjezs90niomwiq/te%20sientes%20mejor.mp4
-Te vamos a llevar al hospital,http://dl.dropbox.com/s/tm7i8wgcw3rb9hv/te%20vamos%20a%20llevar%20al%20hospital.mp4
+Antibiótico,http://dl.dropbox.com/s/b4a1bmhj924bhxf/antibiotico.mp4;http://dl.dropbox.com/s/v9wy1wxbzvu4eyx/antibiotico.webm
+Centro Médico,http://dl.dropbox.com/s/4gs2hwundfhf9rl/centro_medico.mp4;http://dl.dropbox.com/s/bomb1rb2icz48b7/centro_medico.webm
+Contagiar,http://dl.dropbox.com/s/q0y1jvh1o2srrxk/contagiar.mp4;http://dl.dropbox.com/s/8q4qgg7g6ysshgx/contagiar.webm
+Cortado,http://dl.dropbox.com/s/apkcsw6vecs0dtl/cortado.mp4;http://dl.dropbox.com/s/1l7gr8ngiubvbod/cortado.webm
+Dentista,http://dl.dropbox.com/s/mtnk20q1qqbusji/dentista.mp4;http://dl.dropbox.com/s/mtnk20q1qqbusji/dentista.mp4
+Diabético,http://dl.dropbox.com/s/okjua77j7yo7d1u/diabetico.mp4;http://dl.dropbox.com/s/trj49kxcn0la0sk/diabetico.webm
+Doctor,http://dl.dropbox.com/s/8nzdtr231612dbb/doctor.mp4;http://dl.dropbox.com/s/wvq7txedg8cj7av/doctor.webm
+Dolor de Cabeza,http://dl.dropbox.com/s/gr1o1dk1zc96q3k/dolor_de_cabeza.mp4;http://dl.dropbox.com/s/nuw8dwntate2tas/dolor_de_cabeza.webm
+Dolor de Estómago,http://dl.dropbox.com/s/pt34jusswfwylpy/dolor_de_estomago.mp4;http://dl.dropbox.com/s/9zh9xeueabaziiv/dolor_de_estomago.webm
+Dolor de Garganta,http://dl.dropbox.com/s/ajcae394mb6chyn/dolor_de_garganta.mp4;http://dl.dropbox.com/s/hfpyx4j6ha4qw6k/dolor_de_garganta.webm
+Dolor de Muela,http://dl.dropbox.com/s/n0w0yv53uqrtogx/dolor_de_muela.mp4;http://dl.dropbox.com/s/mo1ywuyydmv5k6r/dolor_de_muela.webm
+Dónde te Duele,http://dl.dropbox.com/s/w5n7y23yq1s2a2i/donde_te_duele.mp4;http://dl.dropbox.com/s/gckbp6rj2b5pcuc/donde_te_duele.webm
+Eres alérgico a algo,http://dl.dropbox.com/s/6yi2xj6u42es81e/eres_alergico_a_algo.mp4;http://dl.dropbox.com/s/4yprhgy3ytb1v2j/eres_alergico_a_algo.webm
+Estas herido,http://dl.dropbox.com/s/tth306a9dom24zu/estas_herido.mp4;http://dl.dropbox.com/s/5izbg5l4k47rbhi/estas_herido.webm
+Gripe,http://dl.dropbox.com/s/ia34e10b2hwqr0z/gripe.mp4;http://dl.dropbox.com/s/c5tdvaxexwjmzyv/gripe.webm
+Hematoma,http://dl.dropbox.com/s/3xindcr92x1jioj/hematoma.mp4;http://dl.dropbox.com/s/ibwa2vk81lz1e5q/hematoma.webm
+Herida,http://dl.dropbox.com/s/zzxf1h8rr66e53t/herida.mp4;http://dl.dropbox.com/s/dltn6yux3tuqdi3/herida.webm
+Hospital,http://dl.dropbox.com/s/tq3ya6mzqf5laqz/hospital.mp4;http://dl.dropbox.com/s/ni5e9a5ikfmvodx/hospital.webm
+Indigestión,http://dl.dropbox.com/s/9vft2zkm3ommqbu/indigestion.mp4;http://dl.dropbox.com/s/3rtdeu9w9w95vxv/indigestion.webm
+Infección,http://dl.dropbox.com/s/kt5t538j4n5qdbx/infeccion.mp4;http://dl.dropbox.com/s/eiw2hr4e4e9watz/infeccion.webm
+Inyección,http://dl.dropbox.com/s/rqd85g0nxdynpk5/inyeccion.mp4;http://dl.dropbox.com/s/xmig6kqjr4c7330/inyeccion.webm
+Irritación,http://dl.dropbox.com/s/098wdfhi2ja55qg/irritacion.mp4;http://dl.dropbox.com/s/0wpcl1i11uhw4cc/irritacion.webm
+Jarabe,http://dl.dropbox.com/s/h5now4dcrq0cd4f/jarabe.mp4;http://dl.dropbox.com/s/y199izi10enskjw/jarabe.webm
+Medicina,http://dl.dropbox.com/s/eiw47eip1ymr8bd/medicina.mp4;http://dl.dropbox.com/s/c35v65i00khty4z/medicina.webm
+Mejorar,http://dl.dropbox.com/s/0rgwo63iwo5sir8/mejorar.mp4;http://dl.dropbox.com/s/nlxd6tp0rykcalx/mejorar.webm
+Operación,http://dl.dropbox.com/s/6px3myozfksldgt/operacion.mp4;http://dl.dropbox.com/s/8zqh8iegeulgdj5/operacion.webm
+¿Qué sientes?,http://dl.dropbox.com/s/1h3x90f6zpir5ut/que_sientes.mp4;http://dl.dropbox.com/s/k2wkixjkgriok8d/que_sientes.webm
+¿Quieres ir al hospital?,http://dl.dropbox.com/s/6kunocqt5dwwc1q/quieres_ir_al_hospital.mp4;http://dl.dropbox.com/s/6kruzk9f5sez2vf/quieres_ir_al_hospital.webm
+¿Quieres ir al Médico?,http://dl.dropbox.com/s/jampaz5iwi7fzi7/quieres_ir_al_medico.mp4;http://dl.dropbox.com/s/s1kldbntzmdam36/quieres_ir_al_medico.webm
+¿Quieres que llame a tu doctor?,http://dl.dropbox.com/s/29gpto7dm32fv6i/quieres_que_llame_a_tu_doctor.mp4;http://dl.dropbox.com/s/6njpda0ku47swy5/quieres_que_llame_a_tu_doctor.webm
+Resfriado,http://dl.dropbox.com/s/l84ve19j5irstfd/resfriado.mp4;http://dl.dropbox.com/s/cjpvvuk0t6gddqq/resfriado.webm
+¿Te sientes mejor?,http://dl.dropbox.com/s/7orq7j1s325z7ts/te_sientes_mejor.mp4;http://dl.dropbox.com/s/u885qzummvzmunn/te_sientes_mejor.webm
+Te vamos a llevar al hospital,http://dl.dropbox.com/s/ouhplh14rlyb3xl/te_vamos_a_llevar_al_hospital.mp4;http://dl.dropbox.com/s/09bo8nlbsns35n2/te_vamos_a_llevar_al_hospital.webm
+Tos,http://dl.dropbox.com/s/iltqgfdnvf0lg4p/tos.mp4;http://dl.dropbox.com/s/zfoj5vmx6d2jtzq/tos.webm
+Tranquilizante,http://dl.dropbox.com/s/bo3nug8tdt8emgt/tranquilizante.mp4;http://dl.dropbox.com/s/37xcdovdqg5jvtl/tranquilizante.webm
+Tratamiento,http://dl.dropbox.com/s/aj8vipndmzi9ggb/tratamiento.mp4;http://dl.dropbox.com/s/6se5ggswwt81yfu/tratamiento.webm
+Virus,http://dl.dropbox.com/s/n6nfzch0155dlcd/virus.mp4;http://dl.dropbox.com/s/syvdbfzndp3p67p/virus.webm
+Vomitar,http://dl.dropbox.com/s/24hex08a4l72hym/vomitar.mp4;http://dl.dropbox.com/s/rvxocoktvct48va/vomitar.webm
 TALENTO NACIONAL
 24
 Cantante,http://dl.dropbox.com/s/jr3jhukpn0ye1ve/CANTANTE.mp4
