@@ -1,2 +1,2 @@
 *.log
-contador/datos/*
+contador/datos/*.txt
