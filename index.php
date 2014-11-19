@@ -65,92 +65,49 @@ if ( isset($_GET['botonBuscar']) ) {
 
         <div class="clear"></div>
 
-      <nav class="menu col-7">
+        <nav class="menu col-7">
+          <ul>
+            <li class="categorias">
+              <a href="catalogo.php" title="Categorias">Categorías</a>
+              <span>Categorías</span>
+            </li>
 
-        <ul>
+            <li class="buscar-az">
+              <a href="book.php" title="Buscar">Buscar A-Z</a>
+              <span>Buscar A-Z</span>
+            </li>
 
-          <li class="categorias">
+            <li class="mas-vistos">
+              <a href="vistos.php" title="Mas vistos">Más vistos</a>
+              <span>Más vistos</span>
+            </li>
 
-            <a href="catalogo.php" title="Categorias">Categorías</a>
+            <li class="informacion">
+              <a href="informacion.html" title="Ayuda e Informacion">Ayuda e Información</a>
+              <span>Ayuda e Información</span>
+            </li>
 
-            <span>Categorías</span>
-
-          </li>
-
-          <li class="buscar-az">
-
-            <a href="book.php" title="Buscar">Buscar A-Z</a>
-
-            <span>Buscar A-Z</span>
-
-          </li>
-
-          <li class="mas-vistos">
-
-            <a href="vistos.php" title="Mas vistos">Más vistos</a>
-
-            <span>Más vistos</span>
-
-          </li>
-
-          <li class="informacion">
-
-            <a href="informacion.html" title="Ayuda e Informacion">Ayuda e Información</a>
-
-            <span>Ayuda e Información</span>
-
-          </li>
-
-          <li class="twitter">
-
-                <a href="http://twitter.com/share?via=progressumit&text=Acabo de descubrir una aplicación de Lengua de Señas Venezolana en &url=http://videodiccionario.net" rel="nofollow" title="Twitter" target="_blank">Apóyanos con un Tweet</a>
-
-                <span>Apóyanos con un Tweet</span>
-
-          </li>
-
-          <li class="facebook">
-
-            <a href="http://www.facebook.com/sharer.php?u=http://www.neoessentia.org/" title="Facebook" target="_blank">Búscanos en Facebook</a>
-
-            <span>Búscanos en Facebook</span>
-
-          </li>
-
-        </ul>
-
-      </nav>
-
-      <div class="clear"></div>
-
-      <section class="banner">
-
-        <div class="txtc">
-
-          <img src="assets/img/banner_progressum.gif" />
-
-        </div>
-
-      </section>
-
-    </div>
-
-  </div>
-
-  <footer class="foot">
-
-    <div class="container">
-
-      <div class="txtc">
-
-        <p>2011 <a href="http://www.neoessentia.org/" target="_blank">Fundación NeoEssentia</a> Construyendo Nuevas Realidades.</p>
-
+            <li class="twitter">
+              <a href="http://twitter.com/share?via=progressumit&text=Acabo de descubrir una aplicación de Lengua de Señas Venezolana en &url=http://videodiccionario.net" rel="nofollow" title="Twitter" target="_blank">Apóyanos con un Tweet</a>
+              <span>Apóyanos con un Tweet</span>
+            </li>
+            <li class="facebook">
+              <a href="http://www.facebook.com/sharer.php?u=http://www.neoessentia.org/" title="Facebook" target="_blank">Búscanos en Facebook</a>
+              <span>Búscanos en Facebook</span>
+            </li>
+          </ul>
+        </nav>
+        <div class="clear"></div>
       </div>
-
     </div>
 
-  </footer>
+    <footer class="foot">
+      <div class="container">
+        <div class="txtc">
+          <p>2011 <a href="http://www.neoessentia.org/" target="_blank">Fundación NeoEssentia</a> Construyendo Nuevas Realidades.</p>
+        </div>
+      </div>
+    </footer>
 
-</body>
-
+  </body>
 </html>
