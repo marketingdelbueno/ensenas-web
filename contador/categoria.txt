@@ -77,128 +77,130 @@ Sincero,http://dl.dropbox.com/s/qj3havayceeanqf/sincero.mp4;http://dl.dropbox.co
 Tímido,http://dl.dropbox.com/s/bx0ummaxhy5c8b5/timido.mp4;http://dl.dropbox.com/s/b8fiv08svpezwig/timido.webm
 Verde,http://www.dropbox.com/s/g1or98aryxxn47a/verde.mp4;http://dl.dropbox.com/s/b7u3dgkma11u623/verde.webm
 ANATOMÍA
-25
-Antebrazo,http://dl.dropbox.com/s/btyrcw7w3rx917b/antebrazo.mp4;http://dl.dropbox.com/s/rtjzkuvqavou78f/antebrazo.webm
-Anular,http://dl.dropbox.com/s/48ms08nho2xzckh/anular.mp4;http://dl.dropbox.com/s/0wxqdbv7tr107sm/anular.webm
-Apendice,http://dl.dropbox.com/s/rnnwrhdptw6qr6i/apendice.mp4;http://dl.dropbox.com/s/ybm0wdvarrhddc7/apendice.webm
-Arterias,http://dl.dropbox.com/s/kk0hnwytsmw2n8c/arterias.mp4;http://dl.dropbox.com/s/ho35w9e7nrxlfpn/arterias.webm
-Barbilla,http://dl.dropbox.com/s/kunp2ov3hwizqhz/barbilla.mp4;http://dl.dropbox.com/s/5jllt8y22wzs4y2/barbilla.webm
-Barriga,http://dl.dropbox.com/s/8gvt8e3rur3wejp/barriga.mp4;http://dl.dropbox.com/s/qhevttu5hqokwhb/barriga.webm
-Boca,http://dl.dropbox.com/s/2l5mkct6y1ag697/boca.mp4;http://dl.dropbox.com/s/ytufz5wk8aqyt01/boca.webm
-Brazo,http://dl.dropbox.com/s/cy8zyr79rfovoly/brazo.mp4;http://dl.dropbox.com/s/o822gfgrvwdb2rc/brazo.webm
-Cabello,http://dl.dropbox.com/s/d3hh5lizgqnlnwn/cabello.mp4;http://dl.dropbox.com/s/qiqc18ta7opkanc/cabello.webm
-Cabeza,http://dl.dropbox.com/s/ymt2scr3m3qsjnc/cabeza.mp4;http://dl.dropbox.com/s/jvss92k5so6slqm/cabeza.webm
-Cara,http://dl.dropbox.com/s/9eur0ldgo5nf22q/cara.mp4;http://dl.dropbox.com/s/43mqplin8e8ce7i/cara.webm
-Cejas,http://dl.dropbox.com/s/lubvaq5za2nrs7m/cejas.mp4;http://dl.dropbox.com/s/h1vsb65540s5t10/cejas.webm
-Cerebro,http://dl.dropbox.com/s/gu2ttvca0jb5pkx/cerebro.mp4;http://dl.dropbox.com/s/0ude9onhusx0kkm/cerebro.webm
-Cintura,http://dl.dropbox.com/s/jmvyo0v9hi8jfy6/cintura.mp4;http://dl.dropbox.com/s/i3bkwnyzdouvnc6/cintura.webm
-Codo,http://dl.dropbox.com/s/95bgm5pma7jdbi9/codo%20si.mp4;http://dl.dropbox.com/s/amwdw17tw6kg1c6/codo%20si.webm
-Cuello,http://dl.dropbox.com/s/7331d1qt18a6ycj/cuello.mp4;http://dl.dropbox.com/s/m9qirfpwdwbxp84/cuello.webm
-Frente,http://dl.dropbox.com/s/fiis7xv2a0z59ue/frente.mp4;http://dl.dropbox.com/s/10i2ary3qz2uylu/frente.webm
-Garganta,http://dl.dropbox.com/s/e2mlhpa1d21s9bo/garganta.mp4;http://dl.dropbox.com/s/5lcgzs0t8i5z6p5/garganta.webm
-Labios,http://dl.dropbox.com/s/qbmoyai5ec2b919/labios.mp4;http://dl.dropbox.com/s/wf6mqvknzpsehvz/labios.webm
-Lengua,http://dl.dropbox.com/s/9t584kv3nvk280b/lengua.mp4;http://dl.dropbox.com/s/c0jg9d94sxb4iwh/lengua.webm
-Nariz,http://dl.dropbox.com/s/ap2x2ssh5sjm3qo/nariz.mp4;http://dl.dropbox.com/s/1ui5s838pfo46m5/nariz.webm
-Ojos,http://dl.dropbox.com/s/rbnhl8tksjtys3r/ojos.mp4;http://dl.dropbox.com/s/4n7356md2y6a8cp/ojos.webm
-Orejas,http://dl.dropbox.com/s/fl6bzd882j9gz0p/orejas.mp4;http://dl.dropbox.com/s/pjuoq368tnvip6r/orejas.webm
-Pelo,http://dl.dropbox.com/s/21ddxzj4zlpfvww/pelo.mp4;http://dl.dropbox.com/s/v821bgjwm7igswq/pelo.webm
-Sien,http://dl.dropbox.com/s/ad17xgrydjcma8a/sien.mp4;http://dl.dropbox.com/s/qubvycz04dw530x/sien.webm
+26
+Antebrazo,http://dl.dropbox.com/s/8l2in73ucovi9l8/antebrazo.mp4,http://dl.dropbox.com/s/lum9q9qaf8pr9ae/antebrazo.webm
+Anular,http://dl.dropbox.com/s/owcpxcrb946a8z3/anular.mp4,http://dl.dropbox.com/s/jfkf0z6c0cpcl37/anular.webm
+Apéndice,http://dl.dropbox.com/s/2xp0s0e4wjd7vwi/apendice.mp4,http://dl.dropbox.com/s/ubqx5ktv7gtllyy/apendice.webm
+Arterias,http://dl.dropbox.com/s/hx1dfrvrhmixlkm/arterias.mp4,http://dl.dropbox.com/s/pkir02c1bji1w7w/arterias.webm
+Articulaciones,http://dl.dropbox.com/s/84edalegigz5m8x/articulaciones.mp4,http://dl.dropbox.com/s/5s7pns2e867jnba/articulaciones.webm
+Barbilla,http://dl.dropbox.com/s/51ajwsu9ovf64qv/barbilla.mp4,http://dl.dropbox.com/s/bd4qjfq5tpgahxw/barbilla.webm
+Barriga,http://dl.dropbox.com/s/2cp6gt8bqzlxva4/barriga.mp4,http://dl.dropbox.com/s/e21sz9hvyusypv3/barriga.webm
+Boca,http://dl.dropbox.com/s/y7aiw2knuz5lkqt/boca.mp4,http://dl.dropbox.com/s/wcxgcgdozt39a4j/boca.webm
+Brazo,http://dl.dropbox.com/s/zouzrd2itwsbjpo/brazo.mp4,http://dl.dropbox.com/s/q6nro631vpvgxm9/brazo.webm
+Cabello,http://dl.dropbox.com/s/xyhj9cqgnjmr3ju/cabello.mp4,http://dl.dropbox.com/s/cztwmuo6lxsr2io/cabello.webm
+Cabeza,http://dl.dropbox.com/s/pkl2mkgd8ylo7bc/cabeza.mp4,http://dl.dropbox.com/s/vwpm2o4rtkf7l3m/cabeza.webm
+Cara,http://dl.dropbox.com/s/1sxw14qu9u16inq/cara.mp4,http://dl.dropbox.com/s/6frfdr0y3rqxzcr/cara.webm
+Cejas,http://dl.dropbox.com/s/fjqwifne439c44f/cejas.mp4,http://dl.dropbox.com/s/r4sz9cw4yrisvgu/cejas.webm
+Cerebro,http://dl.dropbox.com/s/aomg7edcq77x14m/cerebro.mp4,http://dl.dropbox.com/s/ldz8oia49776fjr/cerebro.webm
+Cintura,http://dl.dropbox.com/s/8z7ju0u18whcyly/cintura.mp4,http://dl.dropbox.com/s/dj5mlbile289alq/cintura.webm
+Codo,http://dl.dropbox.com/s/atk9odwxvz6lqn3/codo%20si.mp4,http://dl.dropbox.com/s/ha80ci79m2wjlz9/codo%20si.webm
+Cuello,http://dl.dropbox.com/s/m5cgwa3nmwgpshf/cuello.mp4,http://dl.dropbox.com/s/mxmjyn5t1hcwrqy/cuello.webm
+Frente,http://dl.dropbox.com/s/l3gv2uyel9kvx0a/frente.mp4,http://dl.dropbox.com/s/kqr05f2ef19m0mv/frente.webm
+Garganta,http://dl.dropbox.com/s/ky4vew2r1o613il/garganta.mp4,http://dl.dropbox.com/s/xm2lq2iahopcy93/garganta.webm
+Labios,http://dl.dropbox.com/s/eiy06w7puyavqh7/labios.mp4,http://dl.dropbox.com/s/ceo4rfh26lhckmn/labios.webm
+Lengua,http://dl.dropbox.com/s/6gmd7ottmqidmuc/lengua.mp4,http://dl.dropbox.com/s/hyk6d0rcqkqd0jp/lengua.webm
+Nariz,http://dl.dropbox.com/s/4phbkxvq20luvic/nariz.mp4,http://dl.dropbox.com/s/p6m2x2mgzhyw5gm/nariz.webm
+Ojos,http://dl.dropbox.com/s/f9umraw0ixoag4y/ojos.mp4,http://dl.dropbox.com/s/lq7kcflsy7cx895/ojos.webm
+Orejas,http://dl.dropbox.com/s/ge2j7huvjaonxfk/orejas.mp4,http://dl.dropbox.com/s/bnd2y08bculghik/orejas.webm
+Pelo,http://dl.dropbox.com/s/4g4b6bx6j01mmbp/pelo.mp4,http://dl.dropbox.com/s/5jop2qhzbnj0hcz/pelo.webm
+Sien,http://dl.dropbox.com/s/uadymra0pwxd5ta/sien.mp4,http://dl.dropbox.com/s/tqgi92zuz0iy4o7/sien.webm
 ARTE
 32
-Actor,http://dl.dropbox.com/s/eh19cxrgkfvd59e/Actor.mp4;http://dl.dropbox.com/s/82739u7rpcbukbp/Actor.webm
-Actríz,http://dl.dropbox.com/s/8je4oh0gcbobq8p/Actr%C3%ADz.mp4;http://dl.dropbox.com/s/qkco6fuwl4vuyaw/Actr%C3%ADz.webm
-Actuación,http://dl.dropbox.com/s/952zafl32ia7qww/Actuaci%C3%B3n.mp4;http://dl.dropbox.com/s/0x4xcqjycehmuq7/Actuaci%C3%B3n.webm
-Arquitectura,http://dl.dropbox.com/s/xjpyhc5ggq5s05c/Arquitectura.mp4;http://dl.dropbox.com/s/sii2tulxfz9tea1/Arquitectura.webm
-Arte,http://dl.dropbox.com/s/did69cl1sj5evaw/Arte.mp4;http://dl.dropbox.com/s/2qcqz755tey2aoz/Arte.webm
-Artista,http://dl.dropbox.com/s/eeafvt1v5b5vorl/Artista.mp4;http://dl.dropbox.com/s/4lny7h3jrim6vcd/Artista.webm
-Comedia,http://dl.dropbox.com/s/3fuojgeszz32exm/Comedia.mp4;http://dl.dropbox.com/s/gzn729p635jtxz2/Comedia.webm
-Contemplar,http://dl.dropbox.com/s/xna542epjh3mdnk/Contemplar.mp4;http://dl.dropbox.com/s/n5avgcmkvma8ljo/Contemplar.webm
-Director,http://dl.dropbox.com/s/q1fng4qvn1yqihg/Director.mp4;http://dl.dropbox.com/s/rr833icze0komj4/Director.webm
-Diseño,http://dl.dropbox.com/s/csd1cqen9z3fw98/Dise%C3%B1o.mp4;http://dl.dropbox.com/s/w4s73k8uee2lgo7/Dise%C3%B1o.webm
-Disfrutar,http://dl.dropbox.com/s/nsu1n2x5yjgzanb/Disfrutar.mp4;http://dl.dropbox.com/s/dswypqk2q7a8x4z/Disfrutar.webm
-Escenario,http://dl.dropbox.com/s/r27vg0bivcn7igg/Escenario.mp4;http://dl.dropbox.com/s/xan1lhslzuopy16/Escenario.webm
-Escenas,http://dl.dropbox.com/s/nnjv20cvqgdwr7b/Escenas.mp4;http://dl.dropbox.com/s/mknmd8369vbjsqa/Escenas.webm
-Escritor,http://dl.dropbox.com/s/sy43s5hhx94f191/Escritor.mp4;http://dl.dropbox.com/s/kqhw1bc0n92zj9h/Escritor.webm
-Escultor,http://dl.dropbox.com/s/ulpyjltmwp82usp/Escultor.mp4;http://dl.dropbox.com/s/miym8z7w9x75774/Escultor.webm
-Exposición,http://dl.dropbox.com/s/kie2uwhxpyk7r5w/Exposici%C3%B3n.mp4;http://dl.dropbox.com/s/stkm005ggj7r5io/Exposici%C3%B3n.webm
-Fotografía,http://dl.dropbox.com/s/k7ofwyie9iqm0id/Fotograf%C3%ADa.mp4;http://dl.dropbox.com/s/fvhb2rks47a2h68/Fotograf%C3%ADa.webm
-Galería,http://dl.dropbox.com/s/difux46a5ydrelt/Galer%C3%ADa.mp4;http://dl.dropbox.com/s/om5bmafcrw3kazd/Galer%C3%ADa.webm
-Libro,http://dl.dropbox.com/s/kwdccnu4jzf3y2v/Libro.mp4;http://dl.dropbox.com/s/mp0h28dox2li27v/Libro.webm
-Musa,http://dl.dropbox.com/s/lq8bcv121bkkds1/Musa.mp4;http://dl.dropbox.com/s/bznt0lv8ebi6ksp/Musa.webm
-Museo,http://dl.dropbox.com/s/bt6zbfm0thubpkj/Museo.mp4;http://dl.dropbox.com/s/xuo5xmznp0c6c6p/Museo.webm
-Música,http://dl.dropbox.com/s/hyo0w9gul1z9npw/M%C3%BAsica.mp4;http://dl.dropbox.com/s/kv5nx7pdqb23h2i/M%C3%BAsica.webm
-Película,http://dl.dropbox.com/s/tb1z1q7yulro3pl/Pel%C3%ADcula.mp4;http://dl.dropbox.com/s/38taddbzy03mcky/Pel%C3%ADcula.webm
-Pintor,http://dl.dropbox.com/s/p4tsljsgjynyvg0/Pintor.mp4;http://dl.dropbox.com/s/f7rgcjmthvv9hdj/Pintor.webm
-Pintura,http://dl.dropbox.com/s/23erseyzgxxnrxo/Pintura.mp4;http://dl.dropbox.com/s/bd99lqeuddhdwx3/Pintura.webm
-Poema,http://dl.dropbox.com/s/tqamtk281euvskw/Poema.mp4;http://dl.dropbox.com/s/vs4mbyrq7gf5qlp/Poema.webm
-Público,http://dl.dropbox.com/s/g2m8gbqr3d9mok2/P%C3%BAblico.mp4;http://dl.dropbox.com/s/uyezqlim834qqem/P%C3%BAblico.webm
-Sensibilidad,http://dl.dropbox.com/s/v31b5gaxezwhsq6/Sensibilidad.mp4;http://dl.dropbox.com/s/tvyeab6fphkas16/Sensibilidad.webm
-Teatro,http://dl.dropbox.com/s/6trpv56cxzon83a/Teatro.mp4;http://dl.dropbox.com/s/mi7fy3bilh5nvr7/Teatro.webm
-Tragedia,http://dl.dropbox.com/s/oh3y19yzx1r79hd/Tragedia.mp4;http://dl.dropbox.com/s/if6bb58vb4zycxt/Tragedia.webm
-Tramoya,http://dl.dropbox.com/s/66lckly7fetix28/Tramoya.mp4;http://dl.dropbox.com/s/nv94t6o8vzxftt7/Tramoya.webm
-Utilería,http://dl.dropbox.com/s/qitugy3jd6elr9y/Utiler%C3%ADa.mp4;http://dl.dropbox.com/s/wwmd9uso8tbwmko/Utiler%C3%ADa.webm
+Actor,http://dl.dropbox.com/s/scz74i6sy0sjkde/Actor.mp4,http://dl.dropbox.com/s/o1ww6hbqx1i2wuo/Actor.webm
+Actríz,http://dl.dropbox.com/s/3rf9x1xxzaaz5v5/Actr%C3%ADz.mp4,http://dl.dropbox.com/s/nicvs1oz6bqj8j4/Actr%C3%ADz.webm
+Actuación,http://dl.dropbox.com/s/kp34ytb3stnqkm9/Actuaci%C3%B3n.mp4,http://dl.dropbox.com/s/sw2jsz6stlwx77z/Actuaci%C3%B3n.webm
+Arquitectura,http://dl.dropbox.com/s/c8g201zw88vzq4n/Arquitectura.mp4,http://dl.dropbox.com/s/8y7itng1c07n7r0/Arquitectura.webm
+Arte,http://dl.dropbox.com/s/kg4tz3twplidyxx/Arte.mp4,http://dl.dropbox.com/s/7x8cf4ny7e3kp6h/Arte.webm
+Artista,http://dl.dropbox.com/s/mjkn6mdxp0bn9k8/Artista.mp4,http://dl.dropbox.com/s/uz3gqgjddc5x70j/Artista.webm
+Comedia,http://dl.dropbox.com/s/yre8vumgl6rhcfv/Comedia.mp4,http://dl.dropbox.com/s/7arjuzo3pa3ze6y/Comedia.webm
+Contemplar,http://dl.dropbox.com/s/km6z87nia0dr1te/Contemplar.mp4,http://dl.dropbox.com/s/4dk0sbitvmhqm71/Contemplar.webm
+Director,http://dl.dropbox.com/s/30vw4d2n8bp1l0t/Director.mp4,http://dl.dropbox.com/s/dc1hpohcn34exju/Director.webm
+Diseño,http://dl.dropbox.com/s/6i89oqix3xzuaaz/Dise%C3%B1o.mp4,http://dl.dropbox.com/s/wzi0tcfu7947k3h/Dise%C3%B1o.webm
+Disfrutar,http://dl.dropbox.com/s/hjnm6iisthgtd47/Disfrutar.mp4,http://dl.dropbox.com/s/sods61v80re62a4/Disfrutar.webm
+Escenario,http://dl.dropbox.com/s/dm7grzg5q2d2e0j/Escenario.mp4,http://dl.dropbox.com/s/9s7qsjrksmx16vd/Escenario.webm
+Escenas,http://dl.dropbox.com/s/ekphsh7nztnxend/Escenas.mp4,http://dl.dropbox.com/s/z8iwxt1d90ipbiq/Escenas.webm
+Escritor,http://dl.dropbox.com/s/8qevh25yx6y265p/Escritor.mp4,http://dl.dropbox.com/s/2g13c94rwjzt1jq/Escritor.webm
+Escultor,http://dl.dropbox.com/s/hhqoect730jw47l/Escultor.mp4,http://dl.dropbox.com/s/g0ehwwjzsij9glp/Escultor.webm
+Exposición,http://dl.dropbox.com/s/x3mq9hxmeb8t672/Exposici%C3%B3n.mp4,http://dl.dropbox.com/s/3bm2re8vix2brrc/Exposici%C3%B3n.webm
+Fotografía,http://dl.dropbox.com/s/8ymxd25h4yg0j3i/Fotograf%C3%ADa.mp4,http://dl.dropbox.com/s/p0uuc034dobcrii/Fotograf%C3%ADa.webm
+Galería,http://dl.dropbox.com/s/5719i5j6x0e8t00/Galer%C3%ADa.mp4,http://dl.dropbox.com/s/mqv85zaaqojlfzz/Galer%C3%ADa.webm
+Libro,http://dl.dropbox.com/s/lctro0x62rsmgmt/Libro.mp4,http://dl.dropbox.com/s/i308l70hjhxaf6m/Libro.webm
+Musa,http://dl.dropbox.com/s/p8tea503aifou00/Musa.mp4,http://dl.dropbox.com/s/df5x4wxszrxrxy6/Musa.webm
+Museo,http://dl.dropbox.com/s/smbq1v1eb9zjorl/Museo.mp4,http://dl.dropbox.com/s/edd6hhosik8ljju/Museo.webm
+Música,http://dl.dropbox.com/s/69cgw6x8jnvwfrx/M%C3%BAsica.mp4,http://dl.dropbox.com/s/hg7254ylgsy870b/M%C3%BAsica.webm
+Película,http://dl.dropbox.com/s/738kirdt62x0vnv/Pel%C3%ADcula.mp4,http://dl.dropbox.com/s/4ds2wdhi5xwrv7u/Pel%C3%ADcula.webm
+Pintor,http://dl.dropbox.com/s/fto74ywjnsay7bm/Pintor.mp4,http://dl.dropbox.com/s/gq4ryqqvnncmo83/Pintor.webm
+Pintura,http://dl.dropbox.com/s/hg5wtncqoebn3ay/Pintura.mp4,http://dl.dropbox.com/s/pebdko2q4zgfqt7/Pintura.webm
+Poema,http://dl.dropbox.com/s/ouzb5zn96y0qs22/Poema.mp4,http://dl.dropbox.com/s/hj97t1e9e0vgpkf/Poema.webm
+Público,http://dl.dropbox.com/s/xk7jjgohy7epuuo/P%C3%BAblico.mp4,http://dl.dropbox.com/s/ebyeoqfb8m6wrta/P%C3%BAblico.webm
+Sensibilidad,http://dl.dropbox.com/s/kg1kt1tc84vp28s/Sensibilidad.mp4,http://dl.dropbox.com/s/14yj5wn77zzvpfj/Sensibilidad.webm
+Teatro,http://dl.dropbox.com/s/hgfbbd2u84y3jxi/Teatro.mp4,http://dl.dropbox.com/s/06gi199a9he3tzg/Teatro.webm
+Tragedia,http://dl.dropbox.com/s/ry067zvxmmqb6cx/Tragedia.mp4,http://dl.dropbox.com/s/q8w4jfg8gh1oues/Tragedia.webm
+Tramoya,http://dl.dropbox.com/s/y4u8fb7asfdez7c/Tramoya.mp4,http://dl.dropbox.com/s/7bxx5vz9nr7qx0s/Tramoya.webm
+Utilería,http://dl.dropbox.com/s/x8u40lygzmrh2fa/Utiler%C3%ADa.mp4,http://dl.dropbox.com/s/f3kwadn29mzsxre/Utiler%C3%ADa.webm
 BANCO
 12
-Bolívares,http://dl.dropbox.com/s/nppm3cbvrik82o9/Bol%C3%ADvares.mp4;http://dl.dropbox.com/s/q34sxecyejnra2b/Bol%C3%ADvares.webm
-Cajero Automático,http://dl.dropbox.com/s/mifo9uqycax8vu6/Cajero%20Autom%C3%A1tico.mp4;http://dl.dropbox.com/s/debygijkzjmp4iy/Cajero%20Autom%C3%A1tico.webm
-Cheque,http://dl.dropbox.com/s/lxwodcumdsd3r2s/Cheque.mp4;http://dl.dropbox.com/s/80abo6yhyflla13/Cheque.webm
-Cliente,http://dl.dropbox.com/s/eelovjd9ddpjeke/Cliente.mp4;http://dl.dropbox.com/s/atn5nk29t72h3jf/Cliente.webm
-Control de Cambio,http://dl.dropbox.com/s/18f1trf4xdvxli5/Control%20de%20Cambio.mp4;http://dl.dropbox.com/s/04s72crhurzm60w/Control%20de%20Cambio.webm
-Crédito,http://dl.dropbox.com/s/mzhx1jl0r6pd77s/Cr%C3%A9dito.mp4;http://dl.dropbox.com/s/fa2mrklh051h3e8/Cr%C3%A9dito.webm
-Cuenta Corriente,http://dl.dropbox.com/s/u7ypokvmy669aj4/Cuenta%20Corriente.mp4;http://dl.dropbox.com/s/41qcmlq9ra66qgr/Cuenta%20Corriente.webm
-Cuenta de Ahorros,http://dl.dropbox.com/s/l8v41umbmd4m51y/Cuenta%20de%20Ahorros.mp4;http://dl.dropbox.com/s/axtjnkekeifhkct/Cuenta%20de%20Ahorros.webm
-Cuenta Nómina,http://dl.dropbox.com/s/rew04iugkkkczmy/Cuenta%20N%C3%B3mina.mp4;http://dl.dropbox.com/s/i5kcur34ydq7mqw/Cuenta%20N%C3%B3mina.webm
-Depósito,http://dl.dropbox.com/s/g8p66dlw5at4dm0/Dep%C3%B3sito.mp4;http://dl.dropbox.com/s/nvmpx93n9dz7ven/Dep%C3%B3sito.webm
-Dinero,http://dl.dropbox.com/s/0scux4uazn185vo/Dinero.mp4;http://dl.dropbox.com/s/2ywz09aarsmtghx/Dinero.webm
-Divisa,http://dl.dropbox.com/s/c5qiq5rr0etxg05/Divisa.mp4;http://dl.dropbox.com/s/3ud7vayseksmlmf/Divisa.webm
+Bolívares,http://dl.dropbox.com/s/518u28kchoczel2/Bol%C3%ADvares.mp4;http://dl.dropbox.com/s/uhiwlmvzh3lu3ln/Bol%C3%ADvares.webm
+Cajero Automático,http://dl.dropbox.com/s/a5n12xk8k4hqlbf/Cajero_Autom%C3%A1tico.mp4;http://dl.dropbox.com/s/qf1jrfsipxphl7n/Cajero_Autom%C3%A1tico.webm
+Cheque,http://dl.dropbox.com/s/ain92cvrguyd58a/Cheque.mp4;http://dl.dropbox.com/s/huaoa0r3t5dvjus/Cheque.webm
+Cliente,http://dl.dropbox.com/s/tf7u8fmyhs7a5oh/Cliente.mp4;http://dl.dropbox.com/s/6nr8s3z31rktra5/Cliente.webm
+Control de Cambio,http://dl.dropbox.com/s/wcna4uptfoo83na/Control%20de%20Cambio.mp4;http://dl.dropbox.com/s/iu55mk7dh5jrsz7/Control%20de%20Cambio.webm
+Crédito,http://dl.dropbox.com/s/zmxi914oq9tmq7l/Cr%C3%A9dito.mp4;http://dl.dropbox.com/s/zi1u6146lh8rgzi/Cr%C3%A9dito.webm
+Cuenta Corriente,http://dl.dropbox.com/s/zzsa6ogdft00hfj/Cuenta%20Corriente.mp4;http://dl.dropbox.com/s/7vlhvadoa52xv3n/Cuenta%20Corriente.webm
+Cuenta de Ahorros,http://dl.dropbox.com/s/kl34qp0hp4z3nxy/Cuenta%20de%20Ahorros.mp4;http://dl.dropbox.com/s/n8nmoshckwx1hdp/Cuenta%20de%20Ahorros.webm
+Cuenta Nómina,http://dl.dropbox.com/s/hai12omneepnfo4/Cuenta%20N%C3%B3mina.mp4;http://dl.dropbox.com/s/t6ldox0u5foaeyy/Cuenta%20N%C3%B3mina.webm
+Depósito,http://dl.dropbox.com/s/ftlzg5b2t2opc2e/Dep%C3%B3sito.mp4;http://dl.dropbox.com/s/vryxlwcxpbpsqhs/Dep%C3%B3sito.webm
+Dinero,http://dl.dropbox.com/s/fh9vr7x2w8jqhdd/Dinero.mp4;http://dl.dropbox.com/s/zdc5uku5lhez955/Dinero.webm
+Divisa,http://dl.dropbox.com/s/g3010rctstiks02/Divisa.mp4;http://dl.dropbox.com/s/0p74eiqxubyv03u/Divisa.webm
 COLOQUIAL
 23
-A juro,http://dl.dropbox.com/s/vr13ozd5wphdfsi/a%20juro.mp4;http://dl.dropbox.com/s/6pi4qzaja1e4oj0/a%20juro.webm
-Año de la pera,http://dl.dropbox.com/s/7wrl4p9t65tcmsc/A%C3%B1o%20de%20la%20pera.mp4;http://dl.dropbox.com/s/2hxz3ia1gylebdz/A%C3%B1o%20de%20la%20pera.webm
-Arroz con mango,http://dl.dropbox.com/s/hvru2o6sqf0jlj0/Arroz%20con%20mango.mp4;http://dl.dropbox.com/s/cmbpm3ru3568w4a/Arroz%20con%20mango.webm
-Bajale dos,http://dl.dropbox.com/s/15za1xxfknqcbej/bajale%20dos.mp4;http://dl.dropbox.com/s/qux0k5lc0zg8158/bajale%20dos.webm
-Bajarse de la mula,http://dl.dropbox.com/s/8nnio2p4oh942s2/bajarse%20de%20la%20mula.mp4;http://dl.dropbox.com/s/z3xsqb0zg8hnmrt/bajarse%20de%20la%20mula.webm
-Bala fría,http://dl.dropbox.com/s/y5izi0cqsnwo721/bala%20fria.mp4;http://dl.dropbox.com/s/h2n54dghz9q7zn9/bala%20fria.webm
-Bate quebrado,http://dl.dropbox.com/s/umuik5u3mlxguk1/bate%20quebrao.mp4;http://dl.dropbox.com/s/hrfkbs73b6p9wqc/bate%20quebrao.webm
-Bien resuelto,http://dl.dropbox.com/s/9ip3kffi19gkqjf/bien%20resuelto.mp4;http://dl.dropbox.com/s/ukj4dxyyy3nwb82/bien%20resuelto.webm
-Burda,http://dl.dropbox.com/s/f056njwsvl9pxoh/burda.mp4;http://dl.dropbox.com/s/rbm95dp79ntc510/burda.webm
-Cable pelado,http://dl.dropbox.com/s/ezgsgbjxp3zbw0f/cable%20pelado.mp4;http://dl.dropbox.com/s/7964kdza69tqdrp/cable%20pelado.webm
-Caido de la mata,http://dl.dropbox.com/s/qk3z72pv7n99727/caido%20de%20la%20mata.mp4;http://dl.dropbox.com/s/1e4kxa4ff6i482k/caido%20de%20la%20mata.webm
-Caimanera,http://dl.dropbox.com/s/do89ry6piwnhh1q/caimanera.mp4;http://dl.dropbox.com/s/7tcq7n0eswgo8ov/caimanera.webm
-Caleta,http://dl.dropbox.com/s/kz3q7m23voixxn7/caleta.mp4;http://dl.dropbox.com/s/e50g3ckvpmfuwkg/caleta.webm
-Chimbo,http://dl.dropbox.com/s/nalcocp85lvgb7q/chimbo.mp4;http://dl.dropbox.com/s/3ayr5ayxcggkbu7/chimbo.webm
-Chin chin,http://dl.dropbox.com/s/w5bt9r135ruukc3/chin%20chin.mp4;http://dl.dropbox.com/s/xok0laxwu45ogdq/chin%20chin.webm
-Echar los perros,http://dl.dropbox.com/s/14c2m3jh3aafg9h/echar%20los%20perros.mp4;http://dl.dropbox.com/s/fw6m48509ei34s6/echar%20los%20perros.webm
-Fino,http://dl.dropbox.com/s/tdwhkzn0fhc7yns/fino.mp4;http://dl.dropbox.com/s/xo0kyfwb4jqaeoq/guachiman.webm
-Guachiman,http://dl.dropbox.com/s/xo0kyfwb4jqaeoq/guachiman.webm;http://dl.dropbox.com/s/xo0kyfwb4jqaeoq/guachiman.webm
-Palo de agua,http://dl.dropbox.com/s/5zy0ta5g46gqcq7/palo%20de%20agua.mp4;http://dl.dropbox.com/s/klonbu3y0dyph0t/palo%20de%20agua.webm
-Pana,http://dl.dropbox.com/s/9gjnsy9drul0sez/pana.mp4;http://dl.dropbox.com/s/f248x4cqlapae0y/pana.webm
-Patatus,http://dl.dropbox.com/s/nv5i24q4faeb27o/patatus.mp4;http://dl.dropbox.com/s/2jcdyuyd3nmuina/patatus.webm
-Peroles,http://dl.dropbox.com/s/jj8iodr59qyxthi/peroles.mp4;http://dl.dropbox.com/s/gp551iikpkfu1cf/peroles.webm
-Sifrino,http://dl.dropbox.com/s/m56bqjimuwkcwaj/sifrino.mp4;http://dl.dropbox.com/s/owocln2xg8c69x1/sifrino.webm
+A juro,http://dl.dropbox.com/s/s33kbgy4a3vqggk/a%20juro.mp4,http://dl.dropbox.com/s/6s03jxsoklgmd0n/a%20juro.webm
+Año de la pera,http://dl.dropbox.com/s/ppzd1g1apukhnmm/A%C3%B1o%20de%20la%20pera.mp4,http://dl.dropbox.com/s/en4q4x2ljfzkc9i/A%C3%B1o%20de%20la%20pera.webm
+Arroz con mango,http://dl.dropbox.com/s/sjrkqcyav6ben8z/Arroz%20con%20mango.mp4,http://dl.dropbox.com/s/unqzzougu7zisf5/Arroz%20con%20mango.webm
+Bajale dos,http://dl.dropbox.com/s/s6kf9jc9jryej5p/bajale%20dos.mp4,http://dl.dropbox.com/s/v86o9ritjwmiufm/bajale%20dos.webm
+Bajarse de la mula,http://dl.dropbox.com/s/wnqetua3txy6wr0/bajarse%20de%20la%20mula.mp4,http://dl.dropbox.com/s/w404bvaf47nr576/bajarse%20de%20la%20mula.webm
+Bala fría,http://dl.dropbox.com/s/3pcg9kym89y3xce/bala%20fria.mp4,http://dl.dropbox.com/s/nitkvc7l7wc51ft/bala%20fria.webm
+Bate quebrado,http://dl.dropbox.com/s/gy2we0kpz7fo1py/bate%20quebrao.mp4,http://dl.dropbox.com/s/vk1mbyykp7338d3/bate%20quebrao.webm
+Bien resuelto,http://dl.dropbox.com/s/gt3tx18230oxaxb/bien%20resuelto.mp4,http://dl.dropbox.com/s/aiwrcm7s5kfnx96/bien%20resuelto.webm
+Burda,http://dl.dropbox.com/s/aogz0j2keg7kopz/burda.mp4,http://dl.dropbox.com/s/gap8fzgrqkqsonf/burda.webm
+Cable pelado,http://dl.dropbox.com/s/n4a21fmdsegphph/cable%20pelado.mp4,http://dl.dropbox.com/s/qv9l5pzquh1dtna/cable%20pelado.webm
+Caido de la mata,http://dl.dropbox.com/s/fasp68gbpxzeqg6/caido%20de%20la%20mata.mp4,http://dl.dropbox.com/s/6jgwaz1tuzrvye4/caido%20de%20la%20mata.webm
+Caimanera,http://dl.dropbox.com/s/xjmswhcmineo2ap/caimanera.mp4,http://dl.dropbox.com/s/v51adofucvktvaz/caimanera.webm
+Caleta,http://dl.dropbox.com/s/793nndqz5yqbulf/caleta.mp4,http://dl.dropbox.com/s/rr05xcgalvzi260/caleta.webm
+Chimbo,http://dl.dropbox.com/s/mmm2w9lt0hboxyj/chimbo.mp4,http://dl.dropbox.com/s/aq7oan3l9ayo5ok/chimbo.webm
+Chin Chin,http://dl.dropbox.com/s/n5cn7rlicegjxeu/chin%20chin.mp4,http://dl.dropbox.com/s/4blipwebr3nxhl0/chin%20chin.webm
+Echar los perros,http://dl.dropbox.com/s/bylmuw0z51bwtzh/echar%20los%20perros.mp4,http://dl.dropbox.com/s/0ajxvnb27u6t3bu/echar%20los%20perros.webm
+Fino,http://dl.dropbox.com/s/s3533mk6fbya3g4/fino.mp4,http://dl.dropbox.com/s/ar3y9ekql7lt017/fino.webm
+Guachiman,http://dl.dropbox.com/s/shzrlwwnl7kep0h/guachiman.mp4,http://dl.dropbox.com/s/1m581jkeig79g0d/guachiman.webm
+Palo de agua,http://dl.dropbox.com/s/k2x4j52qb66enwh/palo%20de%20agua.mp4,http://dl.dropbox.com/s/91sprza7kgmya55/palo%20de%20agua.webm
+Pana,http://dl.dropbox.com/s/jhxp5uck53ug1pn/pana.mp4,http://dl.dropbox.com/s/nr6ivx8zambnuy0/pana.webm
+Patatus,http://dl.dropbox.com/s/xx5wf6cx4c7h813/patatus.mp4,http://dl.dropbox.com/s/fwuxfxcaznu1iz0/patatus.webm
+Peroles,http://dl.dropbox.com/s/g5mblgmmphjncjt/peroles.mp4,http://dl.dropbox.com/s/0yksor630pwqti0/peroles.webm
+Sifrino,http://dl.dropbox.com/s/i9x10iopn60w11r/sifrino.mp4,http://dl.dropbox.com/s/of6kml3cvv1i9sm/sifrino.webm
 DANZA
-21
-Bailar,http://dl.dropbox.com/s/aes72ilvlexgvk4/Bailar.mp4;http://dl.dropbox.com/s/9wqkk3fjcx7l2ne/Bailar.webm
-Bailarin,http://dl.dropbox.com/s/96oi65rn6dwbpak/Bailarin.mp4;http://dl.dropbox.com/s/zzwt4v354g8dgrw/Bailarin.webm
-Ballet,http://dl.dropbox.com/s/enkd0b39gfjf5hw/ballet.mp4http://dl.dropbox.com/s/rb00ikn8ptk5s1x/ballet.webm
-Danza,http://dl.dropbox.com/s/g3k5t9aa3yd6yzj/danza.mp4;http://dl.dropbox.com/s/6bznugvde7iejbv/danza.webm
-Flamenco,http://dl.dropbox.com/s/g3wkerqurk68pe0/flamenco.mp4;http://dl.dropbox.com/s/jnw34clmxs6nhyq/flamenco.webm
-Girar,http://dl.dropbox.com/s/y8r97p595g5ys17/girar.mp4;http://dl.dropbox.com/s/87xeg0uuwrncfrn/girar.webm
-Joropo,http://dl.dropbox.com/s/rzfws6gudpy2f5b/joropo.mp4;http://dl.dropbox.com/s/pw5p1d7qxzveohk/joropo.webm
-Mambo,http://dl.dropbox.com/s/eduinfq5xs6v235/mambo.mp4;http://dl.dropbox.com/s/fg8p21jciufrgjs/mambo.webm
-Merengue,http://dl.dropbox.com/s/tr9u8z7cl2os2nu/merengue.mp4;http://dl.dropbox.com/s/1b7ifrv1zq4xtk7/merengue.webm
-Musica,http://dl.dropbox.com/s/w5jiz2nqk4i0yxn/musica.mp4;http://dl.dropbox.com/s/tiv40cougon59os/musica.webm
-Pareja de baile,http://dl.dropbox.com/s/jybw1w22rg21j15/pareja%20de%20baile.mp4;http://dl.dropbox.com/s/wpsj35ilxxvxwm5/pareja%20de%20baile.webm
-Pasos,http://dl.dropbox.com/s/l06lgz61zk2w52e/pasos.mp4;http://dl.dropbox.com/s/3vk8wvw5ve2liuv/pasos.webm
-Pista de baile,http://dl.dropbox.com/s/6ct8ki4rr9ff8c4/pista%20de%20baile.mp4;http://dl.dropbox.com/s/flgth7pml46cmgr/pista%20de%20baile.webm
-Ritmo,http://dl.dropbox.com/s/aclsgogotj9nlfp/ritmo.mp4;http://dl.dropbox.com/s/1t4p34ooy6gfmq9/ritmo.webm
-Rock and roll,http://dl.dropbox.com/s/pdylxc50s1wsc3w/rock%20and%20roll.mp4;http://dl.dropbox.com/s/5vl1mlwgd9c7vca/rock%20and%20roll.webm
-Rumba española,http://dl.dropbox.com/s/jg8jq2spdploch7/rumba%20espa%C3%B1ola.mp4;http://dl.dropbox.com/s/08omg8nlg81dqlc/rumba%20espa%C3%B1ola.webm
-Salsa,http://dl.dropbox.com/s/zz1o94ahtoqwm26/salsa.mp4;http://dl.dropbox.com/s/rylx851kf9rkbqa/salsa.webm
-Samba,http://dl.dropbox.com/s/qxypyvh115jd127/samba.mp4;http://dl.dropbox.com/s/g80vm1t5d31f2bm/samba.webm
-Tango,http://dl.dropbox.com/s/caduiivg1460gkv/tango.mp4;http://dl.dropbox.com/s/4vj3peopizz1lxb/tango.webm
-Vuelta,http://dl.dropbox.com/s/30ahu9bxoi22sdy/vuelta.mp4;http://dl.dropbox.com/s/hksyhl42gqytib0/vuelta.webm
-Zapatillas,http://dl.dropbox.com/s/8czm6x5ysjijllh/zapatillas.mp4;http://dl.dropbox.com/s/rmulrhjv4lr2ero/zapatillas.webm
+22
+Bailar,http://dl.dropbox.com/s/10kpk46iius6t7t/Bailar.mp4,http://dl.dropbox.com/s/ef9cp6g2nsj1w36/Bailar.webm
+Bailarin,http://dl.dropbox.com/s/xgiazii1dotohnu/Bailarin.mp4,http://dl.dropbox.com/s/t5b7b57pnsreupv/Bailarin.webm
+Ballet,http://dl.dropbox.com/s/bzjqjkmb8ncz9ko/ballet.mp4,http://dl.dropbox.com/s/o0giznau53r6tp3/ballet.webm
+Danza Arabe,http://dl.dropbox.com/s/w6sofhacsd2qbsd/danza%20arabe.webm,http://dl.dropbox.com/s/w6sofhacsd2qbsd/danza%20arabe.webm
+Danza,http://dl.dropbox.com/s/aqccpwgmy7flluh/danza.mp4,http://dl.dropbox.com/s/rliru7migwvhe5o/danza.webm
+Flamenco,http://dl.dropbox.com/s/fdym6cbgnl6yr2a/flamenco.mp4,http://dl.dropbox.com/s/1aqln01ep6l9bda/flamenco.webm
+Girar,http://dl.dropbox.com/s/g1bwf1a8vxk47dc/girar.mp4,http://dl.dropbox.com/s/b9jmghny6mrl1pj/girar.webm
+Joropo,http://dl.dropbox.com/s/cvvrdszwblqytm9/joropo.mp4,http://dl.dropbox.com/s/axa817y43pxy2yl/joropo.webm
+Mambo,http://dl.dropbox.com/s/lssyu1ilbfafet9/mambo.mp4,http://dl.dropbox.com/s/8z2c0m2unvb3r4n/mambo.webm
+Merengue,http://dl.dropbox.com/s/rskijnblv7crsd3/merengue.mp4,http://dl.dropbox.com/s/y619qu5x655w2m0/merengue.webm
+Musica,http://dl.dropbox.com/s/tjujt9n5jl9t2o1/musica.mp4,http://dl.dropbox.com/s/aclsmhosb8didf9/musica.webm
+Pareja de baile,http://dl.dropbox.com/s/9vu95nf3z20ri73/pareja%20de%20baile.mp4,http://dl.dropbox.com/s/dhozwsxav66huhu/pareja%20de%20baile.webm
+Pasos,http://dl.dropbox.com/s/in9nr3lyll8weq4/pasos.mp4,http://dl.dropbox.com/s/sdoijq5p2l4jjae/pasos.webm
+Pista de baile,http://dl.dropbox.com/s/a7sj1podetgvnrv/pista%20de%20baile.mp4,http://dl.dropbox.com/s/94je683r1pv0gj8/pista%20de%20baile.webm
+Ritmo,http://dl.dropbox.com/s/mxws1q69ul1rd06/ritmo.mp4,http://dl.dropbox.com/s/tkp2yj47kb3a0e4/ritmo.webm
+Rock and roll,http://dl.dropbox.com/s/lzmbvnjxdgap23d/rock%20and%20roll.mp4,http://dl.dropbox.com/s/ytfopdtoyg6g9in/rock%20and%20roll.webm
+Rumba española,http://dl.dropbox.com/s/s87255cah8m1x5k/rumba%20espa%C3%B1ola.mp4,http://dl.dropbox.com/s/io8s3o1n47hd1yn/rumba%20espa%C3%B1ola.webm
+Salsa,http://dl.dropbox.com/s/da9h2zq8rq9njna/salsa.mp4,http://dl.dropbox.com/s/bpiawai75x6qmw6/salsa.webm
+Samba,http://dl.dropbox.com/s/b2oprn9c714pkfz/samba.mp4,http://dl.dropbox.com/s/b2oprn9c714pkfz/samba.mp4
+Tango,http://dl.dropbox.com/s/ar0yhkl8pd3oewx/tango.mp4,http://dl.dropbox.com/s/7v85u1awck5p3as/tango.webm
+Vuelta,http://dl.dropbox.com/s/0fjikrgz0eg6343/vuelta.mp4,http://dl.dropbox.com/s/hnm8p61lua2y0ga/vuelta.webm
+Zapatillas,http://dl.dropbox.com/s/xd2mc76yhq9jl9c/zapatillas.mp4,http://dl.dropbox.com/s/g7d43u47mrqbykd/zapatillas.webm
 DÍAS MESES Y FERIADOS
 27
 Dias de la semana,http://dl.dropbox.com/s/l777krmf12aes26/DIAS%20DE%20LA%20SEMANA.mp4;http://dl.dropbox.com/s/n1ppgvtpnequlrs/DIAS%20DE%20LA%20SEMANA.webm
@@ -254,374 +256,382 @@ Semáforo,http://dl.dropbox.com/s/sb2wx5bbzjt70m3/semaforo.mp4;http://dl.dropbox.
 Subida,http://dl.dropbox.com/s/lv92f4vslehv2e8/subida.mp4;http://dl.dropbox.com/s/tksj65fnto701vh/subida.webm
 Taxi,http://dl.dropbox.com/s/d17d15dld5jclm3/taxi.mp4;http://dl.dropbox.com/s/28mm325qu6fv3e8/taxi.webm
 DISCAPACIDAD
-37
-Accesibilidad,http://dl.dropbox.com/s/rkm4t1kyhe0q886/accesibilidad.mp4;http://dl.dropbox.com/s/db03ii630ftghj1/accesibilidad.webm
-Adquirido,http://dl.dropbox.com/s/gb2d495ijqj8yc5/adquirido.mp4;http://dl.dropbox.com/s/djlp0juieo1qosa/adquirido.webm
-Amputación,http://dl.dropbox.com/s/75apmalxw9ykp83/amputaci%C3%B3n.mp4;http://dl.dropbox.com/s/bi1kynii86tnyd8/amputaci%C3%B3n.webm
-Animal de asistencia,http://dl.dropbox.com/s/8tv3y0b4d9k3tzr/animal%20de%20asistencia.mp4;http://dl.dropbox.com/s/bylj30dlytr3hjh/animal%20de%20asistencia.webm
-Ayudas opticas,http://dl.dropbox.com/s/3f0coa6lvpi2omm/ayudas%20opticas.mp4;http://dl.dropbox.com/s/kra3echmky1b1d5/ayudas%20opticas.webm
-Baston de apoyo,http://dl.dropbox.com/s/vwlytdgqldshfr5/baston%20de%20apoyo.mp4;http://dl.dropbox.com/s/gavq5jpiwube9g5/baston%20de%20apoyo.webm
-Baston de rastreo,http://dl.dropbox.com/s/rdb59xzp00w3leu/baston%20de%20rastreo.mp4;http://dl.dropbox.com/s/g430tq4i2uhzoqt/baston%20de%20rastreo.webm
-Braile,http://dl.dropbox.com/s/cl0vxle3ci48143/braile.mp4;http://dl.dropbox.com/s/bpex4da8thjc1n6/braile.webm
-Calificación,http://dl.dropbox.com/s/umptwuabmx06221/calificaci%C3%B3n.mp4;http://dl.dropbox.com/s/kmuucznruzaptte/calificaci%C3%B3n.webm
-Ciego,http://dl.dropbox.com/s/osolmvtjgatars7/ciego.mp4;http://dl.dropbox.com/s/1z05tzo5hz8cfhm/ciego.webm
-Conapdis,http://dl.dropbox.com/s/bbtcogi2v6li0wt/conapdis.mp4;http://dl.dropbox.com/s/2fbch3edsmwe4cj/conapdis.webm
-Congénito,http://dl.dropbox.com/s/g57st9fz92r9jxr/cong%C3%A9nito.mp4;http://dl.dropbox.com/s/4zzu1d2jyro37aj/cong%C3%A9nito.webm
-Discapacidad combinada,http://dl.dropbox.com/s/tmexo9y2q80ys4u/discapacidad%20combinada.mp4;http://dl.dropbox.com/s/h4u4xvsynaxa3df/discapacidad%20combinada.webm
-Discapacidad intelectual,http://dl.dropbox.com/s/1210a0ckt6roqci/discapacidad%20intelectual.mp4;http://dl.dropbox.com/s/t16whgs57q5hxmt/discapacidad%20intelectual.webm
-Discapacidad motora,http://dl.dropbox.com/s/4uklt80ni1en7ff/discapacidad%20motora.mp4;http://dl.dropbox.com/s/dgvjrhm2avwp5x0/discapacidad%20motora.webm
-Discapacidad Social,http://dl.dropbox.com/s/dgjm0ja9n1nmi1e/discapacidad%20social.mp4http://dl.dropbox.com/s/bkm5l8c4b2q0e7h/discapacidad%20social.webm
-Discapacidad visual,http://dl.dropbox.com/s/pj5awz32olwrbkh/discapacidad%20visual.mp4;http://dl.dropbox.com/s/vhzplpl0ahfi2jc/discapacidad%20visual.webm
-Discapacidad Auditiva,http://dl.dropbox.com/s/7c5c9330v025e1c/discpacidad%20auditiva.mp4;http://dl.dropbox.com/s/sa9qdlan2vts1lo/discpacidad%20auditiva.webm
-Discriminación,http://dl.dropbox.com/s/27wltr1400idc1n/discriminaci%C3%B3n.mp4;http://dl.dropbox.com/s/x80jyuimu32wx0l/discriminaci%C3%B3n.webm
-Implante Coclear,http://dl.dropbox.com/s/r276ff425o9u8cm/implante%20coclear.mp4;http://dl.dropbox.com/s/yg6qspi34cjzvaj/implante%20coclear.webm
-Inclusión,http://dl.dropbox.com/s/q8rq4qy918i7qk4/inclusi%C3%B3n%20.mp4;http://dl.dropbox.com/s/luylrkkfnl5is3u/inclusi%C3%B3n%20.webm
-Integración,http://dl.dropbox.com/s/tc96u7rgigjpjb7/integraci%C3%B3n.mp4;http://dl.dropbox.com/s/8ba6xp5x039ey9j/integraci%C3%B3n.webm
-Intérprete,http://dl.dropbox.com/s/16yzfwa9iwsllxo/int%C3%A9rprete.mp4;http://dl.dropbox.com/s/plzzoia9cg09do8/int%C3%A9rprete.webm
-Lengua de Señas Venezolana,http://dl.dropbox.com/s/6ziyy8mfoa318h9/lengua%20de%20se%C3%B1as%20venezolana.mp4
-Ley para personas con discapacidad,http://dl.dropbox.com/s/b72vgvrgpypyk9m/ley%20para%20personas%20con%20discapacidad.mp4
-Muletas,http://dl.dropbox.com/s/w87uhnkh7a4bl0s/muletas.mp4;http://dl.dropbox.com/s/ydqjw3b6rxy7vyx/muletas.webm
-Oportunidades,http://dl.dropbox.com/s/6nsph65opyteeft/oportunidades.mp4;http://dl.dropbox.com/s/ptlca7nwuosx6vt/oportunidades.webm
-Paraplejico,http://dl.dropbox.com/s/8x3rn4lf0z7quvh/parapeljico.mp4;http://dl.dropbox.com/s/zsndfxlrqwmthrj/parapeljico.webm
-Prevención,http://dl.dropbox.com/s/z54d2ccr44dow07/prevenci%C3%B3n.mp4;http://dl.dropbox.com/s/tpus1hqoj81aemv/prevenci%C3%B3n.webm
-Prótesis,http://dl.dropbox.com/s/i1nfwsuvemoxyyr/pr%C3%B3tesis.mp4;http://dl.dropbox.com/s/ox1beqfbuyd9etl/pr%C3%B3tesis.webm
-Rampa de acceso,http://dl.dropbox.com/s/stmvtsvu7o4q0np/rampa%20de%20acceso.mp4;http://dl.dropbox.com/s/bq0pwbgaflzj3qc/rampa%20de%20acceso.webm
-Rehabilitación,http://dl.dropbox.com/s/1r3694o397vqj1a/rehabilitaci%C3%B3n.mp4;http://dl.dropbox.com/s/a6ztr53b5n1j4y2/rehabilitaci%C3%B3n.webm
-Seguridad Laboral,http://dl.dropbox.com/s/nk6bgmi3t83hfu7/seguridad%20laboral.mp4;http://dl.dropbox.com/s/987ccyplili732r/seguridad%20laboral.webm
-Silla de Ruedas,http://dl.dropbox.com/s/1w58u9b6uxjmyaw/silla%20de%20ruedas.mp4;http://dl.dropbox.com/s/gki9kyjyh5rk1ts/silla%20de%20ruedas.webm
-Sordo,http://dl.dropbox.com/s/isn264wvst718my/sordo.mp4;http://dl.dropbox.com/s/53k3b5arjui8pkz/sordo.webm
-Sordociego,http://dl.dropbox.com/s/lgw6sqywbpe9f7z/sordociego.mp4;http://dl.dropbox.com/s/z3ypfykwcdp1lgk/sordociego.webm
-Subtítulos,http://dl.dropbox.com/s/d8un2xbtxqw3vv9/subt%C3%ADtulos.mp4;http://dl.dropbox.com/s/ovwvcs4ysd1hdk1/subt%C3%ADtulos.webm
+38
+Accesibilidad,http://dl.dropbox.com/s/qq753r1p3qneadh/accesibilidad.mp4,http://dl.dropbox.com/s/5oqs2rvm8nokmgt/accesibilidad.webm
+Adquirido,http://dl.dropbox.com/s/d38ydf923zxx4mn/adquirido.mp4,http://dl.dropbox.com/s/qz8res8y39ze2ux/adquirido.webm
+Amputación,http://dl.dropbox.com/s/0dorm22berznkey/amputaci%C3%B3n.mp4,http://dl.dropbox.com/s/g82qz15eurj7aes/amputaci%C3%B3n.webm
+Animal de asistencia,http://dl.dropbox.com/s/t4vo9wjs0wzdlqa/animal%20de%20asistencia.mp4,http://dl.dropbox.com/s/drebj5bghxqrr18/animal%20de%20asistencia.webm
+Ayudas opticas,http://dl.dropbox.com/s/drebj5bghxqrr18/animal%20de%20asistencia.webm,http://dl.dropbox.com/s/drebj5bghxqrr18/animal%20de%20asistencia.webm
+Barreras,http://dl.dropbox.com/s/1f20izlsvxhiz80/barreras.mp4,http://dl.dropbox.com/s/y9d3k0jtwhp1qm0/barreras.webm
+Baston de apoyo,http://dl.dropbox.com/s/wa3245aejs72rsz/baston%20de%20apoyo.mp4,http://dl.dropbox.com/s/2drj1bv7qtp2yfd/baston%20de%20apoyo.webm
+Baston de rastreo,http://dl.dropbox.com/s/2r4mmrrv9ysw1b9/baston%20de%20rastreo.mp4,http://dl.dropbox.com/s/g0t9klx1qr5etzm/baston%20de%20rastreo.webm
+Braile,http://dl.dropbox.com/s/1vmizsjt6wk1y6l/braile.mp4,http://dl.dropbox.com/s/76uauh4z042y3yl/braile.webm
+Calificación,http://dl.dropbox.com/s/l3nkdna4y80ph52/calificaci%C3%B3n.mp4,http://dl.dropbox.com/s/jc72rwwec8fdfxe/calificaci%C3%B3n.webm
+Ciego,http://dl.dropbox.com/s/ub4q8ytd4xz6c0u/ciego.mp4,http://dl.dropbox.com/s/psud9vn6soxhy97/ciego.webm
+Conapdis,http://dl.dropbox.com/s/mr1vrij72a4f9zx/conapdis.mp4,http://dl.dropbox.com/s/4abuez3qqe4vsti/conapdis.webm
+Congénito,http://dl.dropbox.com/s/vp7eem6ypzg23cb/cong%C3%A9nito.mp4,http://dl.dropbox.com/s/c2ia633f6qmth4c/cong%C3%A9nito.webm
+Discapacidad combinada,http://dl.dropbox.com/s/9u2wptgia8onm2j/discapacidad%20combinada.mp4,http://dl.dropbox.com/s/n6tqhspwcli6o4c/discapacidad%20combinada.webm
+Discapacidad intelectual,http://dl.dropbox.com/s/ue0klenpwpoprz9/discapacidad%20intelectual.mp4,http://dl.dropbox.com/s/41lt6sx6cwcgam2/discapacidad%20intelectual.webm
+Discapacidad motora,http://dl.dropbox.com/s/5wz88ibpyb5qp21/discapacidad%20motora.mp4,http://dl.dropbox.com/s/y3ot5pb9b2ozar1/discapacidad%20motora.webm
+Discapacidad Social,http://dl.dropbox.com/s/e6680l2k76n018c/discapacidad%20social.mp4,http://dl.dropbox.com/s/xnvtsjxcz6p1dyc/discapacidad%20social.webm
+Discapacidad visual,http://dl.dropbox.com/s/5zry3r6d6t3rx03/discapacidad%20visual.mp4,http://dl.dropbox.com/s/6pi11tzu57fs0xp/discapacidad%20visual.webm
+Discapacidad Auditiva,http://dl.dropbox.com/s/7wazj809h1s4o3a/discpacidad%20auditiva.mp4,http://dl.dropbox.com/s/gs61d1mews5i0rp/discpacidad%20auditiva.webm
+Discriminación,http://dl.dropbox.com/s/d9ct1hm8yzh5cvw/discriminaci%C3%B3n.mp4,http://dl.dropbox.com/s/5pl1c7jg0l5mv6b/discriminaci%C3%B3n.webm
+Implante Coclear,http://dl.dropbox.com/s/lezoexfmy0clwvl/implante%20coclear.mp4,http://dl.dropbox.com/s/aw6dl7owy7whtjc/implante%20coclear.webm
+Inclusión,http://dl.dropbox.com/s/e2rachj77ywlndq/inclusi%C3%B3n%20.mp4,http://dl.dropbox.com/s/1tplbvnj7il64v3/inclusi%C3%B3n%20.webm
+Integración,http://dl.dropbox.com/s/q40cnl9ymdll2jh/integraci%C3%B3n.mp4,http://dl.dropbox.com/s/f1q2tw72lma0rji/integraci%C3%B3n.webm
+Intérprete,http://dl.dropbox.com/s/6r2zz6xdjjn77pb/int%C3%A9rprete.mp4,http://dl.dropbox.com/s/a3clbx7aj6yb2hw/int%C3%A9rprete.webm
+Lengua de Señas Venezolana,http://dl.dropbox.com/s/ypuprvh2ho6nlg6/lengua%20de%20se%C3%B1as%20venezolana.mp4,http://dl.dropbox.com/s/e8anhetzr6qgh4t/lengua%20de%20se%C3%B1as%20venezolana.webm
+Ley para personas con discapacidad,http://dl.dropbox.com/s/hyuxl8k4l0m5gen/ley%20para%20personas%20con%20discapacidad.mp4,http://dl.dropbox.com/s/mhmg189imanbeud/ley%20para%20personas%20con%20discapacidad.webm
+Muletas,http://dl.dropbox.com/s/9j6i31fsmok7omi/muletas.mp4,http://dl.dropbox.com/s/09i7yc6vmxcnms9/muletas.webm
+Oportunidades,http://dl.dropbox.com/s/ldeis8estt7gk99/oportunidades.mp4,http://dl.dropbox.com/s/vsra97az34p428e/oportunidades.webm
+Paraplejico,http://dl.dropbox.com/s/k31z4sy1rfxcfmc/parapeljico.mp4,http://dl.dropbox.com/s/awttp09gpghglyw/parapeljico.webm
+Prevención,http://dl.dropbox.com/s/bcub7mvr4co0ofp/prevenci%C3%B3n.mp4,http://dl.dropbox.com/s/mdipz7svg2xx0tg/prevenci%C3%B3n.webm
+Prótesis,http://dl.dropbox.com/s/b0hlp76e6ypddft/pr%C3%B3tesis.mp4,http://dl.dropbox.com/s/dc5ovaxqqxpu6zy/pr%C3%B3tesis.webm
+Rampa de acceso,http://dl.dropbox.com/s/tdgj13h1nymh323/rampa%20de%20acceso.mp4,http://dl.dropbox.com/s/qs1nezdmkud1jnq/rampa%20de%20acceso.webm
+Rehabilitación,http://dl.dropbox.com/s/s91ye48g3odv57c/rehabilitaci%C3%B3n.mp4,http://dl.dropbox.com/s/al0ktot6naar87e/rehabilitaci%C3%B3n.webm
+Seguridad Laboral,http://dl.dropbox.com/s/edwqkodzmpeymeo/seguridad%20laboral.mp4,http://dl.dropbox.com/s/by5pk6ldcmmc02k/seguridad%20laboral.webm
+Silla de Ruedas,http://dl.dropbox.com/s/39w0i1lhfoka026/silla%20de%20ruedas.mp4,http://dl.dropbox.com/s/py37uy6qov70nlo/silla%20de%20ruedas.webm
+Sordo,http://dl.dropbox.com/s/egubav242lee4ab/sordo.mp4,http://dl.dropbox.com/s/y5bc5gu4gtmmvbj/sordo.webm
+Sordociego,http://dl.dropbox.com/s/entdubhoxu46nmz/sordociego.mp4,http://dl.dropbox.com/s/qmvcfelri4d8uof/sordociego.webm
+Subtítulos,http://dl.dropbox.com/s/sbl52aj9hy0sddr/subt%C3%ADtulos.mp4,http://dl.dropbox.com/s/usldn5a3v22kzlm/subt%C3%ADtulos.webm
 ECOLOGÍA
-41
-Ahorro Energetico,http://dl.dropbox.com/s/md9w1wkutcseply/AHORRO%20ENERGETICO.mp4;http://dl.dropbox.com/s/69bewrb15jnr3at/AHORRO%20ENERGETICO.webm
-Animales,http://dl.dropbox.com/s/ntvv6jcgxy6lumk/ANIMALES.mp4;http://dl.dropbox.com/s/9yhm5zo4ozzn18j/ANIMALES.webm
-Arbol,http://dl.dropbox.com/s/dqjs62zvyoqwopo/ARBOL.mp4;http://dl.dropbox.com/s/e23mnjvdyfahqpw/ARBOL.webm
-Basura,http://dl.dropbox.com/s/zts8is0mz0i9eto/BASURA.mp4;http://dl.dropbox.com/s/vpatcxousq2ccup/BASURA.webm
-Biodegradable,http://dl.dropbox.com/s/lngxhf8przdj5pk/BIODEGRADABLE.mp4;http://dl.dropbox.com/s/drr8gpkfsdyxj3r/BIODEGRADABLE.webm
-Biodisel,http://dl.dropbox.com/s/lutj4ql3ahs52jx/BIODISEL.mp4;http://dl.dropbox.com/s/g6noo5teh9q8593/BIODISEL.webm
-Bosques,http://dl.dropbox.com/s/3pyobeuyv4klm28/BOSQUES.mp4;http://dl.dropbox.com/s/dkkg9h6xw6tyl98/BOSQUES.webm
-Calentamiento Global,http://dl.dropbox.com/s/ajggf83iwo4soev/CALENTAMIENTO%20GLOBAL.mp4;http://dl.dropbox.com/s/u89l2ks68tbmmjp/CALENTAMIENTO%20GLOBAL.webm
-CO2,http://dl.dropbox.com/s/j7tamqzctxk1xjg/CO2.mp4;http://dl.dropbox.com/s/mmosjixjdj3fdb7/CO2.webm
-Conservar,http://dl.dropbox.com/s/5mvj37rl22bufho/CONSERVAR.mp4;http://dl.dropbox.com/s/nhuhdfbf42cee21/CONSERVAR.webm
-Consumo,http://dl.dropbox.com/s/glvkyvbwhpq7go8/CONSUMO.mp4;http://dl.dropbox.com/s/73lw08vt8zj07zh/CONSUMO.webm
-Cuidar,http://dl.dropbox.com/s/w8fpe3tusrpdjvj/CUIDAR.mp4;http://dl.dropbox.com/s/7o3k2hrhj8jddyp/CUIDAR.webm
-Ecosistema,http://www.dropbox.com/s/7s9ti9zrm1ny5vx/ECOSISTEMA.mp4;http://dl.dropbox.com/s/2jnnjof9ldee9vi/ECOSISTEMA.webm
-Energia Alternativa,http://dl.dropbox.com/s/1aum8tqmmm7h8do/ENERGIA%20ALTERNATIVA.mp4;http://dl.dropbox.com/s/8hkn82hi2pjpyej/ENERGIA%20ALTERNATIVA.webm
-Energia Eolica,http://dl.dropbox.com/s/a5n6coufthlkyu0/ENERGIA%20EOLICA.mp4;http://dl.dropbox.com/s/h5l0ce5m064kg5b/ENERGIA%20EOLICA.webm
-Energia Solar,http://dl.dropbox.com/s/q4uu0ff3bs58rdh/ENERGIA%20SOLAR.mp4;http://dl.dropbox.com/s/0ldzc8xe5eibzpn/ENERGIA%20SOLAR.webm
-Especie Animal,http://dl.dropbox.com/s/rodrkcp9l6cz47v/ESPECIE%20ANIMAL.mp4;http://dl.dropbox.com/s/4jm6q8tdbblioax/ESPECIE%20ANIMAL.webm
-Extinción,http://dl.dropbox.com/s/u8nh2mzpmaji26k/EXTINSION.mp4;http://dl.dropbox.com/s/qvht5jnqgdtlbal/EXTINSION.webm
-Fauna,http://dl.dropbox.com/s/5jna5epeqsyqtsr/FAUNA.mp4;http://dl.dropbox.com/s/4s1cmlaslpjy5vq/FAUNA.webm
-Glacial,http://dl.dropbox.com/s/2bm1yjkueklf3qs/GLACIAL.mp4;http://dl.dropbox.com/s/zjd9zenbp4komnw/GLACIAL.webm
-Grama,http://dl.dropbox.com/s/ca6cpwdupdac8jp/GRAMA.mp4;http://dl.dropbox.com/s/dikb5aey5mmg9au/GRAMA.webm
-Lago,http://dl.dropbox.com/s/1gqiakciazyhjit/LAGO.mp4;http://dl.dropbox.com/s/ztuhtmh73c3z3tz/LAGO.webm
-Montaña,http://dl.dropbox.com/s/2g9n5kle21gt4my/MONTA%C3%91A.mp4;http://dl.dropbox.com/s/qrtyznj46272vr8/MONTA%C3%91A.webm
-Organico,http://dl.dropbox.com/s/e4sddryw7y1825b/ORGANICO.mp4;http://dl.dropbox.com/s/nvamsojzsvp7k32/ORGANICO.webm
-Palmeras,http://dl.dropbox.com/s/nj2oh4gb9nn68bq/PALMERAS.mp4;http://dl.dropbox.com/s/c5lnl7u23f6opjg/PALMERAS.webm
-Parque Nacional,http://dl.dropbox.com/s/xjgcscbrcqncq3j/PARQUE%20NACIONAL.mp4;http://dl.dropbox.com/s/8ymzlophkuqpgg9/PARQUE%20NACIONAL.webm
-Plantar,http://dl.dropbox.com/s/svjita7m7r9tmm8/PLANTAR.mp4;http://dl.dropbox.com/s/uub64bmdr6533vk/PLANTAR.webm
-Plantas de Tratamiento,http://dl.dropbox.com/s/jff0oqhon1dnzgt/PLANTAS%20DE%20TRATAMIENTO.mp4;http://dl.dropbox.com/s/yzzo8p6wqu5ii5j/PLANTAS%20DE%20TRATAMIENTO.webm
-Reciclar,http://dl.dropbox.com/s/whyo4tq257r8217/RECICLAR.mp4;http://dl.dropbox.com/s/7s0rwpu0oh7uoeg/RECICLAR.webm
-Recursos Naturales,http://dl.dropbox.com/s/rn97wemf27rtepa/RECURSOS%20NATURALES.mp4;http://dl.dropbox.com/s/s4hsuu0ka2c1f48/RECURSOS%20NATURALES.webm
-Reducir,http://dl.dropbox.com/s/ahbmircuyo28ndl/REDUCIR.mp4;http://dl.dropbox.com/s/8fora14cmcwo2ap/REDUCIR.webm
-Reforestación,http://dl.dropbox.com/s/onqp1zcjrowr5jq/REFORESTACION.mp4;http://dl.dropbox.com/s/cjwmqx0dgtyzubu/REFORESTACION.webm
-Regar,http://dl.dropbox.com/s/dkv3ebxp62dfa5i/REGAR.mp4;http://dl.dropbox.com/s/be6wv5a9yfq4xve/REGAR.webm
-Reserva Forestal,http://dl.dropbox.com/s/j4gpf5yn898g7xy/RESERVA%20FORESTAL.mp4;http://dl.dropbox.com/s/zbt9ibivc8v9qnn/RESERVA%20FORESTAL.webm
-Reusar,http://dl.dropbox.com/s/f921zha7ruc1l6j/REUSA.mp4;http://dl.dropbox.com/s/uglgi1h5sz53y7i/REUSA.webm
-Río,http://dl.dropbox.com/s/isjlu5wbxp3u4eh/RIO.mp4;http://dl.dropbox.com/s/r3jd7qjpsphmhnp/RIO.webm
-Santuario de Especies,http://dl.dropbox.com/s/fxbtggbmy0hwq3y/SANTUARIO%20DE%20ESPECIES.mp4;http://dl.dropbox.com/s/ycrfbq3be567h3h/SANTUARIO%20DE%20ESPECIES.webm
-Selva,http://dl.dropbox.com/s/7wyn60b54lrfvyx/SELVA.mp4;http://dl.dropbox.com/s/xy5s2of8wycy9nt/SELVA.webm
-Sembrar,http://dl.dropbox.com/s/nans9u9ri0hos3n/SEMBRAR.mp4;http://dl.dropbox.com/s/jwrwtmtid2133ob/SEMBRAR.webm
-Tecnología Verde,http://dl.dropbox.com/s/ckvy4ctjaqt3m76/TECNOLOGIA%20VERDE.mp4;http://dl.dropbox.com/s/pjhi8jz5mmwq8us/TECNOLOGIA%20VERDE.webm
-Tierra,http://dl.dropbox.com/s/fdt0ihi7o1i3sn4/TIERRA.mp4;http://dl.dropbox.com/s/4kkpj2jh81bsk51/TIERRA.webm
+44
+Agua,http://dl.dropbox.com/s/qy96gh4lma5iv8d/AGUA.mp4,http://dl.dropbox.com/s/vx7qtbsr35gjj5q/AGUA.webm
+Ahorro Energetico,http://dl.dropbox.com/s/t33ixqlgqyf6nax/AHORRO%20ENERGETICO.mp4,http://dl.dropbox.com/s/bcrqit5k191retn/AHORRO%20ENERGETICO.webm
+Animales,http://dl.dropbox.com/s/6m599p713ydi5vh/ANIMALES.mp4,http://dl.dropbox.com/s/udrkgd41jx3k87m/ANIMALES.webm
+Arbol,http://dl.dropbox.com/s/tzaez1wabn5h6iv/ARBOL.mp4,http://dl.dropbox.com/s/9xbioeyhu1fh003/ARBOL.webm
+Basura,http://dl.dropbox.com/s/w7p730vqhhg4lu1/BASURA.mp4,http://dl.dropbox.com/s/v1e9oczm1cuqe6k/BASURA.webm
+Biodegradable,http://dl.dropbox.com/s/yav0ibiz7mh38d5/BIODEGRADABLE.mp4,http://dl.dropbox.com/s/ji88kg4yz9dztyx/BIODEGRADABLE.webm
+Biodisel,http://dl.dropbox.com/s/5ypbg7b6wpf65om/BIODISEL.mp4,http://dl.dropbox.com/s/gucmbyrktw4zpi0/BIODISEL.webm
+Bosques,http://dl.dropbox.com/s/ucfojok00cgiq75/BOSQUES.mp4,http://dl.dropbox.com/s/ksj543jc9atd80c/BOSQUES.webm
+Calentamiento Global,http://dl.dropbox.com/s/3a6eksoa17mbi9v/CALENTAMIENTO%20GLOBAL.mp4,http://dl.dropbox.com/s/lbn2icfla9oizvl/CALENTAMIENTO%20GLOBAL.webm
+CO2,http://dl.dropbox.com/s/p7cqcr1y44p6yn2/CO2.mp4,http://dl.dropbox.com/s/1tuhvvrdosk3b7y/CO2.webm
+Conservar,http://dl.dropbox.com/s/ebbuxm4mkc2xf5w/CONSERVAR.mp4,http://dl.dropbox.com/s/qhb3w7telxfbohf/CONSERVAR.webm
+Consumo,http://dl.dropbox.com/s/3gefxkkit1j0ck1/CONSUMO.mp4,http://dl.dropbox.com/s/rjiatie1ehpnmx6/CONSUMO.webm
+Cuidar,http://dl.dropbox.com/s/t7klu8hz7k34dey/CUIDAR.mp4,http://dl.dropbox.com/s/2cxg5e4dhzyjnfh/CUIDAR.webm
+Ecosistema,http://dl.dropbox.com/s/7me95cb0x7qaflr/ECOSISTEMA.mp4,http://dl.dropbox.com/s/xpotqywdon3tb8h/ECOSISTEMA.webm
+Energia Alternativa,http://dl.dropbox.com/s/f1hoc3ekkm2u1q8/ENERGIA%20ALTERNATIVA.mp4,http://dl.dropbox.com/s/xvhvb89nv0tpeyk/ENERGIA%20ALTERNATIVA.webm
+Energia Eolica,http://dl.dropbox.com/s/vsihmgj5zqncazh/ENERGIA%20EOLICA.mp4,http://dl.dropbox.com/s/42ezp4bmpv2dz28/ENERGIA%20EOLICA.webm
+Energia Solar,http://dl.dropbox.com/s/m1brjwovwax7azs/ENERGIA%20SOLAR.mp4,http://dl.dropbox.com/s/xl5nd8gz012ypjk/ENERGIA%20SOLAR.webm
+Especie Animal,http://dl.dropbox.com/s/vsgj88dnovbgfiu/ESPECIE%20ANIMAL.mp4,http://dl.dropbox.com/s/9jhsm0pxm57708a/ESPECIE%20ANIMAL.webm
+Extinción,http://dl.dropbox.com/s/t2q2u46lheg97ac/EXTINSION.mp4,http://dl.dropbox.com/s/t6czvkfjfas9b67/EXTINSION.webm
+Fauna,http://dl.dropbox.com/s/tuu01dn6170fntu/FAUNA.mp4,http://dl.dropbox.com/s/xd63rxn2nmxgzow/FAUNA.webm
+Flores,http://dl.dropbox.com/s/1jm61lst0zorhxt/FLORES.mp4,http://dl.dropbox.com/s/sbm3q5dvdir35wd/FLORES.webm
+Glacial,http://dl.dropbox.com/s/y9o4thmnyvkqize/GLACIAL.mp4,http://dl.dropbox.com/s/rp2g5y5jim3q091/GLACIAL.webm
+Grama,http://dl.dropbox.com/s/fk0rhjuamqet4g0/GRAMA.mp4,http://dl.dropbox.com/s/4qvbwiil5bfuip7/GRAMA.webm
+Lago,http://dl.dropbox.com/s/im1vmnk5s6d1p8z/LAGO.mp4,http://dl.dropbox.com/s/p66hkwkegxjxetg/LAGO.webm
+Medio Ambiente,http://dl.dropbox.com/s/n961smt965537is/MEDIO%20AMBIENTE.mp4,http://dl.dropbox.com/s/fnzn18r3ik12b2b/MEDIO%20AMBIENTE.webm
+Montaña,http://dl.dropbox.com/s/ozcco2sgxzhma8q/MONTA%C3%91A.mp4,http://dl.dropbox.com/s/c8c7gtqvxqi4fnc/MONTA%C3%91A.webm
+Organico,http://dl.dropbox.com/s/biqsfwrbk8c78ju/ORGANICO.mp4,http://dl.dropbox.com/s/ur7xxqkjdtj7sxp/ORGANICO.webm
+Palmeras,http://dl.dropbox.com/s/tgvxts0zx93b3ee/PALMERAS.mp4,http://dl.dropbox.com/s/zgf3to3cmh8febc/PALMERAS.webm
+Parque Nacional,http://dl.dropbox.com/s/5d35v6qwc2tajja/PARQUE%20NACIONAL.mp4,http://dl.dropbox.com/s/mckuhbdmp29ia8q/PARQUE%20NACIONAL.webm
+Plantar,http://dl.dropbox.com/s/9gf1evlns670aeg/PLANTAR.mp4,http://dl.dropbox.com/s/rqbwx68v39r0g7x/PLANTAR.webm
+Plantas de Tratamiento,http://dl.dropbox.com/s/plrtyscu7ri9ic1/PLANTAS%20DE%20TRATAMIENTO.mp4,http://dl.dropbox.com/s/hxycxhx1b2amcjl/PLANTAS%20DE%20TRATAMIENTO.webm
+Reciclar,http://dl.dropbox.com/s/cpxjydlu8ctk5qc/RECICLAR.mp4,http://dl.dropbox.com/s/ajqnkao4a1s2dzr/RECICLAR.webm
+Recursos Naturales,http://dl.dropbox.com/s/81a98a2bbyi3d9d/RECURSOS%20NATURALES.mp4,http://dl.dropbox.com/s/g0u9es3tiv79zg0/RECURSOS%20NATURALES.webm
+Reducir,http://dl.dropbox.com/s/pnjy2mj0pvfz9wo/REDUCIR.mp4,http://dl.dropbox.com/s/mg794o0izpwe9s2/REDUCIR.webm
+Reforestación,http://dl.dropbox.com/s/a5bqy7s2qr1cyd8/REFORESTACION.mp4,http://dl.dropbox.com/s/8amiot3n4wrotjk/REFORESTACION.webm
+Regar,http://dl.dropbox.com/s/m7j9ac6r1yfdp33/REGAR.mp4,http://dl.dropbox.com/s/ottmc85hizt5mql/REGAR.webm
+Reserva Forestal,http://dl.dropbox.com/s/nw4fbofb1uxe298/RESERVA%20FORESTAL.mp4,http://dl.dropbox.com/s/39asgdvi9yf5mfb/RESERVA%20FORESTAL.webm
+Reusa,http://dl.dropbox.com/s/2ba4pzlfybrmc6t/REUSA.mp4,http://dl.dropbox.com/s/g45gy28szdcryiy/REUSA.webm
+Río,http://dl.dropbox.com/s/3o3ggx60au9h3f6/RIO.mp4,http://dl.dropbox.com/s/s8340wp8yyqbpa8/RIO.webm
+Santuario de Especies,http://dl.dropbox.com/s/zwwk8m9fwpibo2c/SANTUARIO%20DE%20ESPECIES.mp4,http://dl.dropbox.com/s/2if8tx344k32mgp/SANTUARIO%20DE%20ESPECIES.webm
+Selva,http://dl.dropbox.com/s/yojl86nzxjw3w13/SELVA.mp4,http://dl.dropbox.com/s/jmiqpt7iorc3o5f/SELVA.webm
+Sembrar,http://dl.dropbox.com/s/d69hlcksvamfha7/SEMBRAR.mp4,http://dl.dropbox.com/s/wym7qe50wvj2o8z/SEMBRAR.webm
+Tecnologia Verde,http://dl.dropbox.com/s/l8yfzkzq5jmforp/TECNOLOGIA%20VERDE.mp4,http://dl.dropbox.com/s/ltahg6yfm041uwa/TECNOLOGIA%20VERDE.webm
+Tierra,http://dl.dropbox.com/s/wevrdez3ea32y13/TIERRA.mp4,http://dl.dropbox.com/s/x6hoc1v2v61zkm1/TIERRA.webm
 FAUNA
 32
-Águila,http://dl.dropbox.com/s/8m2wqnube6l6fxx/AGUILA.mp4;http://dl.dropbox.com/s/fftsa8rdfc1kvnp/AGUILA.webm
-Araña,http://dl.dropbox.com/s/sqemvseazufz192/ARA%C3%91A.mp4;http://dl.dropbox.com/s/7e81k52h93sxu5x/ARA%C3%91A.webm
-Avispa,http://dl.dropbox.com/s/rjr6epkv8xkhou2/AVISPA.mp4;http://dl.dropbox.com/s/egan61c0sdnuwaa/AVISPA.webm
-Buho,http://dl.dropbox.com/s/plifk1rvjs2e0fd/BUHO.mp4;http://dl.dropbox.com/s/oshojm5q5w1ld9q/BUHO.webm
-Burro,http://dl.dropbox.com/s/k3vuly7rmaehzfx/BURRO.mp4;http://dl.dropbox.com/s/w9rwe5f7r15oayr/BURRO.webm
-Caballo,http://dl.dropbox.com/s/vs70uyj8wnuijly/CABALLO.mp4;http://dl.dropbox.com/s/5elxhnhgp4ecvpa/CABALLO.webm
-Cabra,http://dl.dropbox.com/s/8xif6ln4atsxo2x/CABRA.mp4;http://dl.dropbox.com/s/z9aj8ejkvklj460/CABRA.webm
-Canguro,http://dl.dropbox.com/s/8cimmzmrruk3ibi/CANGURO.mp4;http://dl.dropbox.com/s/nl4k4hxvqvv8c96/CANGURO.webm
-Cerdo,http://dl.dropbox.com/s/szzz2rsja47rtgg/CERDO.mp4;http://dl.dropbox.com/s/ttlij3bgovzp2mr/CERDO.webm
-Ciempies,http://dl.dropbox.com/s/67srfw85ladc3st/CIEMPIES.mp4;http://dl.dropbox.com/s/r8rowc8dqqm2dmx/CIEMPIES.webm
-Cigarra,http://dl.dropbox.com/s/4w3efpa8w9ky647/CIGARRA.mp4;http://dl.dropbox.com/s/a02f6j64vj3lyk8/CIGARRA.webm
-Cocodrilo,http://dl.dropbox.com/s/ucfe370muli1w2c/COCODRILO.mp4;http://dl.dropbox.com/s/t725q6jij7z5po0/COCODRILO.webm
-Conejo,http://dl.dropbox.com/s/i0f76v3z7dq5mcs/CONEJO.mp4;http://dl.dropbox.com/s/vudoxjuaih11tb6/CONEJO.webm
-Cucaracha,http://dl.dropbox.com/s/a32wqf8kt320n9w/CUCARACHA.mp4;http://dl.dropbox.com/s/gq17plgyde75gpw/CUCARACHA.webm
-Cuervo,http://dl.dropbox.com/s/0tfi7pkwe4fdjc2/CUERVO.mp4;http://dl.dropbox.com/s/4u246ditp7ug3hh/CUERVO.webm
-Gallina,http://dl.dropbox.com/s/aw1cfgc6jtapskr/GALLINA.mp4;http://dl.dropbox.com/s/q7wi4mo8ip14242/GALLINA.webm
-Gallo,http://dl.dropbox.com/s/h6qph7f0bvro7on/GALLO.mp4;http://dl.dropbox.com/s/o3nofs0iz29xlxg/GALLO.webm
-Garrapata,http://dl.dropbox.com/s/hht0co5jd7tsxjk/GARRAPATA.mp4;http://dl.dropbox.com/s/5yp0j55pxl86ccr/GARRAPATA.webm
-Gato,http://dl.dropbox.com/s/30aynnt03jux6gb/GATO.mp4;http://dl.dropbox.com/s/lng0i2h0squ0p7g/GATO.webm
-Grillo,http://dl.dropbox.com/s/cpb8pu9hdmouh5a/GRILLO.mp4;http://dl.dropbox.com/s/2airzc79cfz103t/GRILLO.webm
-Gusano,http://dl.dropbox.com/s/y5vsgxknh24z55w/GUSANO.mp4;http://dl.dropbox.com/s/9c3qhh25rsj73jq/GUSANO.webm
-Hormiga,http://dl.dropbox.com/s/54bqlh8rutj0v9w/HORMIGA.mp4;http://dl.dropbox.com/s/dp1iax7r5838zfs/HORMIGA.webm
-Iguana,http://dl.dropbox.com/s/defjkgy7dp7qaai/IGUANA.mp4;http://dl.dropbox.com/s/r6uyumkqvch3qqu/IGUANA.webm
-Langosta,http://dl.dropbox.com/s/0huw4vksiszui1n/LANGOSTA.mp4;http://dl.dropbox.com/s/4oeuv5a159gdx5a/LANGOSTA.webm
-Lobo,http://dl.dropbox.com/s/7aqoebt2mgzby80/LOBO.mp4;http://dl.dropbox.com/s/dhq29qmmkoniqiw/LOBO.webm
-Lombriz,http://dl.dropbox.com/s/soaw9xswrrdpggs/LOMBRIZ.mp4;http://dl.dropbox.com/s/hwqda54mu743rtz/LOMBRIZ.webm
-Loro,http://dl.dropbox.com/s/whav1vz775y1kfh/LORO.mp4;http://dl.dropbox.com/s/a0zau7rji47lsnc/LORO.webm
-Luciérnaga,http://dl.dropbox.com/s/1sxj8vv6f03vhw2/LUCIERNAGA.mp4;http://dl.dropbox.com/s/kkjpnbefps0vyae/LUCIERNAGA.webm
-Mariposa,http://dl.dropbox.com/s/ucwquuoe5px49pm/MARIPOSA.mp4;http://dl.dropbox.com/s/jgyky8dxcc1cdkr/MARIPOSA.webm
-Mono,http://dl.dropbox.com/s/h1xc0ski1j77m05/MONO.mp4;http://dl.dropbox.com/s/fvyvw2z01yj7xaw/MONO.webm
-Mosquito,http://dl.dropbox.com/s/09tor1mn9sktbuh/MOSQUITO.mp4;http://dl.dropbox.com/s/jmi3q4lk4tqxtrr/MOSQUITO.webm
-Murciélago,http://dl.dropbox.com/s/u522x24ezbwh83z/MURCIELAGO.mp4;http://dl.dropbox.com/s/4oanx8dgbxnv15g/MURCIELAGO.webm
+Águila,http//dl.dropbox.com/s/a3ehj7curjlaozv/AGUILA.mp4;http://dl.dropbox.com/s/2rywvpn7mejw4li/AGUILA.webm
+Araña,http://dl.dropbox.com/s/3luq6bbzdomxacj/ARA%C3%91A.mp4;http://dl.dropbox.com/s/ybxk611kof34p0q/ARA%C3%91A.webm
+Avispa,http://dl.dropbox.com/s/ll9mbviz892gara/AVISPA.mp4;http://dl.dropbox.com/s/sn9qorbd58c1h2p/AVISPA.webm
+Buho,http://dl.dropbox.com/s/m1m06vz7a7ropsf/BUHO.mp4;http://dl.dropbox.com/s/31h73d90lf9lzts/BUHO.webm
+Burro,http://dl.dropbox.com/s/p3hukrlhyhwigc0/BURRO.mp4;http://dl.dropbox.com/s/gls7o9lomsx36p2/BURRO.webm
+Caballo,http://dl.dropbox.com/s/rwa7g2umfe99iar/CABALLO.mp4;http://dl.dropbox.com/s/njkza58ddnyt8h9/CABALLO.webm
+Cabra,http://dl.dropbox.com/s/w2opmrj6u4crva1/CABRA.mp4;http://dl.dropbox.com/s/rlia39l1xgldkma/CABRA.webm
+Canguro,http://dl.dropbox.com/s/pyayoq51zdmcpfp/CANGURO.mp4;http://dl.dropbox.com/s/3l3ppv40s5sxc18/CANGURO.webm
+Cerdo,http://dl.dropbox.com/s/2ql1p03t37jiz1f/CERDO.mp4;http://dl.dropbox.com/s/r8d7o6mo2bpg7kk/CERDO.webm
+Ciempies,http://dl.dropbox.com/s/8cjg1hk3udug0zg/CIEMPIES.mp4;http://dl.dropbox.com/s/csq67qljr7z6xay/CIEMPIES.webm
+Cigarra,http://dl.dropbox.com/s/4589zdvx6x6owhy/CIGARRA.mp4;http://dl.dropbox.com/s/yad1gbj7a1a1zyf/CIGARRA.webm
+Cocodrilo,http://dl.dropbox.com/s/yesp8oyrz3f3h2a/COCODRILO.mp4;http://dl.dropbox.com/s/pbggo7dbcknvy9s/COCODRILO.webm
+Conejo,http://dl.dropbox.com/s/4mu7ymnvmak511o/CONEJO.mp4;http://dl.dropbox.com/s/6753hph5uivyh38/CONEJO.webm
+Cucaracha,http://dl.dropbox.com/s/x0kuzcj82o8bivq/CUCARACHA.mp4;http://dl.dropbox.com/s/0aqfbeomisd0i1a/CUCARACHA.webm
+Cuervo,http://dl.dropbox.com/s/68nfmo7tf1z5oys/CUERVO.mp4;http://dl.dropbox.com/s/2diq2wg6l4uuh45/CUERVO.webm
+Gallina,http://dl.dropbox.com/s/urtf7bwrd3bg6aq/GALLINA.mp4;http://dl.dropbox.com/s/t2mjf47zviexcvc/GALLINA.webm
+Gallo,http://dl.dropbox.com/s/p7b9ehi7vw9shs0/GALLO.mp4;http://dl.dropbox.com/s/uitbqy7pzovw4sb/GALLO.webm
+Garrapata,http://dl.dropbox.com/s/yz3iqrmov5m1ll2/GARRAPATA.mp4;http://dl.dropbox.com/s/am3yjvf9r7y3l72/GARRAPATA.webm
+Gato,http://dl.dropbox.com/s/f5ioryfa6fppxj8/GATO.mp4;http://dl.dropbox.com/s/a7dmspnt48hfac6/GATO.webm
+Grillo,http://dl.dropbox.com/s/yoy5usm4ss3bk3j/GRILLO.mp4;http://dl.dropbox.com/s/rpz8vmtn6utm8w7/GRILLO.webm
+Gusano,http://dl.dropbox.com/s/vgnhjap86544fdd/GUSANO.mp4;http://dl.dropbox.com/s/q7r36s3jbtb6ets/GUSANO.webm
+Hormiga,http://dl.dropbox.com/s/wbcf7qrupahsy7j/HORMIGA.mp4;http://dl.dropbox.com/s/llf03lylntg45dk/HORMIGA.webm
+Iguana,http://dl.dropbox.com/s/bip08j5yuh5z2ji/IGUANA.mp4;http://dl.dropbox.com/s/bip08j5yuh5z2ji/IGUANA.mp4
+Langosta,http://dl.dropbox.com/s/2r51lk1t3fwsuk8/LANGOSTA.mp4;http://dl.dropbox.com/s/4it55ndgha3etd2/LANGOSTA.webm
+Lobo,http://dl.dropbox.com/s/fe5z0hhzv2dlvlo/LOBO.mp4;http://dl.dropbox.com/s/gogsw9wxd9q89zx/LOBO.webm
+Lombriz,http://dl.dropbox.com/s/8hhpjbr6upicfxy/LOMBRIZ.mp4;http://dl.dropbox.com/s/nbscf1yuinqi9qz/LOMBRIZ.webm
+Loro,http://dl.dropbox.com/s/none40gh4dr3vxw/LORO.mp4;http://dl.dropbox.com/s/pv5lj1npcupdqqf/LORO.webm
+Luciérnaga,http://dl.dropbox.com/s/l4tjs0nyrgcfjph/LUCIERNAGA.mp4;http://dl.dropbox.com/s/tvnnd73332nf0tm/LUCIERNAGA.webm
+Mariposa,http://dl.dropbox.com/s/bm5ljqpqrvyzjhv/MARIPOSA.mp4;http://dl.dropbox.com/s/yu06bysxi29wsc1/MARIPOSA.webm
+Mono,http://dl.dropbox.com/s/5bw0tpgaaw7mf8v/MONO.mp4;http://dl.dropbox.com/s/p36mhh3ht5cc02v/MONO.webm
+Mosquito,http://dl.dropbox.com/s/z6wgd5irbd0bych/MOSQUITO.mp4;http://dl.dropbox.com/s/o80gs6ppqeaj1kw/MOSQUITO.webm
+Murciélago,http://dl.dropbox.com/s/s19kokt6qvl4v6f/MURCIELAGO.mp4;http://dl.dropbox.com/s/t47oxnyx6of9cq5/MURCIELAGO.webm
 FRUTAS Y VEGETALES
-38
-Ají,http://dl.dropbox.com/s/4ra6g1npka85zyd/AJI.mp4
-Ajo,http://dl.dropbox.com/s/ldfwamm9c11j78x/AJO.mp4
-Auyama,http://dl.dropbox.com/s/gjeafbq4e6ncx5b/AUYAMA.mp4
-Berenjena,http://dl.dropbox.com/s/0aaeaistjjuq0db/BERENJENA.mp4
-Brocolí,http://dl.dropbox.com/s/wofnpwl6ync2tfs/BROCOLI.mp4
-Calabacin,http://dl.dropbox.com/s/kjcoyv0cysvzi1g/CALABACIN.mp4
-Cambur,http://dl.dropbox.com/s/5w7oy8ip0csjhhz/CAMBUR.mp4
-Cebolla,http://dl.dropbox.com/s/32135lpadu2xioq/CEBOLLA.mp4
-Cereza,http://dl.dropbox.com/s/5lc1ldy403af0tq/CEREZA.mp4
-Champiñon,http://dl.dropbox.com/s/3e5jpvt59rk0n3n/CHAMPIÑON.mp4
-Coco,http://dl.dropbox.com/s/xwd0q6au3c3657q/COCO.mp4
-Coliflor,http://dl.dropbox.com/s/42kvjqx51mkn6at/COLIFLOR.mp4
-Durazno,http://dl.dropbox.com/s/d6gwcxzmv1sgmkf/DURAZNO.mp4?m
-Fresa,http://dl.dropbox.com/s/vgkv7y5max3rmht/FRESA.mp4?m
-Frutas,http://dl.dropbox.com/s/180vmu5cth6e6a3/FRUTAS.mp4
-Guanabana,http://dl.dropbox.com/s/nkw25g535vytpy1/GUANABANA.mp4
-Guayaba,http://dl.dropbox.com/s/brfado16919ufdq/GUAYABA.mp4
-Higo,http://dl.dropbox.com/s/enziifjlynaejjk/HIGO.mp4
-Lechuga,http://dl.dropbox.com/s/jwtezo9crhy2tem/LECHUGA.mp4
-Limon,http://dl.dropbox.com/s/nplc4l3la6g7b2y/LIMON.mp4
-Mandarina,http://dl.dropbox.com/s/t2eoxvmwypmk2n4/MANDARINA.mp4
-Mango,http://dl.dropbox.com/s/1iwecsyh56458c5/MANGO.mp4
-Manzana,http://dl.dropbox.com/s/m6ihgormuhdveqf/MANZANA.mp4
-Melon,http://dl.dropbox.com/s/ns709n2z79cehnj/MELON.mp4
-Mora,http://dl.dropbox.com/s/jmshkzb4uo78zzx/MORA.mp4
-Naranja,http://dl.dropbox.com/s/6mj5ph0hln1030n/NARANJA.mp4
-Papa,http://dl.dropbox.com/s/jro7u47smbyr87d/PAPA.mp4
-Parchita,http://dl.dropbox.com/s/wep7rb1q4pqgvzv/PARCHITA.mp4
-Patilla,http://dl.dropbox.com/s/kii8wc6gniyuxyl/PATILLA.mp4
-Pera,http://dl.dropbox.com/s/pd1h5igzyap0tmx/PERA.mp4
-Pimenton,http://dl.dropbox.com/s/tpvz38ri9eg6rf7/PIMENTON.mp4
-Piña,http://dl.dropbox.com/s/i97dnb2q9gxf64s/PI%C3%91A.mp4
-Remolacha,http://dl.dropbox.com/s/w5ihxplqe2u3ewx/REMOLACHA.mp4
-Tamarindo,http://dl.dropbox.com/s/agkqlcd9ycjtstc/TAMARINDO.mp4
-Tomate,http://dl.dropbox.com/s/gtku8zzc5b06dte/TOMATE.mp4
-Uvas,http://dl.dropbox.com/s/2b5n5ofj6d0y6ck/UVA.mp4
-Vegetales,http://dl.dropbox.com/s/4qd592aq3deogw9/VEGETALES.mp4
-Zanahoria,http://dl.dropbox.com/s/6bz5oldc0qg7uzg/ZANAHORIA.mp4
+39
+Ají,http://dl.dropbox.com/s/y4460zinut0fs0a/AJI.mp4;http://dl.dropbox.com/s/s4sbz0guov6r7y3/AJI.webm
+Ajo,http://dl.dropbox.com/s/kw4j04t2nxpznnc/AJO.mp4;http://dl.dropbox.com/s/fd8y7qpzbxys8ve/AJO.webm
+Auyama,http://dl.dropbox.com/s/2d26hmu4juues69/AUYAMA.mp4;http://dl.dropbox.com/s/83epwq1edgtvjp9/AUYAMA.webm
+Berenjena,http://dl.dropbox.com/s/udiilai7x5tp2aq/BERENJENA.mp4;http://dl.dropbox.com/s/zqine7rkawau6q0/BERENJENA.webm
+Brocolí,http://dl.dropbox.com/s/rb0r6ywjh7cozbc/BROCOLI.mp4;http://dl.dropbox.com/s/vd3g9w7ohw2wtyv/BROCOLI.webm
+Calabacin,http://dl.dropbox.com/s/iazx5zdwstorzus/CALABACIN.mp4;http://dl.dropbox.com/s/dspw4e32nm3hgjs/CALABACIN.webm
+Cambur,http://dl.dropbox.com/s/2r1z7fsoz9uaa8i/CAMBUR.mp4;http://dl.dropbox.com/s/3r9pe09b079o6v9/CAMBUR.webm
+Cebolla,http://dl.dropbox.com/s/v1duwgewj561gea/CEBOLLA.mp4;http://dl.dropbox.com/s/lzaax9205qoz4be/CEBOLLA.webm
+Cereza,http://dl.dropbox.com/s/ghkbiiyfkpl735x/CEREZA.mp4;http://dl.dropbox.com/s/vbxb0vb1iw99hhu/CEREZA.webm
+Champiñon,http://dl.dropbox.com/s/hmfaxirxwpa766z/CHAMPI%C3%91ON.mp4;http://dl.dropbox.com/s/gh5t9g1ank8ugwg/CHAMPI%C3%91ON.webm
+Coco,http://dl.dropbox.com/s/ti9fimr9wdih1f6/COCO.mp4;http://dl.dropbox.com/s/7fke733lzalivll/COCO.webm
+Coliflor,http://dl.dropbox.com/s/zp3nw0b1zrachzb/COLIFLOR.mp4;http://dl.dropbox.com/s/igiebb80evzvr66/COLIFLOR.webm
+Durazno,http://dl.dropbox.com/s/hn7kvp4lrevxg94/DURAZNO.mp4;http://dl.dropbox.com/s/vdb1l73tjv0nmz4/DURAZNO.webm
+Fresa,http://dl.dropbox.com/s/6f2lp6bpqdb2zja/FRESA.mp4;http://dl.dropbox.com/s/8h0euxkaj4d4uge/FRESA.webm
+Frutas,http://dl.dropbox.com/s/bdyisn8w8skf9k9/FRUTAS.mp4;http://dl.dropbox.com/s/vgii5h5mpuy97us/FRUTAS.webm
+Guanabana,http://dl.dropbox.com/s/sbdo82gjtpbxpd9/GUANABANA.mp4;http://dl.dropbox.com/s/g25djgnlv91x1ph/GUANABANA.webm
+Guayaba,http://dl.dropbox.com/s/7gkpbxa3jn0cos5/GUAYABA.mp4;http://dl.dropbox.com/s/v7ru9rjtsygszv5/GUAYABA.webm
+Higo,http://dl.dropbox.com/s/rlgpyb5ke3fydsd/HIGO.mp4;http://dl.dropbox.com/s/uaw2l1hp3o5idv0/HIGO.webm
+Lechoza,http://dl.dropbox.com/s/qihqg38dagjhnp1/LECHOSA.mp4;http://dl.dropbox.com/s/7z8p29wta5b7682/LECHOSA.webm
+Lechuga,http://dl.dropbox.com/s/4ax91unuq2crq73/LECHUGA.mp4;http://dl.dropbox.com/s/k1upb6nadlobtyd/LECHUGA.webm
+Limon,http://dl.dropbox.com/s/gxdii93uazdsvhy/LIMON.mp4;http://dl.dropbox.com/s/ydvrmaj31ao5lbg/LIMON.webm
+Mandarina,http://dl.dropbox.com/s/31zujt04b9afizo/MANDARINA.mp4;http://dl.dropbox.com/s/drft70nfjpvg4gy/MANDARINA.webm
+Mango,http://dl.dropbox.com/s/1fv1ajvi7ef6v5c/MANGO.mp4;http://dl.dropbox.com/s/8ci1tou882cr88z/MANGO.webm
+Manzana,http://dl.dropbox.com/s/fwcoc2g1iyb1u9n/MANZANA.mp4;http://dl.dropbox.com/s/e29qwmkb9bavmgd/MANZANA.webm
+Melon,http://dl.dropbox.com/s/dfh66tkaptgeuch/MELON.mp4;http://dl.dropbox.com/s/53nz1b55dep2xtu/MELON.webm
+Mora,http://dl.dropbox.com/s/2c97ozbnscpeau0/MORA.mp4;http://dl.dropbox.com/s/02ekxo4ydf7sg9l/MORA.webm
+Naranja,http://dl.dropbox.com/s/0rsnaymeh0utja0/NARANJA.mp4;http://dl.dropbox.com/s/hv3gsy01xe0n7i0/NARANJA.webm
+Papa,http://dl.dropbox.com/s/f2npyogvftw1a4s/PAPA.mp4;http://dl.dropbox.com/s/aa2t6gh27i7a7xv/PAPA.webm
+Parchita,http://dl.dropbox.com/s/j44gd8h1z354kz6/PARCHITA.mp4;http://dl.dropbox.com/s/cm00durtl7zxtm5/PARCHITA.webm
+Patilla,http://dl.dropbox.com/s/gx2j9696xb7f2fy/PATILLA.mp4;http://dl.dropbox.com/s/b12m298j2zj81hj/PATILLA.webm
+Pera,http://dl.dropbox.com/s/gr8az31jgz03p08/PERA.mp4;http://dl.dropbox.com/s/xmzx9ksacu9tfng/PERA.webm
+Pimenton,http://dl.dropbox.com/s/j5jj9wsiv6cybh5/PIMENTON.mp4;http://dl.dropbox.com/s/qdr4fzhdhmioq37/PIMENTON.webm
+Piña,http://dl.dropbox.com/s/hfgns02payiuk3b/PI%C3%91A.mp4;http://dl.dropbox.com/s/2ae9g6ex0vxpp92/PI%C3%91A.webm
+Remolacha,http://dl.dropbox.com/s/oytbwak1rbwcorl/REMOLACHA.mp4;http://dl.dropbox.com/s/31glsc7b6tua0ys/REMOLACHA.webm
+Tamarindo,http://dl.dropbox.com/s/xkd58qiofij3yuy/TAMARINDO.mp4;http://dl.dropbox.com/s/7kbyopzl6jll0ix/TAMARINDO.webm
+Tomate,http://dl.dropbox.com/s/iufl82pqawunake/TOMATE.mp4;http://dl.dropbox.com/s/2i50x2n0ukbos64/TOMATE.webm
+Uvas,http://dl.dropbox.com/s/ltp9unp3lar0m5r/UVA.mp4;http://dl.dropbox.com/s/rsd5rwzzu8hssv3/UVA.webm
+Vegetales,http://dl.dropbox.com/s/5nsg7m9bri871j2/VEGETALES.mp4;http://dl.dropbox.com/s/06dzytg7sbjnpp2/VEGETALES.webm
+Zanahoria,http://dl.dropbox.com/s/atxsysa7tozihw6/ZANAHORIA.mp4;http://dl.dropbox.com/s/7vdc2f41drhwn72/ZANAHORIA.webm
 FOTOGRAFÍA
 33
-Analógico,http://dl.dropbox.com/s/zmsbrrdqfxfhcdn/Anal%C3%B3gico.mp4
-Autoretrato,http://dl.dropbox.com/s/3nsice6t7qpimoi/Autoretrato.mp4
-Blanco y negro,http://dl.dropbox.com/s/t9wknc8etgxpovf/Blanco%20y%20Negro.mp4
-Cámara,http://dl.dropbox.com/s/i6welm6b269df39/C%C3%A1mara.mp4
-Color,http://dl.dropbox.com/s/6rwlmpdlbt3puwl/Color.mp4
-Cuarto Oscuro,http://dl.dropbox.com/s/6xqrlmat3szbhu6/Cuarto%20%C3%93scuro.mp4
-Diafragma,http://dl.dropbox.com/s/s1gsvru6c02xu9k/Diafragma.mp4
-Digital,http://dl.dropbox.com/s/8eok92nl487gr5z/Digital.mp4
-Disparador Remoto,http://dl.dropbox.com/s/r9pl7l70984dwaa/Disparador%20Remoto.mp4
-Documental,http://dl.dropbox.com/s/ut0dbgycrpgreqn/Documental.mp4
-Encuadre,http://dl.dropbox.com/s/t1px4w8zh5dw9bb/Encuadre.mp4
-Enfoque,http://dl.dropbox.com/s/zyrwmvmv2aqks5s/Enfoque.mp4
-Estudio,http://dl.dropbox.com/s/9v5de380o8mp7ta/Estudio.mp4
-Flash,http://dl.dropbox.com/s/mry7j244etma4cb/Flash.mp4
-Fotografía Conceptual,http://dl.dropbox.com/s/j3qq5pebwaqwdbw/Fotograf%C3%ADa%20Conceptual.mp4
-Fotografia de Modas,http://dl.dropbox.com/s/ckza6mg7u5cpifb/Fotograf%C3%ADa%20de%20Modas.mp4
-Laboratorio,http://dl.dropbox.com/s/jo5odcui0ifabjb/Laboratorio.mp4
-Lente,http://dl.dropbox.com/s/srg1b33mnravoac/Lente.mp4
-Luz Continua,http://dl.dropbox.com/s/um7bg3oyl3dctrt/Luz%20Con%C3%ADtnua.mp4
-Luz Estroboscópica,http://dl.dropbox.com/s/4vvxxgibeaurqpf/Luz%20Estrob%C3%B3scopica.mp4
-Luzmhttp://dl.dropbox.com/s/y9fh2dk87fl2i5h/Luz.mp4
-Memoriamhttp://dl.dropbox.com/s/2tbwuowtmj0cbvj/Memoria.mp4
-Obturador,http://dl.dropbox.com/s/jez2dvh2v2iw3v1/Obturador.mp4
-Pixel,http://dl.dropbox.com/s/q37etmw2e917b8m/Pixel.mp4
-Polaroid,http://dl.dropbox.com/s/s9nwx8jq0rl2ofv/Polaroid.mp4
-Pose,http://dl.dropbox.com/s/ko28ehvblzz0ak4/Pose.mp4
-Programas de edición,http://dl.dropbox.com/s/11yjitokn6aa3hx/Programas%20de%20Edici%C3%B3n.mp4
-Químicos,http://dl.dropbox.com/s/gsxf19h1igk0x7m/Qu%C3%ADmicos.mp4
-Retrato,http://dl.dropbox.com/s/0e6b2uxnxwkx7et/Retrato.mp4
-Revelado,http://dl.dropbox.com/s/bi7ivpz2inznk1x/Revelado.mp4
-Rollo,http://dl.dropbox.com/s/qegu6fi25prhb6t/Rollo.mp4
-Sesión Fotográfica,http://dl.dropbox.com/s/asedoegti8267qe/Sesi%C3%B3n%20Fotogr%C3%A1fica.mp4
-Sonríe,http://dl.dropbox.com/s/makj0o5ecf4hrpc/Sonr%C3%ADe.mp4
+Analogico,http://dl.dropbox.com/s/dotunr4s9szfoa6/Anal%C3%B3gico.mp4;http://dl.dropbox.com/s/k2o6x87yewe3peg/Anal%C3%B3gico.webm
+Autoretrato,http://dl.dropbox.com/s/xopb9sf29cer4w4/Autoretrato.mp4;http://dl.dropbox.com/s/khi2ihfmavm12sj/Autoretrato.webm
+Blanco y negro,http://dl.dropbox.com/s/gzynr3fiuywnhwk/Blanco%20y%20Negro.mp4;http://dl.dropbox.com/s/8aaoiqf6rea0sle/Blanco%20y%20Negro.webm
+Camara,http://dl.dropbox.com/s/iaz86pjby4rpwao/C%C3%A1mara.mp4;http://dl.dropbox.com/s/xna3jmkp5744ohp/C%C3%A1mara.webm
+Color,http://dl.dropbox.com/s/7wdr9y6oyvrvg8u/Color.mp4;http://dl.dropbox.com/s/zgskkxhhhsc290w/Color.webm
+Cuarto Oscuro,http://dl.dropbox.com/s/jr9l2nry357if6x/Cuarto%20%C3%93scuro.mp4;http://dl.dropbox.com/s/ro988ns8fb4ahww/Cuarto%20%C3%93scuro.webm
+Diafragma,http://dl.dropbox.com/s/vwtytrxdt2ejfiy/Diafragma.mp4;http://dl.dropbox.com/s/ut2nvzajbjks17j/Diafragma.webm
+Digital,http://dl.dropbox.com/s/5hkvd5c3u8itu2y/Digital.mp4;http://dl.dropbox.com/s/i9c3gdm5v8ll0d0/Digital.webm
+Disparador Remoto,http://dl.dropbox.com/s/akn8eqycorrjfgg/Disparador%20Remoto.mp4;http://dl.dropbox.com/s/zwro7r1fbic42ac/Disparador%20Remoto.webm
+Documental,http://dl.dropbox.com/s/k4ty66rdzl12ls9/Documental.mp4;http://dl.dropbox.com/s/vo27gju166s3fbm/Documental.webm
+Encuadre,http://dl.dropbox.com/s/n8ndhf17j1va9m6/Encuadre.mp4;http://dl.dropbox.com/s/unwsd2vkffhuofy/Encuadre.webm
+Enfoque,http://dl.dropbox.com/s/o6dz6y0pk2xk1dv/Enfoque.mp4;http://dl.dropbox.com/s/zvzrrfew0n0ly2j/Enfoque.webm
+Estudio,http://dl.dropbox.com/s/jvjphxo8jfbr6vd/Estudio.mp4;http://dl.dropbox.com/s/dswrpo5uqf15uye/Estudio.webm
+Flash,http://dl.dropbox.com/s/bgi5q40g80f7xu0/Flash.mp4;http://dl.dropbox.com/s/bqhsi9is47ldems/Flash.webm
+Fotografia Conceptual,http://dl.dropbox.com/s/7kohwcxrwrdcway/Fotograf%C3%ADa%20Conceptual.mp4;http://dl.dropbox.com/s/t3k4sa8csh3wcvo/Fotograf%C3%ADa%20Conceptual.webm
+Fotografia de Modas,http://dl.dropbox.com/s/qmd4nj8c0hpts27/Fotograf%C3%ADa%20de%20Modas.mp4;http://dl.dropbox.com/s/cjix23kn9et1ipt/Fotograf%C3%ADa%20de%20Modas.webm
+Laboratorio,http://dl.dropbox.com/s/bc5g632bqbm7m0d/Laboratorio.mp4;http://dl.dropbox.com/s/ivgilsep43ulj75/Laboratorio.webm
+Lente,http://dl.dropbox.com/s/bf63k44z3lav6ib/Lente.mp4;http://dl.dropbox.com/s/oymiokpyxkzssko/Lente.webm
+Luz Continua,http://dl.dropbox.com/s/qki8o7k30b4n3kc/Luz%20Con%C3%ADtnua.mp4;http://dl.dropbox.com/s/fscgijxz738ymd4/Luz%20Con%C3%ADtnua.webm
+Luz Estroboscopica,http://dl.dropbox.com/s/9kwgu63549xz7ps/Luz%20Estrob%C3%B3scopica.mp4;http://dl.dropbox.com/s/0g57jg6eioh7mlk/Luz%20Estrob%C3%B3scopica.webm
+Luz,http://dl.dropbox.com/s/if84034t6jl82n8/Luz.mp4;http://dl.dropbox.com/s/23fkddf1r3m7qo7/Luz.webm
+Memoria,http://dl.dropbox.com/s/m16vz7cucor1xtt/Memoria.mp4;http://dl.dropbox.com/s/o8iuvjeaq7203h9/Memoria.webm
+Obturador,http://dl.dropbox.com/s/uzlalqhipk70zdl/Obturador.mp4;http://dl.dropbox.com/s/16nfhvvn0v02e07/Obturador.webm
+Pixel,http://dl.dropbox.com/s/1w4kfds85voiexo/Pixel.mp4;http://dl.dropbox.com/s/f4g0u7njtipgzjs/Pixel.webm
+Polaroid,http://dl.dropbox.com/s/nkfb76zl74gxzvv/Polaroid.mp4;http://dl.dropbox.com/s/w38njymiffyo9g9/Polaroid.webm
+Pose,http://dl.dropbox.com/s/t7g1cwm7pf3y5fe/Pose.mp4;http://dl.dropbox.com/s/k3yypm8nftn2udj/Pose.webm
+Programas de edición,http://dl.dropbox.com/s/fzyd2arry8pgasf/Programas%20de%20Edici%C3%B3n.mp4;http://dl.dropbox.com/s/1pcx3a4klrpri58/Programas%20de%20Edici%C3%B3n.webm
+Quimicos,http://dl.dropbox.com/s/e4y46393ahvzm3q/Qu%C3%ADmicos.mp4;http://dl.dropbox.com/s/7pbijkoecec3oy8/Qu%C3%ADmicos.webm
+Retrato,http://dl.dropbox.com/s/wrcl9tng5wkb25q/Retrato.mp4;http://dl.dropbox.com/s/qmbnjh6m9lp3041/Retrato.webm
+Revelado,http://dl.dropbox.com/s/innbl49pzbifka6/Revelado.mp4;http://dl.dropbox.com/s/59tortup633rsbz/Revelado.webm
+Rollo,http://dl.dropbox.com/s/aj08ppij2boypxu/Rollo.mp4;http://dl.dropbox.com/s/k2kysgni7elrs2z/Rollo.webm
+Sesión Fotografica,http://dl.dropbox.com/s/canurk5fgtthto9/Sesi%C3%B3n%20Fotogr%C3%A1fica.mp4;http://dl.dropbox.com/s/8cnnqzmi6w1g3lu/Sesi%C3%B3n%20Fotogr%C3%A1fica.webm
+Sonríe,http://dl.dropbox.com/s/iy9lc0vv7grcdc0/Sonr%C3%ADe.mp4;http://dl.dropbox.com/s/b48qmmdyom0xs7u/Sonr%C3%ADe.webm
 FUNDACIÓN
 33
-Accesibilidad,http://dl.dropbox.com/s/aecfvegz60appxp/ACCESIBILIDAD.mp4
-Alivio,http://dl.dropbox.com/s/n8qgzkp38xugxv6/ALIVIO.mp4
-Asociación,http://dl.dropbox.com/s/np71y393qu9d9zt/ASOCIACION.mp4
-Ayuda,http://dl.dropbox.com/s/dbevzunvqpkui7g/AYUDA.mp4
-Barreras,http://dl.dropbox.com/s/wxwgzfdhvdzqk4d/BARRERAS.mp4
-Beca,http://dl.dropbox.com/s/5b9nllo8x6akdot/BECA.mp4
-Ciencia,http://dl.dropbox.com/s/6kctt9h56iq69ru/CIENCIA.mp4
-Comunidad,http://dl.dropbox.com/s/nu771465jkhxczg/COMUNIDAD.mp4
-Conservación,http://dl.dropbox.com/s/kvkgkairyn8jepd/CONSERVACION.mp4
-Contribución,http://dl.dropbox.com/s/a8vmoeyqe4lyoi8/CONTRIBUCION.mp4
-Cultura,http://dl.dropbox.com/s/ulvy6ygv4c2ra0g/CULTURA.mp4
-Defensa,http://dl.dropbox.com/s/eziqry3ujr64js9/DEFENSA.mp4
-Derechos Humanos,http://dl.dropbox.com/s/kzpsba02j2l182i/DERECHOS%20HUMANOS.mp4
-Desarrollo Sustentable,http://dl.dropbox.com/s/cebklfi088r3ciq/DESARROLLO%20SUSTENTABLE.mp4
-Desarrollo,http://dl.dropbox.com/s/n8jvrlqofiecf4n/DESARROLLO.mp4
-Discapacidad,http://dl.dropbox.com/s/n9deb5tj0t46km2/DISCAPACIDAD.mp4
-Educación,http://dl.dropbox.com/s/sie2a1n1gv21wcb/EDUCACION.mp4
-Emergencia,http://dl.dropbox.com/s/vd9kwtyeicahai5/EMERGENCIA.mp4
-Fundación,http://dl.dropbox.com/s/f8eb2yqfkdfnype/FUNDACION.mp4
-Igualdad,http://dl.dropbox.com/s/9pn1e1t2r45s1br/IGUALDAD.mp4
-Justicia,http://dl.dropbox.com/s/dgbfg15toatuhve/JUSTICIA.mp4
-Medio Ambiente,http://dl.dropbox.com/s/zwjfwgyg8ndhsjt/MEDIO%20AMBIENTE.mp4
-Nuevas Realidades,http://dl.dropbox.com/s/a28senv0ousybcg/NUEVAS%20REALIDADES.mp4
-Organización No Gubernamental,http://dl.dropbox.com/s/3wy7wh5kviydy4k/ORGANIZACIÓN%20NO%20GUBERNAMENTAL.mp4
-Personas con Discapacidad,http://dl.dropbox.com/s/b97ku6iu1sn0n0t/PERSONAS%20CON%20DISCAPACIDAD.mp4
-Problemas,http://dl.dropbox.com/s/bthv75kqo1hsrwr/PROBLEMAS.mp4
-Proyectos,http://dl.dropbox.com/s/4rcc99pzb1osxnp/PROYECTOS.mp4
-Refugiado,http://dl.dropbox.com/s/jn79rgt81kh8bsq/REFUGIADO.mp4
-Rescate,http://dl.dropbox.com/s/xb0pa7rp4wz3u1e/RESCATE.mp4
-Sin fines de lucro,http://dl.dropbox.com/s/pm29oie6gkuve2t/SIN%20FINES%20DE%20LUCRO.mp4
-Social,http://dl.dropbox.com/s/cc8q34frqionfs3/SOCIAL.mp4
-Solidaridad,http://dl.dropbox.com/s/if6q25yr6yvtbiy/SOLIDARIDAD.mp4
-Soluciones,http://dl.dropbox.com/s/00tdq8k2qrtlm7v/SOLUCIONES.mp4
+Accesibilidad,http://dl.dropbox.com/s/3a9a6l6gul7js2e/ACCESIBILIDAD.mp4;http://dl.dropbox.com/s/c7tkfkh95s4lcxj/ACCESIBILIDAD.webm
+Alivio,http://dl.dropbox.com/s/7zz742ldmgc37ml/ALIVIO.mp4;http://dl.dropbox.com/s/t3bi98ip5rnke6s/ALIVIO.webm
+Asociación,http://dl.dropbox.com/s/ek5ns6ovjoeobhi/ASOCIACION.mp4;http://dl.dropbox.com/s/nn25k9c7na7dnvr/ASOCIACION.webm
+Ayuda,http://dl.dropbox.com/s/zx155p1306ppg05/AYUDA.mp4;http://dl.dropbox.com/s/wqyetxbg0uysm3g/AYUDA.webm
+Barreras,http://dl.dropbox.com/s/jmdcnmvld5jnrqy/BARRERAS.mp4;http://dl.dropbox.com/s/wqyetxbg0uysm3g/AYUDA.webm
+Beca,http://dl.dropbox.com/s/twlxnwdqg5yx6ik/BECA.mp4;http://dl.dropbox.com/s/emlg11vmfxe7cnp/BECA.webm
+Ciencia,http://dl.dropbox.com/s/lnrlwbc8e3afr1p/CIENCIA.mp4;http://dl.dropbox.com/s/isu2a2ig6pyybom/CIENCIA.webm
+Comunidad,http://dl.dropbox.com/s/uoc2cmjbx9frfco/COMUNIDAD.mp4;http://dl.dropbox.com/s/3zw8mtic872e3bi/COMUNIDAD.webm
+Conservación,http://dl.dropbox.com/s/eiq7smyic56we6y/CONSERVACION.mp4;http://dl.dropbox.com/s/f1hktzilz6g761p/CONSERVACION.webm
+Contribución,http://dl.dropbox.com/s/474ujdxdgwmj30b/CONTRIBUCION.mp4;http://dl.dropbox.com/s/v9kz84njuwxfdn9/CONTRIBUCION.webm
+Cultura,http://dl.dropbox.com/s/aml562uefkftwph/CULTURA.mp4;http://dl.dropbox.com/s/26sewj032p506cb/CULTURA.webm
+Defensa,http://dl.dropbox.com/s/61thz6f7v49gw9n/DEFENSA.mp4;http://dl.dropbox.com/s/o4ixl0jvi7vk0w3/DEFENSA.webm
+Derechos Humanos,http://dl.dropbox.com/s/jwmqtdvl4wnw6c7/DERECHOS%20HUMANOS.mp4;http://dl.dropbox.com/s/08vx98mqs1edcxl/DERECHOS%20HUMANOS.webm
+Desarrollo Sustentable,http://dl.dropbox.com/s/sq2ldlph927hpyk/DESARROLLO%20SUSTENTABLE.mp4;http://dl.dropbox.com/s/ciulwz55t2k4qbe/DESARROLLO%20SUSTENTABLE.webm
+Desarrollo,http://dl.dropbox.com/s/hbckjlyt93tt765/DESARROLLO.mp4;http://dl.dropbox.com/s/3e7l1f0f21lzml4/DESARROLLO.webm
+Discapacidad,http://dl.dropbox.com/s/w2eqt3x8xsxheqt/DISCAPACIDAD.mp4;http://dl.dropbox.com/s/5367u4ou1b6qvi8/DISCAPACIDAD.webm
+Educación,http://dl.dropbox.com/s/qr0e35h5k6bioot/EDUCACION.mp4;http://dl.dropbox.com/s/1otrvth9pvsxkg9/EDUCACION.webm
+Emergencia,http://dl.dropbox.com/s/zzd9e34a3xhtd68/EMERGENCIA.mp4;http://dl.dropbox.com/s/n32f2wtr8blbi1b/EMERGENCIA.webm
+Fundación,http://dl.dropbox.com/s/s3yls56dcakwgpf/FUNDACION.mp4;http://dl.dropbox.com/s/hat3aehpllv9x4m/FUNDACION.webm
+Igualdad,http://dl.dropbox.com/s/130hmtp56zy60g1/IGUALDAD.mp4;http://dl.dropbox.com/s/8bamu89y3kvhxst/IGUALDAD.webm
+Justicia,http://dl.dropbox.com/s/b9bacmy5d09v52q/JUSTICIA.mp4;http://dl.dropbox.com/s/5o7lqo03f0vsuth/JUSTICIA.webm
+Medio Ambiente,http://dl.dropbox.com/s/02njjl4cvuptqeo/MEDIO%20AMBIENTE.mp4;http://dl.dropbox.com/s/57pi25sil92lhbv/MEDIO%20AMBIENTE.webm
+Nuevas Realidades,http://dl.dropbox.com/s/iivpuf5mfdzt528/NUEVAS%20REALIDADES.mp4;http://dl.dropbox.com/s/f7k35lwqj56gwhs/NUEVAS%20REALIDADES.webm
+Organización No Gubernamental,http://dl.dropbox.com/s/3jkd5cv9ek7hjq0/ORGANIZACI%C3%93N%20NO%20GUBERNAMENTAL.mp4;http://dl.dropbox.com/s/klefi70tgqwsasb/ORGANIZACI%C3%93N%20NO%20GUBERNAMENTAL.webm
+Personas con Discapacidad,http://dl.dropbox.com/s/o6c0sg04lyur5ai/PERSONAS%20CON%20DISCAPACIDAD.mp4;http://dl.dropbox.com/s/gfltrcsxrhle4gv/PERSONAS%20CON%20DISCAPACIDAD.webm
+Problemas,http://dl.dropbox.com/s/jxf0vbodrxioflm/PROBLEMAS.mp4;http://dl.dropbox.com/s/t7ct358wz58t59r/PROBLEMAS.webm
+Proyectos,http://dl.dropbox.com/s/1slnkiqbojzmzde/PROYECTOS.mp4;http://dl.dropbox.com/s/xweze9i0vq5td6r/PROYECTOS.webm
+Refugiado,http://dl.dropbox.com/s/ac1e1c0vr2qg5xx/REFUGIADO.mp4;http://dl.dropbox.com/s/bu52a2c75ean6zm/REFUGIADO.webm
+Rescate,http://dl.dropbox.com/s/52ie104i9sg90p2/RESCATE.mp4;http://dl.dropbox.com/s/kmw94renwhf639a/RESCATE.webm
+Sin fines de lucro,http://dl.dropbox.com/s/ix3ym7niwl6h4ib/SIN%20FINES%20DE%20LUCRO.mp4;http://dl.dropbox.com/s/ib60c7vx0wwrrn3/SIN%20FINES%20DE%20LUCRO.webm
+Social,http://dl.dropbox.com/s/gmkhtzy2gqeqmbt/SOCIAL.mp4;http://dl.dropbox.com/s/egpa035fmlyai4d/SOCIAL.webm
+Solidaridad,http://dl.dropbox.com/s/r0xy9nsoy7mpw5j/SOLIDARIDAD.mp4;http://dl.dropbox.com/s/jt06kbfvg39ypys/SOLIDARIDAD.webm
+Soluciones,http://dl.dropbox.com/s/hq9srlqtl7jkqh6/SOLUCIONES.mp4;http://dl.dropbox.com/s/8vnar0yg3qxftzy/SOLUCIONES.webm
 GEOGRAFÍA DE VENEZUELA
 26
-Amazonas,http://dl.dropbox.com/s/ydt5p7pzgtzmmb2/Amazonas.mp4
-Anzoategui,http://dl.dropbox.com/s/u99xbprdfsza064/Anzoategui.mp4
-Apure,http://dl.dropbox.com/s/7sdgsh3v1bry4xr/Apure.mp4
-Aragua,http://dl.dropbox.com/s/5d59zuckj93a1z8/Aragua.mp4
-Barinas,http://dl.dropbox.com/s/bfk1pxeyfj19vq1/Barinas.mp4
-Bolivar,http://dl.dropbox.com/s/prom300h3ryrf0x/Bolivar.mp4
-Carabobo,http://dl.dropbox.com/s/afeuuyek6jlssi5/Carabobo.mp4
-Caracas,http://dl.dropbox.com/s/c37vcft44f4kk8c/Caracas.mp4
-Cojedes,http://dl.dropbox.com/s/r5mxhsh7wt97902/Cojedes.mp4
-Delta Amacuro,http://dl.dropbox.com/s/ofpr8xbto89lta0/Delta%20amacuro.mp4
-Distrito Capital,http://dl.dropbox.com/s/jbqtg3qcvaslymu/Distrito%20Capital.mp4
-Falcon,http://dl.dropbox.com/s/mv2zvwd4zcs8xee/Falcon.mp4
-Guarico,http://dl.dropbox.com/s/30h3gpi6w6hsw3r/Guarico.mp4
-Lara,http://dl.dropbox.com/s/rv2o37a0hfm0to7/Lara.mp4
-Mérida,http://dl.dropbox.com/s/otbpoqc05ac82h8/Merida.mp4
-Miranda,http://dl.dropbox.com/s/509dys6q0r2lyr7/Miranda.mp4
-Monagas,http://dl.dropbox.com/s/9orzwgj7jnt0eke/Monagas.mp4
-Nueva Esparta,http://dl.dropbox.com/s/jinvorlf932x2bi/Nueva%20Esparta.mp4
-Portuguesa,http://dl.dropbox.com/s/i4mw28597cwuw0l/Portuguesa.mp4
-Sucre,http://dl.dropbox.com/s/7hmm6li8l8pc9ze/Sucre.mp4
-Tachira,http://dl.dropbox.com/s/khs8a4j8zqdjkn1/Tachira.mp4
-Trujillo,http://dl.dropbox.com/s/ed8008cjsp7l731/Trujillo.mp4
-Vargas,http://dl.dropbox.com/s/qgr08v3fetp3msd/Vargas.mp4
-Venezuela,http://dl.dropbox.com/s/sbtnwsoaw1olpyv/Venezuela.mp4
-Yaracuy,http://dl.dropbox.com/s/bxht424w956xh4p/Yaracuy.mp4
-Zulia,http://dl.dropbox.com/s/7201ty481otiy3o/Zulia.mp4
+Amazonas,http://dl.dropbox.com/s/ahu0qsj84urmhhp/Amazonas.mp4,http://dl.dropbox.com/s/10ktnb37u317l16/Amazonas.webm
+Anzoátegui,http://dl.dropbox.com/s/6txnvtt7ljdb99r/Anzoategui.mp4,http://dl.dropbox.com/s/45us6kxkqo6ed3p/Anzoategui.webm
+Apure,http://dl.dropbox.com/s/f1289twv0p72b86/Apure.mp4,http://dl.dropbox.com/s/ys20w9x28vt7zur/Apure.webm
+Aragua,http://dl.dropbox.com/s/lh7m1rac6tniqvo/Aragua.mp4,http://dl.dropbox.com/s/tralsivnzcznn70/Aragua.webm
+Barinas,http://dl.dropbox.com/s/30dekezzogrrjfx/Barinas.mp4,http://dl.dropbox.com/s/0cbhuhxcy8u3dy8/Barinas.webm
+Bolívar,http://dl.dropbox.com/s/u81lds24ytcz3xl/Bolivar.mp4,http://dl.dropbox.com/s/7wyxopkdg0pl9ig/Bolivar.webm
+Carabobo,http://dl.dropbox.com/s/gv2cha4bivhlbbs/Carabobo.mp4,http://dl.dropbox.com/s/07wj5hv9mvdwl2e/Carabobo.webm
+Caracas,http://dl.dropbox.com/s/07rywah3oplwiqg/Caracas.mp4,http://dl.dropbox.com/s/kt93mz5yn0nc4c3/Caracas.webm
+Cojedes,http://dl.dropbox.com/s/a6ref4kth6rj9tv/Cojedes.mp4,http://dl.dropbox.com/s/9w6zi3m7n9u4pee/Cojedes.webm
+Delta Amacuro,http://dl.dropbox.com/s/ab8pa0o0al99ipa/Delta%20amacuro.mp4,http://dl.dropbox.com/s/h7bk19hh9ectljp/Delta%20amacuro.webm
+Distrito Capital,http://dl.dropbox.com/s/nmdefj4frcaz2ib/Distrito%20Capital.mp4,http://dl.dropbox.com/s/904tb3manx6k1nc/Distrito%20Capital.webm
+Falcon,http://dl.dropbox.com/s/fyb1c0xyegwe4ah/Falcon.mp4,http://dl.dropbox.com/s/cv8oeu259xx1wlt/Falcon.webm
+Guarico,http://dl.dropbox.com/s/jf75sudd12bi07e/Guarico.mp4,http://dl.dropbox.com/s/mrk35houaj1p22i/Guarico.webm
+Lara,http://dl.dropbox.com/s/g4gv772db00k5mt/Lara.mp4,http://dl.dropbox.com/s/kccg8alvhqnv78k/Lara.webm
+Mérida,http://dl.dropbox.com/s/d0jgs4d5mdrxvgu/Merida.mp4,http://dl.dropbox.com/s/2k99nyeiy2g2pou/Merida.webm
+Miranda,http://dl.dropbox.com/s/f86rbko664hml9o/Miranda.mp4,http://dl.dropbox.com/s/623o270fq9nqv1g/Miranda.webm
+Monagas,http://dl.dropbox.com/s/ugg5gnzmu1ptlx5/Monagas.mp4,http://dl.dropbox.com/s/szkuq297viw5imf/Monagas.webm
+Nueva Esparta,http://dl.dropbox.com/s/898jq59itx3qr0n/Nueva%20Esparta.mp4,http://dl.dropbox.com/s/ti8x98aurramo3t/Nueva%20Esparta.webm
+Portuguesa,http://dl.dropbox.com/s/nyha3iacllpiieo/Portuguesa.mp4,http://dl.dropbox.com/s/qd9wkmtoq7d7dbw/Portuguesa.webm
+Sucre,http://dl.dropbox.com/s/csz4opxe6np94ty/Sucre.mp4,http://dl.dropbox.com/s/tfw06qqp1aj1dc1/Sucre.webm
+Tachira,http://dl.dropbox.com/s/iqn2sqrtkp0znei/Tachira.mp4,http://dl.dropbox.com/s/tq5a1sc6359slrh/Tachira.webm
+Trujillo,http://dl.dropbox.com/s/0iwgov6rw412kk0/Trujillo.mp4,http://dl.dropbox.com/s/oy2d1ylykiuepu8/Trujillo.webm
+Vargas,http://dl.dropbox.com/s/w294rcs9vrhihfi/Vargas.mp4,http://dl.dropbox.com/s/rngznosja640l93/Vargas.webm
+Venezuela,http://dl.dropbox.com/s/i3jimx6ech5o0u8/Venezuela.mp4,http://dl.dropbox.com/s/jshnks1fhpstk20/Venezuela.webm
+Yaracuy,http://dl.dropbox.com/s/qhc69x1zb31oj3m/Yaracuy.mp4,http://dl.dropbox.com/s/u4v9hmoq5ikz4w3/Yaracuy.webm
+Zulia,http://dl.dropbox.com/s/0t2exqx4fk5hq4h/Zulia.mp4,http://dl.dropbox.com/s/cj45taz186u3inh/Zulia.webm
 GERENCIA
 33
-Accionista,http://dl.dropbox.com/s/0av40zlubrdbxmq/ACCIONISTA.mp4
-Análisis,http://dl.dropbox.com/s/93zj8adnovfpjna/ANALISIS.mp4
-Auditoría,http://dl.dropbox.com/s/3ir24unikkuzhhw/AUDITORIA.mp4
-Balance,http://dl.dropbox.com/s/rjkkbm5jnw78aow/BALANCE.mp4
-Banca Rota,http://dl.dropbox.com/s/wpjheb6j6cj8s82/BANCARROTA.mp4
-Caja Chica,http://dl.dropbox.com/s/121iwrtfjw6pp7b/CAJA%20CHICA.mp4
-Capital,http://dl.dropbox.com/s/gswrukkql8now57/CAPITAL.mp4
-Compañía,http://dl.dropbox.com/s/qbi3bs9n1b78y5l/COMPA%C3%91IA.mp4
-Contabilidad,http://dl.dropbox.com/s/yf7y43l1tofkzc5/CONTABILIDAD.mp4
-Contrato,http://dl.dropbox.com/s/asxe09vadle2dkb/CONTRATO.mp4
-Cuentas por cobrar,http://dl.dropbox.com/s/6vp8pcigkgana5x/CUENTAS%20POR%20COBRAR.mp4
-Cuentas por pagar,http://dl.dropbox.com/s/j51dqvcumrog3t4/CUENTAS%20POR%20PAGAR.mp4
-Deuda,http://dl.dropbox.com/s/mji7zhsunyeb1wq/DEUDA.mp4
-Economía,http://dl.dropbox.com/s/3ze83ab4l4fes9d/ECONOMIA.mp4
-Efectividad,http://dl.dropbox.com/s/7xx3nnbofrljq7p/EFECTIVIDAD.mp4
-Empleo,http://dl.dropbox.com/s/6b3bk6gng72mizs/EMPLEO.mp4
-Finanzas,http://dl.dropbox.com/s/tyjtgj0we42j3yw/FINANZAS.mp4
-Flujo de Caja,http://dl.dropbox.com/s/nunzf6oot2j9l71/FLUJO%20DE%20CAJA.mp4
-Impuestos,http://dl.dropbox.com/s/pgaglva0lpy4ukn/IMPUESTOS.mp4
-Inversión,http://dl.dropbox.com/s/4s9cyrd4efrh8x0/INVERSION.mp4
-Marca,http://dl.dropbox.com/s/pkf07chiwcmflbr/MARCA.mp4
-Nómina,http://dl.dropbox.com/s/hkkljhv4ken30wa/NOMINA.mp4
-Operaciones,http://dl.dropbox.com/s/6weebhkpbwutqni/OPERACIONES.mp4
-Plan,http://dl.dropbox.com/s/z9te4lh5lenaxq8/PLAN.mp4
-Presupuesto,http://dl.dropbox.com/s/47fqsec6l5cn5n8/PRESUPUESTO.mp4
-Productividad,http://dl.dropbox.com/s/iq0yp6lwqdi5qgr/PRODUCTIVIDAD.mp4
-Proyectos,http://dl.dropbox.com/s/fp8095jnichc2il/PROYECTO.mp4
-Responsabilidad Social,http://dl.dropbox.com/s/903gh45jchjx33t/RESPONSABILIDAD%20SOCIAL.mp4
-Socio,http://dl.dropbox.com/s/8jfv6tm6kpbir6n/SOCIO.mp4
-Sucursal,http://dl.dropbox.com/s/l2kdtbvm7rjevim/SUCURSAL.mp4
-Tendencia,http://dl.dropbox.com/s/qladzw7j94et6ev/TENDENCIA.mp4
-Valor,http://dl.dropbox.com/s/00qz0ig1ok1o90g/VALOR.mp4
-Ventas,http://dl.dropbox.com/s/jj58smtkmtsuaka/VENTAS.mp4
+Accionista,http://dl.dropbox.com/s/3n8vqdfjr2q817e/ACCIONISTA.mp4;http://dl.dropbox.com/s/6kmggt84odrno7h/ACCIONISTA.webm
+Análisis,http://dl.dropbox.com/s/r7gechadegtxvu2/ANALISIS.mp4;http://dl.dropbox.com/s/1wd2ssxjsjig66a/ANALISIS.webm
+Auditoría,http://dl.dropbox.com/s/6opiw19en52438d/AUDITORIA.mp4;http://dl.dropbox.com/s/1lhapc5q6hnqhm6/AUDITORIA.webm
+Balance,http://dl.dropbox.com/s/7lax50bk26xv3ne/BALANCE.mp4;http://dl.dropbox.com/s/ek9cavcm5l8zleb/BALANCE.webm
+Banca Rota,http://dl.dropbox.com/s/wsbz0onujziuy4n/BANCARROTA.mp4;http://dl.dropbox.com/s/x6kjaibdxyb38nr/BANCARROTA.webm
+Caja Chica,http://dl.dropbox.com/s/3whsjl6xfzokl1q/CAJA%20CHICA.mp4;http://dl.dropbox.com/s/qk353pavwzji1cd/CAJA%20CHICA.webm
+Capital,http://dl.dropbox.com/s/allpxgacy7609mn/CAPITAL.mp4;http://dl.dropbox.com/s/tl3gi40e96eyuo5/CAPITAL.webm
+Compañía,http://dl.dropbox.com/s/ahpemaj9hvexrwa/COMPA%C3%91IA.mp4;http://dl.dropbox.com/s/ve1nzkw3yn7c9b5/COMPA%C3%91IA.webm
+Contabilidad,http://dl.dropbox.com/s/h809ds2yqzi2j5n/CONTABILIDAD.mp4;http://dl.dropbox.com/s/nzh1un93peu20bp/CONTABILIDAD.webm
+Contrato,http://dl.dropbox.com/s/i4vre7kvxrbeeaw/CONTRATO.mp4;http://dl.dropbox.com/s/xjuz87xzrb1wuke/CONTRATO.webm
+Cuentas por cobrar,http://dl.dropbox.com/s/g28so3dqp48bosl/CUENTAS%20POR%20COBRAR.mp4;http://dl.dropbox.com/s/sczupf0i7ee8kjq/CUENTAS%20POR%20COBRAR.webm
+Cuentas por pagar,http://dl.dropbox.com/s/tfoutnrw08m243d/CUENTAS%20POR%20PAGAR.mp4;http://dl.dropbox.com/s/qgxyy163qlwbhhs/CUENTAS%20POR%20PAGAR.webm
+Deuda,http://dl.dropbox.com/s/8mcufgrkziwd8dg/DEUDA.mp4;http://dl.dropbox.com/s/jcvy87hejts4dd6/DEUDA.webm
+Economía,http://dl.dropbox.com/s/mt0ch3pisvmc1gz/ECONOMIA.mp4;http://dl.dropbox.com/s/9ep7tkiseiu3piy/ECONOMIA.webm
+Efectividad,http://dl.dropbox.com/s/qfnqafww1hdgp2r/EFECTIVIDAD.mp4;http://dl.dropbox.com/s/fezzm08ld3nvry7/EFECTIVIDAD.webm
+Empleo,http://dl.dropbox.com/s/qeuelt038753jd5/EMPLEO.mp4;http://dl.dropbox.com/s/cw4kgaxxxo9n4ym/EMPLEO.webm
+Finanzas,http://dl.dropbox.com/s/hm34cshdlekipq8/FINANZAS.mp4;http://dl.dropbox.com/s/va5ta77f7cx3lb4/FINANZAS.webm
+Flujo de Caja,http://dl.dropbox.com/s/jvfzf6re29mjf56/FLUJO%20DE%20CAJA.mp4;http://dl.dropbox.com/s/f8791aqzbpkfjra/FLUJO%20DE%20CAJA.webm
+Impuestos,http://dl.dropbox.com/s/zkef2eysn1356bb/IMPUESTOS.mp4;http://dl.dropbox.com/s/sb31knm856v4zpt/IMPUESTOS.webm
+Inversión,http://dl.dropbox.com/s/gjyo6uzwpwc75ec/INVERSION.mp4;http://dl.dropbox.com/s/yjoxgu3x2v36yxr/INVERSION.webm
+Marca,http://dl.dropbox.com/s/9n08z3uvxevmcgl/MARCA.mp4;http://dl.dropbox.com/s/gra8ekkc0isguwj/MARCA.webm
+Nómina,http://dl.dropbox.com/s/twhdvdm4tj8pmws/NOMINA.mp4;http://dl.dropbox.com/s/qx22uua0daj65of/NOMINA.webm
+Operaciones,http://dl.dropbox.com/s/rgfnnk8o6lp15hw/OPERACIONES.mp4;http://dl.dropbox.com/s/9qpwn5a7qz9w6vs/OPERACIONES.webm
+Plan,http://dl.dropbox.com/s/rr182m20qx2zor0/PLAN.mp4;http://dl.dropbox.com/s/608xh52c80mpxw2/PLAN.webm
+Presupuesto,http://dl.dropbox.com/s/at7314yn4c015so/PRESUPUESTO.mp4;http://dl.dropbox.com/s/1tt2rt724lpg27e/PRESUPUESTO.webm
+Productividad,http://dl.dropbox.com/s/o0ozqs4ed3wtkqx/PRODUCTIVIDAD.mp4;http://dl.dropbox.com/s/kk1nrlsw86sia06/PRODUCTIVIDAD.webm
+Proyectos,http://dl.dropbox.com/s/r4endpwi1k2yy7z/PROYECTO.mp4;http://dl.dropbox.com/s/fy0j7a838pyzf1b/PROYECTO.webm
+Responsabilidad Social,http://dl.dropbox.com/s/5h90ndi6n0dfkv0/RESPONSABILIDAD%20SOCIAL.mp4;http://dl.dropbox.com/s/ni0bl3oqcikd6nt/RESPONSABILIDAD%20SOCIAL.webm
+Socio,http://dl.dropbox.com/s/gfgzmqwrpomc6nr/SOCIO.mp4;http://dl.dropbox.com/s/i0niybsn9xt3jgf/SOCIO.webm
+Sucursal,http://dl.dropbox.com/s/vwb2f8j6728s9yv/SUCURSAL.mp4;http://dl.dropbox.com/s/2kz0w5yzfltc1hl/SUCURSAL.webm
+Tendencia,http://dl.dropbox.com/s/406gboxumu2otvi/TENDENCIA.mp4;http://dl.dropbox.com/s/w4o9gp7l49t7z9r/TENDENCIA.webm
+Valor,http://dl.dropbox.com/s/ywwobslinjaimae/VALOR.mp4;http://dl.dropbox.com/s/77x8v1jiuuiy8mi/VALOR.webm
+Ventas,http://dl.dropbox.com/s/jkc6avoijut6l8h/VENTAS.mp4;http://dl.dropbox.com/s/dijnz5lmv6s44a8/VENTAS.webm
 MUNDO ACUÁTICO
 35
-Aletas,http://dl.dropbox.com/s/dxv1mz7ydurhll5/aletas.mp4
-Alga,http://dl.dropbox.com/s/nvlkjcnizfqodk3/algas.mp4
-Arena,http://dl.dropbox.com/s/msok6nwdhkybjun/arena.mp4
-Ballena,http://dl.dropbox.com/s/aef30mvy2v7ets2/ballena.mp4
-Bucear con Tanque,http://dl.dropbox.com/s/hnb33gv7t9nlve8/bucear%20con%20tanque.mp4
-Bucear en Apnea,http://dl.dropbox.com/s/1wutxmqr5fg73br/bucear%20en%20apnea.mp4
-Bucear,http://dl.dropbox.com/s/69rvejcsjcm4l8s/bucear.mp4
-Caballito de mar,http://dl.dropbox.com/s/y4xj2qw8o476mju/caballito%20de%20mar.mp4
-Cangrejo,http://dl.dropbox.com/s/e1dbh155emcynqi/cangrejo.mp4
-Caracoles,http://dl.dropbox.com/s/eklcbl1cyrvdfnx/caracoles.mp4
-Clavado,http://dl.dropbox.com/s/5zzxpebk84ru3tt/clavado.mp4
-Corales,http://dl.dropbox.com/s/523oanrogycx404/corales.mp4
-Delfin,http://dl.dropbox.com/s/c3jifln90142j02/delfin.mp4
-Deporte Acuático,http://dl.dropbox.com/s/69m71c83yeeq5iy/deporte%20acu%C3%A1tico.mp4
-Estrella de mar,http://dl.dropbox.com/s/njksp396rx8kyga/estrella%20de%20mar.mp4
-Flotar,http://dl.dropbox.com/s/stl1cabv0qgb04k/flotar.mp4
-Malecon,http://dl.dropbox.com/s/rzg5yl3yz7n1tqy/malec%C3%B3n.mp4
-Mar de leva,http://dl.dropbox.com/s/l2e5a871uzt4438/mar%20de%20leva.mp4
-Mar,http://dl.dropbox.com/s/btvgfn4wjquogst/mar.mp4
-Máscara,http://dl.dropbox.com/s/83r64g284wvvaa3/m%C3%A1scara.mp4
-Nadador,http://dl.dropbox.com/s/bbeh1ixw7b6qpdu/nadador.mp4
-Nadar,http://dl.dropbox.com/s/xpaa4c0aebomurw/nadar.mp4
-Natación,http://dl.dropbox.com/s/mouqn28y4lscwdo/nataci%C3%B3n.mp4
-Oceano,http://dl.dropbox.com/s/7zxczftgr49o6lv/oceano.mp4
-Ola,http://dl.dropbox.com/s/g8flzmvb2bko0w1/ola.mp4
-Ostra,http://dl.dropbox.com/s/ej9x128orkhgj3z/ostra.mp4
-Piscina,http://dl.dropbox.com/s/298fydsmiikirhl/piscina.mp4
-Profundidad,http://dl.dropbox.com/s/860qekl2qujft15/profundidad.mp4
-Redes,http://dl.dropbox.com/s/j8bkuted74u7hj1/redes.mp4
-Respirar,http://dl.dropbox.com/s/91vrbbg9ntioril/respirar.mp4
-Salvavidas,http://dl.dropbox.com/s/wy6685a1t7u8wa2/salvavidas.mp4
-Snorkeling,http://dl.dropbox.com/s/qthjr1sh9bzalg2/snorkeling.mp4
-Surfear,http://dl.dropbox.com/s/gi5dnjtaqiiricy/surfear.mp4
-Tiburón,http://dl.dropbox.com/s/r82y3k2rnwnsw2o/tibur%C3%B3n.mp4
-Tsunami,http://dl.dropbox.com/s/cbpkxdyxqv8fzmc/tsunami.mp4
+Aletas,http://dl.dropbox.com/s/ry3ud9510lexlx6/aletas.mp4,http://dl.dropbox.com/s/j9chptahirufinv/aletas.webm
+Alga,http://dl.dropbox.com/s/1o928g5cnlpwcgg/algas.mp4,http://dl.dropbox.com/s/05fpw0x7ywmvpb1/algas.webm
+Arena,http://dl.dropbox.com/s/mjzaeorqy1vhkxa/arena.mp4,http://dl.dropbox.com/s/9tpbnj1rwbaab4d/arena.webm
+Ballena,http://dl.dropbox.com/s/u9zf3q0nh4ketet/ballena.mp4,http://dl.dropbox.com/s/pgyectancuyow08/ballena.webm
+Bucear con Tanque,http://dl.dropbox.com/s/6nle01ujgrxh5tr/bucear%20con%20tanque.mp4,http://dl.dropbox.com/s/5r2fm3ndh0w87a7/bucear%20con%20tanque.webm
+Bucear en Apnea,http://dl.dropbox.com/s/4ussbsaaafe7a1g/bucear%20en%20apnea.mp4,http://dl.dropbox.com/s/jzpb0uz0m2qi9t4/bucear%20en%20apnea.webm
+Bucear,http://dl.dropbox.com/s/nbh2wo4ee7gaug3/bucear.mp4,http://dl.dropbox.com/s/pbnwad92ukcsx6x/bucear.webm
+Caballito de mar,http://dl.dropbox.com/s/jdo8mowdajnq2uy/caballito%20de%20mar.mp4,http://dl.dropbox.com/s/xsmu7p8r9zs2491/caballito%20de%20mar.webm
+Cangrejo,http://dl.dropbox.com/s/7h9ik1pjnqbxri8/cangrejo.mp4,http://dl.dropbox.com/s/wbe3nqg6k6jl8xf/cangrejo.webm
+Caracoles,http://dl.dropbox.com/s/hlz5ae37pn5obi5/caracoles.mp4,http://dl.dropbox.com/s/bsi3tkn379g79ar/caracoles.webm
+Clavado,http://dl.dropbox.com/s/26guywi8aiyym4n/clavado.mp4,http://dl.dropbox.com/s/0qej26ffi0sizv8/clavado.webm
+Corales,http://dl.dropbox.com/s/9jm9efh0u80760j/corales.mp4,http://dl.dropbox.com/s/yqd2qe553ohkixz/corales.webm
+Delfin,http://dl.dropbox.com/s/vu1inxkktherfig/delfin.mp4,http://dl.dropbox.com/s/r595ue2unbx3m02/delfin.webm
+Deporte Acuático,http://dl.dropbox.com/s/hxikg35spbyaqbh/deporte%20acu%C3%A1tico.mp4,http://dl.dropbox.com/s/xt039jqqzxyrh1n/deporte%20acu%C3%A1tico.webm
+Estrella de mar,http://dl.dropbox.com/s/s7gw06unym7emfx/estrella%20de%20mar.mp4,http://dl.dropbox.com/s/p6s5hn13cxhsfov/estrella%20de%20mar.webm
+Flotar,http://dl.dropbox.com/s/qqiuosmlrpp3hip/flotar.mp4,http://dl.dropbox.com/s/p4hvbwubdktunmn/flotar.webm
+Malecon,http://dl.dropbox.com/s/xeks0fhzb7gajrz/malec%C3%B3n.mp4,http://dl.dropbox.com/s/behuuhfo0vry54k/malec%C3%B3n.webm
+Mar de leva,http://dl.dropbox.com/s/00xra298n24n1uq/mar%20de%20leva.mp4,http://dl.dropbox.com/s/m2u3gz6kno5trd9/mar%20de%20leva.webm
+Mar,http://dl.dropbox.com/s/cp506tvxoj0xhzj/mar.mp4,http://dl.dropbox.com/s/ra9n7lo6rlddmj5/mar.webm
+Máscara,http://dl.dropbox.com/s/d00em44v6bftvg0/m%C3%A1scara.mp4,http://dl.dropbox.com/s/ihwjenofqegp5q0/m%C3%A1scara.webm
+Nadador,http://dl.dropbox.com/s/565o36sa1l2rl2a/nadador.mp4,http://dl.dropbox.com/s/vqfimvpxj92lutq/nadador.webm
+Nadar,http://dl.dropbox.com/s/zzi5321hd7g9bvi/nadar.mp4,http://dl.dropbox.com/s/zifqq1luprvjyuk/nadar.webm
+Natación,http://dl.dropbox.com/s/zifqq1luprvjyuk/nadar.webm,http://dl.dropbox.com/s/hfqacxwszqna1jv/nataci%C3%B3n.webm
+Oceano,http://dl.dropbox.com/s/5ew3e99mzxsfqnz/oceano.mp4,http://dl.dropbox.com/s/jokaypzw9wxefxv/oceano.webm
+Ola,http://dl.dropbox.com/s/aoqcxrycpfozen2/ola.mp4,http://dl.dropbox.com/s/s6qahh0czeez1p2/ola.webm
+Ostra,http://dl.dropbox.com/s/l60ym8rwhqcsqv1/ostra.mp4,http://dl.dropbox.com/s/ltfy361725gt36f/ostra.webm
+Piscina,http://dl.dropbox.com/s/aqrxivnk4lcrtux/piscina.mp4,http://dl.dropbox.com/s/1ormk557bshnrol/piscina.webm
+Profundidad,http://dl.dropbox.com/s/at3i9hb4x84e90j/profundidad.mp4,http://dl.dropbox.com/s/btu3hbriqb1k6ri/profundidad.webm
+Redes,http://dl.dropbox.com/s/i9qk3nyzmheu3bf/redes.mp4,http://dl.dropbox.com/s/zqghspnogv0g1qc/redes.webm
+Respirar,http://dl.dropbox.com/s/7y9abfe5glxq8n8/respirar.mp4,http://dl.dropbox.com/s/1c7rj9d7xnex5b1/respirar.webm
+Salvavidas,http://dl.dropbox.com/s/sk0m19zvk9i22oh/salvavidas.mp4,http://dl.dropbox.com/s/jn3wb9pestx5kfk/salvavidas.webm
+Snorkeling,http://dl.dropbox.com/s/o1ufz4cciusq331/snorkeling.mp4,http://dl.dropbox.com/s/a6tzkhgzqqf4g8u/snorkeling.webm
+Surfear,http://dl.dropbox.com/s/y6ut12hndxbfh33/surfear.mp4,http://dl.dropbox.com/s/fj7em9ofpd0b9vj/surfear.webm
+Tiburón,http://dl.dropbox.com/s/hdvp2z40irlhcwf/tibur%C3%B3n.mp4,http://dl.dropbox.com/s/9xskc3czknl83rr/tibur%C3%B3n.webm
+Tsunami,http://dl.dropbox.com/s/dhlw1glntpdocuf/tsunami.mp4,http://dl.dropbox.com/s/hhevxjkd301wd7q/tsunami.webm
 MUNDO INFANTIL
-41
-Aventura,http://dl.dropbox.com/s/wag8llyw6kqkc8z/aventura.mp4
-Bicicleta,http://dl.dropbox.com/s/dirs31xhtumte0q/Bicicleta.mp4
-Caramelos,http://dl.dropbox.com/s/w8onjyf01bxdc6u/Caramelos.mp4
-Castigo,http://dl.dropbox.com/s/c7rt1mdslp6bjrw/castigo.mp4
-Chuchería,http://dl.dropbox.com/s/ab04asoiwuy0t1l/Chucheria.mp4
-Colchón Inflable,http://dl.dropbox.com/s/fz79j2xtwnmpnto/colchon_inflable.mp4
-Comiquitas,http://dl.dropbox.com/s/5ef3mnh8ilijqsa/comiquitas.mp4
-Cuento,http://dl.dropbox.com/s/9e7lihwm3njscom/cuento.mp4
-Cumpleaños,http://dl.dropbox.com/s/ad6l2mh9g2bl0m1/cumpleanyos.mp4
-Diversión,http://dl.dropbox.com/s/it4pq9vvtkpbarg/diversion.mp4
-Dulces,http://dl.dropbox.com/s/czgynf4wghnt4qi/dulces.mp4
-Escondite,http://dl.dropbox.com/s/ivuwcu4fuzyzvd4/Escondite.mp4
-Escuela,http://dl.dropbox.com/s/8hoz2ipc4nibqsf/Escuela.mp4
-Fantasía,http://dl.dropbox.com/s/duxlios8jjq9ojt/fantasia.mp4
-Heladero,http://dl.dropbox.com/s/iliacq18ozaix1b/heladero.mp4
-Helado,http://dl.dropbox.com/s/94l1kl65rdnsjz4/helado.mp4
-Imaginación,http://dl.dropbox.com/s/33yt66m2desfowt/imaginacion.mp4
-Juego,http://dl.dropbox.com/s/3uiktrcar5gltwz/juego.mp4
-Maestra,http://dl.dropbox.com/s/6zr0xxlhgo5cirk/maestra.mp4
-Mascota,http://dl.dropbox.com/s/w0ut0stxsxtm0wv/mascota.mp4
-Merienda,http://dl.dropbox.com/s/29y5l85n00a4zqk/merienda.mp4
-Muñeca,http://dl.dropbox.com/s/z81nx7dokbx6fkh/munyeca.mp4
-Niña,http://dl.dropbox.com/s/os2253v1htpileh/Ninya.mp4
-Niño,http://dl.dropbox.com/s/ct7q6y535uzf40w/ninyo.mp4
-Papagayo,http://dl.dropbox.com/s/272u9kd2pzkxq08/papagayo.mp4
-Parque de Diversiones,http://dl.dropbox.com/s/g17qbwj5ynjrjk9/parque_de_diversiones.mp4
-Patines,http://dl.dropbox.com/s/1np785gjzm1uzva/patines.mp4
-Pediatra,http://dl.dropbox.com/s/r4etooezuwsm56d/pediatra.mp4
-Pelota,http://dl.dropbox.com/s/3ifvfqlwlg0soev/pelota.mp4
-Perinola,http://dl.dropbox.com/s/lrzon6665zvn8so/perinola.mp4
-Piñata,http://dl.dropbox.com/s/6phjwk2l61ca54b/pinyata.mp4
-Recreo,http://dl.dropbox.com/s/pllha0j2rihmgl0/recreo.mp4
-Regalo,http://dl.dropbox.com/s/shicltyn9imbvbw/regalo.mp4
-Regaño,http://dl.dropbox.com/s/xbc9ny8uk3g1xe3/reganyo.mp4
-Rompe Cabezas,http://dl.dropbox.com/s/mz3b5ehr5abwvm2/rompecabezas.mp4
-Saltar,http://dl.dropbox.com/s/5d3zk5sjjk8lfxz/saltar.mp4
-San Nicolás,http://dl.dropbox.com/s/fmnwg4qj3okmwsl/san%20nicolas.mp4
-Super Héroe,http://dl.dropbox.com/s/k1a18kvovghrbrh/superheroe.mp4
-Tarea,http://dl.dropbox.com/s/sqw9h9efzcwmdc2/tarea.mp4
-Vacuna,http://dl.dropbox.com/s/4h2f74puxbbmnft/vacuna.mp4
-Video Juego,http://dl.dropbox.com/s/rxruvqqffk25yfr/videojuego.mp4
+44
+Aventura,http://dl.dropbox.com/s/wja2tx5toqqjfyz/aventura.mp4,http://dl.dropbox.com/s/vr61qgrns7a1qg4/aventura.webm
+Bicicleta,http://dl.dropbox.com/s/5gxlkutxj2n6jy3/Bicicleta.mp4,http://dl.dropbox.com/s/ge1gdt5snoy6kl0/Bicicleta.webm
+Caramelos,http://dl.dropbox.com/s/ed7ou4povlzs52g/Caramelos.mp4,http://dl.dropbox.com/s/9p1jke9u6lgj6ow/Caramelos.webm
+Castigo,http://dl.dropbox.com/s/bbsopwzq30bphck/castigo.mp4,http://dl.dropbox.com/s/nlxymqeo6dhs84g/castigo.webm
+Chuchería,http://dl.dropbox.com/s/uqotz4tqtde2id3/Chucheria.mp4,http://dl.dropbox.com/s/uimc7eunlamqnxv/Chucheria.webm
+Colchón Inflable,http://dl.dropbox.com/s/xdr7d1elomffzye/colchon_inflable.mp4,http://dl.dropbox.com/s/tsd1e4ihkawyssu/colchon_inflable.webm
+Comiquitas,http://dl.dropbox.com/s/v99mtcs73cugwxz/comiquitas.mp4,http://dl.dropbox.com/s/epnc7oy9hxvzrkk/comiquitas.webm
+Correr,http://dl.dropbox.com/s/tmidggd8c4bkxc8/correr.mp4,http://dl.dropbox.com/s/7q9mhelob1e3bvv/correr.webm
+Cuento,http://dl.dropbox.com/s/z97pmxe9jfd2p53/cuento.mp4,http://dl.dropbox.com/s/45f419uyfo6ipru/cuento.webm
+Cumpleaños,http://dl.dropbox.com/s/wyecuphgcvk3ir1/cumpleanyos.mp4,http://dl.dropbox.com/s/0xi77qsp79p3gvd/cumpleanyos.webm
+Diversión,http://dl.dropbox.com/s/7l0kmcfd53rss3q/diversion.mp4,http://dl.dropbox.com/s/3el8scyssa2jnjm/diversion.webm
+Dulces,http://dl.dropbox.com/s/j5jktqrml4tik4y/dulces.mp4,http://dl.dropbox.com/s/tcd6k1zev00c4kr/dulces.webm
+Escondite,http://dl.dropbox.com/s/r89uujkklefl5pm/Escondite.mp4,http://dl.dropbox.com/s/ov54j8eojw10f2u/Escondite.webm
+Escuela,http://dl.dropbox.com/s/0oiw0d7zn7ey4gj/Escuela.mp4,http://dl.dropbox.com/s/hfr51bfvowyw3hy/Escuela.webm
+Fantasía,http://dl.dropbox.com/s/86762kcxhxlz6uy/fantasia.mp4,http://dl.dropbox.com/s/m8khuk8lfdvjj4j/fantasia.webm
+Heladero,http://dl.dropbox.com/s/0felnjg1o2btsnv/heladero.mp4,http://dl.dropbox.com/s/zfqxe75aarzl026/heladero.webm
+Helado,http://dl.dropbox.com/s/8jh2nam8jmme6ry/helado.mp4,http://dl.dropbox.com/s/vf8s3rf2pfuqtkz/helado.webm
+Imaginación,http://dl.dropbox.com/s/daozxx2ms38rhdo/imaginacion.mp4,http://dl.dropbox.com/s/0xhkof95jicfs7f/imaginacion.webm
+Juego,http://dl.dropbox.com/s/hwj18k36k0m0x4l/juego.mp4,http://dl.dropbox.com/s/hx8xu5eo675k4l0/juego.webm
+Madre,http://dl.dropbox.com/s/pim2i85tuf02j0i/madre.mp4,http://dl.dropbox.com/s/b4i0h0kisp0ifum/madre.webm
+Maestra,http://dl.dropbox.com/s/ex5sofqvfy9kphp/maestra.mp4,http://dl.dropbox.com/s/mwklwncijrftdi0/maestra.webm
+Mascota,http://dl.dropbox.com/s/jzagiefnz2uzegt/mascota.mp4,http://dl.dropbox.com/s/kir56oh1l66llvv/mascota.webm
+Merienda,http://dl.dropbox.com/s/lvr3fe5a23f7cg4/merienda.mp4,http://dl.dropbox.com/s/2xouy7yzp3mdrar/merienda.webm
+Muñeca,http://dl.dropbox.com/s/90738m540fenns9/munyeca.mp4,http://dl.dropbox.com/s/1l4m8ihxgljf74w/munyeca.webm
+Niña,http://dl.dropbox.com/s/kx4w5cwp4ge9lju/Ninya.mp4,http://dl.dropbox.com/s/tnj8ebvjzac3lmb/Ninya.webm
+Niño,http://dl.dropbox.com/s/5i6lb0xnq00jmi7/ninyo.mp4,http://dl.dropbox.com/s/60dake2e0gzmoni/ninyo.webm
+Padre,http://dl.dropbox.com/s/hiv6485bf8dz2uh/padre.mp4,http://dl.dropbox.com/s/g6aeaufm82ndpg2/padre.webm
+Papagayo,http://dl.dropbox.com/s/4mwx90d9xqlvdxu/papagayo.mp4,http://dl.dropbox.com/s/clw1hh4ai5fwwt6/papagayo.webm
+Parque de Diversiones,http://dl.dropbox.com/s/gh7c9bmqffycoc2/parque_de_diversiones.mp4,http://dl.dropbox.com/s/78tmx7kl05hrr2p/parque_de_diversiones.webm
+Patines,http://dl.dropbox.com/s/sxhgsa2853r4deg/patines.mp4,http://dl.dropbox.com/s/64ey3gdq2fbgr4w/patines.webm
+Pediatra,http://dl.dropbox.com/s/70k20wx9w1b3j4d/pediatra.mp4,http://dl.dropbox.com/s/h0l6jp8qwpp3ijh/pediatra.webm
+Pelota,http://dl.dropbox.com/s/jkcqtizy9yzww31/pelota.mp4,http://dl.dropbox.com/s/p4f0tfh3s8s2sks/pelota.webm
+Perinola,http://dl.dropbox.com/s/1xjj18x4do55yuh/perinola.mp4,http://dl.dropbox.com/s/t1pa74oafp0elc9/perinola.webm
+Piñata,http://dl.dropbox.com/s/a7v0yptlhisgl8w/pinyata.mp4,http://dl.dropbox.com/s/cooynfqaoo7jfuw/pinyata.webm
+Recreo,http://dl.dropbox.com/s/qi4elmb5yngx3ex/recreo.mp4,http://dl.dropbox.com/s/g719ahbpw262ych/recreo.webm
+Regalo,http://dl.dropbox.com/s/rhk3vp2xixpn1uv/regalo.mp4,http://dl.dropbox.com/s/rg6v7o6vgyy326p/regalo.webm
+Regaño,http://dl.dropbox.com/s/kxw3s4ac9bhyhak/reganyo.mp4,http://dl.dropbox.com/s/o92s4gxcg9firmz/reganyo.webm
+Rompe Cabezas,http://dl.dropbox.com/s/ifkd2htd1jz9cks/rompecabezas.mp4,http://dl.dropbox.com/s/qjlpddvs1xjb4gw/rompecabezas.webm
+Saltar,http://dl.dropbox.com/s/ood3pohwlfwsi6m/saltar.mp4,http://dl.dropbox.com/s/ekrbu0olekz587l/saltar.webm
+San Nicolás,http://dl.dropbox.com/s/xoh51frikcse8is/san%20nicolas.mp4,http://dl.dropbox.com/s/tjpbf5glj52zivk/san%20nicolas.webm
+Super Héroe,http://dl.dropbox.com/s/7k2t4z0xy3yislt/superheroe.mp4,http://dl.dropbox.com/s/9xugm4yehwdnidp/superheroe.webm
+Tarea,http://dl.dropbox.com/s/9vnlhspqd2hipwq/tarea.mp4,http://dl.dropbox.com/s/i9iexdw7pgljsei/tarea.webm
+Vacuna,http://dl.dropbox.com/s/vx7q6z3uebwqi3n/vacuna.mp4,http://dl.dropbox.com/s/y0ya7hbt1q7r0hv/vacuna.webm
+Video Juego,http://dl.dropbox.com/s/pimariu6a3zguuz/videojuego.mp4,http://dl.dropbox.com/s/mmphy42hvfver0z/videojuego.webm
 PALABRAS DE WINDA
 30
 Abrazos,http://dl.dropbox.com/s/auqsdljtfetsohw/abrazos.mp4;http://dl.dropbox.com/s/ubg00pzin18lmaq/abrazos.webm
@@ -663,115 +673,115 @@ PREGUNTAS
 ¿Quién?,http://dl.dropbox.com/s/7vudemw1lp1lk7y/quien.mp4;http://dl.dropbox.com/s/8c2thqdnchyfrlm/quien.webm
 PREVENCIÓN DE VIH Y SIDA
 35
-Abstinencia,http://dl.dropbox.com/s/7wyh94lz444wiw7/ABSTINENCIA.mp4
-Anticonceptivo,http://dl.dropbox.com/s/w9tyjyits2ewpsn/ANTICONCEPTIVO.mp4
-Apoyo,http://dl.dropbox.com/s/hh9toh2y5ybwr6q/APOYO.mp4
-Ayuda,http://dl.dropbox.com/s/0ek8jrpbx7agolk/AYUDA.mp4
-Células,http://dl.dropbox.com/s/czl3deaov62ykj0/CELULAS.mp4
-Conciencia,http://dl.dropbox.com/s/f517smyu9wo9clq/CONCIENCIA.mp4
-Condón Femenino,http://dl.dropbox.com/s/dqwn38j417xrg3p/CONDON%20FEMENINO.mp4
-Condón Masculino,http://dl.dropbox.com/s/dqwn38j417xrg3p/CONDON%20FEMENINO.mp4
-Conocimiento,http://dl.dropbox.com/s/0u2axp4lwtr8182/CONOCIMIENTO.mp4
-Decisión,http://dl.dropbox.com/s/4px1wgehity8rvp/DECISION.mp4
-Diagnóstico,http://dl.dropbox.com/s/wnqgyr4djajsmdk/DIAGNOSTICO.mp4
-Enfermedad,http://dl.dropbox.com/s/mn0id4c3ouz21rf/ENFERMEDAD.mp4
-Exámen de Sangre,http://dl.dropbox.com/s/9bs1m1clbsn61fd/EXAMEN%20DE%20SANGRE.mp4
-Fortaleza,http://dl.dropbox.com/s/mnadm0b8hrcis39/FORTALEZA.mp4
-Futuro,http://dl.dropbox.com/s/r79p13djv6yp3oj/FUTURO.mp4
-Grupo de Apoyo,http://dl.dropbox.com/s/i9idx6bw7evsbpi/GRUPO%20DE%20APOYO.mp4
-Infección,http://dl.dropbox.com/s/i9idx6bw7evsbpi/GRUPO%20DE%20APOYO.mp4
-Información,http://dl.dropbox.com/s/dbgn7z283cx1571/INFORMACION.mp4
-Medicamentos,http://dl.dropbox.com/s/lxju99b2wann3ag/MEDICAMENTOS.mp4
-Miedo,http://dl.dropbox.com/s/ca7x3qpwclk563v/MIEDO.mp4
-Pareja,http://dl.dropbox.com/s/gk48xmq0prwvr7l/PAREJA.mp4
-Prevención de SIDA,http://dl.dropbox.com/s/pity3tzqrcgtw7d/PREVENCION%20DE%20SIDA.mp4
-Prevención de VIH,http://dl.dropbox.com/s/87stoyby8yiyote/PREVENCION%20DE%20VIH.mp4
-Protección,http://dl.dropbox.com/s/e7ld5rw7d8kfgrs/PROTECCION.mp4
-Relación Sexual,http://dl.dropbox.com/s/s4ihsfwhx7itw7g/RELACION%20SEXUAL.mp4
-Seropositivo,http://dl.dropbox.com/s/3nx7uy0y2k9i7q5/SEROPOSITIVO.mp4
-SIDA,http://dl.dropbox.com/s/6a8vnse6ia8rsro/SIDA.mp4
-Sintomas,http://dl.dropbox.com/s/5w237crfkhps46e/SINTOMAS.mp4
-Sistema Inmunológico,http://dl.dropbox.com/s/waejc97hrpjdy9p/SISTEMA%20INMUNOLOGICO.mp4
-Transfusión,http://dl.dropbox.com/s/deph4fd6fzs0xkx/TRANSFUSION.mp4
-Transmision,http://dl.dropbox.com/s/dmypvlia8gmvfaa/TRANSMISION.mp4
-Tratamiento,http://dl.dropbox.com/s/dmypvlia8gmvfaa/TRANSMISION.mp4
-Vida,http://dl.dropbox.com/s/0fsgqulhtttq37u/VIDA.mp4
-VIH,http://dl.dropbox.com/s/vos2ouum9b9gmti/VIH.mp4
-Virus,http://dl.dropbox.com/s/7ed9n5kyk64yx9a/VIRUS.mp4
+Abstinencia,http://dl.dropbox.com/s/5mv3pm5p4blzuxg/ABSTINENCIA.mp4,http://dl.dropbox.com/s/z6zwh3um8798nir/ABSTINENCIA.webm
+Anticonceptivo,http://dl.dropbox.com/s/u39xit2kgl33gjg/ANTICONCEPTIVO.mp4,http://dl.dropbox.com/s/v2ewg6xsbn7gkaa/ANTICONCEPTIVO.webm
+Apoyo,http://dl.dropbox.com/s/fhtnw89z8fby0ls/APOYO.mp4,http://dl.dropbox.com/s/o0o4e0bguaciqi4/APOYO.webm
+Ayuda,http://dl.dropbox.com/s/4d3j5gezzmoztmp/AYUDA.mp4,http://dl.dropbox.com/s/k55mxmudqfsan9w/AYUDA.webm
+Células,http://dl.dropbox.com/s/8cvhx2we4mwrpmo/CELULAS.mp4,http://dl.dropbox.com/s/m5negmu14c3hi68/CELULAS.webm
+Conciencia,http://dl.dropbox.com/s/apgn3gzrrhnkjev/CONCIENCIA.mp4,http://dl.dropbox.com/s/zuv3mrimn1uai55/CONCIENCIA.webm
+Condón Femenino,http://dl.dropbox.com/s/nv5d2so1he35m4g/CONDON%20FEMENINO.mp4,http://dl.dropbox.com/s/gsapak5p9twm4xk/CONDON%20FEMENINO.webm
+Condón Masculino,http://dl.dropbox.com/s/7hzhszirmcl1nqr/CONDON%20MASCULINO.mp4,http://dl.dropbox.com/s/r42q4b9ca1d6cy3/CONDON%20MASCULINO.webm
+Conocimiento,http://dl.dropbox.com/s/kj75044mzbp8mnn/CONOCIMIENTO.mp4,http://dl.dropbox.com/s/gsgvum5tsijdkqg/CONOCIMIENTO.webm
+Decisión,http://dl.dropbox.com/s/ygbhn2fcbaee8kn/DECISION.mp4,http://dl.dropbox.com/s/0nd96rwt6w8g6j7/DECISION.webm
+Diagnóstico,http://dl.dropbox.com/s/rt277oxusle61cm/DIAGNOSTICO.mp4,http://dl.dropbox.com/s/t9k1i9q82zxq6sx/DIAGNOSTICO.webm
+Enfermedad,http://dl.dropbox.com/s/4rf0ocf8izm5wtu/ENFERMEDAD.mp4,http://dl.dropbox.com/s/3ojxf5uxyp3dcwp/ENFERMEDAD.webm
+Exámen de Sangre,http://dl.dropbox.com/s/hzz7t82ugdy3udp/EXAMEN%20DE%20SANGRE.mp4,http://dl.dropbox.com/s/8pgec9n61w48v1o/EXAMEN%20DE%20SANGRE.webm
+Fortaleza,http://dl.dropbox.com/s/4nd4fpjhz3ugoz9/FORTALEZA.mp4,http://dl.dropbox.com/s/gr9482ntzg7vkrq/FORTALEZA.webm
+Futuro,http://dl.dropbox.com/s/ea5wv2x2vaxosrd/FUTURO.mp4,http://dl.dropbox.com/s/golfz0unlducjr9/FUTURO.webm
+Grupo de Apoyo,http://dl.dropbox.com/s/qb5580h8nsuulq4/GRUPO%20DE%20APOYO.mp4,http://dl.dropbox.com/s/m59r6g1nj2zfzxu/GRUPO%20DE%20APOYO.webm
+Infección,http://dl.dropbox.com/s/aknnu0jhrvy9ev5/INFECCI%C3%93N.mp4,http://dl.dropbox.com/s/11skm5fhhroco49/INFECCI%C3%93N.webm
+Informaci´´,http://dl.dropbox.com/s/62ue46q8jl2qhzz/INFORMACION.mp4,http://dl.dropbox.com/s/n1brimofjkhqvxb/INFORMACION.webm
+Medicamentos ,http://dl.dropbox.com/s/2xf2hp7vg6rz6fx/MEDICAMENTOS.mp4,http://dl.dropbox.com/s/vx1uvyqjqutjqyf/MEDICAMENTOS.webm
+Miedo ,http://dl.dropbox.com/s/dd19k7dj4vxzufg/MIEDO.mp4,http://dl.dropbox.com/s/x8i44uask4jhu50/MIEDO.webm
+Pareja ,http://dl.dropbox.com/s/m13nnir7qoawk4s/PAREJA.mp4,http://dl.dropbox.com/s/6td50jkj08ytq07/PAREJA.webm
+Prevencion de SIDA ,http://dl.dropbox.com/s/sr7hw5tvdhjs5e5/PREVENCION%20DE%20SIDA.mp4,http://dl.dropbox.com/s/jlt49xjd2if1v3o/PREVENCION%20DE%20SIDA.webm
+Prevencion de VIH ,http://dl.dropbox.com/s/fjfwve2ktl3z40u/PREVENCION%20DE%20VIH.mp4,http://dl.dropbox.com/s/48kmwukke73bxo8/PREVENCION%20DE%20VIH.webm
+Protección ,http://dl.dropbox.com/s/dyssb3cuypej0th/PROTECCION.mp4,http://dl.dropbox.com/s/sjx61982x5fslrd/PROTECCION.webm
+Relación Sexual ,http://dl.dropbox.com/s/2k37x8189412sx9/RELACION%20SEXUAL.mp4,http://dl.dropbox.com/s/wl3bhtjwe1f7509/RELACION%20SEXUAL.webm
+Seropositivo ,http://dl.dropbox.com/s/icau5yfca0pxyoe/SEROPOSITIVO.mp4,http://dl.dropbox.com/s/cj3h77454qqds2h/SEROPOSITIVO.webm
+SIDA ,http://dl.dropbox.com/s/trzv5c1tcc8ybah/SIDA.mp4,http://dl.dropbox.com/s/6v2hq59olov1j91/SIDA.webm
+Sintomas,http://dl.dropbox.com/s/79ujmulg67r83oo/SINTOMAS.mp4,http://dl.dropbox.com/s/yqs99dgujdpje5b/SINTOMAS.webm
+Sistema Inmunologico ,http://dl.dropbox.com/s/5e18hqv7qx4w5px/SISTEMA%20INMUNOLOGICO.mp4,http://dl.dropbox.com/s/ehu2gh8yrvgmj91/SISTEMA%20INMUNOLOGICO.webm
+Transfusion ,http://dl.dropbox.com/s/2y7wofmhi273ky6/TRANSFUSION.mp4,http://dl.dropbox.com/s/994oogljb5d952s/TRANSFUSION.webm
+Transmision ,http://dl.dropbox.com/s/12fp6mmzqoi2gym/TRANSMISION.mp4,http://dl.dropbox.com/s/1741lh6kemjc00i/TRANSMISION.webm
+Tratamiento ,http://dl.dropbox.com/s/ow58vejg0zf1qiw/TRATAMIENTO.mp4,http://dl.dropbox.com/s/x2iltknsa9xh0gk/TRATAMIENTO.webm
+Vida ,http://dl.dropbox.com/s/faqgqmiy4jcvl6i/VIDA.mp4,http://dl.dropbox.com/s/oobsh66af2t8dfo/VIDA.webm
+VIH,http://dl.dropbox.com/s/gsnkal7n2wlqesw/VIH.mp4,http://dl.dropbox.com/s/kf5b6us2kfa9ods/VIH.webm
+Virus ,http://dl.dropbox.com/s/em2bp0togiacch3/VIRUS.mp4,http://dl.dropbox.com/s/dci8rqshee74o3g/VIRUS.webm
 PROFESIONES
 39
-Abogado,http://dl.dropbox.com/s/klotoesi6evy0bl/ABOGADO.mp4
-Albañil,http://dl.dropbox.com/s/mwxl1hvjbtc2ddd/ALBA%C3%91IL.mp4
-Bailarina,http://dl.dropbox.com/s/r23sfq3q17auvjy/BAILARINA.mp4
-Barbero,http://dl.dropbox.com/s/d9b5lxwso3jrua2/BARBERO.mp4
-Barrendero,http://dl.dropbox.com/s/zhbnjaythm886ke/BARRENDERO.mp4
-Bombero,http://dl.dropbox.com/s/1tygn4kumavya0y/BOMBERO.mp4
-Carpintero,http://dl.dropbox.com/s/rtc7nl4d04s8wi7/CARPINTERO.mp4
-Chofer,http://dl.dropbox.com/s/e49a2k5jk86pacx/CHOFER.mp4
-Científico,http://dl.dropbox.com/s/eoz1le3jgxz4qme/CIENTIFICO.mp4
-Cocinero,http://dl.dropbox.com/s/o97vw75n9z43l5c/COCINERO.mp4
-Contador,http://dl.dropbox.com/s/qulstiisns1b2dz/CONTADOR.mp4
-Cura,http://dl.dropbox.com/s/rrtooksgevzvzjc/CURA.mp4
-Deportista,http://dl.dropbox.com/s/5wyb1894bmpuoih/DEPORTISTA.mp4
-Editor,http://dl.dropbox.com/s/9hj63zsnt9iuxjh/EDITOR.mp4
-Electricista,http://dl.dropbox.com/s/mtdpfkq5skp6bj0/ELECTRICISTA.mp4
-Enfermero,http://dl.dropbox.com/s/lvsdj0wm6dop251/ENEFERMERO.mp4
-Filósofo,http://dl.dropbox.com/s/ep8urpeyhhhxl5h/FILOSOFO.mp4
-Fiscal de tránsito,http://dl.dropbox.com/s/ksrjmip7c2afzrf/FISCAL%20DE%20TRANSITO.mp4
-Físico,http://dl.dropbox.com/s/0cmu0p7awvmzbvk/FISICO.mp4
-Ingeniero,http://dl.dropbox.com/s/qkem0odv2mdkvnj/INGENIERO.mp4
-Jardinero,http://dl.dropbox.com/s/neu52y78km9fkqf/JARDINERO.mp4
-Matemático,http://dl.dropbox.com/s/fnh3x8n8mbdqymc/MATEMATICO.mp4
-Mecánico,http://dl.dropbox.com/s/kq5p5yko9wtag1m/MECANICO.mp4
-Médico,http://dl.dropbox.com/s/8wftrfchidoh6c7/MEDICO.mp4
-Militar,http://dl.dropbox.com/s/bvh8sji20t6zyey/MILITAR.mp4
-Obrero,http://dl.dropbox.com/s/hy7zc20dkgty54z/OBRERO.mp4
-Odontólogo,http://dl.dropbox.com/s/056znin9l5yzw95/ODONTOLOGO.mp4
-Panadero,http://dl.dropbox.com/s/qs3uorno0brd447/PANADERO.mp4
-Periodista,http://dl.dropbox.com/s/0jmtqnk88kyxhoi/PERIODISTA.mp4
-Piloto,http://dl.dropbox.com/s/ougxie55ts8sfjk/PILOTO.mp4
-Plomero,http://dl.dropbox.com/s/u7vhmbh5psmvupj/PLOMERO.mp4
-Policia,http://dl.dropbox.com/s/3gtdnjfcr82grxa/POLICIA.mp4
-Politico,http://dl.dropbox.com/s/6dl0su5iai9injs/POLITICO.mp4
-Profesor,http://dl.dropbox.com/s/i4x1lu9fwnev7s4/PROFESOR.mp4
-Psicólogo,http://dl.dropbox.com/s/v6nj5bhcpqlw5p0/PSICOLOGO.mp4
-Químico,http://dl.dropbox.com/s/qjh3z33u5058ygb/QUIMICO.mp4
-Sastre,http://dl.dropbox.com/s/bzeap6n3bxow9ac/SASTRE.mp4
-Zapatero,http://dl.dropbox.com/s/zswpoegtxqofl9l/ZAPATERO.mp4
-Comerciante,http://dl.dropbox.com/s/xsttgz1nd6kwzqd/COMERCIANTE.mp4
+Abogado ,http://dl.dropbox.com/s/xotcoijn24lihty/ABOGADO.mp4,http://dl.dropbox.com/s/wk626xbppb50b0s/ABOGADO.webm
+Albañil ,http://dl.dropbox.com/s/q2f7g3e5o6p9a6d/ALBA%C3%91IL.mp4,http://dl.dropbox.com/s/a1umpbm838gflzb/ALBA%C3%91IL.webm
+Bailarina ,http://dl.dropbox.com/s/0l0j0688g7oegz9/BAILARINA.mp4,http://dl.dropbox.com/s/9dccbveh7w1u1wp/BAILARINA.webm
+Barbero,http://dl.dropbox.com/s/j9tgxdnyhcxt5c9/BARBERO.mp4,http://dl.dropbox.com/s/sbbkt98g55mjwc4/BARBERO.webm
+Barrendero,http://dl.dropbox.com/s/32fkz25moluutjh/BARRENDERO.mp4,http://dl.dropbox.com/s/b0s8xu24vh3ed6j/BARRENDERO.webm
+Bombero ,http://dl.dropbox.com/s/cpovvovq3f4lahn/BOMBERO.mp4,http://dl.dropbox.com/s/viavyau1la5ny0u/BOMBERO.webm
+Carpintero ,http://dl.dropbox.com/s/wbpayfcz5gcuj2e/CARPINTERO.mp4,http://dl.dropbox.com/s/3biiav60b3m3twj/CARPINTERO.webm
+Chofer ,http://dl.dropbox.com/s/jea0p3qmuzt0xua/CHOFER.mp4,http://dl.dropbox.com/s/tfe4vaynjn3s8hz/CHOFER.webm
+Cientifico ,http://dl.dropbox.com/s/frwrfxic2h4e0k0/CIENTIFICO.mp4,http://dl.dropbox.com/s/8cqrue2ykekwmz0/CIENTIFICO.webm
+Cocinero ,http://dl.dropbox.com/s/wjlq6u27s9hcinu/COCINERO.mp4,http://dl.dropbox.com/s/u8b2mham09pp8h7/COCINERO.webm
+Contador ,http://dl.dropbox.com/s/2uwfq73wkfmzlkl/CONTADOR.mp4,http://dl.dropbox.com/s/se8ngkm5uynhc40/CONTADOR.webm
+Comerciante,http://dl.dropbox.com/s/akrgojdm25zpbqs/COMERCIANTE.mp4,http://dl.dropbox.com/s/wf3czrvah6l4mwy/COMERCIANTE.webm
+Cura ,http://dl.dropbox.com/s/n9n4pa3g6z7scqs/CURA.mp4,http://dl.dropbox.com/s/n0afiyfdd4z9930/CURA.webm
+Deportista ,http://dl.dropbox.com/s/ygabczs8unhlt18/DEPORTISTA.mp4,http://dl.dropbox.com/s/ya8tv469uoenwqh/DEPORTISTA.webm
+Editor ,http://dl.dropbox.com/s/0fk2e9u9dm39nc9/EDITOR.mp4,http://dl.dropbox.com/s/l5ceqz3xxq2wxwu/EDITOR.webm
+Electricista ,http://dl.dropbox.com/s/3wzmsblcw1wj8ho/ELECTRICISTA.mp4,http://dl.dropbox.com/s/elieoulljce29jn/ELECTRICISTA.webm
+Enfermero ,http://dl.dropbox.com/s/i7fgol1jvjr3k33/ENEFERMERO.mp4,http://dl.dropbox.com/s/14q7gihv83e0jy9/ENEFERMERO.webm
+Filosofo ,http://dl.dropbox.com/s/q3sq1al0zclsr0v/FILOSOFO.mp4,http://dl.dropbox.com/s/vobw02i9b1it6iw/FILOSOFO.webm
+Fiscal de transito ,http://dl.dropbox.com/s/zzlylzi0ch3n3gl/FISCAL%20DE%20TRANSITO.mp4,http://dl.dropbox.com/s/vtt85xjr4gu9lvr/FISCAL%20DE%20TRANSITO.webm
+Fisico ,http://dl.dropbox.com/s/76b70nsaq5x4qed/FISICO.mp4,http://dl.dropbox.com/s/9i7k0fu42m4q603/FISICO.webm
+Ingeniero ,http://dl.dropbox.com/s/51btsip1vsa22qg/INGENIERO.mp4,http://dl.dropbox.com/s/gr0hi78ty1aahss/INGENIERO.webm
+Jardinero ,http://dl.dropbox.com/s/ibsi9vot59v1x9x/JARDINERO.mp4,http://dl.dropbox.com/s/9pl0o5yt5o2u1bi/JARDINERO.webm
+Matematico ,http://dl.dropbox.com/s/8c9hk6o4mqzw2ih/MATEMATICO.mp4,http://dl.dropbox.com/s/sgicobwgodwykuv/MATEMATICO.webm
+Mecanico ,http://dl.dropbox.com/s/42xizp2dfpu17rm/MECANICO.mp4,http://dl.dropbox.com/s/78y698wzw7kqn5t/MECANICO.webm
+Medico ,http://dl.dropbox.com/s/yt9j2825miaqeuo/MEDICO.mp4,http://dl.dropbox.com/s/w76kinrgd82wko8/MEDICO.webm
+Militar ,http://dl.dropbox.com/s/1uqft9euy72e5oq/MILITAR.mp4,http://dl.dropbox.com/s/ruycv4gpwdfpydg/MILITAR.webm
+Obrero ,http://dl.dropbox.com/s/1xy6kfft6e53qap/OBRERO.mp4,http://dl.dropbox.com/s/7i0zqseqv3p3vsc/OBRERO.webm
+Odontologo,http://dl.dropbox.com/s/bef5jgcep7dbt0d/ODONTOLOGO.mp4,http://dl.dropbox.com/s/pw66uyvjb2mmjd5/ODONTOLOGO.webm
+Panadero ,http://dl.dropbox.com/s/t94e9cl51s036v4/PANADERO.mp4,http://dl.dropbox.com/s/ijtv02bgfwmz8rf/PANADERO.webm
+Periodista ,http://dl.dropbox.com/s/anbiiqh0ekrwqww/PERIODISTA.mp4,http://dl.dropbox.com/s/w201g60lp853obw/PERIODISTA.webm
+Piloto ,http://dl.dropbox.com/s/u5bdowj04el9xch/PILOTO.mp4,http://dl.dropbox.com/s/saglfx3v16gud6v/PILOTO.webm
+Plomero ,http://dl.dropbox.com/s/cxewpgehyh64oul/PLOMERO.mp4,http://dl.dropbox.com/s/ykr6zvenz2a0uev/PLOMERO.webm
+Policia ,http://dl.dropbox.com/s/zqg1keul9jvxtfh/POLICIA.mp4,http://dl.dropbox.com/s/phe196q0khzrz6d/POLICIA.webm
+Politico ,http://dl.dropbox.com/s/27s79rielnl8fp8/POLITICO.mp4,http://dl.dropbox.com/s/4q5gs93jmoxeot7/POLITICO.webm
+Profesor ,http://dl.dropbox.com/s/c0i4qgb2h294ul9/PROFESOR.mp4,http://dl.dropbox.com/s/ybn54h2xtxvcswl/PROFESOR.webm
+Psicologo ,http://dl.dropbox.com/s/mwr0qedjjerhp7f/PSICOLOGO.mp4,http://dl.dropbox.com/s/94rgix5qs06boos/PSICOLOGO.webm
+Quimico ,http://dl.dropbox.com/s/0qof9fohlwk3vgi/QUIMICO.mp4,http://dl.dropbox.com/s/nsxwv64twqwpuza/QUIMICO.webm
+Sastre ,http://dl.dropbox.com/s/iebjko5xxjnfw58/SASTRE.mp4,http://dl.dropbox.com/s/2rek99nvpftyfgc/SASTRE.webm
+Zapatero ,http://dl.dropbox.com/s/s717fhjhn3ntp9m/ZAPATERO.mp4,http://dl.dropbox.com/s/4fz4a651yg197gs/ZAPATERO.webm
 PUBLICIDAD
 29
-Agencia,http://dl.dropbox.com/s/9sdihxn7nc7jwwa/AGENCIA.mp4
-Anuncio,http://dl.dropbox.com/s/o4szkcwjwppvrkv/ANUNCIO.mp4
-Campaña,http://dl.dropbox.com/s/52mtzcuybzdvdey/CAMPA%C3%91A.mp4
-Catálogo,http://dl.dropbox.com/s/3tfdth1suaw4ysk/CATALOGO.mp4
-Circunstancia,http://dl.dropbox.com/s/ljnio81ruz059c2/CIRCUNSTANCIA.mp4
-Clientes,http://dl.dropbox.com/s/t02dcvrf9ile8jh/CLIENTES.mp4
-Color,http://dl.dropbox.com/s/wbii0kmizoek9fq/COLOR.mp4
-Comercial,http://dl.dropbox.com/s/6t3458neodjsi57/COMERCIAL.mp4
-Comunicación,http://dl.dropbox.com/s/aqsfajctb3yn56x/COMUNICACI%C3%93N.mp4
-Demografía,http://dl.dropbox.com/s/12lqk4s7j2xnpz3/DEMOGRAFIA.mp4
-Diseño gráfico,http://dl.dropbox.com/s/lopvdgxcaftogvz/DISE%C3%91O%20GRAFICO.mp4
-Distribución,http://dl.dropbox.com/s/zwnr08hm1smh8qf/DISTRIBUCION.mp4
-Empaque,http://dl.dropbox.com/s/iakgbqv5vj1y5ys/EMPAQUE.mp4
-Estadística,http://dl.dropbox.com/s/faab64ae27vgm7u/ESTADISTICA.mp4
-Imagen Corporativa,http://dl.dropbox.com/s/qwydviifromfosy/IMAGEN%20CORPORATIVA.mp4
-Internet,http://dl.dropbox.com/s/sk1r9l5jg0eb8sq/INTERNET.mp4
-Investigación de Mercado,http://dl.dropbox.com/s/rdwwu4rhksaw6y0/INVESTIGACI%C3%93N%20DE%20MERCADO.mp4
-Mensaje,http://dl.dropbox.com/s/yzuxr7u8dxm0752/MENSAJE.mp4
-Oferta,http://dl.dropbox.com/s/vugse9uiagt8q8s/OFERTA.mp4
-Página Web,http://dl.dropbox.com/s/845vgmmq5m0xftj/PAGINA%20WEB.mp4
-Participación de Mercado,http://dl.dropbox.com/s/5msz3y75pdr8t4t/PARTICIPACI%C3%93N%20DE%20MERCADO.mp4
-Pendón,http://dl.dropbox.com/s/619639j9mgqgtgm/PENDON.mp4
-Precio,http://dl.dropbox.com/s/fo17vs3dmw927bb/PRECIO.mp4
-Promoción,http://dl.dropbox.com/s/h79vvq8zwccoov2/PROMOCION.mp4
-Promotor,http://dl.dropbox.com/s/s1zya5lt7chrp12/PROMOTOR.mp4
-Radio,http://dl.dropbox.com/s/1ivj61s0xt0t3vc/RADIO.mp4
-Revista,http://dl.dropbox.com/s/bwrcpolpvy0v1zt/REVISTA.mp4
-Servicios,http://dl.dropbox.com/s/0d7hc2i5wh6b5vr/SERVICIOS.mp4
-Televisión,http://dl.dropbox.com/s/qza1d6thpo97s61/TELEVISION.mp4
+Agencia,http://dl.dropbox.com/s/55pi4wdko8pyz15/AGENCIA.mp4;http://dl.dropbox.com/s/1027cc3qt9ts9km/AGENCIA.webm
+Anuncio,http://dl.dropbox.com/s/3pk35fo9g4aid2u/ANUNCIO.mp4;http://dl.dropbox.com/s/occ9bvdzkppquc8/ANUNCIO.webm
+Campaña,http://dl.dropbox.com/s/ms1hg289vn8xfwy/CAMPA%C3%91A.mp4;http://dl.dropbox.com/s/5f2pxfyyrfv32xy/CAMPA%C3%91A.webm
+Catálogo,http://dl.dropbox.com/s/w92p54rvmsvo3zx/CATALOGO.mp4;http://dl.dropbox.com/s/nv80rigavi35pse/CATALOGO.webm
+Circunstancia,http://dl.dropbox.com/s/aawswi3lflsh0xg/CIRCUNSTANCIA.mp4;http://dl.dropbox.com/s/fl1lktr1ndwvpui/CIRCUNSTANCIA.webm
+Clientes,http://dl.dropbox.com/s/a5h2hh8cjrne45x/CLIENTES.mp4;http://dl.dropbox.com/s/k5ccgnqwn6zghu3/CLIENTES.webm
+Color,http://dl.dropbox.com/s/v231thwf1t77avv/COLOR.mp4;http://dl.dropbox.com/s/jpcpnnkv371ktke/COLOR.webm
+Comercial,http://dl.dropbox.com/s/68yrl40tzzvdptb/COMERCIAL.mp4;http://dl.dropbox.com/s/iuwvi3lkg4y6fwm/COMERCIAL.webm
+Comunicación,http://dl.dropbox.com/s/8ybovjrv3rylb2i/COMUNICACI%C3%93N.mp4;http://dl.dropbox.com/s/e5sha2a4qdwu95r/COMUNICACI%C3%93N.webm
+Demografía,http://dl.dropbox.com/s/ms8n03gxbpp01z0/DEMOGRAFIA.mp4;http://dl.dropbox.com/s/uw9rsbzthiwn5oz/DEMOGRAFIA.webm
+Diseño gráfico,http://dl.dropbox.com/s/yjgr80venx4xjqx/DISE%C3%91O%20GRAFICO.mp4;http://dl.dropbox.com/s/w5x5kqtaa0u7v7j/DISE%C3%91O%20GRAFICO.webm
+Distribución,http://dl.dropbox.com/s/j55i15vpd5beh4b/DISTRIBUCION.mp4;http://dl.dropbox.com/s/r3nwjvpmhul0y37/DISTRIBUCION.webm
+Empaque,http://dl.dropbox.com/s/ija7x2vcvvsh4ij/EMPAQUE.mp4;http://dl.dropbox.com/s/dsb3nw8r00d8kfs/EMPAQUE.webm
+Estadística,http://dl.dropbox.com/s/ocod5jvgvf29eo8/ESTADISTICA.mp4;http://dl.dropbox.com/s/xh1iwn5o7h3gh0s/ESTADISTICA.webm
+Imagen Corporativa,http://dl.dropbox.com/s/i7dbrsygihc3et0/IMAGEN%20CORPORATIVA.mp4;http://dl.dropbox.com/s/kggcjf6t6etuqcv/IMAGEN%20CORPORATIVA.webm
+Internet,http://dl.dropbox.com/s/wb3u7l2s8yi8i39/INTERNET.mp4;http://dl.dropbox.com/s/mjx9jiby1zla2v0/INTERNET.webm
+Investigación de Mercado,http://dl.dropbox.com/s/9hwdk3uiqph0tq8/INVESTIGACI%C3%93N%20DE%20MERCADO.mp4;http://dl.dropbox.com/s/w17u0j1kdsuiwrs/INVESTIGACI%C3%93N%20DE%20MERCADO.webm
+Mensaje,http://dl.dropbox.com/s/va1m4rz9wys96ks/MENSAJE.mp4;http://dl.dropbox.com/s/ng4fecj6ncauxzd/MENSAJE.webm
+Oferta,http://dl.dropbox.com/s/3vrmw7om7cgtmsq/OFERTA.mp4;http://dl.dropbox.com/s/9tnldoskeqe5c59/OFERTA.webm
+Página Web,http://dl.dropbox.com/s/2im4nyzb7mc3e1v/PAGINA%20WEB.mp4;http://dl.dropbox.com/s/cankbbb8hpwwe0i/PAGINA%20WEB.webm
+Participación de Mercado,http://dl.dropbox.com/s/kxic06n9giig5jb/PARTICIPACI%C3%93N%20DE%20MERCADO.mp4;http://dl.dropbox.com/s/w7sxfcx5s25ayry/PARTICIPACI%C3%93N%20DE%20MERCADO.webm
+Pendón,http://dl.dropbox.com/s/tl6q0jolui4w3xf/PENDON.mp4;http://dl.dropbox.com/s/asb84s44l4qwl1l/PENDON.webm
+Precio,http://dl.dropbox.com/s/j5tsiyux064t5xp/PRECIO.mp4;http://dl.dropbox.com/s/csw1kxmuwoyc362/PRECIO.webm
+Promoción,http://dl.dropbox.com/s/dhbn51j3wwhj0gz/PROMOCION.mp4;http://dl.dropbox.com/s/1ny6u8gi7c7sxxa/PROMOCION.webm
+Promotor,http://dl.dropbox.com/s/dvizsf6xx2pzzji/PROMOTOR.mp4;http://dl.dropbox.com/s/6251tysjkp5bb36/PROMOTOR.webm
+Radio,http://dl.dropbox.com/s/ym15t82ys79fazh/RADIO.mp4;http://dl.dropbox.com/s/3eqx32vzu4mk308/RADIO.webm
+Revista,http://dl.dropbox.com/s/t4simflirvjmjga/REVISTA.mp4;http://dl.dropbox.com/s/2a25snleajeoeka/REVISTA.webm
+Servicios,http://dl.dropbox.com/s/v4bovj30y1m7jcm/SERVICIOS.mp4;http://dl.dropbox.com/s/mk8i3kutnvvlwza/SERVICIOS.webm
+Televisión,http://dl.dropbox.com/s/69uxxqxsnmtcdt2/TELEVISION.mp4;http://dl.dropbox.com/s/005qxhpb46beo57/TELEVISION.webm
 RELACIONES PERSONALES
-35
+34
 Abuelo,http://dl.dropbox.com/s/6sak7lzpl0ae3vc/abuelo.mp4;http://dl.dropbox.com/s/mjmnxs72344xq82/abuelo.webm
 Adiós,http://dl.dropbox.com/s/rmb50iav0lhjxl5/adios.mp4;http://dl.dropbox.com/s/kkrbwz9wc190vj0/adios.webm
 Amigo,http://dl.dropbox.com/s/vw2x2eem0slwaq8/amigo.mp4;http://dl.dropbox.com/s/ypd1km4oxhd47ao/amigo.webm
@@ -816,7 +826,7 @@ Bufete,http://dl.dropbox.com/s/68x6x9w6k9wt1bu/bufete.mp4;http://dl.dropbox.com/
 Cafe,http://dl.dropbox.com/s/pptx3qpbz7wi6c8/cafe.mp4;http://dl.dropbox.com/s/4icnuy3nfdxbdm2/cafe.webm
 Carne,http://dl.dropbox.com/s/e53vbs0j5c0l8wo/carne.mp4;http://dl.dropbox.com/s/1m8v1jwipbqsie9/carne.webm
 Cerveza,http://dl.dropbox.com/s/5jy5073fvn8bfg6/cerveza.mp4;http://dl.dropbox.com/s/5hm3mx2tby8n3hf/cerveza.webm
-Chef ,http://dl.dropbox.com/s/0gpcpzskpcmmlyo/chef.mp4;http://dl.dropbox.com/s/dpgjjdl5zz8m7t9/chef.webm
+Chef,http://dl.dropbox.com/s/0gpcpzskpcmmlyo/chef.mp4;http://dl.dropbox.com/s/dpgjjdl5zz8m7t9/chef.webm
 Cocinero,http://dl.dropbox.com/s/nf2p6fhsuo6wici/cocinero.mp4;http://dl.dropbox.com/s/0lw3v2vu5xe7wbj/cocinero.webm
 Comida Rápida,http://dl.dropbox.com/s/vzl8f4jhsm687ch/comida_rapida.mp4;http://dl.dropbox.com/s/fzxr50ttzjabbxt/comida_rapida.webm
 Crudo,http://dl.dropbox.com/s/ce9dm3v4x52g5q2/crudo.mp4;http://dl.dropbox.com/s/wo3ku6iyswpp6mx/crudo.webm
@@ -885,74 +895,74 @@ Virus,http://dl.dropbox.com/s/n6nfzch0155dlcd/virus.mp4;http://dl.dropbox.com/s/
 Vomitar,http://dl.dropbox.com/s/24hex08a4l72hym/vomitar.mp4;http://dl.dropbox.com/s/rvxocoktvct48va/vomitar.webm
 TALENTO NACIONAL
 24
-Cantante,http://dl.dropbox.com/s/jr3jhukpn0ye1ve/CANTANTE.mp4
-Conciertos,http://dl..dropbox.com/s/aqxaf9s48ezotoa/CONCIERTOS.mp4
-Constancia,http://dl.dropbox.com/s/m84ibterhfhk1fg/CONSTANCIA.mp4
-Disciplina,http://dl.dropbox.com/s/zm0uv493u9pcqit/DISCIPLINA.mp4
-Discos,http://dl.dropbox.com/s/0gebow8jvfcj0rt/DISCOS.mp4
-Diseñadora de Modas,http://dl.dropbox.com/s/hiac5oa062l8vu0/DISE%C3%91ADORA%20DE%20MODAS.mp4
-Energía,http://dl.dropbox.com/s/j6f42ia0pba6yug/ENERGIA.mp4
-Ensayos,http://dl.dropbox.com/s/58cz14u6pd8b6mq/ENSAYOS.mp4
-Entrega,http://dl.dropbox.com/s/8diw9woyizpj9w9/ENTREGA.mp4
-Entrevista,http://dl.dropbox.com/s/14yztss5sfsuiep/ENTREVISTA.mp4
-Imagen,http://dl.dropbox.com/s/1hwfdhmka5vokhm/IMAGEN.mp4
-Inspiración,http://dl.dropbox.com/s/v38xlcbs7hwa9na/INSPIRACI%C3%93N.mp4
-Letras,http://dl.dropbox.com/s/2raqczswtyb065h/LETRAS.mp4
-Maquillaje,http://dl.dropbox.com/s/6b6sz4dgfd6r067/MAQUILLAJE.mp4
-Micrófono,http://dl.dropbox.com/s/z68m53dnjd9y26z/MICROFONO.mp4
-Música,http://dl.dropbox.com/s/yvlstnh6566vh3w/MUSICA.mp4
-Pandereta,http://dl.dropbox.com/s/pim3bk8jbno10hh/PANDERETA.mp4
-Piano,http://dl.dropbox.com/s/iv1lhn7ooonzlx3/PIANO.mp4
-Poemas,http://dl.dropbox.com/s/j25dnop1o7sr227/POEMAS.mp4
-Polifacética,http://dl.dropbox.com/s/sr9549lbtqfwbfp/POLIACETICA.mp4
-Ritmo,http://dl.dropbox.com/s/svl1ta8rnksh972/RITMO.mp4
-Rock,http://dl.dropbox.com/s/m36n8ez9reznc2d/ROCK.mp4
-Solista,http://dl.dropbox.com/s/wvdxtyajid1kqac/SOLISTA.mp4
-Talento Nacional,http://dl.dropbox.com/s/1k5nc73feljfphp/TALENTO%20NACIONAL.mp4
+Cantante,http://dl.dropbox.com/s/pptb30h3cohdjq1/CANTANTE.mp4;http://dl.dropbox.com/s/ood7b89d6vphidj/CANTANTE.webm
+Conciertos,http://dl.dropbox.com/s/4zi2yqje6u92xhr/CONCIERTOS.mp4;http://dl.dropbox.com/s/bstvjwbbvhefyuh/CONCIERTOS.webm
+Constancia,http://dl.dropbox.com/s/52ebcvk0n2qboj1/CONSTANCIA.mp4;http://dl.dropbox.com/s/rh8c7uvutkp9ley/CONSTANCIA.webm
+Disciplina,http://dl.dropbox.com/s/kk5o7815dautfc9/DISCIPLINA.mp4;http://dl.dropbox.com/s/wzmu7xkp4hoy96k/DISCIPLINA.webm
+Discos,http://dl.dropbox.com/s/toythra6vpl2wry/DISCOS.mp4;http://dl.dropbox.com/s/txflkcb5ub9naqd/DISCOS.webm
+Diseñadora de Modas,http://dl.dropbox.com/s/fcobhfekf1il3cx/DISE%C3%91ADORA%20DE%20MODAS.mp4;http://dl.dropbox.com/s/5iev5scruicwxns/DISE%C3%91ADORA%20DE%20MODAS.webm
+Energía,http://dl.dropbox.com/s/i4hccn4rgs76lkb/ENERGIA.mp4;http://dl.dropbox.com/s/vftwrs0kgv4dd2h/ENERGIA.webm
+Ensayos,http://dl.dropbox.com/s/rergn52myr3fsbf/ENSAYOS.mp4;http://dl.dropbox.com/s/cay5y10o07nsce0/ENSAYOS.webm
+Entrega,http://dl.dropbox.com/s/ash6003b6wr535n/ENTREGA.mp4;http://dl.dropbox.com/s/f34f9h38ssxcn6i/ENTREGA.webm
+Entrevista,http://dl.dropbox.com/s/j680wdjrqti3hbk/ENTREVISTA.mp4;http://dl.dropbox.com/s/355gacndmq4avkv/ENTREVISTA.webm
+Imagen,http://dl.dropbox.com/s/cy6xdw39xnixz4r/IMAGEN.mp4;http://dl.dropbox.com/s/5jkblle82ajdpwt/IMAGEN.webm
+Inspiración,http://dl.dropbox.com/s/t4qv83h1xdqn9wf/INSPIRACI%C3%93N.mp4;http://dl.dropbox.com/s/e784hy6bf4ceq2d/INSPIRACI%C3%93N.webm
+Letras,http://dl.dropbox.com/s/83oa5tx3xzx1cuw/LETRAS.mp4;http://dl.dropbox.com/s/e2e6mz0vyw39mcq/LETRAS.webm
+Maquillaje,http://dl.dropbox.com/s/fognoghkm2op9dp/MAQUILLAJE.mp4;http://dl.dropbox.com/s/ki2dzsy2sh3aibi/MAQUILLAJE.webm
+Micrófono,http://dl.dropbox.com/s/16iw9ewp4fmstq3/MICROFONO.mp4;http://dl.dropbox.com/s/0409hx7zy1c7mng/MICROFONO.webm
+Música,http://dl.dropbox.com/s/izgyo331fhnqz8b/MUSICA.mp4;http://dl.dropbox.com/s/0t3g1xxzyalb2qc/MUSICA.webm
+Pandereta,http://dl.dropbox.com/s/zslxfkfu0nyuvs2/PANDERETA.mp4;http://dl.dropbox.com/s/y69g5zibj14jc5k/PANDERETA.webm
+Piano,http://dl.dropbox.com/s/sfrmb1o3sq430ma/PIANO.mp4;http://dl.dropbox.com/s/pcd73ad4pscst0j/PIANO.webm
+Poemas,http://dl.dropbox.com/s/yv9n9e9cu5jdusq/POEMAS.mp4;http://dl.dropbox.com/s/cmfz73oapffmyks/POEMAS.webm
+Polifacética,http://dl.dropbox.com/s/y5jahs45anu8o6i/POLIACETICA.mp4;http://dl.dropbox.com/s/pzf45bt87b7c396/POLIACETICA.webm
+Ritmo,http://dl.dropbox.com/s/f5l7vp65yn0sfeg/RITMO.mp4;http://dl.dropbox.com/s/n3gwlw9hlegi8n6/RITMO.webm
+Rock,http://dl.dropbox.com/s/x7ehipfev5sl1zq/ROCK.mp4;http://dl.dropbox.com/s/2zqsnbp6thngry4/ROCK.webm
+Solista,http://dl.dropbox.com/s/m5s8zkizuovy75c/SOLISTA.mp4;http://dl.dropbox.com/s/fwmt0tnzkav4fya/SOLISTA.webm
+Talento Nacional,http://dl.dropbox.com/s/d73vhla9fptbm5b/TALENTO%20NACIONAL.mp4;http://dl.dropbox.com/s/tgfgp2nlgzvfb44/TALENTO%20NACIONAL.webm
 TECNOLOGíA
 42
-3D,http://dl.dropbox.com/s/6d67mgtx99dycg4/3D.mp4
-Actualizar,http://dl.dropbox.com/s/1vhe7exse66u5f1/ACTUALIZAR.mp4
-Atender,http://dl.dropbox.com/s/f48nouwi48yh43b/ATENDER.mp4
-Batería,http://dl.dropbox.com/s/7flb24uiw01elnd/BATERIA.mp4
-Buscador,http://dl.dropbox.com/s/5qxjjz8ddrnz32k/BUSCADOR.mp4
-Celular,http://dl.dropbox.com/s/2dg11lcuqj6jfv7/CALULAR.mp4
-Cámara Digital,http://dl.dropbox.com/s/0f8s1l85rjdb6lz/CAMARA%20DIGITAL.mp4
-Cargador,http://dl.dropbox.com/s/2zm9vktrkypozyz/CARGADOR.mp4
-Chatear,http://dl.dropbox.com/s/ggmny51o9akz4bq/CHATEAR.mp4
-Cobertura,http://dl.dropbox.com/s/4hpxtkgwys9ng6k/COBERTURA.mp4
-Comunicación,http://dl.dropbox.com/s/jnm393pp862x0ec/COMUNICACION.mp4
-Conexión,http://dl.dropbox.com/s/zrhwjk04pjx3165/CONEXION.mp4
-Contacto,http://dl.dropbox.com/s/kkietd9a0o6l7x6/CONTACTO.mp4
-Convertir,http://dl.dropbox.com/s/ix05k1c0eywrwp3/CONVERTIR.mp4
-Correo Electrónico,http://dl.dropbox.com/s/5oi03x2b2xwkglq/CORREO%20ELECTRONICO.mp4
-Descargar,http://dl.dropbox.com/s/onc3qsty8lj81rc/DESCARGAR.mp4
-Disco Duro,http://dl.dropbox.com/s/mi4fyw1o1uwmenc/DISCO%20DURO.mp4
-DVD,http://dl.dropbox.com/s/akijrnv0w2uh3ni/DVD.mp4
-Facebook,http://dl.dropbox.com/s/3i36km5175hq8su/FACEBOOK.mp4
-GPS,http://dl.dropbox.com/s/d1p5lmifud99707/GPS.mp4
-Hardware,http://dl.dropbox.com/s/mrinjl2z56teuai/HARDWARE.mp4
-Interactuar,http://dl.dropbox.com/s/x81ssp7sq8iz0qk/INTERACTUAR.mp4
-Internet,http://dl.dropbox.com/s/08vxax34jiniz1m/INTERNET.mp4
-Ipod,http://dl.dropbox.com/s/k2awqy71oa3uiva/IPOD.mp4
-Laptop,http://dl.dropbox.com/s/87tj687gtdgeif9/LAPTOP.mp4
-Link,http://dl.dropbox.com/s/ctbga2ma3dhtriv/LINK.mp4
-Llamada,http://dl.dropbox.com/s/3kiw75h7n3jzz6c/LLAMADA.mp4
-Mensaje de Texto,http://dl.dropbox.com/s/cck1j8kmukpdi6a/MENSAJE%20DE%20TEXTO.mp4
-Messenger,http://dl.dropbox.com/s/q507so6gdi5rry5/MESSENGER.mp4
-Navegar,http://dl.dropbox.com/s/s6gs21kyq8kyols/NAVEGAR.mp4
-Página Web,http://dl.dropbox.com/s/jtzn9rsblrok2zk/PAGINA%20WEB.mp4
-Pendrive,http://dl.dropbox.com/s/m4gxu3aq1g6ki41/PENDRIVE.mp4
-Señal,http://dl.dropbox.com/s/4un5c8nb9be5vgf/SE%C3%91AL.mp4
-Servicio Técnico,http://dl.dropbox.com/s/jcut1lzpf30y5sg/SERVICIO%20TECNICO.mp4
-Software,http://dl.dropbox.com/s/17d7b1xaheej039/SOFTWARE.mp4
-Tarjeta de Memoria,http://dl.dropbox.com/s/o9wvvj5u6zejpkw/TARJETA%20DE%20MEMORIA.mp4
-Teclado,http://dl.dropbox.com/s/0tfr1nbogkwm9qg/TECLADO.mp4
-Tecnología,http://dl.dropbox.com/s/gamj7e4ryhui9hs/TECNOLOGIA.mp4
-Touch,http://dl.dropbox.com/s/xq0tmiz8dywufo1/TOUCH.mp4
-Twitter,http://dl.dropbox.com/s/uo8sbwh7zy44p5e/TWITTER.mp4
-Video Conferencia,http://dl.dropbox.com/s/uqjs5332872lkgs/VIDEO%20CONFERENCIA.mp4
-Wifi,http://dl.dropbox.com/s/axoiy2ujqj4wjqc/WIFI.mp4
+3D,http://dl.dropbox.com/s/7t0r643k6l84pmk/3D.mp4,http://dl.dropbox.com/s/kh3z8ybtd86phv7/3D.webm
+Actualizar ,http://dl.dropbox.com/s/694127bj9hcx6f5/ACTUALIZAR.mp4,http://dl.dropbox.com/s/mgykrsisi53nerf/ACTUALIZAR.webm
+Atender ,http://dl.dropbox.com/s/yaxio19toqg2gq4/ATENDER.mp4,http://dl.dropbox.com/s/2b4fajle6pjnjc2/ATENDER.webm
+Bateria ,http://dl.dropbox.com/s/5yr5rx9yigccgsj/BATERIA.mp4,http://dl.dropbox.com/s/tiozhigheperadh/BATERIA.webm
+Buscador ,http://dl.dropbox.com/s/b6tlsoa2rrw48pu/BUSCADOR.mp4,http://dl.dropbox.com/s/iqikywy4vyt2rei/BUSCADOR.webm
+Celular ,http://dl.dropbox.com/s/jmyanrdewyhq4o1/CALULAR.mp4,http://dl.dropbox.com/s/c101x58h8b27m4t/CALULAR.webm
+Camara Digital ,http://dl.dropbox.com/s/v1cq7hqvoc8w7ry/CAMARA%20DIGITAL.mp4,http://dl.dropbox.com/s/edd762q1y47y6na/CAMARA%20DIGITAL.webm
+Cargar ,http://dl.dropbox.com/s/69eps8w1fyjcs3t/CARGADOR.mp4,http://dl.dropbox.com/s/45m0mq0tlht8eq0/CARGADOR.webm
+Cahatear ,http://dl.dropbox.com/s/fzfl6jxhuarimvx/CHATEAR.mp4,http://dl.dropbox.com/s/56jn5z74r52r7e4/CHATEAR.webm
+Cobertura ,http://dl.dropbox.com/s/0hupxfcmg90yjpd/COBERTURA.mp4,http://dl.dropbox.com/s/p8lqloh0np2bbhe/COBERTURA.webm
+Comunicación ,http://dl.dropbox.com/s/x9r0wn0h1tfugee/COMUNICACION.mp4,http://dl.dropbox.com/s/y9jp1yyyflgo8ob/COMUNICACION.webm
+Conexión ,http://dl.dropbox.com/s/wcrdh1rnjq8cqlb/CONEXION.mp4,http://dl.dropbox.com/s/fctzem589hzbq5x/CONEXION.webm
+Contacto ,http://dl.dropbox.com/s/i3yvjpm5f5lxbio/CONTACTO.mp4,http://dl.dropbox.com/s/enrtfjxhzt256yw/CONTACTO.webm
+Convertir ,http://dl.dropbox.com/s/o0wkj1nnqilsafz/CONVERTIR.mp4,http://dl.dropbox.com/s/bc58mnk9lmfrx6e/CONVERTIR.webm
+Correo Electronico ,http://dl.dropbox.com/s/0g1pbbjzg2ri351/CORREO%20ELECTRONICO.mp4,http://dl.dropbox.com/s/ply48x89vfdi3bx/CORREO%20ELECTRONICO.webm
+Descargar ,http://dl.dropbox.com/s/fisccpaz33hmwib/DESCARGAR.mp4,http://dl.dropbox.com/s/s4d75bvrkjkhyg0/DESCARGAR.webm
+Disco Duro ,http://dl.dropbox.com/s/g9yv3dafknoj5ph/DISCO%20DURO.mp4,http://dl.dropbox.com/s/bhtgub0b0l05kmd/DISCO%20DURO.webm
+DVD,http://dl.dropbox.com/s/ycrzxq0jhcup8xa/DVD.mp4,http://dl.dropbox.com/s/x6q4ym5cac0kw1h/DVD.webm
+Facebook ,http://dl.dropbox.com/s/zhohk8w6iqt5lmw/FACEBOOK.mp4,http://dl.dropbox.com/s/539a374jk10mz1j/FACEBOOK.webm
+GPS ,http://dl.dropbox.com/s/cbno0vinvxdmcgw/GPS.mp4,http://dl.dropbox.com/s/31bjqjqs88g89yj/GPS.webm
+Hardware,http://dl.dropbox.com/s/g6linu0bl2vsraq/HARDWARE.mp4,http://dl.dropbox.com/s/2x0s9gtkh7jo3dy/HARDWARE.webm
+Interactuar ,http://dl.dropbox.com/s/hxe3dfuvk86krf4/INTERACTUAR.mp4,http://dl.dropbox.com/s/lxd2bd6axn1f09j/INTERACTUAR.webm
+Internet ,http://dl.dropbox.com/s/yop6orf4ej4wh31/INTERNET.mp4,http://dl.dropbox.com/s/y1va1f3n0ojf2ua/INTERNET.webm
+Ipod ,http://dl.dropbox.com/s/ay3adv0l86uu0bx/IPOD.mp4,http://dl.dropbox.com/s/ea0rhmm3mivl1hb/IPOD.webm
+Laptop,http://dl.dropbox.com/s/feei34167adfv30/LAPTOP.mp4,http://dl.dropbox.com/s/ua1mpu4sdkovaxz/LAPTOP.webm
+Link ,http://dl.dropbox.com/s/1n5kqv4j5bjufli/LINK.mp4,http://dl.dropbox.com/s/lx8dmi6zkl7uiqc/LINK.webm
+Llamada ,http://dl.dropbox.com/s/e3l23c6r415dpc5/LLAMADA.mp4,http://dl.dropbox.com/s/aulu0t83ualo977/LLAMADA.webm
+Mensaje de Texto ,http://dl.dropbox.com/s/xmhtiijh8afa11r/MENSAJE%20DE%20TEXTO.mp4,http://dl.dropbox.com/s/1s4mb8zz4zcmfsj/MENSAJE%20DE%20TEXTO.webm
+Messenger ,http://dl.dropbox.com/s/my3q0twbppskdfg/MESSENGER.mp4,http://dl.dropbox.com/s/z8ge2vv3a1p36vk/MESSENGER.webm
+Navegar ,http://dl.dropbox.com/s/aaq0mogp1mcpb79/NAVEGAR.mp4,http://dl.dropbox.com/s/wvscsoxn549h3hm/NAVEGAR.webm
+Pagina Web ,http://dl.dropbox.com/s/28kbi84haciqz4g/PAGINA%20WEB.mp4,http://dl.dropbox.com/s/gh3u5o55arz7kan/PAGINA%20WEB.webm
+Pendrive ,http://dl.dropbox.com/s/yu2se85dle2ink7/PENDRIVE.mp4,http://dl.dropbox.com/s/hlndwwrc47sc2f2/PENDRIVE.webm
+Señal ,http://dl.dropbox.com/s/i3ce31w3eh4kb47/SE%C3%91AL.mp4,http://dl.dropbox.com/s/2jg72nt4qizouq2/SE%C3%91AL.webm
+Servicio Tecnico ,http://dl.dropbox.com/s/of6wjx1pwpotcks/SERVICIO%20TECNICO.mp4,http://dl.dropbox.com/s/6n22ijdi0adebhp/SERVICIO%20TECNICO.webm
+Software,http://dl.dropbox.com/s/utbtwhbcqsonj7y/SOFTWARE.mp4,http://dl.dropbox.com/s/6waj80muyab2060/SOFTWARE.webm
+Tarjeta de Memoria ,http://dl.dropbox.com/s/cnycz4qq9v2t405/TARJETA%20DE%20MEMORIA.mp4,http://dl.dropbox.com/s/gc9cxx5yix5lui6/TARJETA%20DE%20MEMORIA.webm
+Teclado ,http://dl.dropbox.com/s/9af4ioq7pocameb/TECLADO.mp4,http://dl.dropbox.com/s/gqvyi8a095b3hyl/TECLADO.webm
+Tecnologia ,http://dl.dropbox.com/s/3wv4kc425ynfhs8/TECNOLOGIA.mp4,http://dl.dropbox.com/s/5uqg2iz70bmbv23/TECNOLOGIA.webm
+Touch,http://dl.dropbox.com/s/9gvkd8jv8z70fl9/TOUCH.mp4,http://dl.dropbox.com/s/ht0k9maysmjm8ho/TOUCH.webm
+Twitter ,http://dl.dropbox.com/s/z2goc7f1jr0nwoe/TWITTER.mp4,http://dl.dropbox.com/s/opdz6kpea4euopb/TWITTER.webm
+Video Conferencia ,http://dl.dropbox.com/s/xsg3cw8a0k5cbp2/VIDEO%20CONFERENCIA.mp4,http://dl.dropbox.com/s/91iu002noufefh6/VIDEO%20CONFERENCIA.webm
+Wifi,http://dl.dropbox.com/s/kwywjtaefuo3gi3/WIFI.mp4,http://dl.dropbox.com/s/pi9xumk9a9jup5b/WIFI.webm
 VERBOS
 45
 Amar,http://dl.dropbox.com/s/5g7duvs97u2axyk/amar.mp4;http://dl.dropbox.com/s/fshx44wn40e47ds/amar.webm

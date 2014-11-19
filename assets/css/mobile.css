@@ -1,201 +1,201 @@
-/* 
-  grid for mobiles.
-*/
-.container {
-  margin: 0 auto;
-  overflow: hidden;
-  width: 96%; }
-
-.col-10 {
-  float: left;
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 95.99%; }
-
-.col-9 {
-  float: left;
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 95.99%; }
-
-.col-8 {
-  float: left;
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 95.99%; }
-
-.col-7 {
-  float: left;
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 95.99%; }
-
-.col-5 {
-  float: left;
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 46%; }
-
-.col-4 {
-  float: left;
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 46%; }
-
-.col-3 {
-  float: left;
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 46%; }
-
-.col-2 {
-  float: left;
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 46%; }
-
-.col-1 {
-  float: left;
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 46%; }
-
-header .logo {
-  width: 100%;
-  max-width: 320px; }
-  header .logo h1 {
-    margin-bottom: 0; }
-  header .logo a {
-    background-position: 0 -202px;
-    height: 92px; }
-
-.form-search {
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 96%; }
-  .form-search .search {
-    width: 60%; }
-  .form-search .send {
-    width: 36%; }
-
-.menu {
-  margin-left: 2%;
-  margin-right: 2%;
-  width: 96%; }
-  .menu ul li {
-    height: 68px;
-    margin: 0 0 50px;
-    width: 31.50%;
-    transition-duration: 1s;
-    -moz-transition-duration: 1s;
-    -o-transition-duration: 1s;
-    -webkit-transition-duration: 1s; }
-    .menu ul li a {
-      display: block;
-      height: 71px; }
-      .menu ul li a:hover {
-        top: 2px; }
-    .menu ul li span {
-      font-size: 13px;
-      margin-top: 9px; }
-    .menu ul li.categorias a {
-      background-position: -738px -450px;
-      width: 74px; }
-    .menu ul li.buscar-az a {
-      background-position: -865px -450px;
-      width: 61px; }
-    .menu ul li.mas-vistos a {
-      background-position: -610px -450px;
-      width: 78px; }
-    .menu ul li.informacion a {
-      background-position: -983px -446px;
-      width: 68px; }
-    .menu ul li.twitter a {
-      background-position: -373px -450px;
-      width: 70px; }
-    .menu ul li.facebook a {
-      background-position: -499px -452px;
-      width: 63px; }
-
-.mercados-app {
-    display: none; 
-}
-    
-.back-home .btn {
-  display: block;
-  text-align: left;
-  padding: 8px 12px; }
-
-.categorias .social-shared {
-  display: none; }
-
-.categoria {
-  width: 100%; }
-
-.pagination {
-  margin: 0 2%;
-  width: 96%; }
-  .pagination ul .separation,
-  .pagination ul li.siguiente,
-  .pagination ul li.anterior {
-    display: none; }
-  .pagination ul li {
-    height: 15px;
-    line-height: 15px;
-    padding: 11px 12px; }
-    .pagination ul li .icon-siguiente {
-      background-position: -751px -354px;
-      float: right; }
-    .pagination ul li .icon-anterior {
-      background-position: -826px -354px;
-      float: left; }
-    .pagination ul li.activo .icon-anterior {
-      background-position: -876px -354px; }
-    .pagination ul li.activo .icon-siguiente {
-      background-position: -925px -354px; }
-
-.buscar-az {
-  float: none;
-  margin: 0 auto; }
-  .buscar-az h2.title {
-    margin: 30px 0 20px; }
-  .buscar-az form a,
-  .buscar-az form button,
-  .buscar-az form input {
-    padding-left: 3%;
-    padding-right: 3%; }
-  .buscar-az form.search-select {
-    margin-left: 2%;
-    margin-right: 2%;
-    width: 96%; }
-  .buscar-az form.filtro-select {
-    margin-left: 2%;
-    margin-right: 2%;
-    width: 96%; }
-  .buscar-az form.filtro-palabra {
-    margin: 0 2%;
-    width: 96%; }
-    .buscar-az form.filtro-palabra .limpiar {
-      display: inline-block;
-      width: 20%; }
-    .buscar-az form.filtro-palabra .palabra {
-      display: inline-block;
-      width: 48%; }
-    .buscar-az form.filtro-palabra .enviar {
-      display: inline-block;
-      margin-left: -13px;
-      width: 20%; }
-
-.vistos {
-  float: none;
-  margin: 0 auto; }
-  .vistos .ir-categorias a {
-    display: block; }
-
-.info {
-  width: 96%;
-  margin-left: 2%;
-  margin-right: 2%; }
-
-.palabra {
-  width: 100%; }
+/* 
+  grid for mobiles.
+*/
+.container {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 96%; }
+
+.col-10 {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 95.99%; }
+
+.col-9 {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 95.99%; }
+
+.col-8 {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 95.99%; }
+
+.col-7 {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 95.99%; }
+
+.col-5 {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 46%; }
+
+.col-4 {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 46%; }
+
+.col-3 {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 46%; }
+
+.col-2 {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 46%; }
+
+.col-1 {
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 46%; }
+
+header .logo {
+  width: 100%;
+  max-width: 320px; }
+  header .logo h1 {
+    margin-bottom: 0; }
+  header .logo a {
+    background-position: 0 -202px;
+    height: 92px; }
+
+.form-search {
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 96%; }
+  .form-search .search {
+    width: 60%; }
+  .form-search .send {
+    width: 36%; }
+
+.menu {
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 96%; }
+  .menu ul li {
+    height: 68px;
+    margin: 0 0 50px;
+    width: 31.50%;
+    transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    -o-transition-duration: 1s;
+    -webkit-transition-duration: 1s; }
+    .menu ul li a {
+      display: block;
+      height: 71px; }
+      .menu ul li a:hover {
+        top: 2px; }
+    .menu ul li span {
+      font-size: 13px;
+      margin-top: 9px; }
+    .menu ul li.categorias a {
+      background-position: -738px -450px;
+      width: 74px; }
+    .menu ul li.buscar-az a {
+      background-position: -865px -450px;
+      width: 61px; }
+    .menu ul li.mas-vistos a {
+      background-position: -610px -450px;
+      width: 78px; }
+    .menu ul li.informacion a {
+      background-position: -983px -446px;
+      width: 68px; }
+    .menu ul li.twitter a {
+      background-position: -373px -450px;
+      width: 70px; }
+    .menu ul li.facebook a {
+      background-position: -499px -452px;
+      width: 63px; }
+
+.mercados-app {
+    display: none; 
+}
+    
+.back-home .btn {
+  display: block;
+  text-align: left;
+  padding: 8px 12px; }
+
+.categorias .social-shared {
+  display: none; }
+
+.categoria {
+  width: 100%; }
+
+.pagination {
+  margin: 0 2%;
+  width: 96%; }
+  .pagination ul .separation,
+  .pagination ul li.siguiente,
+  .pagination ul li.anterior {
+    display: none; }
+  .pagination ul li {
+    height: 15px;
+    line-height: 15px;
+    padding: 11px 12px; }
+    .pagination ul li .icon-siguiente {
+      background-position: -751px -354px;
+      float: right; }
+    .pagination ul li .icon-anterior {
+      background-position: -826px -354px;
+      float: left; }
+    .pagination ul li.activo .icon-anterior {
+      background-position: -876px -354px; }
+    .pagination ul li.activo .icon-siguiente {
+      background-position: -925px -354px; }
+
+.buscar-az {
+  float: none;
+  margin: 0 auto; }
+  .buscar-az h2.title {
+    margin: 30px 0 20px; }
+  .buscar-az form a,
+  .buscar-az form button,
+  .buscar-az form input {
+    padding-left: 3%;
+    padding-right: 3%; }
+  .buscar-az form.search-select {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%; }
+  .buscar-az form.filtro-select {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%; }
+  .buscar-az form.filtro-palabra {
+    margin: 0 2%;
+    width: 96%; }
+    .buscar-az form.filtro-palabra .limpiar {
+      display: inline-block;
+      width: 20%; }
+    .buscar-az form.filtro-palabra .palabra {
+      display: inline-block;
+      width: 48%; }
+    .buscar-az form.filtro-palabra .enviar {
+      display: inline-block;
+      margin-left: -13px;
+      width: 20%; }
+
+.vistos {
+  float: none;
+  margin: 0 auto; }
+  .vistos .ir-categorias a {
+    display: block; }
+
+.info {
+  width: 96%;
+  margin-left: 2%;
+  margin-right: 2%; }
+
+.palabra {
+  width: 100%; }
