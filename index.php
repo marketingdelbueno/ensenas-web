@@ -88,7 +88,7 @@ if ( isset($_GET['botonBuscar']) ) {
             </li>
 
             <li class="twitter">
-              <a href="http://twitter.com/share?via=progressumit&text=Acabo de descubrir una aplicación de Lengua de Señas Venezolana en &url=http://videodiccionario.net" rel="nofollow" title="Twitter" target="_blank">Apóyanos con un Tweet</a>
+              <a href="http://twitter.com/share?via=neoessentia&text=Acabo de descubrir una aplicación de Lengua de Señas Venezolana en &url=http://ensenas.com" rel="nofollow" title="Twitter" target="_blank">Apóyanos con un Tweet</a>
               <span>Apóyanos con un Tweet</span>
             </li>
             <li class="facebook">
