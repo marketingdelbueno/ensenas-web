@@ -395,7 +395,7 @@ Frutas,http://dl.dropbox.com/s/bdyisn8w8skf9k9/FRUTAS.mp4;http://dl.dropbox.com/
 Guanabana,http://dl.dropbox.com/s/sbdo82gjtpbxpd9/GUANABANA.mp4;http://dl.dropbox.com/s/g25djgnlv91x1ph/GUANABANA.webm
 Guayaba,http://dl.dropbox.com/s/7gkpbxa3jn0cos5/GUAYABA.mp4;http://dl.dropbox.com/s/v7ru9rjtsygszv5/GUAYABA.webm
 Higo,http://dl.dropbox.com/s/rlgpyb5ke3fydsd/HIGO.mp4;http://dl.dropbox.com/s/uaw2l1hp3o5idv0/HIGO.webm
-Lechoza,http://dl.dropbox.com/s/qihqg38dagjhnp1/LECHOSA.mp4;http://dl.dropbox.com/s/7z8p29wta5b7682/LECHOSA.webm
+Lechosa,http://dl.dropbox.com/s/qihqg38dagjhnp1/LECHOSA.mp4;http://dl.dropbox.com/s/7z8p29wta5b7682/LECHOSA.webm
 Lechuga,http://dl.dropbox.com/s/4ax91unuq2crq73/LECHUGA.mp4;http://dl.dropbox.com/s/k1upb6nadlobtyd/LECHUGA.webm
 Limon,http://dl.dropbox.com/s/gxdii93uazdsvhy/LIMON.mp4;http://dl.dropbox.com/s/ydvrmaj31ao5lbg/LIMON.webm
 Mandarina,http://dl.dropbox.com/s/31zujt04b9afizo/MANDARINA.mp4;http://dl.dropbox.com/s/drft70nfjpvg4gy/MANDARINA.webm
