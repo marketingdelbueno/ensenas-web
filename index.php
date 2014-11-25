@@ -10,9 +10,21 @@ if ( isset($_GET['botonBuscar']) ) {
 }
 ?>
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="es">
   <head>
     <meta charset="UTF-8">
+    <!-- Open Graph url property -->
+    <meta property="og:url" content="http://www.ensenas.com" />
+    <!-- Open Graph title property -->
+    <meta property="og:title" content="enSeñas" />
+    <!-- Open Graph description property -->
+    <meta property="og:description" content="Aplicación de Lengua de Señas Venezolanas" />
+    <!-- Open Graph image property -->
+    <meta property="og:image" content="http://www.ensenas.com/assets/img/hi-res-icon.png" />
+    <!-- Open Graph type property -->
+    <meta property="og:type" content="website" />
+    <!-- Open Graph site_name property -->
+    <meta property="og:site_name" content="enSeñas" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>Pagina Principal | Enseñas</title>
     <link rel="stylesheet" type="text/css" href="assets/css/commons.css" media="all">
@@ -27,7 +39,6 @@ if ( isset($_GET['botonBuscar']) ) {
   </head>
 
   <body>
-
     <header>
       <div class="container">
         <div class="logo">
@@ -43,7 +54,7 @@ if ( isset($_GET['botonBuscar']) ) {
       <h3>También puedes encontrarnos en:</h3>
       <ul>
         <li class="google-play">
-          <a href="https://play.google.com/store/apps/details?id=com.progressumit.ensenas" title="Consigue nuestra aplicación para Android">Google Play</a>
+          <a href="https://play.google.com/store/apps/details?id=org.neoesentia.ensenas" title="Consigue nuestra aplicación para Android">Google Play</a>
         </li>
         <li class="app-world">
           <a href="http://appworld.blackberry.com/webstore/content/25673872/?countrycode=VE" title="Consigue nuestra aplicación para Blackberry">App World</a>
@@ -92,7 +103,7 @@ if ( isset($_GET['botonBuscar']) ) {
               <span>Apóyanos con un Tweet</span>
             </li>
             <li class="facebook">
-              <a href="http://www.facebook.com/sharer.php?u=http://www.neoessentia.org/" title="Facebook" target="_blank">Búscanos en Facebook</a>
+              <a href="http://www.facebook.com/sharer.php?u=http://www.ensenas.com" title="Facebook" target="_blank">Búscanos en Facebook</a>
               <span>Búscanos en Facebook</span>
             </li>
           </ul>
