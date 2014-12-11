@@ -1382,49 +1382,87 @@ Rock,http://dl.dropbox.com/s/x7ehipfev5sl1zq/ROCK.mp4;http://dl.dropbox.com/s/2z
 Solista,http://dl.dropbox.com/s/m5s8zkizuovy75c/SOLISTA.mp4;http://dl.dropbox.com/s/fwmt0tnzkav4fya/SOLISTA.webm
 Talento Nacional,http://dl.dropbox.com/s/d73vhla9fptbm5b/TALENTO%20NACIONAL.mp4;http://dl.dropbox.com/s/tgfgp2nlgzvfb44/TALENTO%20NACIONAL.webm
 TECNOLOGíA
-42
+80
 3D,http://dl.dropbox.com/s/7t0r643k6l84pmk/3D.mp4,http://dl.dropbox.com/s/kh3z8ybtd86phv7/3D.webm
 Actualizar ,http://dl.dropbox.com/s/694127bj9hcx6f5/ACTUALIZAR.mp4,http://dl.dropbox.com/s/mgykrsisi53nerf/ACTUALIZAR.webm
-Atender ,http://dl.dropbox.com/s/yaxio19toqg2gq4/ATENDER.mp4,http://dl.dropbox.com/s/2b4fajle6pjnjc2/ATENDER.webm
-Bateria ,http://dl.dropbox.com/s/5yr5rx9yigccgsj/BATERIA.mp4,http://dl.dropbox.com/s/tiozhigheperadh/BATERIA.webm
-Buscador ,http://dl.dropbox.com/s/b6tlsoa2rrw48pu/BUSCADOR.mp4,http://dl.dropbox.com/s/iqikywy4vyt2rei/BUSCADOR.webm
-Celular ,http://dl.dropbox.com/s/jmyanrdewyhq4o1/CALULAR.mp4,http://dl.dropbox.com/s/c101x58h8b27m4t/CALULAR.webm
-Camara Digital ,http://dl.dropbox.com/s/v1cq7hqvoc8w7ry/CAMARA%20DIGITAL.mp4,http://dl.dropbox.com/s/edd762q1y47y6na/CAMARA%20DIGITAL.webm
-Cargar ,http://dl.dropbox.com/s/69eps8w1fyjcs3t/CARGADOR.mp4,http://dl.dropbox.com/s/45m0mq0tlht8eq0/CARGADOR.webm
-Cahatear ,http://dl.dropbox.com/s/fzfl6jxhuarimvx/CHATEAR.mp4,http://dl.dropbox.com/s/56jn5z74r52r7e4/CHATEAR.webm
-Cobertura ,http://dl.dropbox.com/s/0hupxfcmg90yjpd/COBERTURA.mp4,http://dl.dropbox.com/s/p8lqloh0np2bbhe/COBERTURA.webm
-Comunicación ,http://dl.dropbox.com/s/x9r0wn0h1tfugee/COMUNICACION.mp4,http://dl.dropbox.com/s/y9jp1yyyflgo8ob/COMUNICACION.webm
-Conexión ,http://dl.dropbox.com/s/wcrdh1rnjq8cqlb/CONEXION.mp4,http://dl.dropbox.com/s/fctzem589hzbq5x/CONEXION.webm
-Contacto ,http://dl.dropbox.com/s/i3yvjpm5f5lxbio/CONTACTO.mp4,http://dl.dropbox.com/s/enrtfjxhzt256yw/CONTACTO.webm
-Convertir ,http://dl.dropbox.com/s/o0wkj1nnqilsafz/CONVERTIR.mp4,http://dl.dropbox.com/s/bc58mnk9lmfrx6e/CONVERTIR.webm
-Correo Electronico ,http://dl.dropbox.com/s/0g1pbbjzg2ri351/CORREO%20ELECTRONICO.mp4,http://dl.dropbox.com/s/ply48x89vfdi3bx/CORREO%20ELECTRONICO.webm
-Descargar ,http://dl.dropbox.com/s/fisccpaz33hmwib/DESCARGAR.mp4,http://dl.dropbox.com/s/s4d75bvrkjkhyg0/DESCARGAR.webm
-Disco Duro ,http://dl.dropbox.com/s/g9yv3dafknoj5ph/DISCO%20DURO.mp4,http://dl.dropbox.com/s/bhtgub0b0l05kmd/DISCO%20DURO.webm
+Aplicación Móvil,http://dl.dropbox.com/s/lepp1jbe3d5gj7k/APLICACION%20MOVIL.mp4,http://dl.dropbox.com/s/iyazyxstvywiru6/APLICACION%20MOVIL.webm
+Atender,http://dl.dropbox.com/s/yaxio19toqg2gq4/ATENDER.mp4,http://dl.dropbox.com/s/2b4fajle6pjnjc2/ATENDER.webm
+Base de Datos,http://dl.dropbox.com/s/odwpmmxklleia6u/BASE%20DE%20DATOS.mp4,http://dl.dropbox.com/s/rok6tlk1jd85i5x/BASE%20DE%20DATOS.webm
+Bateria,http://dl.dropbox.com/s/5yr5rx9yigccgsj/BATERIA.mp4,http://dl.dropbox.com/s/tiozhigheperadh/BATERIA.webm
+Blackberry,http://dl.dropbox.com/s/oggixb5xs5c62xu/BLACKBERRY.mp4,http://dl.dropbox.com/s/ocfzkb8n8ptx6ag/BLACKBERRY.webm
+Blog,http://dl.dropbox.com/s/j2xw0u456tqf9i9/BLOG.mp4,http://dl.dropbox.com/s/7w7vff295sxgqdw/BLOG.webm
+Botón,http://dl.dropbox.com/s/am39lb8w81p67pg/BOTON.mp4,http://dl.dropbox.com/s/2z89y92mna248b2/BOTON.webm
+Buscador,http://dl.dropbox.com/s/b6tlsoa2rrw48pu/BUSCADOR.mp4,http://dl.dropbox.com/s/iqikywy4vyt2rei/BUSCADOR.webm
+Celular,http://dl.dropbox.com/s/jmyanrdewyhq4o1/CALULAR.mp4,http://dl.dropbox.com/s/c101x58h8b27m4t/CALULAR.webm
+Camara Digital,http://dl.dropbox.com/s/v1cq7hqvoc8w7ry/CAMARA%20DIGITAL.mp4,http://dl.dropbox.com/s/edd762q1y47y6na/CAMARA%20DIGITAL.webm
+Cargar,http://dl.dropbox.com/s/69eps8w1fyjcs3t/CARGADOR.mp4,http://dl.dropbox.com/s/45m0mq0tlht8eq0/CARGADOR.webm
+Cahatear,http://dl.dropbox.com/s/fzfl6jxhuarimvx/CHATEAR.mp4,http://dl.dropbox.com/s/56jn5z74r52r7e4/CHATEAR.webm
+Ciencia,http://dl.dropbox.com/s/9xm07fcbksg1rh8/CIENCIA.mp4,http://dl.dropbox.com/s/bf0ukzx1j3nkt0p/CIENCIA.webm
+Cobertura,http://dl.dropbox.com/s/0hupxfcmg90yjpd/COBERTURA.mp4,http://dl.dropbox.com/s/p8lqloh0np2bbhe/COBERTURA.webm
+Com,http://dl.dropbox.com/s/hcqm8lpw9ck1pz2/COM.mp4,http://dl.dropbox.com/s/i1uy7wo0lzk21sr/COM.webm
+Computadora,http://dl.dropbox.com/s/idsbblf8vd04tqm/COMPUTADORA.mp4,http://dl.dropbox.com/s/pdw0ocr21m6ma1y/COMPUTADORA.webm
+Comunicación,http://dl.dropbox.com/s/x9r0wn0h1tfugee/COMUNICACION.mp4,http://dl.dropbox.com/s/y9jp1yyyflgo8ob/COMUNICACION.webm
+Conexión,http://dl.dropbox.com/s/wcrdh1rnjq8cqlb/CONEXION.mp4,http://dl.dropbox.com/s/fctzem589hzbq5x/CONEXION.webm
+Contacto,http://dl.dropbox.com/s/i3yvjpm5f5lxbio/CONTACTO.mp4,http://dl.dropbox.com/s/enrtfjxhzt256yw/CONTACTO.webm
+Convertir,http://dl.dropbox.com/s/o0wkj1nnqilsafz/CONVERTIR.mp4,http://dl.dropbox.com/s/bc58mnk9lmfrx6e/CONVERTIR.webm
+Correo Electronico,http://dl.dropbox.com/s/0g1pbbjzg2ri351/CORREO%20ELECTRONICO.mp4,http://dl.dropbox.com/s/ply48x89vfdi3bx/CORREO%20ELECTRONICO.webm
+Descargar,http://dl.dropbox.com/s/fisccpaz33hmwib/DESCARGAR.mp4,http://dl.dropbox.com/s/s4d75bvrkjkhyg0/DESCARGAR.webm
+Disco Duro,http://dl.dropbox.com/s/g9yv3dafknoj5ph/DISCO%20DURO.mp4,http://dl.dropbox.com/s/bhtgub0b0l05kmd/DISCO%20DURO.webm
 DVD,http://dl.dropbox.com/s/ycrzxq0jhcup8xa/DVD.mp4,http://dl.dropbox.com/s/x6q4ym5cac0kw1h/DVD.webm
-Facebook ,http://dl.dropbox.com/s/zhohk8w6iqt5lmw/FACEBOOK.mp4,http://dl.dropbox.com/s/539a374jk10mz1j/FACEBOOK.webm
-GPS ,http://dl.dropbox.com/s/cbno0vinvxdmcgw/GPS.mp4,http://dl.dropbox.com/s/31bjqjqs88g89yj/GPS.webm
+Facebook,http://dl.dropbox.com/s/zhohk8w6iqt5lmw/FACEBOOK.mp4,http://dl.dropbox.com/s/539a374jk10mz1j/FACEBOOK.webm
+Gmail,http://dl.dropbox.com/s/40bk1srnqvsmx6r/GMAIL.mp4,http://dl.dropbox.com/s/2xyb4wqcsw3rwke/GMAIL.webm
+Google Maps,http://dl.dropbox.com/s/kxs8hr9dwjz2sxj/GOOGLE%20MAPS.mp4,http://dl.dropbox.com/s/ysa4l5h9hzm43cu/GOOGLE%20MAPS.webm
+GPS,http://dl.dropbox.com/s/cbno0vinvxdmcgw/GPS.mp4,http://dl.dropbox.com/s/31bjqjqs88g89yj/GPS.webm
+Hacker,http://dl.dropbox.com/s/se2ubabrc6o5x3z/HACKER.mp4,http://dl.dropbox.com/s/y93qe9qweqajo3c/HACKER.webm
 Hardware,http://dl.dropbox.com/s/g6linu0bl2vsraq/HARDWARE.mp4,http://dl.dropbox.com/s/2x0s9gtkh7jo3dy/HARDWARE.webm
+Ícono,http://dl.dropbox.com/s/c0ojmhww02j8vm1/ICONO.mp4,http://dl.dropbox.com/s/3u1mcwtfq72rm26/ICONO.webm
+Industria,http://dl.dropbox.com/s/yca5lji74glyxvu/INDUSTRIA.mp4,http://dl.dropbox.com/s/4nptqdq8ji30hlk/INDUSTRIA.webm
+Instagram,http://dl.dropbox.com/s/ob21c9q5vl73swh/INSTAGRAM.mp4,http://dl.dropbox.com/s/h6lhjgynyzqz04c/INSTAGRAM.webm
 Interactuar ,http://dl.dropbox.com/s/hxe3dfuvk86krf4/INTERACTUAR.mp4,http://dl.dropbox.com/s/lxd2bd6axn1f09j/INTERACTUAR.webm
 Internet ,http://dl.dropbox.com/s/yop6orf4ej4wh31/INTERNET.mp4,http://dl.dropbox.com/s/y1va1f3n0ojf2ua/INTERNET.webm
+IOs,http://dl.dropbox.com/s/46ol1kor711s52d/IOS.mp4,http://dl.dropbox.com/s/zjiaj1zej631tr2/IOS.webm
+IPad,http://dl.dropbox.com/s/2rpbulxnsxq1fl2/IPAD.mp4,http://dl.dropbox.com/s/u2i5cp8dq2o5jpm/IPAD.webm
+IPhone,http://dl.dropbox.com/s/6xpoomw26ildeqw/IPHONE.mp4,http://dl.dropbox.com/s/bvumr1tgg9bvo8u/IPHONE.webm
 Ipod ,http://dl.dropbox.com/s/ay3adv0l86uu0bx/IPOD.mp4,http://dl.dropbox.com/s/ea0rhmm3mivl1hb/IPOD.webm
 Laptop,http://dl.dropbox.com/s/feei34167adfv30/LAPTOP.mp4,http://dl.dropbox.com/s/ua1mpu4sdkovaxz/LAPTOP.webm
 Link ,http://dl.dropbox.com/s/1n5kqv4j5bjufli/LINK.mp4,http://dl.dropbox.com/s/lx8dmi6zkl7uiqc/LINK.webm
-Llamada ,http://dl.dropbox.com/s/e3l23c6r415dpc5/LLAMADA.mp4,http://dl.dropbox.com/s/aulu0t83ualo977/LLAMADA.webm
-Mensaje de Texto ,http://dl.dropbox.com/s/xmhtiijh8afa11r/MENSAJE%20DE%20TEXTO.mp4,http://dl.dropbox.com/s/1s4mb8zz4zcmfsj/MENSAJE%20DE%20TEXTO.webm
-Messenger ,http://dl.dropbox.com/s/my3q0twbppskdfg/MESSENGER.mp4,http://dl.dropbox.com/s/z8ge2vv3a1p36vk/MESSENGER.webm
-Navegar ,http://dl.dropbox.com/s/aaq0mogp1mcpb79/NAVEGAR.mp4,http://dl.dropbox.com/s/wvscsoxn549h3hm/NAVEGAR.webm
-Pagina Web ,http://dl.dropbox.com/s/28kbi84haciqz4g/PAGINA%20WEB.mp4,http://dl.dropbox.com/s/gh3u5o55arz7kan/PAGINA%20WEB.webm
-Pendrive ,http://dl.dropbox.com/s/yu2se85dle2ink7/PENDRIVE.mp4,http://dl.dropbox.com/s/hlndwwrc47sc2f2/PENDRIVE.webm
-Señal ,http://dl.dropbox.com/s/i3ce31w3eh4kb47/SE%C3%91AL.mp4,http://dl.dropbox.com/s/2jg72nt4qizouq2/SE%C3%91AL.webm
-Servicio Tecnico ,http://dl.dropbox.com/s/of6wjx1pwpotcks/SERVICIO%20TECNICO.mp4,http://dl.dropbox.com/s/6n22ijdi0adebhp/SERVICIO%20TECNICO.webm
+LinkedIn,http://dl.dropbox.com/s/ok8qee6s4t16zg3/LINKDIN.mp4,http://dl.dropbox.com/s/lx4hx3jpchxzxan/LINKDIN.webm
+Llamada,http://dl.dropbox.com/s/e3l23c6r415dpc5/LLAMADA.mp4,http://dl.dropbox.com/s/aulu0t83ualo977/LLAMADA.webm
+Mensaje de Texto,http://dl.dropbox.com/s/xmhtiijh8afa11r/MENSAJE%20DE%20TEXTO.mp4,http://dl.dropbox.com/s/1s4mb8zz4zcmfsj/MENSAJE%20DE%20TEXTO.webm
+Mercadolibre,http://dl.dropbox.com/s/fv1r92twx807p73/MERCADOLIBRE.mp4,http://dl.dropbox.com/s/aetelggbp7yv3u5/MERCADOLIBRE.webm
+Messenger,http://dl.dropbox.com/s/my3q0twbppskdfg/MESSENGER.mp4,http://dl.dropbox.com/s/z8ge2vv3a1p36vk/MESSENGER.webm
+Modernidad,http://dl.dropbox.com/s/wagnjnzu94as5kh/MODERNIDAD.mp4,http://dl.dropbox.com/s/cy7f22wxl8h3lj9/MODERNIDAD.webm
+Muro de Facebook,http://dl.dropbox.com/s/ehl1wg2v63f64fu/MURO%20DE%20FACEBOOK.mp4,http://dl.dropbox.com/s/8ccpy9qfz9h6n33/MURO%20DE%20FACEBOOK.webm
+Navegar,http://dl.dropbox.com/s/aaq0mogp1mcpb79/NAVEGAR.mp4,http://dl.dropbox.com/s/wvscsoxn549h3hm/NAVEGAR.webm
+Org,http://dl.dropbox.com/s/8lgofimbppivsrf/ORG.mp4,http://dl.dropbox.com/s/bxs59yb3wqxour8/ORG.webm
+Pagina Web,http://dl.dropbox.com/s/28kbi84haciqz4g/PAGINA%20WEB.mp4,http://dl.dropbox.com/s/gh3u5o55arz7kan/PAGINA%20WEB.webm
+Pendrive,http://dl.dropbox.com/s/yu2se85dle2ink7/PENDRIVE.mp4,http://dl.dropbox.com/s/hlndwwrc47sc2f2/PENDRIVE.webm
+PHP,http://dl.dropbox.com/s/tsnq8zxoay9hpyx/PHP.mp4,http://dl.dropbox.com/s/y00e41izybpaol5/PHP.webm
+Portal,http://dl.dropbox.com/s/ep41yghltldv1il/PORTAL.mp4,http://dl.dropbox.com/s/lfp8p0inxn4o85j/PORTAL.webm
+Programar,http://dl.dropbox.com/s/bxo183c217qgsx7/PROGRAMAR.mp4,http://dl.dropbox.com/s/v7haeuct3iwtykk/PROGRAMAR.webm
+Realidad aumentada,http://dl.dropbox.com/s/sg1cgbpmd61h3h1/REALIDAD%20AUMENTADA.mp4,http://dl.dropbox.com/s/vfgmqa64n8mp8mn/REALIDAD%20AUMENTADA.webm
+Redes sociales,http://dl.dropbox.com/s/xr9j4htz75rvtxo/REDES%20SOCIALES.mp4,http://dl.dropbox.com/s/61w89otrcl6mw5l/REDES%20SOCIALES.webm
+Señal,http://dl.dropbox.com/s/i3ce31w3eh4kb47/SE%C3%91AL.mp4,http://dl.dropbox.com/s/2jg72nt4qizouq2/SE%C3%91AL.webm
+Servicio Tecnico,http://dl.dropbox.com/s/of6wjx1pwpotcks/SERVICIO%20TECNICO.mp4,http://dl.dropbox.com/s/6n22ijdi0adebhp/SERVICIO%20TECNICO.webm
 Software,http://dl.dropbox.com/s/utbtwhbcqsonj7y/SOFTWARE.mp4,http://dl.dropbox.com/s/6waj80muyab2060/SOFTWARE.webm
-Tarjeta de Memoria ,http://dl.dropbox.com/s/cnycz4qq9v2t405/TARJETA%20DE%20MEMORIA.mp4,http://dl.dropbox.com/s/gc9cxx5yix5lui6/TARJETA%20DE%20MEMORIA.webm
-Teclado ,http://dl.dropbox.com/s/9af4ioq7pocameb/TECLADO.mp4,http://dl.dropbox.com/s/gqvyi8a095b3hyl/TECLADO.webm
-Tecnologia ,http://dl.dropbox.com/s/3wv4kc425ynfhs8/TECNOLOGIA.mp4,http://dl.dropbox.com/s/5uqg2iz70bmbv23/TECNOLOGIA.webm
+Tableta ,http://dl.dropbox.com/s/oqf2vlnyxqviu22/TABLETA.mp4,http://dl.dropbox.com/s/ihii7laxzw5ksjd/TABLETA.webm
+Táctil,http://dl.dropbox.com/s/gwosjc33fi7ri23/TACTIL.mp4,http://dl.dropbox.com/s/11hhcnrmfqsjpqj/TACTIL.webm
+Tarjeta de Memoria,http://dl.dropbox.com/s/cnycz4qq9v2t405/TARJETA%20DE%20MEMORIA.mp4,http://dl.dropbox.com/s/gc9cxx5yix5lui6/TARJETA%20DE%20MEMORIA.webm
+Teclado,http://dl.dropbox.com/s/9af4ioq7pocameb/TECLADO.mp4,http://dl.dropbox.com/s/gqvyi8a095b3hyl/TECLADO.webm
+Técnico,http://dl.dropbox.com/s/zvjdcfiuxnlx8zw/TECNICO.mp4,http://dl.dropbox.com/s/nm23og9ar7xcfpw/TECNICO.webm
+Tecnologia,http://dl.dropbox.com/s/3wv4kc425ynfhs8/TECNOLOGIA.mp4,http://dl.dropbox.com/s/5uqg2iz70bmbv23/TECNOLOGIA.webm
+Teléfonos inteligentes,http://dl.dropbox.com/s/0tqioriy9mzf3kz/TELEFONOS%20INTELIGENTES.mp4,http://dl.dropbox.com/s/8enir9zv9qjmqkm/TELEFONOS%20INTELIGENTES.webm
 Touch,http://dl.dropbox.com/s/9gvkd8jv8z70fl9/TOUCH.mp4,http://dl.dropbox.com/s/ht0k9maysmjm8ho/TOUCH.webm
-Twitter ,http://dl.dropbox.com/s/z2goc7f1jr0nwoe/TWITTER.mp4,http://dl.dropbox.com/s/opdz6kpea4euopb/TWITTER.webm
-Video Conferencia ,http://dl.dropbox.com/s/xsg3cw8a0k5cbp2/VIDEO%20CONFERENCIA.mp4,http://dl.dropbox.com/s/91iu002noufefh6/VIDEO%20CONFERENCIA.webm
+Tweet,http://dl.dropbox.com/s/4xyytuev36xcz4m/TWEET.mp4,http://dl.dropbox.com/s/wheom2divtpk51m/TWEET.webm
+Twitter,http://dl.dropbox.com/s/z2goc7f1jr0nwoe/TWITTER.mp4,http://dl.dropbox.com/s/opdz6kpea4euopb/TWITTER.webm
+Video Conferencia,http://dl.dropbox.com/s/xsg3cw8a0k5cbp2/VIDEO%20CONFERENCIA.mp4,http://dl.dropbox.com/s/91iu002noufefh6/VIDEO%20CONFERENCIA.webm
+Videojuego,http://dl.dropbox.com/s/uj6nkgzk86j40zj/VIDEOJUEGO.mp4,http://dl.dropbox.com/s/mzjnz0sbke98xk9/VIDEOJUEGO.webm
 Wifi,http://dl.dropbox.com/s/kwywjtaefuo3gi3/WIFI.mp4,http://dl.dropbox.com/s/pi9xumk9a9jup5b/WIFI.webm
+Windows,http://dl.dropbox.com/s/e0z3a50t3mzmfzb/WINDOWS.mp4,http://dl.dropbox.com/s/uxlh50hyr00f3jy/WINDOWS.webm
+Wordpress,http://dl.dropbox.com/s/47o7khq84uo8mrn/WORDPRESS.mp4,http://dl.dropbox.com/s/30wm5qap1sct86q/WORDPRESS.webm
+WWW,http://dl.dropbox.com/s/4bqwu050tntokj0/WWW.mp4,http://dl.dropbox.com/s/7id75wdouj0cu74/WWW.webm
+XBox,http://dl.dropbox.com/s/gbotpk9ektwmxag/XBOX.mp4,http://dl.dropbox.com/s/qcb0jdh4loqaotb/XBOX.webm
+Youtube,http://dl.dropbox.com/s/sx4356q5k6fzakn/YOUTUBE.mp4,http://dl.dropbox.com/s/nmc3rvm14jvnt5d/YOUTUBE.webm
 VALORES
 48
 Adaptabilidad,http://dl.dropbox.com/s/30w2v08yhh2tgxe/Adaptabilidad.mp4,http://dl.dropbox.com/s/ptihv3n6uv0bzte/Adaptabilidad.webm
