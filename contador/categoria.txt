@@ -316,7 +316,7 @@ Puedo ayudarlo,http://dl.dropbox.com/s/2833rd8f5lpx9ky/PUEDO%20AYUDARLO.mp4,http
 Pulso,http://dl.dropbox.com/s/wdhsg3wfb3g57tv/PULSO.mp4,http://dl.dropbox.com/s/zzuoayr7zpka2g6/PULSO.webm
 Quemadura,http://dl.dropbox.com/s/xmmqhzspkc5ex9z/QUEMADURA.mp4,http://dl.dropbox.com/s/tiz7qvotjcl38lw/QUEMADURA.webm
 DEPORTES
-48
+47
 Aereobics,http://dl.dropbox.com/s/t7hv8ldkcm5bpkd/Aerobics.mp4,http://dl.dropbox.com/s/wylutu06sdavajd/Aerobics.webm
 Alpinismo,http://dl.dropbox.com/s/gwrrs8e4tmwcy9x/Alpinismo.mp4,http://dl.dropbox.com/s/54n57fo7jtze8uq/Alpinismo.webm
 Artes marciales,http://dl.dropbox.com/s/9q7pvtweodu212p/Artes%20Marciales.mp4,http://dl.dropbox.com/s/juekf5zw30ohdnk/Artes%20Marciales.webm
@@ -364,7 +364,6 @@ Tirco con arco,http://dl.dropbox.com/s/5epp6yuiltd3vk0/Tiro%20con%20Arco.mp4,htt
 Ultimate,http://dl.dropbox.com/s/hk9s9adg5sljxi4/Ultimate.mp4,http://dl.dropbox.com/s/681x2aes3ovenpz/Ultimate.webm
 Voleibol,http://dl.dropbox.com/s/ch0lft0i9u03mo7/Voleibol.mp4,http://dl.dropbox.com/s/d68qiobc539z6pt/Voleibol.webm
 Water polo,http://dl.dropbox.com/s/pvnu7e0d1ikrr6q/Waterpolo.mp4,http://dl.dropbox.com/s/p2qyosta4w1azq8/Waterpolo.webm
-Yudo,http://dl.dropbox.com/s/o8zwjxpn6zto42o/Yudo.mp4,http://dl.dropbox.com/s/tj1akuasvm74tly/Yudo.webm
 DÍAS MESES Y FERIADOS
 27
 Dias de la semana,http://dl.dropbox.com/s/l777krmf12aes26/DIAS%20DE%20LA%20SEMANA.mp4;http://dl.dropbox.com/s/n1ppgvtpnequlrs/DIAS%20DE%20LA%20SEMANA.webm
