@@ -1,4 +1,4 @@
-38
+39
 ABECEDARIO
 27
 A,http://dl.dropbox.com/s/8rtofzhcvgtmzss/A.mp4;http://dl.dropbox.com/s/5mee5b0u5i8utcg/A.webm
@@ -1182,6 +1182,44 @@ Tranquilizante,http://dl.dropbox.com/s/bo3nug8tdt8emgt/tranquilizante.mp4;http:/
 Tratamiento,http://dl.dropbox.com/s/aj8vipndmzi9ggb/tratamiento.mp4;http://dl.dropbox.com/s/6se5ggswwt81yfu/tratamiento.webm
 Virus,http://dl.dropbox.com/s/n6nfzch0155dlcd/virus.mp4;http://dl.dropbox.com/s/syvdbfzndp3p67p/virus.webm
 Vomitar,http://dl.dropbox.com/s/24hex08a4l72hym/vomitar.mp4;http://dl.dropbox.com/s/rvxocoktvct48va/vomitar.webm
+SÍMBOLOS PATRIOS
+36
+Alma Llanera,http://dl.dropbox.com/s/xayly0pmnhhrjrd/Alma%20Llanera.mp4,http://dl.dropbox.com/s/h3vcu4d5dwzq9i5/Alma%20Llanera.webm
+Araguaney,http://dl.dropbox.com/s/4794agidqqzggyc/Araguaney.mp4,http://dl.dropbox.com/s/3idowbbqo9p3aha/Araguaney.webm
+Árbol Nacional,http://dl.dropbox.com/s/e4gvqqvsr39xd0g/Arbol%20Nacional.mp4,http://dl.dropbox.com/s/4kllxlavmh3snfx/Arbol%20Nacional.webm
+Arpa,http://dl.dropbox.com/s/vz93faczxawlstv/Arpa.mp4,http://dl.dropbox.com/s/bcb41fsjmbmina9/Arpa.webm
+Baile de los Diablos de Yare,http://dl.dropbox.com/s/8ix1wczhrgpdw17/Baile%20de%20Los%20diablos%20de%20yare.mp4,http://dl.dropbox.com/s/06ep6chu851k6ys/Baile%20de%20Los%20diablos%20de%20yare.webm
+Baile de San Benito,http://dl.dropbox.com/s/vs6vx6p4txltnmx/Baile%20de%20San%20Benito.mp4,http://dl.dropbox.com/s/c5r2eck1cjash6c/Baile%20de%20San%20Benito.webm
+Bandera Nacional,http://dl.dropbox.com/s/ercssocjpe0d691/Bandera%20Nacional.mp4,http://dl.dropbox.com/s/bdn0mthsinkxhuv/Bandera%20Nacional.webm
+Casa Natal del Libertador,http://dl.dropbox.com/s/ervitkmc30m11z4/Casa%20Natal%20del%20Libertador.mp4,http://dl.dropbox.com/s/quue4ac4n6qxbmi/Casa%20Natal%20del%20Libertador.webm
+Cestas Indígenas,http://dl.dropbox.com/s/vjwb3xpm5zawb7a/Cestas%20Indigenas.mp4,http://dl.dropbox.com/s/vx1x1wnv47zcptj/Cestas%20Indigenas.webm
+Chiguire,http://dl.dropbox.com/s/pv0c6gm6d6rpymj/Chiguire.mp4,http://dl.dropbox.com/s/x4sb5m33nscavm3/Chiguire.webm
+Cuatro,http://dl.dropbox.com/s/deecchzwd41wk8r/Cuatro.mp4,http://dl.dropbox.com/s/kolrpse2bamy37c/Cuatro.webm
+El Ávila,http://dl.dropbox.com/s/rcw2fsxxnqtblom/El%20Avila.mp4,http://dl.dropbox.com/s/pt2vmn27w0hi7wv/El%20Avila.webm
+Escudo,http://dl.dropbox.com/s/00hmimvcsk6n9nz/Escudo.mp4,http://dl.dropbox.com/s/ejuu0nq09z5ky59/Escudo.webm
+Flauta Guajira,http://dl.dropbox.com/s/0st74vnbagbud1v/Flauta%20Guajira.mp4,http://dl.dropbox.com/s/fby9q7e96c5ul2z/Flauta%20Guajira.webm
+Flor Nacional,http://dl.dropbox.com/s/x60dhef9av0w6ay/Flor%20Nacional.mp4,http://dl.dropbox.com/s/6nvpmj4n9o4l7oj/Flor%20Nacional.webm
+Francisco de Miranda,http://dl.dropbox.com/s/5aegacr2ltmaqxr/Francisco%20de%20Miranda.mp4,http://dl.dropbox.com/s/qqdhi3qwrebj2gn/Francisco%20de%20Miranda.webm
+Gaitas,http://dl.dropbox.com/s/vokkmbybspx680x/Gaitas.mp4,http://dl.dropbox.com/s/8420ko179l5mz44/Gaitas.webm
+Gloria al Bravo Pueblo,http://dl.dropbox.com/s/7kwyvfyobn5efvg/Gloria%20Al%20Bravo%20Pueblo.mp4,http://dl.dropbox.com/s/kwy1fvw5gqlibrf/Gloria%20Al%20Bravo%20Pueblo.webm
+Himno Nacional,http://dl.dropbox.com/s/kaldhx6pe4fwfyb/Himno%20Nacional.mp4,http://dl.dropbox.com/s/p1zceag11drprxw/Himno%20Nacional.webm
+Hotel Humboldt,http://dl.dropbox.com/s/praa6zs6vs8up6n/Hotel%20Humboldt.mp4,http://dl.dropbox.com/s/3kw0fuediy96x0y/Hotel%20Humboldt.webm
+Joropo Cumanés,http://dl.dropbox.com/s/cwwegh3e9bzud0o/Joropo%20Cumanes.mp4,http://dl.dropbox.com/s/uvjpog79tyyhi5r/Joropo%20Cumanes.webm
+Joropo Tuyero,http://dl.dropbox.com/s/cqgf6jn8d3zmkvi/Joropo%20Tuyero.mp4,http://dl.dropbox.com/s/mgalvanihdhq20q/Joropo%20Tuyero.webm
+Libertador,http://dl.dropbox.com/s/5st80ch0hlq4wf2/Libertador.mp4,http://dl.dropbox.com/s/dboraixf2vl1nj6/Libertador.webm
+Maracas,http://dl.dropbox.com/s/x5aeho7hj2jjkby/Maracas.mp4,http://dl.dropbox.com/s/0k2duty80882nij/Maracas.webm
+Nuestra Señora de Coromoto,http://dl.dropbox.com/s/d13k2mi9wd33p4a/Nuestra%20Se%C3%B1ora%20de%20Coromoto.mp4,http://dl.dropbox.com/s/tdishalinza7oef/Nuestra%20Se%C3%B1ora%20de%20Coromoto.webm
+Orquídea,http://dl.dropbox.com/s/g97ux1pzu8rdi4i/orquidea.mp4,http://dl.dropbox.com/s/m31ru98c207blwk/orquidea.webm
+Panteón,http://dl.dropbox.com/s/pgae03nqph0zgoz/Pante%C3%B3n.mp4,http://dl.dropbox.com/s/6yq2687f0kflhnq/Pante%C3%B3n.webm
+Paradura del Niño Jesús,http://dl.dropbox.com/s/b9bplp055dh49di/Paradura%20del%20Ni%C3%B1o%20Jes%C3%BAs.mp4,http://dl.dropbox.com/s/6967qyl6a3buy9t/Paradura%20del%20Ni%C3%B1o%20Jes%C3%BAs.webm
+Puente Rafael Urdaneta,http://dl.dropbox.com/s/osrlc38by7la4wm/Puente%20Rafael%20Urdaneta.mp4,http://dl.dropbox.com/s/woduic8sphrkf1z/Puente%20Rafael%20Urdaneta.webm
+Religión,http://dl.dropbox.com/s/1you78dqbbi0s1k/Religi%C3%B3n.mp4,http://dl.dropbox.com/s/1xv68qdhezhvz0p/Religi%C3%B3n.webm
+Salto El Ángel,http://dl.dropbox.com/s/v2s86ejuoci3kw4/Salto%20El%20Angel.mp4,http://dl.dropbox.com/s/kg9coj14y4krj91/Salto%20El%20Angel.webm
+Símbolos Patrios,http://dl.dropbox.com/s/2tq91fllwrrbuuh/Simbolos%20Patrios.mp4,http://dl.dropbox.com/s/me7iewoi8rwdx2w/Simbolos%20Patrios.webm
+Simón Bolívar,http://dl.dropbox.com/s/t0i2ltsp8wce0el/Sim%C3%B3n%20Bol%C3%ADvar.mp4,http://dl.dropbox.com/s/3wbkso14ett1zgt/Sim%C3%B3n%20Bol%C3%ADvar.webm
+Tambores,http://dl.dropbox.com/s/8d5r4ipk7def48q/Tambores.mp4,http://dl.dropbox.com/s/gjvbyqtba75xtpx/Tambores.webm
+Turpial,http://dl.dropbox.com/s/7ptfml1mzvjohc6/Turpial.mp4,http://dl.dropbox.com/s/b0to0x3oyri2ioj/Turpial.webm
+Vasija de Barro,http://dl.dropbox.com/s/t3649oluz0xonpd/Vasija%20de%20Barro.mp4,http://dl.dropbox.com/s/670rxnbqzyyi1z5/Vasija%20de%20Barro.webm
 TALENTO NACIONAL
 24
 Cantante,http://dl.dropbox.com/s/pptb30h3cohdjq1/CANTANTE.mp4;http://dl.dropbox.com/s/ood7b89d6vphidj/CANTANTE.webm
