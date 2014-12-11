@@ -1,4 +1,4 @@
-32
+33
 ABECEDARIO
 27
 A,http://dl.dropbox.com/s/8rtofzhcvgtmzss/A.mp4;http://dl.dropbox.com/s/5mee5b0u5i8utcg/A.webm
@@ -174,6 +174,41 @@ Teatro,http://dl.dropbox.com/s/hgfbbd2u84y3jxi/Teatro.mp4,http://dl.dropbox.com/
 Tragedia,http://dl.dropbox.com/s/ry067zvxmmqb6cx/Tragedia.mp4,http://dl.dropbox.com/s/q8w4jfg8gh1oues/Tragedia.webm
 Tramoya,http://dl.dropbox.com/s/y4u8fb7asfdez7c/Tramoya.mp4,http://dl.dropbox.com/s/7bxx5vz9nr7qx0s/Tramoya.webm
 Utilería,http://dl.dropbox.com/s/x8u40lygzmrh2fa/Utiler%C3%ADa.mp4,http://dl.dropbox.com/s/f3kwadn29mzsxre/Utiler%C3%ADa.webm
+ATENCIÓN AL CLIENTE
+33
+Aprobado,http://dl.dropbox.com/s/yhth42wq100q6x2/Aprobado.mp4,http://dl.dropbox.com/s/9bt7rwju6ionu18/Aprobado.webm
+Atención,http://dl.dropbox.com/s/51nhh6l0eboiu76/Atencion.mp4,http://dl.dropbox.com/s/mkkc837ip6ppfz5/Atencion.webm
+Atención Preferencial,http://dl.dropbox.com/s/4t8mitsodiai5gw/atencion_preferencial.mp4,http://dl.dropbox.com/s/0tlb06lekv1633o/atencion_preferencial.webm
+Calidad en el servicio,http://dl.dropbox.com/s/y2keadnotd5zgdw/calidad_en_el_servicio.mp4,http://dl.dropbox.com/s/20ekie7r4l3khix/calidad_en_el_servicio.webm
+Canal,http://dl.dropbox.com/s/3z8trm3ndedfb1s/Canal.mp4,http://dl.dropbox.com/s/1rltw98yg9qxy3g/Canal.webm
+Ciclo del servicio,http://dl.dropbox.com/s/zzk0xv3e9jxcz9j/ciclo_del_servicio.mp4,http://dl.dropbox.com/s/25579tb1mc4p6wv/ciclo_del_servicio.webm
+Cliente decidido,http://dl.dropbox.com/s/fsksvo8cc8osuhz/cliente_decidido.mp4,http://dl.dropbox.com/s/sfbe3y8355ftl60/cliente_decidido.webm
+Cliente descontento,http://dl.dropbox.com/s/17tg3mkhgd9qdi4/cliente_descontento.mp4,http://dl.dropbox.com/s/g7ds7uwdzffl6fn/cliente_descontento.webm
+Cliente dominante,http://dl.dropbox.com/s/7ivbdfu6noc65kl/cliente_dominante.mp4,http://dl.dropbox.com/s/27xm00zlaj094l9/cliente_dominante.webm
+Cliente especulador,http://dl.dropbox.com/s/igy3ss6kohva03a/cliente_especulador.mp4,http://dl.dropbox.com/s/2jif0z1h4s5pho8/cliente_especulador.webm
+Cliente exigente,http://dl.dropbox.com/s/kg53vp8qrdwmj0r/cliente_exigente.mp4,http://dl.dropbox.com/s/h22z64gc6xjigxn/cliente_exigente.webm
+Cliente externo,http://dl.dropbox.com/s/a9gbl5g1rofx196/cliente_externo.mp4,http://dl.dropbox.com/s/j4xtfohr99otjcc/cliente_externo.webm
+Cliente interno,http://dl.dropbox.com/s/l3kv2rz4ruvz4oe/cliente_interno.mp4,http://dl.dropbox.com/s/ww2n4wvcf3jwc55/cliente_interno.webm
+Cliente,http://dl.dropbox.com/s/u8h1kja6oe3gusp/Cliente.mp4,http://dl.dropbox.com/s/fg15qcaqdjqvm37/Cliente.webm
+Cuenta corriente,http://dl.dropbox.com/s/le02yn5gf2bbtnt/cuenta_corriente.mp4,http://dl.dropbox.com/s/wm9jzoxcawkit26/cuenta_corriente.webm
+Cuenta de ahorro,http://dl.dropbox.com/s/82tae9egk01a37t/cuenta_de_ahorro.mp4,http://dl.dropbox.com/s/ch7gwjhpmhdol26/cuenta_de_ahorro.webm
+Emisor,http://dl.dropbox.com/s/a0s7ywxbo8spqya/Emisor.mp4,http://dl.dropbox.com/s/i2cc3n7dcgtmra8/Emisor.webm
+Encuesta,http://dl.dropbox.com/s/uw6q3slk1czdrm4/Encuesta.mp4,http://dl.dropbox.com/s/yosl8mutdce8v7x/Encuesta.webm
+Ética,http://dl.dropbox.com/s/87o18t8j7mfk815/Etica.mp4,http://dl.dropbox.com/s/vvog1buxydizxo7/Etica.webm
+Manual de funciones,http://dl.dropbox.com/s/8bzraxlsgl7vu6j/manual_de_funciones.mp4,http://dl.dropbox.com/s/bjmb01g3di1mp0t/Manual_de_funciones.webm
+Negado,http://dl.dropbox.com/s/0l33a3cn6z4vcr1/Negado.mp4,http://dl.dropbox.com/s/06r0wy37s5s3eis/Negado.webm
+Oferta,http://dl.dropbox.com/s/armxtvns6x5nimb/Oferta.mp4,http://dl.dropbox.com/s/enn55x3vovg1pfi/Oferta.webm
+Organización,http://dl.dropbox.com/s/x71riqmadurzu2s/Organizacion.mp4,http://dl.dropbox.com/s/k6juj80jfjumlrl/Organizacion.webm
+Planilla,http://dl.dropbox.com/s/0t6kvf907xxl454/Planilla.mp4,http://dl.dropbox.com/s/nhik4isd1ahleam/Planilla.webm
+Producto,http://dl.dropbox.com/s/euy4hjhx1dvn0fv/Producto.mp4,http://dl.dropbox.com/s/b5oifgvzm5qpblg/Producto.webm
+Prontitud de respuesta,http://dl.dropbox.com/s/m2z6knckavisoou/Prontitud_de_respuesta.mp4,http://dl.dropbox.com/s/14o6e42qhujm2rm/Prontitud_de_respuesta.webm
+Proveedor de servicio,http://dl.dropbox.com/s/rfgw9gg84w939je/Proveedor_de_servicio.mp4,http://dl.dropbox.com/s/9dkd75z9xoxp4jd/Proveedor_de_servicio.webm
+Recepción,http://dl.dropbox.com/s/fzaum18oujk3ech/Recepcion.mp4,http://dl.dropbox.com/s/grhpq7ix0of2qv3/Recepcion.webm
+Receptor,http://dl.dropbox.com/s/hshowwb6vmnb7vc/Receptor.mp4,http://dl.dropbox.com/s/vcici0nkdvkbyds/Receptor.webm
+Reclamo,http://dl.dropbox.com/s/8g2svm4gay7beq8/Reclamo.mp4,http://dl.dropbox.com/s/p6ab4tu8vlu6ty7/Reclamo.webm
+Rentabilidad,http://dl.dropbox.com/s/2nfwllcje3d0ho5/Rentabilidad.mp4,http://dl.dropbox.com/s/ux9enbfalkjc4yh/Rentabilidad.webm
+Requerimiento,http://dl.dropbox.com/s/l4po7oqvvuzhfq4/Requerimiento.mp4,http://dl.dropbox.com/s/m2ijoh7ylxpp9a8/Requerimiento.webm
+Retroalimentación,http://dl.dropbox.com/s/7otzpwd37qplu82/Retroalimentacion.mp4,http://dl.dropbox.com/s/qpkbera3no079un/Retroalimentacion.webm
 BANCO
 12
 Bolívares,http://dl.dropbox.com/s/518u28kchoczel2/Bol%C3%ADvares.mp4;http://dl.dropbox.com/s/uhiwlmvzh3lu3ln/Bol%C3%ADvares.webm
