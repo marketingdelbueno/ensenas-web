@@ -313,30 +313,77 @@ Depósito,http://dl.dropbox.com/s/ftlzg5b2t2opc2e/Dep%C3%B3sito.mp4;http://dl.dro
 Dinero,http://dl.dropbox.com/s/fh9vr7x2w8jqhdd/Dinero.mp4;http://dl.dropbox.com/s/zdc5uku5lhez955/Dinero.webm
 Divisa,http://dl.dropbox.com/s/g3010rctstiks02/Divisa.mp4;http://dl.dropbox.com/s/0p74eiqxubyv03u/Divisa.webm
 COLOQUIAL
-23
+70
 A juro,http://dl.dropbox.com/s/s33kbgy4a3vqggk/a%20juro.mp4,http://dl.dropbox.com/s/6s03jxsoklgmd0n/a%20juro.webm
+Ay Vale,http://dl.dropbox.com/s/y4jdthtfrjaz665/AY%20VALE.mp4,http://dl.dropbox.com/s/7sb68m5tj7y7m98/AY%20VALE.webm
+Achantao,http://dl.dropbox.com/s/urrplktvnxweaey/ACHANTAO.mp4,http://dl.dropbox.com/s/etkhkzvaipz9kj4/ACHANTAO.webm
 Año de la pera,http://dl.dropbox.com/s/ppzd1g1apukhnmm/A%C3%B1o%20de%20la%20pera.mp4,http://dl.dropbox.com/s/en4q4x2ljfzkc9i/A%C3%B1o%20de%20la%20pera.webm
+Arrocero,http://dl.dropbox.com/s/tta1q381u4mul8a/ARROCERO.mp4,http://dl.dropbox.com/s/ja1f0rwjqyd5uzq/ARROCERO.webm
 Arroz con mango,http://dl.dropbox.com/s/sjrkqcyav6ben8z/Arroz%20con%20mango.mp4,http://dl.dropbox.com/s/unqzzougu7zisf5/Arroz%20con%20mango.webm
 Bajale dos,http://dl.dropbox.com/s/s6kf9jc9jryej5p/bajale%20dos.mp4,http://dl.dropbox.com/s/v86o9ritjwmiufm/bajale%20dos.webm
 Bajarse de la mula,http://dl.dropbox.com/s/wnqetua3txy6wr0/bajarse%20de%20la%20mula.mp4,http://dl.dropbox.com/s/w404bvaf47nr576/bajarse%20de%20la%20mula.webm
 Bala fría,http://dl.dropbox.com/s/3pcg9kym89y3xce/bala%20fria.mp4,http://dl.dropbox.com/s/nitkvc7l7wc51ft/bala%20fria.webm
+Barullo,http://dl.dropbox.com/s/yo06rvzdl4lvl1u/BARULLO.mp4,http://dl.dropbox.com/s/7kitm623dogs966/BARULLO.webm
 Bate quebrado,http://dl.dropbox.com/s/gy2we0kpz7fo1py/bate%20quebrao.mp4,http://dl.dropbox.com/s/vk1mbyykp7338d3/bate%20quebrao.webm
 Bien resuelto,http://dl.dropbox.com/s/gt3tx18230oxaxb/bien%20resuelto.mp4,http://dl.dropbox.com/s/aiwrcm7s5kfnx96/bien%20resuelto.webm
+Birras,http://dl.dropbox.com/s/so4nl0nkcch1giu/BIRRAS.mp4,http://dl.dropbox.com/s/ldofjg9xarbr1ao/BIRRAS.webm
+Boca e'sapo,http://dl.dropbox.com/s/0aibcd83g2b80or/BOCA%20E%20SAPO.mp4,http://dl.dropbox.com/s/7tm5u59l78fxi5y/BOCA%20E%20SAPO.webm
 Burda,http://dl.dropbox.com/s/aogz0j2keg7kopz/burda.mp4,http://dl.dropbox.com/s/gap8fzgrqkqsonf/burda.webm
 Cable pelado,http://dl.dropbox.com/s/n4a21fmdsegphph/cable%20pelado.mp4,http://dl.dropbox.com/s/qv9l5pzquh1dtna/cable%20pelado.webm
 Caido de la mata,http://dl.dropbox.com/s/fasp68gbpxzeqg6/caido%20de%20la%20mata.mp4,http://dl.dropbox.com/s/6jgwaz1tuzrvye4/caido%20de%20la%20mata.webm
 Caimanera,http://dl.dropbox.com/s/xjmswhcmineo2ap/caimanera.mp4,http://dl.dropbox.com/s/v51adofucvktvaz/caimanera.webm
 Caleta,http://dl.dropbox.com/s/793nndqz5yqbulf/caleta.mp4,http://dl.dropbox.com/s/rr05xcgalvzi260/caleta.webm
+Chamba,http://dl.dropbox.com/s/5uo46o4b7z51xko/CHAMBA.mp4,http://dl.dropbox.com/s/nbp1r9d0na0nrcb/CHAMBA.webm
+Chévere,http://dl.dropbox.com/s/5cr2swqjdb6kdm5/CHEVERE.mp4,http://dl.dropbox.com/s/ov7z80uc0ykmwrr/CHEVERE.webm
+Chic,http://dl.dropbox.com/s/4zwvuqpu5hl8k7x/CHIC.mp4,http://dl.dropbox.com/s/bas5w9sio5ymbi3/CHIC.webm
 Chimbo,http://dl.dropbox.com/s/mmm2w9lt0hboxyj/chimbo.mp4,http://dl.dropbox.com/s/aq7oan3l9ayo5ok/chimbo.webm
 Chin Chin,http://dl.dropbox.com/s/n5cn7rlicegjxeu/chin%20chin.mp4,http://dl.dropbox.com/s/4blipwebr3nxhl0/chin%20chin.webm
+Cuánto hay pa' eso,http://dl.dropbox.com/s/gcwqxy2n9ujxryd/CUANTO%20HAY%20PA%20ESO.mp4,http://dl.dropbox.com/s/4xtv7xzj5t9dndx/CUANTO%20HAY%20PA%20ESO.webm
+Curda,http://dl.dropbox.com/s/73gscgvkgccyzte/CURDA.mp4,http://dl.dropbox.com/s/4vm6rnn35d6vis9/CURDA.webm
+Dame un chance,http://dl.dropbox.com/s/ho0btkpujrbukld/DAME%20UN%20CHANCE.mp4,http://dl.dropbox.com/s/tbp51xjyfykhejk/DAME%20UN%20CHANCE.webm
+Dejar el pelero,http://dl.dropbox.com/s/iwg6g91v6gj6ql5/DEJAR%20EL%20PELERO.mp4,http://dl.dropbox.com/s/qlopq1sx9mswmz4/DEJAR%20EL%20PELERO.webm
+Demasiao' fino,http://dl.dropbox.com/s/fqi9f0t24b8js99/DEMASIAO%20FINO.mp4,http://dl.dropbox.com/s/vxweulv066j9sc0/DEMASIAO%20FINO.webm
+Echando carro,http://dl.dropbox.com/s/rdsyp7gfb3y797w/ECHANDO%20CARRO.mp4,http://dl.dropbox.com/s/a2ejzmgh6as6mai/ECHANDO%20CARRO.webm
 Echar los perros,http://dl.dropbox.com/s/bylmuw0z51bwtzh/echar%20los%20perros.mp4,http://dl.dropbox.com/s/0ajxvnb27u6t3bu/echar%20los%20perros.webm
+Está papita,http://dl.dropbox.com/s/y2zg607nh99l4c3/ESTA%20PAPITA.mp4,http://dl.dropbox.com/s/93y2tbakx2afovr/ESTA%20PAPITA.webm
+Estás frito,http://dl.dropbox.com/s/u42zuyc1b646l63/ESTAS%20FRITO.mp4,http://dl.dropbox.com/s/mvt665ooeswuwde/ESTAS%20FRITO.webm
+Estás rayao',http://dl.dropbox.com/s/8fks3c00glz7444/ESTAS%20RAYAO.mp4,http://dl.dropbox.com/s/qgl8nj2bzllg07c/ESTAS%20RAYAO.webm
+Estás salao',http://dl.dropbox.com/s/q8x7sz493idkspt/ESTAS%20SALAO.mp4,http://dl.dropbox.com/s/k4od66k175iovy7/ESTAS%20SALAO.webm
+Este que está aquí se va,http://dl.dropbox.com/s/4jx3lb8en4y80v8/ESTE%20QUE%20ESTA%20AQUI%20SE%20VA.mp4,http://dl.dropbox.com/s/cq724igsd2825wz/ESTE%20QUE%20ESTA%20AQUI%20SE%20VA.webm
+Estoy limpio,http://dl.dropbox.com/s/yfcsrunu2cc3zzu/ESTOY%20LIMPIO.mp4,http://dl.dropbox.com/s/8ezjj8gfdxuve1z/ESTOY%20LIMPIO.webm
 Fino,http://dl.dropbox.com/s/s3533mk6fbya3g4/fino.mp4,http://dl.dropbox.com/s/ar3y9ekql7lt017/fino.webm
+Gamelote,http://dl.dropbox.com/s/f42wfxmjy0swjet/GAMELOTE.mp4,http://dl.dropbox.com/s/jp4adptfq2lgcwh/GAMELOTE.webm
+Gocho,http://dl.dropbox.com/s/zt0o4g8de77qdd9/GOCHO.mp4,http://dl.dropbox.com/s/egq2h467nal1qg8/GOCHO.webm
+Guácala,http://dl.dropbox.com/s/7ea3kuccc2m8r74/GUACALA.mp4,http://dl.dropbox.com/s/qbpwoj8xknm9ph7/GUACALA.webm
 Guachiman,http://dl.dropbox.com/s/shzrlwwnl7kep0h/guachiman.mp4,http://dl.dropbox.com/s/1m581jkeig79g0d/guachiman.webm
+Habla con mi mano,http://dl.dropbox.com/s/7huthej6jnm2lfa/HABLA%20CON%20MI%20MANO.mp4,http://dl.dropbox.com/s/cx9tsti8vrzokm7/HABLA%20CON%20MI%20MANO.webm
+In Out,http://dl.dropbox.com/s/icxikqnfftre3kp/IN%20OUT.mp4,http://dl.dropbox.com/s/j95uy7tmyv1p613/IN%20OUT.webm
+Jubilarse,http://dl.dropbox.com/s/neu2ri0c7c2qc7n/JUBILARSE.mp4,http://dl.dropbox.com/s/s0f1k1gs2luw2dt/JUBILARSE.webm
+Malandreo,http://dl.dropbox.com/s/k2o2c6ujklz3vjt/MALANDREO.mp4,http://dl.dropbox.com/s/5rs57o7caixp2md/MALANDREO.webm
+Me dio un beriberi,http://dl.dropbox.com/s/5y04pe8pg4hsuv0/ME%20DIO%20UN%20BERIBERI.mp4,http://dl.dropbox.com/s/zk5js6fv3co6c16/ME%20DIO%20UN%20BERIBERI.webm
+Montar los cachos,http://dl.dropbox.com/s/asqt2z4qal7p1on/MONTAR%20LOS%20CACHOS.mp4,http://dl.dropbox.com/s/xh623qqyd3muy0u/MONTAR%20LOS%20CACHOS.webm
+Mosca,http://dl.dropbox.com/s/5ocl3g2uvpjo3co/MOSCA.mp4,http://dl.dropbox.com/s/5rm7d1bs2q73aar/MOSCA.webm
+Naguara,http://dl.dropbox.com/s/6fnzytafp4lad83/NAGUARA.mp4,http://dl.dropbox.com/s/3duzpr9inogwbl0/NAGUARA.webm
+Ojo pelao',http://dl.dropbox.com/s/gxt6b11xltl37rj/OJO%20PELAO.mp4,http://dl.dropbox.com/s/1ids8l8hkuag4hk/OJO%20PELAO.webm
+Otro nivel,http://dl.dropbox.com/s/3k34a952ll3gjoh/OTRO%20NIVEL.mp4,http://dl.dropbox.com/s/rgf0qx9dooio4mw/OTRO%20NIVEL.webm
+Pa'lante es pa'llá,http://dl.dropbox.com/s/we44q97dcycqy4c/PA%20LANTE%20ES%20PA%20LLA.mp4,http://dl.dropbox.com/s/pcjdb2enppav0c8/PA%20LANTE%20ES%20PA%20LLA.webm
 Palo de agua,http://dl.dropbox.com/s/k2x4j52qb66enwh/palo%20de%20agua.mp4,http://dl.dropbox.com/s/91sprza7kgmya55/palo%20de%20agua.webm
 Pana,http://dl.dropbox.com/s/jhxp5uck53ug1pn/pana.mp4,http://dl.dropbox.com/s/nr6ivx8zambnuy0/pana.webm
+Panas,http://dl.dropbox.com/s/ilvwdmqgkkyvtev/PANAS.mp4,http://dl.dropbox.com/s/boaeon7pfeumlor/PANAS.webm
+Papeado,http://dl.dropbox.com/s/gu28gdda7ndi39j/PAPEADO.mp4,http://dl.dropbox.com/s/noy5uyqd1hd2z08/PAPEADO.webm
+Papear,http://dl.dropbox.com/s/ioki3jst5g2sjpn/PAPEAR.mp4,http://dl.dropbox.com/s/vamaos25342ijkh/PAPEAR.webm
 Patatus,http://dl.dropbox.com/s/xx5wf6cx4c7h813/patatus.mp4,http://dl.dropbox.com/s/fwuxfxcaznu1iz0/patatus.webm
+Peló gajo,http://dl.dropbox.com/s/g0ylg2eybqhhxc1/PELO%20GAJO.mp4,http://dl.dropbox.com/s/dip3o5xy6wf7a0l/PELO%20GAJO.webm
 Peroles,http://dl.dropbox.com/s/g5mblgmmphjncjt/peroles.mp4,http://dl.dropbox.com/s/0yksor630pwqti0/peroles.webm
+Perrear,http://dl.dropbox.com/s/7x02mx8kqvyat4v/PERREAR.mp4,http://dl.dropbox.com/s/xo9oollfqywqpln/PERREAR.webm
+Pirarse,http://dl.dropbox.com/s/7cftjkzizry3dun/PIRARSE.mp4,http://dl.dropbox.com/s/0wlgb4k4zfb63ro/PIRARSE.webm
+Que balurdo,http://dl.dropbox.com/s/s1nps75temzjs0i/QUE%20BALURDO.mp4,http://dl.dropbox.com/s/i3bxt8tmi2hgt9a/QUE%20BALURDO.webm
+Relajado,http://dl.dropbox.com/s/mia5fkzbko4vc5v/RELAJADO.mp4,http://dl.dropbox.com/s/32z4tqj1ks0556n/RELAJADO.webm
+Se te cayó la cédula,http://dl.dropbox.com/s/2rhtqfhbt0f8tab/SE%20TE%20CAYO%20LA%20CEDULA.mp4,http://dl.dropbox.com/s/12cfyulfuhxdxfw/SE%20TE%20CAYO%20LA%20CEDULA.webm
+Si va,http://dl.dropbox.com/s/faqt9fasv0duzuj/SI%20VA.mp4,http://dl.dropbox.com/s/589p633rehm3gl2/SI%20VA.webm
 Sifrino,http://dl.dropbox.com/s/i9x10iopn60w11r/sifrino.mp4,http://dl.dropbox.com/s/of6kml3cvv1i9sm/sifrino.webm
+Tas' pasao',http://dl.dropbox.com/s/g8gaswguojgipu7/TAS%20PASAO.mp4,http://dl.dropbox.com/s/3he4nlg8cn2ogpe/TAS%20PASAO.webm
+Yo te aviso,http://dl.dropbox.com/s/31673s53r70cu19/YO%20TE%20AVISO.mp4,http://dl.dropbox.com/s/vb8d0sq7pnchwl0/YO%20TE%20AVISO.webm
 DANZA
 22
 Bailar,http://dl.dropbox.com/s/10kpk46iius6t7t/Bailar.mp4,http://dl.dropbox.com/s/ef9cp6g2nsj1w36/Bailar.webm
