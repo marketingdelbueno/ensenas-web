@@ -1,4 +1,4 @@
-37
+38
 ABECEDARIO
 27
 A,http://dl.dropbox.com/s/8rtofzhcvgtmzss/A.mp4;http://dl.dropbox.com/s/5mee5b0u5i8utcg/A.webm
@@ -870,6 +870,57 @@ Telefono,http://dl.dropbox.com/s/xa9ky3qryyqyeej/TELEFONO.mp4,http://dl.dropbox.
 Tijera,http://dl.dropbox.com/s/h0ifye5vh3xmusk/TIJERA.mp4,http://dl.dropbox.com/s/m5emc8sbbtvurop/TIJERA.webm
 Transporte,http://dl.dropbox.com/s/9jvnu4v33l2zmyf/TRANSPORTE.mp4,http://dl.dropbox.com/s/vwexliaqxlgx800/TRANSPORTE.webm
 Uniforme,http://dl.dropbox.com/s/m36kwianz1nzql8/UNIFORME.mp4,http://dl.dropbox.com/s/ele4gsd5pg36izm/UNIFORME.webm
+PAÍSES
+49
+Afghanistan,http://dl.dropbox.com/s/xrn29fwzsd5bnfq/AFGHANISTAN.mp4,http://dl.dropbox.com/s/dppu5120yh1nzcz/AFGHANISTAN.webm
+Alemania,http://dl.dropbox.com/s/4tmjj9jhv3wtnzk/ALEMANIA.mp4,http://dl.dropbox.com/s/bt7pctqb3cev2jt/ALEMANIA.webm
+Argentina,http://dl.dropbox.com/s/20103ll8moibvbh/ARGENTINA.mp4,http://dl.dropbox.com/s/uutkko3yeiquc8o/ARGENTINA.webm
+Australia,http://dl.dropbox.com/s/oibit3ob5e6yfa9/AUSTRALIA.mp4,http://dl.dropbox.com/s/hyqw8ih4ju63ugg/AUSTRALIA.webm
+Belgica,http://dl.dropbox.com/s/e72cb15zqp0sp5d/BELGICA.mp4,http://dl.dropbox.com/s/hqblyzkhytcstnn/BELGICA.webm
+Bolivia,http://dl.dropbox.com/s/y9g4r2w7oldkys7/BOLIVIA.mp4,http://dl.dropbox.com/s/2way3c4dxvqu1c0/BOLIVIA.webm
+Brasil,http://dl.dropbox.com/s/r4q95882wdet63x/BRASIL.mp4,http://dl.dropbox.com/s/iqf5zqwgebo1wpm/BRASIL.webm
+Canada,http://dl.dropbox.com/s/pnh4gld6fq15j63/CANADA.mp4,http://dl.dropbox.com/s/95vwvp5wupyuqef/CANADA.webm
+Chile,http://dl.dropbox.com/s/wzjlf6zmk2l94ge/CHILE.mp4,http://dl.dropbox.com/s/syxdoc1inr9gr4j/CHILE.webm
+China ,http://dl.dropbox.com/s/lb6s5be3i9tjjxj/CHINA.mp4,http://dl.dropbox.com/s/3u2jyee0gxpndr4/CHINA.webm
+Colombia,http://dl.dropbox.com/s/kr2vhuvjbpcpxa9/COLOMBIA.mp4,http://dl.dropbox.com/s/h4yv8r5wqvr5fuf/COLOMBIA.webm
+Corea del Norte,http://dl.dropbox.com/s/agtcnk9df69z770/COREA%20DEL%20NORTE.mp4,http://dl.dropbox.com/s/nj8q9zxuvw7mb3c/COREA%20DEL%20NORTE.webm
+Corea del Sur,http://dl.dropbox.com/s/6tzhsgporn6qeg0/COREA%20DEL%20SUR.mp4,http://dl.dropbox.com/s/j84oi1fjfvc1g3w/COREA%20DEL%20SUR.webm
+Costa Rica,http://dl.dropbox.com/s/hry4m9bl84wrlkw/COSTA%20RICA.mp4,http://dl.dropbox.com/s/umei0w01ka67w40/COSTA%20RICA.webm
+Cuba ,http://dl.dropbox.com/s/2v85wzto55kjfnp/CUBA.mp4,http://dl.dropbox.com/s/in8rx7gntqp2dr8/CUBA.webm
+Dinamarca,http://dl.dropbox.com/s/xa57olt94tghhtr/DINAMARCA.mp4,http://dl.dropbox.com/s/te02ih6pl9h8jyo/DINAMARCA.webm
+Ecuador,http://dl.dropbox.com/s/r8yhf8jowdz9dub/ECUADOR.mp4,http://dl.dropbox.com/s/c44q4k2au4xs23r/ECUADOR.webm
+Egipto,http://dl.dropbox.com/s/z4006xbhpkx7kf0/EGIPTO.mp4,http://dl.dropbox.com/s/7pw3ylqf5rf2zoi/EGIPTO.webm
+El Salvador,http://dl.dropbox.com/s/dal5e61wsdsjnkj/EL%20SALVADOR.mp4,http://dl.dropbox.com/s/wfwugttyx3liohb/EL%20SALVADOR.webm
+Espana,http://dl.dropbox.com/s/x1ldqh305zixbo1/ESPANA.mp4,http://dl.dropbox.com/s/338x8goeomljjld/ESPANA.webm
+Estados Unidos,http://dl.dropbox.com/s/bimennptbthr4mj/ESTADOS%20UNIDOS.mp4,http://dl.dropbox.com/s/a2anuarv3a82n04/ESTADOS%20UNIDOS.webm
+Francia,http://dl.dropbox.com/s/r32d6fpv7xds8d2/FRANCIA.mp4,http://dl.dropbox.com/s/njhzzehhnsny8fr/FRANCIA.webm
+Grecia,http://dl.dropbox.com/s/7cyc024mx9qtpa8/GRECIA.mp4,http://dl.dropbox.com/s/eynxwo7b5nm3pq1/GRECIA.webm
+Guatemala,http://dl.dropbox.com/s/rc5jww8h2zkv20n/GUATEMALA.mp4,http://dl.dropbox.com/s/3o681h5gy66zgy7/GUATEMALA.webm
+Haiti,http://dl.dropbox.com/s/71uv61qy67xxy9j/HAITI.mp4,http://dl.dropbox.com/s/s7mzpxehv0b70ak/HAITI.webm
+Holanda,http://dl.dropbox.com/s/e8s283qv5rq731a/HOLANDA.mp4,http://dl.dropbox.com/s/pmj1dnck6xzyt9f/HOLANDA.webm
+India,http://dl.dropbox.com/s/94qgc2t1m8ap6i3/INDIA.mp4,http://dl.dropbox.com/s/fofr4irfnthnhws/INDIA.webm
+Indonesia,http://dl.dropbox.com/s/ao5edmtexwc7jgy/INDONESIA.mp4,http://dl.dropbox.com/s/783uyd9fcz8y7f2/INDONESIA.webm
+Inglaterra,http://dl.dropbox.com/s/wh7oh4emviolemc/INGLATERRA.mp4,http://dl.dropbox.com/s/axn303yr0adg4bb/INGLATERRA.webm
+Irak,http://dl.dropbox.com/s/nvttp9x9dkuy1tk/IRAK.mp4,http://dl.dropbox.com/s/vwov1uwottgib1c/IRAK.webm
+Israel,http://dl.dropbox.com/s/x07f0hla8p1s2jo/ISRAEL.mp4,http://dl.dropbox.com/s/8pvsufw83neyyr7/ISRAEL.webm
+Italia,http://dl.dropbox.com/s/vtkzkj36oxpc2jv/ITALIA.mp4,http://dl.dropbox.com/s/2zfospagyt2bqdh/ITALIA.webm
+Jamaica,http://dl.dropbox.com/s/pau41igdbrxlpsw/JAMAICA.mp4,http://dl.dropbox.com/s/oxld3it4kttpujk/JAMAICA.webm
+Japon,http://dl.dropbox.com/s/tzudvb8i5ioi4ou/JAPON.mp4,http://dl.dropbox.com/s/oncoy10t6ktgyku/JAPON.webm
+Marruecos,http://dl.dropbox.com/s/3vbqqcmy09fa59g/MARRUECOS.mp4,http://dl.dropbox.com/s/rls0qe82bzzic4s/MARRUECOS.webm
+Mexico,http://dl.dropbox.com/s/4btrg9md9om7gaq/MEXICO.mp4,http://dl.dropbox.com/s/6r715sdgmh3v2wt/NICARAGUA.webm
+Nicaragua,http://dl.dropbox.com/s/wqmv7afnt2slxfh/NICARAGUA.mp4,http://dl.dropbox.com/s/6r715sdgmh3v2wt/NICARAGUA.webm
+Panama,http://dl.dropbox.com/s/mwat3gcoaeybfbn/PANAMA.mp4,http://dl.dropbox.com/s/9brjefdchvcqp0n/PANAMA.webm
+Peru,http://dl.dropbox.com/s/rdaeklrobzj09hc/PERU.mp4,http://dl.dropbox.com/s/4hq2q4aocic8wr4/PERU.webm
+Portugal,http://dl.dropbox.com/s/m5u9tzgaq0gqsx9/PORTUGAL.mp4,http://dl.dropbox.com/s/3vu7edw8j9mx49r/PORTUGAL.webm
+Polonia,http://dl.dropbox.com/s/9s55w8x20yidayu/POLONIA.mp4,http://dl.dropbox.com/s/09tyll6f8nr27rs/POLONIA.webm
+Republica Dominicana,http://dl.dropbox.com/s/k4rs56d9icsx0db/REPUBLICA%20DOMINICANA.mp4,http://dl.dropbox.com/s/o21xmiohd2xdixr/REPUBLICA%20DOMINICANA.webm
+Rusia,http://dl.dropbox.com/s/49l1ncvj60p6hsz/RUSIA.mp4,http://dl.dropbox.com/s/qwll9zpi0p56d7g/RUSIA.webm
+Suiza,http://dl.dropbox.com/s/xwbplwxjcq5ieoc/SUIZA.mp4,http://dl.dropbox.com/s/h3pgn4uut766jay/SUIZA.webm
+Suecia,http://dl.dropbox.com/s/kgv8m6j3wm0n062/SUECIA.mp4,http://dl.dropbox.com/s/sb5z9ct2t8frij7/SUECIA.webm
+Trinidad Y Tobago,http://dl.dropbox.com/s/qfzz0o4mwu08n3s/TRINIDAD%20Y%20TOBAGO.mp4,http://dl.dropbox.com/s/ivq8y46ntj8yjsb/TRINIDAD%20Y%20TOBAGO.webm
+Turquia,http://dl.dropbox.com/s/ni3kyzgws3zi9za/TURQUIA.mp4,http://dl.dropbox.com/s/76vkrm8vpqxx3v0/TURQUIA.webm
+Uruguay,http://dl.dropbox.com/s/ccvdwyzx90ixdu4/URUGUAY.mp4,http://dl.dropbox.com/s/x20rormeyr90ovb/URUGUAY.webm
+Venezuela,http://dl.dropbox.com/s/gn45orem7605e6o/VENEZUELA.mp4,http://dl.dropbox.com/s/r6ak6dxgsljaxto/VENEZUELA.webm
 PALABRAS DE WINDA
 30
 Abrazos,http://dl.dropbox.com/s/auqsdljtfetsohw/abrazos.mp4;http://dl.dropbox.com/s/ubg00pzin18lmaq/abrazos.webm
