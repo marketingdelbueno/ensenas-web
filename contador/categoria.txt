@@ -327,7 +327,7 @@ Barullo,http://dl.dropbox.com/s/yo06rvzdl4lvl1u/BARULLO.mp4;http://dl.dropbox.co
 Bate quebrado,http://dl.dropbox.com/s/gy2we0kpz7fo1py/bate%20quebrao.mp4;http://dl.dropbox.com/s/vk1mbyykp7338d3/bate%20quebrao.webm
 Bien resuelto,http://dl.dropbox.com/s/gt3tx18230oxaxb/bien%20resuelto.mp4;http://dl.dropbox.com/s/aiwrcm7s5kfnx96/bien%20resuelto.webm
 Birras,http://dl.dropbox.com/s/so4nl0nkcch1giu/BIRRAS.mp4;http://dl.dropbox.com/s/ldofjg9xarbr1ao/BIRRAS.webm
-Boca e'sapo,http://dl.dropbox.com/s/0aibcd83g2b80or/BOCA%20E%20SAPO.mp4;http://dl.dropbox.com/s/7tm5u59l78fxi5y/BOCA%20E%20SAPO.webm
+Boca e sapo,http://dl.dropbox.com/s/0aibcd83g2b80or/BOCA%20E%20SAPO.mp4;http://dl.dropbox.com/s/7tm5u59l78fxi5y/BOCA%20E%20SAPO.webm
 Burda,http://dl.dropbox.com/s/aogz0j2keg7kopz/burda.mp4;http://dl.dropbox.com/s/gap8fzgrqkqsonf/burda.webm
 Cable pelado,http://dl.dropbox.com/s/n4a21fmdsegphph/cable%20pelado.mp4;http://dl.dropbox.com/s/qv9l5pzquh1dtna/cable%20pelado.webm
 Caido de la mata,http://dl.dropbox.com/s/fasp68gbpxzeqg6/caido%20de%20la%20mata.mp4;http://dl.dropbox.com/s/6jgwaz1tuzrvye4/caido%20de%20la%20mata.webm
@@ -338,17 +338,17 @@ Chévere,http://dl.dropbox.com/s/5cr2swqjdb6kdm5/CHEVERE.mp4;http://dl.dropbox.co
 Chic,http://dl.dropbox.com/s/4zwvuqpu5hl8k7x/CHIC.mp4;http://dl.dropbox.com/s/bas5w9sio5ymbi3/CHIC.webm
 Chimbo,http://dl.dropbox.com/s/mmm2w9lt0hboxyj/chimbo.mp4;http://dl.dropbox.com/s/aq7oan3l9ayo5ok/chimbo.webm
 Chin Chin,http://dl.dropbox.com/s/n5cn7rlicegjxeu/chin%20chin.mp4;http://dl.dropbox.com/s/4blipwebr3nxhl0/chin%20chin.webm
-Cuánto hay pa' eso,http://dl.dropbox.com/s/gcwqxy2n9ujxryd/CUANTO%20HAY%20PA%20ESO.mp4;http://dl.dropbox.com/s/4xtv7xzj5t9dndx/CUANTO%20HAY%20PA%20ESO.webm
+¿Cuánto hay pa eso?,http://dl.dropbox.com/s/gcwqxy2n9ujxryd/CUANTO%20HAY%20PA%20ESO.mp4;http://dl.dropbox.com/s/4xtv7xzj5t9dndx/CUANTO%20HAY%20PA%20ESO.webm
 Curda,http://dl.dropbox.com/s/73gscgvkgccyzte/CURDA.mp4;http://dl.dropbox.com/s/4vm6rnn35d6vis9/CURDA.webm
 Dame un chance,http://dl.dropbox.com/s/ho0btkpujrbukld/DAME%20UN%20CHANCE.mp4;http://dl.dropbox.com/s/tbp51xjyfykhejk/DAME%20UN%20CHANCE.webm
 Dejar el pelero,http://dl.dropbox.com/s/iwg6g91v6gj6ql5/DEJAR%20EL%20PELERO.mp4;http://dl.dropbox.com/s/qlopq1sx9mswmz4/DEJAR%20EL%20PELERO.webm
-Demasiao' fino,http://dl.dropbox.com/s/fqi9f0t24b8js99/DEMASIAO%20FINO.mp4;http://dl.dropbox.com/s/vxweulv066j9sc0/DEMASIAO%20FINO.webm
+Demasiao  fino,http://dl.dropbox.com/s/fqi9f0t24b8js99/DEMASIAO%20FINO.mp4;http://dl.dropbox.com/s/vxweulv066j9sc0/DEMASIAO%20FINO.webm
 Echando carro,http://dl.dropbox.com/s/rdsyp7gfb3y797w/ECHANDO%20CARRO.mp4;http://dl.dropbox.com/s/a2ejzmgh6as6mai/ECHANDO%20CARRO.webm
 Echar los perros,http://dl.dropbox.com/s/bylmuw0z51bwtzh/echar%20los%20perros.mp4;http://dl.dropbox.com/s/0ajxvnb27u6t3bu/echar%20los%20perros.webm
 Está papita,http://dl.dropbox.com/s/y2zg607nh99l4c3/ESTA%20PAPITA.mp4;http://dl.dropbox.com/s/93y2tbakx2afovr/ESTA%20PAPITA.webm
 Estás frito,http://dl.dropbox.com/s/u42zuyc1b646l63/ESTAS%20FRITO.mp4;http://dl.dropbox.com/s/mvt665ooeswuwde/ESTAS%20FRITO.webm
-Estás rayao',http://dl.dropbox.com/s/8fks3c00glz7444/ESTAS%20RAYAO.mp4;http://dl.dropbox.com/s/qgl8nj2bzllg07c/ESTAS%20RAYAO.webm
-Estás salao',http://dl.dropbox.com/s/q8x7sz493idkspt/ESTAS%20SALAO.mp4;http://dl.dropbox.com/s/k4od66k175iovy7/ESTAS%20SALAO.webm
+Estás rayao,http://dl.dropbox.com/s/8fks3c00glz7444/ESTAS%20RAYAO.mp4;http://dl.dropbox.com/s/qgl8nj2bzllg07c/ESTAS%20RAYAO.webm
+Estás salao,http://dl.dropbox.com/s/q8x7sz493idkspt/ESTAS%20SALAO.mp4;http://dl.dropbox.com/s/k4od66k175iovy7/ESTAS%20SALAO.webm
 Este que está aquí se va,http://dl.dropbox.com/s/4jx3lb8en4y80v8/ESTE%20QUE%20ESTA%20AQUI%20SE%20VA.mp4;http://dl.dropbox.com/s/cq724igsd2825wz/ESTE%20QUE%20ESTA%20AQUI%20SE%20VA.webm
 Estoy limpio,http://dl.dropbox.com/s/yfcsrunu2cc3zzu/ESTOY%20LIMPIO.mp4;http://dl.dropbox.com/s/8ezjj8gfdxuve1z/ESTOY%20LIMPIO.webm
 Fino,http://dl.dropbox.com/s/s3533mk6fbya3g4/fino.mp4;http://dl.dropbox.com/s/ar3y9ekql7lt017/fino.webm
@@ -364,9 +364,9 @@ Me dio un beriberi,http://dl.dropbox.com/s/5y04pe8pg4hsuv0/ME%20DIO%20UN%20BERIB
 Montar los cachos,http://dl.dropbox.com/s/asqt2z4qal7p1on/MONTAR%20LOS%20CACHOS.mp4;http://dl.dropbox.com/s/xh623qqyd3muy0u/MONTAR%20LOS%20CACHOS.webm
 Mosca,http://dl.dropbox.com/s/5ocl3g2uvpjo3co/MOSCA.mp4;http://dl.dropbox.com/s/5rm7d1bs2q73aar/MOSCA.webm
 Naguara,http://dl.dropbox.com/s/6fnzytafp4lad83/NAGUARA.mp4;http://dl.dropbox.com/s/3duzpr9inogwbl0/NAGUARA.webm
-Ojo pelao',http://dl.dropbox.com/s/gxt6b11xltl37rj/OJO%20PELAO.mp4;http://dl.dropbox.com/s/1ids8l8hkuag4hk/OJO%20PELAO.webm
+Ojo pelao,http://dl.dropbox.com/s/gxt6b11xltl37rj/OJO%20PELAO.mp4;http://dl.dropbox.com/s/1ids8l8hkuag4hk/OJO%20PELAO.webm
 Otro nivel,http://dl.dropbox.com/s/3k34a952ll3gjoh/OTRO%20NIVEL.mp4;http://dl.dropbox.com/s/rgf0qx9dooio4mw/OTRO%20NIVEL.webm
-Pa'lante es pa'llá,http://dl.dropbox.com/s/we44q97dcycqy4c/PA%20LANTE%20ES%20PA%20LLA.mp4;http://dl.dropbox.com/s/pcjdb2enppav0c8/PA%20LANTE%20ES%20PA%20LLA.webm
+Pa lante es pa llá,http://dl.dropbox.com/s/we44q97dcycqy4c/PA%20LANTE%20ES%20PA%20LLA.mp4;http://dl.dropbox.com/s/pcjdb2enppav0c8/PA%20LANTE%20ES%20PA%20LLA.webm
 Palo de agua,http://dl.dropbox.com/s/k2x4j52qb66enwh/palo%20de%20agua.mp4;http://dl.dropbox.com/s/91sprza7kgmya55/palo%20de%20agua.webm
 Pana,http://dl.dropbox.com/s/jhxp5uck53ug1pn/pana.mp4;http://dl.dropbox.com/s/nr6ivx8zambnuy0/pana.webm
 Panas,http://dl.dropbox.com/s/ilvwdmqgkkyvtev/PANAS.mp4;http://dl.dropbox.com/s/boaeon7pfeumlor/PANAS.webm
@@ -382,7 +382,7 @@ Relajado,http://dl.dropbox.com/s/mia5fkzbko4vc5v/RELAJADO.mp4;http://dl.dropbox.
 Se te cayó la cédula,http://dl.dropbox.com/s/2rhtqfhbt0f8tab/SE%20TE%20CAYO%20LA%20CEDULA.mp4;http://dl.dropbox.com/s/12cfyulfuhxdxfw/SE%20TE%20CAYO%20LA%20CEDULA.webm
 Si va,http://dl.dropbox.com/s/faqt9fasv0duzuj/SI%20VA.mp4;http://dl.dropbox.com/s/589p633rehm3gl2/SI%20VA.webm
 Sifrino,http://dl.dropbox.com/s/i9x10iopn60w11r/sifrino.mp4;http://dl.dropbox.com/s/of6kml3cvv1i9sm/sifrino.webm
-Tas' pasao',http://dl.dropbox.com/s/g8gaswguojgipu7/TAS%20PASAO.mp4;http://dl.dropbox.com/s/3he4nlg8cn2ogpe/TAS%20PASAO.webm
+Tas  pasao,http://dl.dropbox.com/s/g8gaswguojgipu7/TAS%20PASAO.mp4;http://dl.dropbox.com/s/3he4nlg8cn2ogpe/TAS%20PASAO.webm
 Yo te aviso,http://dl.dropbox.com/s/31673s53r70cu19/YO%20TE%20AVISO.mp4;http://dl.dropbox.com/s/vb8d0sq7pnchwl0/YO%20TE%20AVISO.webm
 DANZA
 22
