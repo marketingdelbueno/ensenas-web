@@ -111,6 +111,20 @@ if ( isset($_GET['botonBuscar']) ) {
           </ul>
         </nav>
         <div class="clear"></div>
+
+        <div class="clear"></div>
+        <section class="banner">
+          <div class="txtc">
+            <a href="http://digitel.com.ve/ConexionSocialDigitel/Paginas/default.aspx" target="_blank"><img src="assets/img/logo-digitel.jpg" height="80" /></a>
+            <a href="http://empresas-polar.com" target="_blank"><img src="assets/img/logo-polar.png" height="80" /></a>
+            <a href="http://produccionesenjoy.com/indexweb.html" target="_blank"><img src="assets/img/logo-enjoy.png" height="80" /></a>
+            <a href="http://neoessentia.org" target="_blank"><img src="assets/img/logo-neo-vertical.png" height="80" /></a>
+            <a href="http://marketingdelbueno.com" target="_blank"><img src="assets/img/logo-mkdb.png" height="80" /></a>
+            <a href="http://php.org.ve" target="_blank"><img src="assets/img/logo-phpve.png" height="80" /></a>
+
+          </div>
+        </section>
+
       </div>
     </div>
 
