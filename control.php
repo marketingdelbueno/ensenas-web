@@ -59,9 +59,12 @@ if ( isset($_GET['palabra']) ) {
 
     if($bandera) {
         $enlace = buscar($palabra);
+
         if (!is_null($enlace)) {
             $enlace = base64_encode($enlace);
             header("location: player.php?video={$enlace}");
+        } else {
+            header("location: index.php?&error=true&palabra={$palabra}");
         }
     }
 }

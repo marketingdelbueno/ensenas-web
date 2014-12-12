@@ -65,7 +65,7 @@ if ( isset($_GET['botonBuscar']) ) {
     <div class="content">
       <div class="container">
         <section class="wrap-form-search">
-          <form class="form-search" action="#" method="get">
+          <form class="form-search" action="" method="get">
             <input class="search" type="text" name="palabra" placeholder="Busca y descubre">
             <button class="send btn btn-success" name="botonBuscar" type="submit">
               <span>Buscar</span>
@@ -75,7 +75,9 @@ if ( isset($_GET['botonBuscar']) ) {
         </section>
 
         <div class="clear"></div>
-
+          <?php if (isset($_GET['error'])): ?>
+          <div class="alert-box warning"><span>Atención: </span>La palabra que busca no existe en nuestra base de datos.</div>
+          <?php endif; ?>
         <nav class="menu col-7">
           <ul>
             <li class="categorias">
