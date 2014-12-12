@@ -849,16 +849,60 @@ Tendencia,http://dl.dropbox.com/s/406gboxumu2otvi/TENDENCIA.mp4;http://dl.dropbo
 Valor,http://dl.dropbox.com/s/ywwobslinjaimae/VALOR.mp4;http://dl.dropbox.com/s/77x8v1jiuuiy8mi/VALOR.webm
 Ventas,http://dl.dropbox.com/s/jkc6avoijut6l8h/VENTAS.mp4;http://dl.dropbox.com/s/dijnz5lmv6s44a8/VENTAS.webm
 HERRAMIENTAS
-9
+53
 Abrazadera,http://dl.dropbox.com/s/mw1umhepe2gmkcf/Abrazadera.mp4,http://dl.dropbox.com/s/u3y7u7n6ec46fzm/Abrazadera.webm
 Alambre,http://dl.dropbox.com/s/zpogvo1hrsn4fot/Alambre.mp4,http://dl.dropbox.com/s/crln80ymdzty7iy/Alambre.webm
 Alicate,http://dl.dropbox.com/s/k0aa3fa8kyats1y/Alicate.mp4,http://dl.dropbox.com/s/nycere92n20bodk/Alicate.webm
+Andamio,http://dl.dropbox.com/s/61y82clpmqcqv5s/ANDAMIO.mp4,http://dl.dropbox.com/s/ui6g8drk7er8se3/ANDAMIO.webm
 Arandela,http://dl.dropbox.com/s/fagwupzrjqrpiiu/Arandela.mp4,http://dl.dropbox.com/s/1s5y34fwmj4y812/Arandela.webm
 Arcilla,http://dl.dropbox.com/s/2fo2k1nffvm57yr/Arcilla.mp4,http://dl.dropbox.com/s/6y1z5se9ian3eh9/Arcilla.webm
 Brocha,http://dl.dropbox.com/s/nsbjkxmbfeihjjl/Brocha.mp4,http://dl.dropbox.com/s/aeda780oos5cvql/Brocha.webm
+Cabillas,http://dl.dropbox.com/s/8m44ospwtpp4u70/CABILLAS.mp4,http://dl.dropbox.com/s/pi9i4yuh9l8r0tn/CABILLAS.webm
 Cable,http://dl.dropbox.com/s/ibd54yjb8gmwyw0/Cable.mp4,http://dl.dropbox.com/s/0u96hykqk1neqgw/Cable.webm
+Caja de herramientas,http://dl.dropbox.com/s/21su06uj1slpuj5/CAJA%20DE%20HERRAMIENTAS.mp4,http://dl.dropbox.com/s/p0mnuewgtka8wlh/CAJA%20DE%20HERRAMIENTAS.webm
+Canillas,http://dl.dropbox.com/s/eu90egt5j7o9ivx/CANILLAS.mp4,http://dl.dropbox.com/s/xaytx0wvoix8e5w/CANILLAS.webm
 Carretilla,http://dl.dropbox.com/s/wcchu4pqpfzoo1s/Carretilla.mp4,http://dl.dropbox.com/s/soepekcemrfq1hh/Carretilla.webm
 Cemento Blanco,http://dl.dropbox.com/s/3zldmh8o2pdhygu/Cemento%20blanco.mp4,http://dl.dropbox.com/s/14gwj1jzr224nim/Cemento_blanco.webm
+Cemento gris,http://dl.dropbox.com/s/ii9rx0jml6ltycz/CEMENTO%20GRIS.mp4,http://dl.dropbox.com/s/grb3nzr8kq011pb/CEMENTO%20GRIS.webm
+Cepillo,http://dl.dropbox.com/s/eqzvv55zpn5maf4/CEPILLO.mp4,http://dl.dropbox.com/s/c6md5xgm0y0o4c0/CEPILLO.webm
+Cincel,http://dl.dropbox.com/s/yrcq3m3sh9aa6ym/CINCEL.mp4,http://dl.dropbox.com/s/6qv9ukf72lqg7qo/CINCEL.webm
+Cinta métrica,http://dl.dropbox.com/s/fx7e0lzygad5jge/CINTA%20METRICA.mp4,http://dl.dropbox.com/s/0r6aqj497ycg3wg/CINTA%20METRICA.webm
+Clavo,http://dl.dropbox.com/s/l0o23bqav3mklh7/CLAVO.mp4,http://dl.dropbox.com/s/wdezv92ipoch2gj/CLAVO.webm
+Codo,http://dl.dropbox.com/s/fyj9dx6wcgxu6hy/CODO.mp4,http://dl.dropbox.com/s/13ff4mn4ogmx6vh/CODO.webm
+Cuerda,http://dl.dropbox.com/s/a9cgdx9fprgloq5/CUERDA.mp4,http://dl.dropbox.com/s/9lmal4xraqv0a0s/CUERDA.webm
+Destornillador,http://dl.dropbox.com/s/2aibz5kcjul2z8d/DESTORNILLADOR.mp4,http://dl.dropbox.com/s/5pr3r6052c99oxl/DESTORNILLADOR.webm
+Destornillador de estrías,http://dl.dropbox.com/s/z72r4tp13qvcvsi/DESTORNILALDOR%20DE%20ESTRIAS.mp4,http://dl.dropbox.com/s/56440ack0uv4ban/DESTORNILALDOR%20DE%20ESTRIAS.webm
+Esmeril,http://dl.dropbox.com/s/uyymedtvrbwan5e/ESMERIL.mp4,http://dl.dropbox.com/s/3v9qragc68nxvtd/ESMERIL.webm
+Espátula,http://dl.dropbox.com/s/fyacoulwuyt11ju/ESPATULA.mp4,http://dl.dropbox.com/s/783qgswljsch93c/ESPATULA.webm
+Gato,http://dl.dropbox.com/s/4fu5j7wo609k3xg/GATO.mp4,http://dl.dropbox.com/s/qq5a0fubzmjib3k/GATO.webm
+Guantes,http://dl.dropbox.com/s/awl1a08rh8ohti5/GUANTES.mp4,http://dl.dropbox.com/s/o81761gc6klo7yt/GUANTES.webm
+Lija,http://dl.dropbox.com/s/j0zraxpdt2q0250/LIJA.mp4,http://dl.dropbox.com/s/fjftf72wjwas2zk/LIJA.webm
+Llave de presión,http://dl.dropbox.com/s/qlksrlxfbuk3qwx/LLAVE%20DE%20PRESION.mp4,http://dl.dropbox.com/s/fthg06k9j54xz9o/LLAVE%20DE%20PRESION.webm
+Llave de tubo,http://dl.dropbox.com/s/oziax3mo82bt07a/LLAVE%20DE%20TUBO.mp4,http://dl.dropbox.com/s/efd7ywkjg60drm1/LLAVE%20DE%20TUBO.webm
+Mandarria,http://dl.dropbox.com/s/7whoj73i0kuorkr/MANDARRIA.mp4,http://dl.dropbox.com/s/teuy9tn2zz5ig2j/MANDARRIA.webm
+Martillo,http://dl.dropbox.com/s/630qkka15t3wh5i/MARTILLO.mp4,http://dl.dropbox.com/s/f8h70aaw6p2d5hq/MARTILLO.webm
+Mastique,http://dl.dropbox.com/s/vdrbs766uccd84q/MASTIQUE.mp4,http://dl.dropbox.com/s/ghcb28c926tbzai/MASTIQUE.webm
+Mecha,http://dl.dropbox.com/s/gu493uxbotu270i/MECHA.mp4,http://dl.dropbox.com/s/2vxkqqwr1g09ozb/MECHA.webm
+Medidor de compresión,http://dl.dropbox.com/s/ldb9o4sswbqah7n/MEDIDOR%20DE%20COMPRESION.mp4,http://dl.dropbox.com/s/w3v337glzvbugwc/MEDIDOR%20DE%20COMPRESION.webm
+Metro,http://dl.dropbox.com/s/76ev90tf64egqar/METRO.mp4,http://dl.dropbox.com/s/tjsz4m0hki46cp8/METRO.webm
+Pala,http://dl.dropbox.com/s/h9bws2v2owaxd59/PALA.mp4,http://dl.dropbox.com/s/g8im2hk9ltb3ibc/PALA.webm
+Perforadora,http://dl.dropbox.com/s/k6ihokszi9m01sx/PERFORADORA.mp4,http://dl.dropbox.com/s/zp6lz35i93l3qah/PERFORADORA.webm
+Peso,http://dl.dropbox.com/s/t9vc936pnxf6dzv/PESO.mp4,http://dl.dropbox.com/s/mp8nvr9d35d1eyk/PESO.webm
+Pica cerámica,http://dl.dropbox.com/s/9tba8cujzzfhn0m/PICA%20CERAMICA.mp4,http://dl.dropbox.com/s/oxbmglai2ko9xoo/PICA%20CERAMICA.webm
+Pico,http://dl.dropbox.com/s/70vyx9pmi9wfy47/PICO.mp4,http://dl.dropbox.com/s/cx9uo73lwm4meqa/PICO.webm
+Pinza,http://dl.dropbox.com/s/87vpl6lpzhtrgjq/PINZA.mp4,http://dl.dropbox.com/s/b2hwikvxmjplyra/PINZA.webm
+Piqueta,http://dl.dropbox.com/s/9fx9yrtyogxysh4/PIQUETA.mp4,http://dl.dropbox.com/s/6s6k1eicyf5uhk8/PIQUETA.webm
+Ramplug,http://dl.dropbox.com/s/isogl5cfpqs9fbs/RAMPLUG.mp4,http://dl.dropbox.com/s/ny0imykzzz0574r/RAMPLUG.webm
+Rodillo,http://dl.dropbox.com/s/23miyygw7ina2l6/RODILLO.mp4,http://dl.dropbox.com/s/083qh8650q5g8jc/RODILLO.webm
+Serrucho,http://dl.dropbox.com/s/hy7ygy1k0d8dobh/SERRUCHO.mp4,http://dl.dropbox.com/s/29nqv08th3fiiba/SERRUCHO.webm
+Silicona,http://dl.dropbox.com/s/2of21bjw4k2zrpw/SILICONA.mp4,http://dl.dropbox.com/s/fs7kovlmg3e6n4h/SILICONA.webm
+Taladro,http://dl.dropbox.com/s/gcexe7xe5dshqf4/TALADRO.mp4,http://dl.dropbox.com/s/nudpyowidvquoah/TALADRO.webm
+Teflón,http://dl.dropbox.com/s/4or4j464a7cvngx/TEFLON.mp4,http://dl.dropbox.com/s/8gveemmdzqm63rq/TEFLON.webm
+Tenaza,http://dl.dropbox.com/s/3dvhb99sazioa2a/TENAZA.mp4,http://dl.dropbox.com/s/1lgbcmk10xuh5zd/TENAZA.webm
+Tijera,http://dl.dropbox.com/s/1i06m3gbtrpxd7w/TIJERA.mp4,http://dl.dropbox.com/s/ir95sm52d3oqy7f/TIJERA.webm
+Tornillo,http://dl.dropbox.com/s/d4rhz4oqf3rq7bj/TORNILLO.mp4,http://dl.dropbox.com/s/tot3yooacxjy52x/TORNILLO.webm
+Tubo,http://dl.dropbox.com/s/iel58ebrln22iph/TUBO.mp4,http://dl.dropbox.com/s/irzs8aep1k0lb7p/TUBO.webm
+Tuerca,http://dl.dropbox.com/s/8146vwaemsf19v7/TUERCA.mp4,http://dl.dropbox.com/s/hu0jvhr1m1snb6f/TUERCA.webm
 MUNDO ACUÁTICO
 35
 Aletas,http://dl.dropbox.com/s/ry3ud9510lexlx6/aletas.mp4,http://dl.dropbox.com/s/j9chptahirufinv/aletas.webm
