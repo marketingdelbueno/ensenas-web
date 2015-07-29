@@ -16,9 +16,9 @@ if ( isset($_GET['botonBuscar']) ) {
     <!-- Open Graph url property -->
     <meta property="og:url" content="http://www.ensenas.com" />
     <!-- Open Graph title property -->
-    <meta property="og:title" content="enSeñas" />
+    <meta property="og:title" content="enSeñas: Aplicación de Lengua de Señas Venezolanas" />
     <!-- Open Graph description property -->
-    <meta property="og:description" content="Aplicación de Lengua de Señas Venezolanas" />
+    <meta property="og:description" content="enSeñas es el video diccionario de Lengua de Señas Venezolana de la Fundación Neo Essentia﻿ para sordos y oyentes. Aprende tu palabra y DameTuSeña" />
     <!-- Open Graph image property -->
     <meta property="og:image" content="http://www.ensenas.com/assets/img/hi-res-icon.png" />
     <!-- Open Graph type property -->
@@ -31,6 +31,7 @@ if ( isset($_GET['botonBuscar']) ) {
     <link rel="stylesheet" type="text/css" href="assets/css/mobile.css" media="only screen and (max-width: 599px) and (min-width: 120px)">
     <link rel="stylesheet" type="text/css" href="assets/css/tablet.css" media="only screen and (max-width: 999px) and (min-width: 600px)">
     <link rel="stylesheet" type="text/css" href="assets/css/desktop.css" media="only screen and (min-width: 1000px)">
+    <link rel="stylesheet" type="text/css" href="assets/css/ribbon.css" media="all">
     <script src="assets/js/modernizr.js" type="text/javascript"></script>
     <!--[if (lt IE 9) & (!IEMobile)]>
       <link rel="stylesheet" href="assets/css/ie.css">
@@ -41,6 +42,9 @@ if ( isset($_GET['botonBuscar']) ) {
   <body>
     <header>
       <div class="container">
+        <span class="forkongithub">
+          <a href="https://github.com/neoessentia/ensenas-web" target="_blank">Colabora en GitHub</a>
+        </span>
         <div class="logo">
           <h1>
             <a href="/" accesskey="1">Enseñas</a>
@@ -135,6 +139,5 @@ if ( isset($_GET['botonBuscar']) ) {
         </div>
       </div>
     </footer>
-
   </body>
 </html>
