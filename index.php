@@ -43,7 +43,7 @@ if ( isset($_GET['botonBuscar']) ) {
     <header>
       <div class="container">
         <span class="forkongithub">
-          <a href="https://github.com/neoessentia/ensenas-web" target="_blank">Colabora en GitHub</a>
+          <a href="https://github.com/neoessentia/ensenas-web" target="_blank">Nuestro código es tuyo</a>
         </span>
         <div class="logo">
           <h1>
