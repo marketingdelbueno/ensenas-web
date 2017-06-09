@@ -14,13 +14,13 @@ if ( isset($_GET['botonBuscar']) ) {
   <head>
     <meta charset="UTF-8">
     <!-- Open Graph url property -->
-    <meta property="og:url" content="http://www.ensenas.com" />
+    <meta property="og:url" content="http://ensenas.org.ve" />
     <!-- Open Graph title property -->
     <meta property="og:title" content="enSeñas: Aplicación de Lengua de Señas Venezolanas" />
     <!-- Open Graph description property -->
     <meta property="og:description" content="enSeñas es el video diccionario de Lengua de Señas Venezolana de la Fundación Neo Essentia﻿ para sordos y oyentes. Aprende tu palabra y DameTuSeña" />
     <!-- Open Graph image property -->
-    <meta property="og:image" content="http://www.ensenas.com/assets/img/hi-res-icon.png" />
+    <meta property="og:image" content="http://ensenas.org.ve/assets/img/hi-res-icon.png" />
     <!-- Open Graph type property -->
     <meta property="og:type" content="website" />
     <!-- Open Graph site_name property -->
@@ -43,7 +43,7 @@ if ( isset($_GET['botonBuscar']) ) {
     <header>
       <div class="container">
         <span class="forkongithub">
-          <a href="https://github.com/neoessentia/ensenas-web" target="_blank">Nuestro código es tuyo</a>
+          <a href="https://github.com/marketingdelbueno/ensenas-web" target="_blank">Nuestro código es tuyo</a>
         </span>
         <div class="logo">
           <h1>
@@ -105,11 +105,11 @@ if ( isset($_GET['botonBuscar']) ) {
             </li>
 
             <li class="twitter">
-              <a href="http://twitter.com/share?via=neoessentia&url=http://ensenas.com/&hashtags=DameTuSeña&text=Acabo de descubrir enSeñas: el video diccionario de lengua de señas venezolano" rel="nofollow" title="Twitter" target="_blank">Apóyanos con un Tweet</a>
+              <a href="http://twitter.com/share?via=marketingdelbueno&url=https://ensenas.org.ve/&hashtags=DameTuSeña&text=Acabo de descubrir enSeñas: el video diccionario de lengua de señas venezolano" rel="nofollow" title="Twitter" target="_blank">Apóyanos con un Tweet</a>
               <span>Apóyanos con un Tweet</span>
             </li>
             <li class="facebook">
-              <a href="http://www.facebook.com/sharer.php?u=http://www.ensenas.com" title="Facebook" target="_blank">Búscanos en Facebook</a>
+              <a href="http://www.facebook.com/sharer.php?u=https://ensenas.org.ve" title="Facebook" target="_blank">Búscanos en Facebook</a>
               <span>Búscanos en Facebook</span>
             </li>
           </ul>
@@ -122,20 +122,17 @@ if ( isset($_GET['botonBuscar']) ) {
             <a href="http://digitel.com.ve/ConexionSocialDigitel/Paginas/default.aspx" target="_blank"><img src="assets/img/logo-digitel.jpg" height="80" /></a>
             <a href="http://empresas-polar.com" target="_blank"><img src="assets/img/logo-polar.png" height="80" /></a>
             <a href="http://produccionesenjoy.com/indexweb.html" target="_blank"><img src="assets/img/logo-enjoy.png" height="80" /></a>
-            <a href="http://neoessentia.org" target="_blank"><img src="assets/img/logo-neo-vertical.png" height="80" /></a>
             <a href="http://marketingdelbueno.com" target="_blank"><img src="assets/img/logo-mkdb.png" height="80" /></a>
             <a href="http://php.org.ve" target="_blank"><img src="assets/img/logo-phpve.png" height="80" /></a>
-
           </div>
         </section>
-
       </div>
     </div>
 
     <footer class="foot">
       <div class="container">
         <div class="txtc">
-          <p>2011 <a href="http://www.neoessentia.org/" target="_blank">Fundación NeoEssentia</a> Construyendo Nuevas Realidades.</p>
+          <p>2011 <a href="http://www.marketingdelbueno.com/" target="_blank">Marketing del Bueno</a>.</p>
         </div>
       </div>
     </footer>
