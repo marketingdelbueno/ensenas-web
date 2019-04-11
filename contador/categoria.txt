@@ -1,4 +1,4 @@
-30
+39
 ABECEDARIO
 27
 A,https://dl.dropboxusercontent.com/s/irgff6k5igs7hy5/A.mp4;https://dl.dropboxusercontent.com/s/gw4i7csl63h4jd3/A.webm
@@ -76,6 +76,62 @@ Simpatico,https://dl.dropboxusercontent.com/s/ym1kcan3xq0td59/simpatico.mp4;http
 Sincero,https://dl.dropboxusercontent.com/s/zn3mu25dspgfq3z/sincero.mp4;https://dl.dropboxusercontent.com/s/97kx2ktkk198bic/sincero.webm
 Tímido,https://dl.dropboxusercontent.com/s/y3kf8ae564mup8n/timido.mp4;https://dl.dropboxusercontent.com/s/pfvg4igocwjk3ky/timido.webm
 Verde,https://dl.dropboxusercontent.com/s/fcg1zcgrzly56us/verde.mp4;https://dl.dropboxusercontent.com/s/sbgn3lwi24yfsgt/verde.webm
+ALIMENTOS
+54
+Acemitas,https://dl.dropboxusercontent.com/s/9npqauvfh38guhj/ACEMITAS%20.mp4;https://dl.dropboxusercontent.com/s/9yxw7a05mf9x9jk/ACEMITAS%20.webm
+Arepas,https://dl.dropboxusercontent.com/s/84l9yiqrkxhwzu3/AREPAS.mp4;https://dl.dropboxusercontent.com/s/odyahtwf1w4iyhu/AREPAS.webm
+Arepitas Andinas,https://dl.dropboxusercontent.com/s/najry1zzv360024/AREPITAS%20ANDINAS.mp4;https://dl.dropboxusercontent.com/s/mxd67nbuw5adg25/AREPITAS%20ANDINAS.webm
+Arepitas Dulces,https://dl.dropboxusercontent.com/s/v5tyncxahv38du9/AREPITAS%20DULCES.mp4;https://dl.dropboxusercontent.com/s/xe17anoacm4tcob/AREPITAS%20DULCES.webm
+Arroz con Coco,https://dl.dropboxusercontent.com/s/ikatgt121ci4p7t/ARROZ%20CON%20COCO.mp4;https://dl.dropboxusercontent.com/s/ekcmfvre0ocpxkc/ARROZ%20CON%20COCO.webm
+Arroz con Leche,https://dl.dropboxusercontent.com/s/qds4fumqh0k13kq/ARROZ%20CON%20LECHE.mp4;https://dl.dropboxusercontent.com/s/ybc2zvb5gxywvwc/ARROZ%20CON%20LECHE.webm
+Beso de Coco,https://dl.dropboxusercontent.com/s/lo2j970clhl8yaq/BESO%20DE%20COCO.mp4;https://dl.dropboxusercontent.com/s/xngmkduyprqo1fk/BESO%20DE%20COCO.webm
+Bienmesabe,https://dl.dropboxusercontent.com/s/2gmf8r3rfq2cfmy/BIEN%20ME%20SABE.mp4;https://dl.dropboxusercontent.com/s/4q66tgpe5kyszh4/BIEN%20ME%20SABE.webm
+Bocadillos,https://dl.dropboxusercontent.com/s/17doa3ifweyfir3/BOCADILLOS.mp4;https://dl.dropboxusercontent.com/s/r5r012l7epl3ij1/BOCADILLOS.webm
+Bollitos,https://dl.dropboxusercontent.com/s/ftgffqdnvf3vxax/BOLLITOS.mp4;https://dl.dropboxusercontent.com/s/gcq5r34hnjuyois/BOLLITOS.webm
+Bollo,https://dl.dropboxusercontent.com/s/cf8as1t4hph2bs2/BOLLO.mp4;https://dl.dropboxusercontent.com/s/ogldulm80er1dh1/BOLLO.webm
+Buñuelo,https://dl.dropboxusercontent.com/s/grv9ubi0jp9wd6t/BU%C3%91UELO.mp4;https://dl.dropboxusercontent.com/s/6ebaemvxo4z24u4/BU%C3%91UELO.webm
+Cachapa,https://dl.dropboxusercontent.com/s/d0fpe9kr4xie8jx/CACHAPA.mp4;https://dl.dropboxusercontent.com/s/iul87575v51orat/CACHAPA.webm
+Cachitos,https://dl.dropboxusercontent.com/s/7adq60puwd9otya/CACHITOS.mp4;https://dl.dropboxusercontent.com/s/qwvlort6zh9rs90/CACHITOS.webm
+Cambur,https://dl.dropboxusercontent.com/s/p6z2m1x7yfmv62c/CAMBUR.mp4;https://dl.dropboxusercontent.com/s/c5ynz3qnjrrgi94/CAMBUR.webm
+Caraotas,https://dl.dropboxusercontent.com/s/utj4um2h0frj3iw/CARAOTAS.mp4;https://dl.dropboxusercontent.com/s/8h6li0ew45ooj5f/CARAOTAS.webm
+Carne Mechada,https://dl.dropboxusercontent.com/s/xqtgwvq9k69o5nv/CARNE%20MECHADA.mp4;https://dl.dropboxusercontent.com/s/le6mp36rbrct5sg/CARNE%20MECHADA.webm
+Casabe,https://dl.dropboxusercontent.com/s/p4llq2vnvfflq0p/CASABE.mp4;https://dl.dropboxusercontent.com/s/fchx83f17fbctu1/CASABE.webm
+Catalina,https://dl.dropboxusercontent.com/s/rg6ayr2ek8d6a7i/CATALINA.mp4;https://dl.dropboxusercontent.com/s/tcrc0d9lhje43ss/CATALINA.webm
+Cazón,https://dl.dropboxusercontent.com/s/v01uvpt5fmeohw0/CAZ%C3%93N.mp4;https://dl.dropboxusercontent.com/s/ocemaiiozwnuxi7/CAZ%C3%93N.webm
+Chicha Andina,https://dl.dropboxusercontent.com/s/vim2w5fvz8hs6jo/CHICHA%20ANDINA.mp4;https://dl.dropboxusercontent.com/s/bft6r784f8d5c6r/CHICHA%20ANDINA.webm
+Chica,https://dl.dropboxusercontent.com/s/3lkd4s4to3xurdt/CHICHA.mp4;https://dl.dropboxusercontent.com/s/jg7ucy44nytvgj9/CHICHA.webm
+Chicharrón,https://dl.dropboxusercontent.com/s/1tl2vnjb2tfpo16/CHICHARR%C3%93N.mp4;https://dl.dropboxusercontent.com/s/cs0g8iynyhhqkw4/CHICHARR%C3%93N.webm
+Cruzado,https://dl.dropboxusercontent.com/s/lekn9cnovfv2i6x/CRUZADO.mp4;https://dl.dropboxusercontent.com/s/vymhv4xixpf35cs/CRUZADO.webm
+Dulce de Leche,https://dl.dropboxusercontent.com/s/f8ui0xqndr1y90s/DULCE%20DE%20LECHE.mp4;https://dl.dropboxusercontent.com/s/gvpi921ebfkwrcm/DULCE%20DE%20LECHE.webm
+Empanada,https://dl.dropboxusercontent.com/s/go5uviz38njaj9g/EMPANADA.mp4;https://dl.dropboxusercontent.com/s/uq6fqghv1quqaij/EMPANADA.webm
+Ensalada de Gallina,https://dl.dropboxusercontent.com/s/o38n6rjex7ed6vl/ENSALADA%20DE%20GALLINA.mp4;https://dl.dropboxusercontent.com/s/7l89z83ah9vf15h/ENSALADA%20DE%20GALLINA.webm
+Fororo,https://dl.dropboxusercontent.com/s/k507lm1k3ek283h/FORORO.mp4;https://dl.dropboxusercontent.com/s/htch8k1r0wqyluh/FORORO.webm
+Fosforera,https://dl.dropboxusercontent.com/s/k2sylpa1loq5eho/FOSFORERA.mp4;https://dl.dropboxusercontent.com/s/9b6ve97bdn9w5l8/FOSFORERA.webm
+Hallaca,https://dl.dropboxusercontent.com/s/djnutke7mi15xvx/HALLACA.mp4	https://dl.dropboxusercontent.com/s/c165p7t053z4aoo/HALLACA.webm
+Jalea de Mango,https://dl.dropboxusercontent.com/s/407gxp7mkw501ya/JALEA%20DE%20MANGO.mp4;https://dl.dropboxusercontent.com/s/sdcjk6m66jku1ov/JALEA%20DE%20MANGO.webm
+Jojoto,https://dl.dropboxusercontent.com/s/idi9udyu3e4vxr6/JOJOTO.mp4;https://dl.dropboxusercontent.com/s/azdk2g03rtjqj71/JOJOTO.webm
+Jugo de caña,https://dl.dropboxusercontent.com/s/s966vh1a16td0b2/JUGO%20DE%20CA%C3%91A.mp4;https://dl.dropboxusercontent.com/s/t06ujtooy710ipc/JUGO%20DE%20CA%C3%91A.webm
+Majarete,https://dl.dropboxusercontent.com/s/fg52iyf5ahx8x2r/MAJARETE.mp4;https://dl.dropboxusercontent.com/s/fketgox7qfqdtzi/MAJARETE.webm
+Mondongo,https://dl.dropboxusercontent.com/s/nysy9t1rz6nzlzo/MONDONGO.mp4;https://dl.dropboxusercontent.com/s/r8u9daputahavcj/MONDONGO.webm
+Naiboa,https://dl.dropboxusercontent.com/s/ub1qcpfn9eh8tdn/NAIBOA.mp4;https://dl.dropboxusercontent.com/s/krzfp6p4v0u40ii/NAIBOA.webm
+Pabellón,https://dl.dropboxusercontent.com/s/5eg686tnn1xsnoz/PABELL%C3%93N.mp4;https://dl.dropboxusercontent.com/s/nx2lmgbe94a8saw/PABELL%C3%93N.webm
+Pan Andino,https://dl.dropboxusercontent.com/s/9458xzfuu9p0lva/PAN%20ANDINO.mp4;https://dl.dropboxusercontent.com/s/qwd2xcqq5vavikc/PAN%20ANDINO.webm
+Pan de Jamón,https://dl.dropboxusercontent.com/s/tu7alsx8xc7xgxr/PAN%20DE%20JAM%C3%93N.mp4;https://dl.dropboxusercontent.com/s/frubkzt08aj5p3a/PAN%20DE%20JAM%C3%93N.webm
+Papelón con Limón,https://dl.dropboxusercontent.com/s/sjolp5xu0dacdit/PAPEL%C3%93N%20CON%20LIMON.mp4;https://dl.dropboxusercontent.com/s/romz77kljr5wwsb/PAPEL%C3%93N%20CON%20LIMON.webm
+Papelón,https://dl.dropboxusercontent.com/s/315sx589fpu8l53/PAPEL%C3%93N.mp4;https://dl.dropboxusercontent.com/s/jhqz6hjc466kn5v/PAPEL%C3%93N.webm
+Patacón,https://dl.dropboxusercontent.com/s/f5rb1cxzsm4zd7l/PATAC%C3%93N.mp4;https://dl.dropboxusercontent.com/s/6ob6rwkwh3xd4lc/PATAC%C3%93N.webm
+Pernil,https://dl.dropboxusercontent.com/s/ld7z3h6lclhlu6u/PERNIL.mp4;https://dl.dropboxusercontent.com/s/7rakzt8rr9wc9dk/PERNIL.webm
+Pizca Andina,https://dl.dropboxusercontent.com/s/wclc6gjet5inw0h/PIZCA%20ANDINA.mp4;https://dl.dropboxusercontent.com/s/hf1xxv64zecx03c/PIZCA%20ANDINA.webm
+Quesillo,https://dl.dropboxusercontent.com/s/98ku5byxmc8yy2z/QUESILLO.mp4;https://dl.dropboxusercontent.com/s/2f4zwre74p6otxe/QUESILLO.webm
+Queso de Mano,https://dl.dropboxusercontent.com/s/11zk8yj0mz53x4i/QUESO%20DE%20MANO.mp4;https://dl.dropboxusercontent.com/s/vs1m5w4ctencrq9/QUESO%20DE%20MANO.webm
+Queso Guayanes,https://dl.dropboxusercontent.com/s/cnw7t19hepc0fz6/QUESO%20GUAYANES.mp4;https://dl.dropboxusercontent.com/s/a1y5g88toa9mrj6/QUESO%20GUAYANES.webm
+Reina Pepiada,https://dl.dropboxusercontent.com/s/2h07dievjs9pswn/REINA%20PEPIADA.mp4;https://dl.dropboxusercontent.com/s/95l14z6xfy8xos1/REINA%20PEPIADA.webm
+Sancocho,https://dl.dropboxusercontent.com/s/mkzcmoitoz9ddu3/SANCOCHO.mp4;https://dl.dropboxusercontent.com/s/yvoj6toupyyvp19/SANCOCHO.webm
+Sopa de Gallina,https://dl.dropboxusercontent.com/s/41bgpyw5s1udebl/SOPA%20DE%20GALLINA.mp4;https://dl.dropboxusercontent.com/s/plhtybwlzrrq6fd/SOPA%20DE%20GALLINA.webm
+Tajadas,https://dl.dropboxusercontent.com/s/7ro7789vapknbf3/TAJADAS.mp4;https://dl.dropboxusercontent.com/s/h7274gtxv5vvvlf/TAJADAS.webm
+Tequeños,https://dl.dropboxusercontent.com/s/6m9ttq4tglvignu/TEQUE%C3%91OS.mp4;https://dl.dropboxusercontent.com/s/981q97zhiulf1l6/TEQUE%C3%91OS.webm
+Torta Negra,https://dl.dropboxusercontent.com/s/i45vpoc3dbzvbf8/TORTA%20NEGRA.mp4;https://dl.dropboxusercontent.com/s/vht7cen7lvk18r2/TORTA%20NEGRA.webm
+Torta Tres Leches,https://dl.dropboxusercontent.com/s/plfz244napxg1w9/TORTA%20TRES%20LECHES.mp4;https://dl.dropboxusercontent.com/s/kqlonwh050qy0k4/TORTA%20TRES%20LECHES.webm
 ANATOMÍA
 26
 Antebrazo,https://dl.dropboxusercontent.com/s/mdom6r64tcx0n85/antebrazo.mp4;https://dl.dropboxusercontent.com/s/zjt9wzun2cvv3u0/antebrazo.webm
@@ -139,6 +195,46 @@ Teatro,https://dl.dropboxusercontent.com/s/bbagmzplkuvgw3c/Teatro.mp4;https://dl
 Tragedia,https://dl.dropboxusercontent.com/s/yh0u0twdygj855y/Tragedia.mp4;https://dl.dropboxusercontent.com/s/ltx17x5w6gjjmuv/Tragedia.webm
 Tramoya,https://dl.dropboxusercontent.com/s/cmd3bcl0pxp1vkj/Tramoya.mp4;https://dl.dropboxusercontent.com/s/51d9b1yy7sc7o0k/Tramoya.webm
 Utilería,https://dl.dropboxusercontent.com/s/tg18jhs0ftpsqt7/Utiler%C3%ADa.mp4;https://dl.dropboxusercontent.com/s/jsiuqgqzqzwvf56/Utiler%C3%ADa.webm
+ATENCIÓN AL CLIENTE
+38
+Aprobado,https://dl.dropboxusercontent.com/s/8u6wqfoscsuqvln/APROBADO.mp4;https://dl.dropboxusercontent.com/s/jelmcjanfk7p88y/APROBADO.webm
+Atención Preferencial,https://dl.dropboxusercontent.com/s/1a437mp21k91ilh/ATENCI%C3%93N%20PREFERENCIAL.mp4;https://dl.dropboxusercontent.com/s/h4j024v66zkb012/ATENCI%C3%93N%20PREFERENCIAL.webm
+Atención,https://dl.dropboxusercontent.com/s/mkx8pik4gbg4ksd/ATENCI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/cbrqzrx5ghvziqt/ATENCI%C3%93N.webm
+Calidad en el Servicio,https://dl.dropboxusercontent.com/s/ilq48ias3gwh7hi/CALIDAD%20EN%20EL%20SERVICIO.mp4;https://dl.dropboxusercontent.com/s/e8cu1om07hg204y/CALIDAD%20EN%20EL%20SERVICIO.webm
+Canal,https://dl.dropboxusercontent.com/s/zjkw4upkzqa6sou/CANAL.mp4;https://dl.dropboxusercontent.com/s/ba6j18zz74s7zc3/CANAL.webm
+Ciclo de Servicio,https://dl.dropboxusercontent.com/s/l5brnrvtr6aufqd/CICLO%20DEL%20SERVICIO.mp4;https://dl.dropboxusercontent.com/s/70ssq3blh0dy7pw/CICLO%20DEL%20SERVICIO.webm
+Cliente Decidido,https://dl.dropboxusercontent.com/s/5p3c2opupbpxiou/CLIENTE%20DECIDIDO.mp4;https://dl.dropboxusercontent.com/s/tw0ontfd4ay56dm/CLIENTE%20DECIDIDO.webm
+Cliente Descontento,https://dl.dropboxusercontent.com/s/2nxal008f9oxlvi/CLIENTE%20DESCONTENTO.mp4;https://dl.dropboxusercontent.com/s/3sb84997p7q5n2e/CLIENTE%20DESCONTENTO.webm
+Cliente Dominante,https://dl.dropboxusercontent.com/s/20zxugxg4hqce6o/CLIENTE%20DOMINANTE.mp4;https://dl.dropboxusercontent.com/s/sue4rnp380eibtv/CLIENTE%20DOMINANTE.webm
+Cliente Especulador,https://dl.dropboxusercontent.com/s/2gkuth9jbuztwt7/CLIENTE%20ESPECULADOR.mp4;https://dl.dropboxusercontent.com/s/y8bp5uv684mul6a/CLIENTE%20ESPECULADOR.webm
+Cliente Exigente,https://dl.dropboxusercontent.com/s/2dckyl5z5n4cxz5/CLIENTE%20EXIGENTE.mp4;https://dl.dropboxusercontent.com/s/ia48s0ojkvnhelh/CLIENTE%20EXIGENTE.webm
+Cliente Externo,https://dl.dropboxusercontent.com/s/9nc193h74tdwlwf/CLIENTE%20EXTERNO.mp4;https://dl.dropboxusercontent.com/s/y8rpkbvywfeas0z/CLIENTE%20EXTERNO.webm
+Cliente Interno,https://dl.dropboxusercontent.com/s/8l56qon51gbfhbk/CLIENTE%20INTERNO.mp4;https://dl.dropboxusercontent.com/s/r1ca1fq6lyc1404/CLIENTE%20INTERNO.webm
+Cliente,https://dl.dropboxusercontent.com/s/9wd6c1md7co229h/CLIENTE.mp4;https://dl.dropboxusercontent.com/s/5418eq60ribq4mj/CLIENTE.webm
+Cuenta Corriente,https://dl.dropboxusercontent.com/s/ybx847ig6dubzk0/CUENTA%20CORRIENTE.mp4;https://dl.dropboxusercontent.com/s/bjdwhh9kj0d72tf/CUENTA%20CORRIENTE.webm
+Cuenta de Ahorro,https://dl.dropboxusercontent.com/s/atabhn2e7hneoki/CUENTA%20DE%20AHORRO.mp4;https://dl.dropboxusercontent.com/s/qomzkx42t550s9t/CUENTA%20DE%20AHORRO.webm
+Emisor,https://dl.dropboxusercontent.com/s/ejtol3h5fm3sagn/EMISOR.mp4;https://dl.dropboxusercontent.com/s/kg20e2qdf6qp1bm/EMISOR.webm
+Encuesta,https://dl.dropboxusercontent.com/s/4dr8vvdn606z6j7/ENCUESTA.mp4;https://dl.dropboxusercontent.com/s/bt99lh8ifz4huae/ENCUESTA.webm
+Ética,https://dl.dropboxusercontent.com/s/kooxcyhfmsfa6pr/%C3%89TICA.mp4;https://dl.dropboxusercontent.com/s/t0wsvbqq2ijoxhv/%C3%89TICA.webm
+Manual de Funciones,https://dl.dropboxusercontent.com/s/zd3r30b3zlr30p1/MANUAL%20DE%20FUNCIONES.mp4;https://dl.dropboxusercontent.com/s/2g4s3mhtfgymj6l/MANUAL%20DE%20FUNCIONES.webm
+Negado,https://dl.dropboxusercontent.com/s/8xhsgsnw80thae1/NEGADO.mp4;https://dl.dropboxusercontent.com/s/tr0yrf5qx5cm5fv/NEGADO.webm
+Oferta,https://dl.dropboxusercontent.com/s/3vxrccn78xyhqp5/OFERTA.mp4;https://dl.dropboxusercontent.com/s/tr2tcejqtqxxupx/OFERTA.webm
+Organización,https://dl.dropboxusercontent.com/s/vq68v78etpgd801/ORGANIZACI%C3%93N.mp4	https://dl.dropboxusercontent.com/s/ixwwnt2v08gt1w6/ORGANIZACI%C3%93N.webm
+Planilla,https://dl.dropboxusercontent.com/s/kz6p7ufx75bgddw/PLANILLA.mp4;https://dl.dropboxusercontent.com/s/xyuro9fyi0lb4u6/PLANILLA.webm
+Producto,https://dl.dropboxusercontent.com/s/da1la3zjcfw882b/PRODUCTO.mp4;https://dl.dropboxusercontent.com/s/97t0bya9386lijf/PRODUCTO.webm
+Prontitud de Respuesta,https://dl.dropboxusercontent.com/s/gblsgt9rz09m3ml/PRONTITUD%20DE%20RESPUESTA.mp4;https://dl.dropboxusercontent.com/s/8z1lvgm240lehx8/PRONTITUD%20DE%20RESPUESTA.webm
+Proveedor del Servicio,https://dl.dropboxusercontent.com/s/byjwys4nyhazy0o/PROVEEDOR%20DEL%20SERVICIO.mp4;https://dl.dropboxusercontent.com/s/cupw3kqqk5htm0u/PROVEEDOR%20DEL%20SERVICIO.webm
+Recepción,https://dl.dropboxusercontent.com/s/hpjr42rioo1oyu7/RECEPCI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/9ap7t83zus91gwg/RECEPCI%C3%93N.webm
+Receptor,https://dl.dropboxusercontent.com/s/6zh5yd8a6sqp121/RECEPTOR.mp4;https://dl.dropboxusercontent.com/s/wddbi617iukdjyo/RECEPTOR.webm
+Reclamo,https://dl.dropboxusercontent.com/s/9bcugaeu45q6lc8/RECLAMO.mp4;https://dl.dropboxusercontent.com/s/5vg3rxtv00pb6rt/RECLAMO.webm
+Rentabilidad,https://dl.dropboxusercontent.com/s/mn6sq5wsuqbf0dl/RENTABILIDAD.mp4;https://dl.dropboxusercontent.com/s/s7m8fkcpfd56tml/RENTABILIDAD.webm
+Requerimiento,https://dl.dropboxusercontent.com/s/bv9d0tndoeielwo/REQUERIMIENTO.mp4;https://dl.dropboxusercontent.com/s/kyhqsmh72gbol11/REQUERIMIENTO.webm
+Retroalimentación,https://dl.dropboxusercontent.com/s/51zpidkpfz1x8pv/RETROALIMENTACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/pw3gdu9kbdg2yem/RETROALIMENTACI%C3%93N.webm
+Seguridad,https://dl.dropboxusercontent.com/s/nio5c7od1khn9q6/SEGURIDAD.mp4;https://dl.dropboxusercontent.com/s/clmzjp3xgxbb3oh/SEGURIDAD.webm
+Servicios al Cliente,https://dl.dropboxusercontent.com/s/us4gqpbz13c8pox/SERVICIOS%20AL%20CLIENTE.mp4;https://dl.dropboxusercontent.com/s/d75floifolygpib/SERVICIOS%20AL%20CLIENTE.webm
+Tarjeta de Crédito,https://dl.dropboxusercontent.com/s/y5b1co7ch425sak/TARJETA%20DE%20CR%C3%89DITO.mp4;https://dl.dropboxusercontent.com/s/gqicm7v6v9zyqkm/TARJETA%20DE%20CR%C3%89DITO.webm
+Tarjeta de Débito,https://dl.dropboxusercontent.com/s/0bwq82jggcbrisv/TARJETA%20DE%20DEBITO.mp4;https://dl.dropboxusercontent.com/s/mxe14m58v4fw30b/TARJETA%20DE%20DEBITO.webm
+Vendedor,https://dl.dropboxusercontent.com/s/0z5d2hu4jbs7qpw/VENDEDOR.mp4;https://dl.dropboxusercontent.com/s/p1ysguc0f49d2sp/VENDEDOR.webm
 BANCO
 13
 Billete,https://dl.dropboxusercontent.com/s/0z29e05ghdxt8ec/Billete.mp4;https://dl.dropboxusercontent.com/s/ocapu0dd2zhrk1k/Billete.webm
@@ -146,35 +242,35 @@ Bolívares,https://dl.dropboxusercontent.com/s/vzv22ndz9h704zh/Bol%C3%ADvares.mp4
 Cajero automático,https://dl.dropboxusercontent.com/s/ncora6vgm7t9ynw/Cajero_Autom%C3%A1tico.mp4;https://dl.dropboxusercontent.com/s/bnhzfpu5gfkg2ji/Cajero_Autom%C3%A1tico.webm
 Cheque,https://dl.dropboxusercontent.com/s/2e2taj4glxyd2tw/Cheque.mp4;https://dl.dropboxusercontent.com/s/yxthllwlk4vvvwh/Cheque.webm
 Cliente,https://dl.dropboxusercontent.com/s/i5zeoimzfzrwcfw/Cliente.mp4;https://dl.dropboxusercontent.com/s/0i4wf3p457xwpuf/Cliente.webm
-Control de cambio,https://dl.dropboxusercontent.com/s/4i961d21vfe5414/Control%20de%20Cambio.mp4;https://dl.dropboxusercontent.com/s/3fhue14lq3lo1tt/Control%20de%20Cambio.webm
+Control de Cambio,https://dl.dropboxusercontent.com/s/4i961d21vfe5414/Control%20de%20Cambio.mp4;https://dl.dropboxusercontent.com/s/3fhue14lq3lo1tt/Control%20de%20Cambio.webm
 Crédito,https://dl.dropboxusercontent.com/s/8rgedv1yajpehyt/Cr%C3%A9dito.mp4;https://dl.dropboxusercontent.com/s/012lwy4weguf95i/Cr%C3%A9dito.webm
-Cuenta corriente,https://dl.dropboxusercontent.com/s/4q4c9y4if5iazij/Cuenta%20Corriente.mp4;https://dl.dropboxusercontent.com/s/xocr3zltcz1niy8/Cuenta%20Corriente.webm
-Cuenta de ahorros,https://dl.dropboxusercontent.com/s/nx5njzibp0rra04/Cuenta%20de%20Ahorros.mp4;https://dl.dropboxusercontent.com/s/j8usfpm8gkur19y/Cuenta%20de%20Ahorros.webm
-Cuenta nómina,https://dl.dropboxusercontent.com/s/mcrtquy2p82p5ff/Cuenta%20N%C3%B3mina.mp4;https://dl.dropboxusercontent.com/s/k5ygr448pmq3bkw/Cuenta%20N%C3%B3mina.webm
+Cuenta Corriente,https://dl.dropboxusercontent.com/s/4q4c9y4if5iazij/Cuenta%20Corriente.mp4;https://dl.dropboxusercontent.com/s/xocr3zltcz1niy8/Cuenta%20Corriente.webm
+Cuenta de Ahorros,https://dl.dropboxusercontent.com/s/nx5njzibp0rra04/Cuenta%20de%20Ahorros.mp4;https://dl.dropboxusercontent.com/s/j8usfpm8gkur19y/Cuenta%20de%20Ahorros.webm
+Cuenta Nómina,https://dl.dropboxusercontent.com/s/mcrtquy2p82p5ff/Cuenta%20N%C3%B3mina.mp4;https://dl.dropboxusercontent.com/s/k5ygr448pmq3bkw/Cuenta%20N%C3%B3mina.webm
 Depósito,https://dl.dropboxusercontent.com/s/b88r2a6k5jmvjzk/Dep%C3%B3sito.mp4;https://dl.dropboxusercontent.com/s/u64gil3ocehtdx2/Dep%C3%B3sito.webm
 Dinero,https://dl.dropboxusercontent.com/s/4om7af1m7usbxu9/Dinero.mp4;https://dl.dropboxusercontent.com/s/15bc2w3hxev6yok/Dinero.webm
 Divisa,https://dl.dropboxusercontent.com/s/vujg7v8sqb7c5py/Divisa.mp4;https://dl.dropboxusercontent.com/s/6254qba07jj1ijc/Divisa.webm
 COLOQUIAL
 23
-A juro,https://dl.dropboxusercontent.com/s/7tvykonf0h7syhj/a%20juro.mp4;https://dl.dropboxusercontent.com/s/oo3csvikcfzrz1q/a%20juro.webm
-Año de la pera,https://dl.dropboxusercontent.com/s/rzrc46kobmbkz5o/A%C3%B1o%20de%20la%20pera.mp4;https://dl.dropboxusercontent.com/s/9k4401l27rwmfjp/A%C3%B1o%20de%20la%20pera.webm
-Arroz con mango,https://dl.dropboxusercontent.com/s/f1zhgiop5adakw4/Arroz%20con%20mango.mp4;https://dl.dropboxusercontent.com/s/szv5a2bpf74p8k4/Arroz%20con%20mango.webm
-Bajale dos,https://dl.dropboxusercontent.com/s/jyx3ksk4azm0au4/bajale%20dos.mp4;https://dl.dropboxusercontent.com/s/n7mr3y8ous1df5e/bajale%20dos.webm
-Bajarse de la mula,https://dl.dropboxusercontent.com/s/u0djc6buvbyfzpf/bajarse%20de%20la%20mula.mp4;https://dl.dropboxusercontent.com/s/frzkd3yo6gs7v3r/bajarse%20de%20la%20mula.webm
-Bala fría,https://dl.dropboxusercontent.com/s/gofdbevgexvfg29/bala%20fria.mp4;https://dl.dropboxusercontent.com/s/v36ytvrrfa6058r/bala%20fria.webm
-Bate quebrao,https://dl.dropboxusercontent.com/s/aupn2hoex3jpw15/bate%20quebrao.mp4;https://dl.dropboxusercontent.com/s/ksit24tmcswva2p/bate%20quebrao.webm
-Bien resuelto,https://dl.dropboxusercontent.com/s/64xurgvg9124oxt/bien%20resuelto.mp4;https://dl.dropboxusercontent.com/s/kiibofebrtc5od4/bien%20resuelto.webm
+A Juro,https://dl.dropboxusercontent.com/s/7tvykonf0h7syhj/a%20juro.mp4;https://dl.dropboxusercontent.com/s/oo3csvikcfzrz1q/a%20juro.webm
+Año de la Pera,https://dl.dropboxusercontent.com/s/rzrc46kobmbkz5o/A%C3%B1o%20de%20la%20pera.mp4;https://dl.dropboxusercontent.com/s/9k4401l27rwmfjp/A%C3%B1o%20de%20la%20pera.webm
+Arroz con Mango,https://dl.dropboxusercontent.com/s/f1zhgiop5adakw4/Arroz%20con%20mango.mp4;https://dl.dropboxusercontent.com/s/szv5a2bpf74p8k4/Arroz%20con%20mango.webm
+Bajale Dos,https://dl.dropboxusercontent.com/s/jyx3ksk4azm0au4/bajale%20dos.mp4;https://dl.dropboxusercontent.com/s/n7mr3y8ous1df5e/bajale%20dos.webm
+Bajarse de la Mula,https://dl.dropboxusercontent.com/s/u0djc6buvbyfzpf/bajarse%20de%20la%20mula.mp4;https://dl.dropboxusercontent.com/s/frzkd3yo6gs7v3r/bajarse%20de%20la%20mula.webm
+Bala Fría,https://dl.dropboxusercontent.com/s/gofdbevgexvfg29/bala%20fria.mp4;https://dl.dropboxusercontent.com/s/v36ytvrrfa6058r/bala%20fria.webm
+Bate Quebrao,https://dl.dropboxusercontent.com/s/aupn2hoex3jpw15/bate%20quebrao.mp4;https://dl.dropboxusercontent.com/s/ksit24tmcswva2p/bate%20quebrao.webm
+Bien Resuelto,https://dl.dropboxusercontent.com/s/64xurgvg9124oxt/bien%20resuelto.mp4;https://dl.dropboxusercontent.com/s/kiibofebrtc5od4/bien%20resuelto.webm
 Burda,https://dl.dropboxusercontent.com/s/1nurel4h2v1nt51/burda.mp4;https://dl.dropboxusercontent.com/s/xpnvl2f4r685zr3/burda.webm
-Cable pelado,https://dl.dropboxusercontent.com/s/rhwdq51l8s3de8q/cable%20pelado.mp4;https://dl.dropboxusercontent.com/s/y0r6a6fi6q2qy7r/cable%20pelado.webm
-Caído de la mata,https://dl.dropboxusercontent.com/s/6z89yyt3zyl9wzb/caido%20de%20la%20mata.mp4;https://dl.dropboxusercontent.com/s/d9an3y3kbc4inzn/caido%20de%20la%20mata.webm
+Cable Pelado,https://dl.dropboxusercontent.com/s/rhwdq51l8s3de8q/cable%20pelado.mp4;https://dl.dropboxusercontent.com/s/y0r6a6fi6q2qy7r/cable%20pelado.webm
+Caído de la Mata,https://dl.dropboxusercontent.com/s/6z89yyt3zyl9wzb/caido%20de%20la%20mata.mp4;https://dl.dropboxusercontent.com/s/d9an3y3kbc4inzn/caido%20de%20la%20mata.webm
 Caimanera,https://dl.dropboxusercontent.com/s/1zqg7gkf5rtizxo/caimanera.mp4;https://dl.dropboxusercontent.com/s/loshm3oyolytbqn/caimanera.webm
 Caleta,https://dl.dropboxusercontent.com/s/qb6hfccj18pe5mf/caleta.mp4;https://dl.dropboxusercontent.com/s/c9xaegny4wsi02v/caleta.webm
 Chimbo,https://dl.dropboxusercontent.com/s/5q0sjw4bmvldurq/chimbo.mp4;https://dl.dropboxusercontent.com/s/7tfnsnynszn6srv/chimbo.webm
 Chin chin,https://dl.dropboxusercontent.com/s/g9j2zszi3zwsfml/chin%20chin.mp4;https://dl.dropboxusercontent.com/s/57vs2px28wnmkar/chin%20chin.webm
-Echar los perros,https://dl.dropboxusercontent.com/s/yec25hhh0qcb6i8/echar%20los%20perros.mp4;https://dl.dropboxusercontent.com/s/30e0s9o3stfylfh/echar%20los%20perros.webm
+Echar los Perros,https://dl.dropboxusercontent.com/s/yec25hhh0qcb6i8/echar%20los%20perros.mp4;https://dl.dropboxusercontent.com/s/30e0s9o3stfylfh/echar%20los%20perros.webm
 Fino,https://dl.dropboxusercontent.com/s/315r993hl0qq42j/fino.mp4;https://dl.dropboxusercontent.com/s/mm6rwayq5nuz8vv/fino.webm
 Guachiman,https://dl.dropboxusercontent.com/s/x90qh5hlhl790d3/guachiman.mp4;https://dl.dropboxusercontent.com/s/8deg1r6evo689et/guachiman.webm
-Palo de agua,https://dl.dropboxusercontent.com/s/ty6yk4ccfb0y26b/palo%20de%20agua.mp4;https://dl.dropboxusercontent.com/s/5wux11wvkn9rejf/palo%20de%20agua.webm
+Palo de Agua,https://dl.dropboxusercontent.com/s/ty6yk4ccfb0y26b/palo%20de%20agua.mp4;https://dl.dropboxusercontent.com/s/5wux11wvkn9rejf/palo%20de%20agua.webm
 Pana,https://dl.dropboxusercontent.com/s/o7jw96qz1pzbcq7/pana.mp4;https://dl.dropboxusercontent.com/s/mmio0khagj5hcyi/pana.webm
 Patatus,https://dl.dropboxusercontent.com/s/sdqcjy0ix46bjsr/patatus.mp4;https://dl.dropboxusercontent.com/s/wpl5rkw8k7x7w3s/patatus.webm
 Peroles,https://dl.dropboxusercontent.com/s/ez3kdp8qdo3rpo1/peroles.mp4;https://dl.dropboxusercontent.com/s/hxhaou5s0vr4xf4/peroles.webm
@@ -184,7 +280,7 @@ DANZA
 Bailar,https://dl.dropboxusercontent.com/s/994o1qu8dasy19t/Bailar.mp4;https://dl.dropboxusercontent.com/s/hjshhuf7vuu8udz/Bailar.webm
 Bailarin,https://dl.dropboxusercontent.com/s/jazgdzg14szro7c/Bailarin.mp4;https://dl.dropboxusercontent.com/s/frfgl1iflot86gs/Bailarin.webm
 Ballet,https://dl.dropboxusercontent.com/s/j5gypfb10rvpd0f/ballet.mp4;https://dl.dropboxusercontent.com/s/6rld6n1w17wb8x9/ballet.webm
-Danza árabe,https://dl.dropboxusercontent.com/s/uk3186z7zq7nqu8/danza%20arabe.mp4;https://dl.dropboxusercontent.com/s/sv51cuz8nwkpxe7/danza%20arabe.webm
+Danza Árabe,https://dl.dropboxusercontent.com/s/uk3186z7zq7nqu8/danza%20arabe.mp4;https://dl.dropboxusercontent.com/s/sv51cuz8nwkpxe7/danza%20arabe.webm
 Danza,https://dl.dropboxusercontent.com/s/oc5r1fs96mvn46e/danza.mp4;https://dl.dropboxusercontent.com/s/ua8asqz737yxsx1/danza.webm
 Flamenco,https://dl.dropboxusercontent.com/s/rrcgsb1u1pfe2mk/flamenco.mp4;https://dl.dropboxusercontent.com/s/3wrfmf3xexc83d1/flamenco.webm
 Girar,https://dl.dropboxusercontent.com/s/iptp99zdkpn80k6/girar.mp4;https://dl.dropboxusercontent.com/s/ecfaqp4qmmskmvt/girar.webm
@@ -192,9 +288,9 @@ Joropo,https://dl.dropboxusercontent.com/s/r5r86yizwcvhwun/joropo.mp4;https://dl
 Mambo,https://dl.dropboxusercontent.com/s/186qgaoo8hb4y4m/mambo.mp4;https://dl.dropboxusercontent.com/s/wn8bmyjgkamroe9/mambo.webm
 Merengue,https://dl.dropboxusercontent.com/s/odgyyv9ho4l4epx/merengue.mp4;https://dl.dropboxusercontent.com/s/mq6fbyzsuizuicz/merengue.webm
 Música,https://dl.dropboxusercontent.com/s/kenn8g9nrjnlh7h/musica.mp4;https://dl.dropboxusercontent.com/s/3d8jni6uhro471u/musica.webm
-Pareja de baile,https://dl.dropboxusercontent.com/s/yeq4o343cln1oa3/pareja%20de%20baile.mp4;https://dl.dropboxusercontent.com/s/kdw6oy4oz6a9lie/pareja%20de%20baile.webm
+Pareja de Baile,https://dl.dropboxusercontent.com/s/yeq4o343cln1oa3/pareja%20de%20baile.mp4;https://dl.dropboxusercontent.com/s/kdw6oy4oz6a9lie/pareja%20de%20baile.webm
 Pasos,https://dl.dropboxusercontent.com/s/yea9rxspqynb5hh/pasos.mp4;https://dl.dropboxusercontent.com/s/4d00b8ztr1zhyl6/pasos.webm
-Pista de baile,https://dl.dropboxusercontent.com/s/cl98tihxgh1md61/pista%20de%20baile.mp4;https://dl.dropboxusercontent.com/s/5xlcgmp2w575e9l/pista%20de%20baile.webm
+Pista de Baile,https://dl.dropboxusercontent.com/s/cl98tihxgh1md61/pista%20de%20baile.mp4;https://dl.dropboxusercontent.com/s/5xlcgmp2w575e9l/pista%20de%20baile.webm
 Ritmo,https://dl.dropboxusercontent.com/s/svjaebt56484qlr/ritmo.mp4;https://dl.dropboxusercontent.com/s/nwb4jkcpi8dchfu/ritmo.webm
 Rock n Roll,https://dl.dropboxusercontent.com/s/mi7pypeqvfutk1i/rock%20and%20roll.mp4;https://dl.dropboxusercontent.com/s/xw6y50ef3ishbte/rock%20and%20roll.webm
 Rumba española,https://dl.dropboxusercontent.com/s/lnqh08lt0e3v5kl/rumba%20espa%C3%B1ola.mp4;https://dl.dropboxusercontent.com/s/801j8dbl5k62z65/rumba%20espa%C3%B1ola.webm
@@ -203,9 +299,116 @@ Samba,https://dl.dropboxusercontent.com/s/fz9qs098l03v2df/samba.mp4;https://dl.d
 Tango,https://dl.dropboxusercontent.com/s/gn5eotw6imu98kl/tango.mp4;https://dl.dropboxusercontent.com/s/sfoaekom377jg42/tango.webm
 Vuelta,https://dl.dropboxusercontent.com/s/e9fafllz015gpdk/vuelta.mp4;https://dl.dropboxusercontent.com/s/punuudy24rxgd9l/vuelta.webm
 Zapatillas,https://dl.dropboxusercontent.com/s/aioqe8mql5pq2nm/zapatillas.mp4;https://dl.dropboxusercontent.com/s/12occq6plqlb023/zapatillas.webm
+DEFENSA CIVIL
+55
+Accidente,https://dl.dropboxusercontent.com/s/xx1eslgrnfetqde/ACCIDENTE.mp4;https://dl.dropboxusercontent.com/s/hnlln2u9ax5ca2v/ACCIDENTE.webm
+Agua Oxigenada,https://dl.dropboxusercontent.com/s/oo3ntftbw1qk2at/AGUA%20OXIGENADA.mp4;https://dl.dropboxusercontent.com/s/yr011nwxxjf78pn/AGUA%20OXIGENADA.webm
+Alcohol,https://dl.dropboxusercontent.com/s/fxhuecn35j2rwrr/ALCOHOL.mp4;https://dl.dropboxusercontent.com/s/wlp6fh43nl0jrw7/ALCOHOL.webm
+Alerta,https://dl.dropboxusercontent.com/s/lri4wim7heu8mfo/ALERTA.mp4;https://dl.dropboxusercontent.com/s/pn04ds1zzox70o5/ALERTA.webm
+Algodón,https://dl.dropboxusercontent.com/s/1qon03kzlet3o6n/ALGOD%C3%93N.mp4;https://dl.dropboxusercontent.com/s/35flbkb646jogne/ALGOD%C3%93N.webm
+Asistencia Médica,https://dl.dropboxusercontent.com/s/ru3rarkoflkbdqo/ASISTENCIA%20M%C3%89DICA.mp4;https://dl.dropboxusercontent.com/s/w1nzv8qziu6pwhs/ASISTENCIA%20M%C3%89DICA.webm
+Bolsa de Aire,https://dl.dropboxusercontent.com/s/28x01gm2th6k3s3/BOLSA%20DE%20AIRE.mp4;https://dl.dropboxusercontent.com/s/hw9mqge04zyfph4/BOLSA%20DE%20AIRE.webm
+Bomberos,https://dl.dropboxusercontent.com/s/f0eq3114x83d0yj/BOMBEROS.mp4;https://dl.dropboxusercontent.com/s/spufdmk815om9s1/BOMBEROS.webm
+Botiquin de Primeros Auxilios,https://dl.dropboxusercontent.com/s/8p0w074rjcaqflf/BOTIQU%C3%8DN%20DE%20PRIMEROS%20AUXILIOS.mp4;https://dl.dropboxusercontent.com/s/jfyfhtiikeaurzf/BOTIQU%C3%8DN%20DE%20PRIMEROS%20AUXILIOS.webm
+Camilla,https://dl.dropboxusercontent.com/s/grm7oxv94rpigyb/CAMILLA.mp4;https://dl.dropboxusercontent.com/s/ekg2nxdczrzyg1m/CAMILLA.webm
+Camión de Bomberos,https://dl.dropboxusercontent.com/s/kxnuwrylor27f0x/CAMI%C3%93N%20DE%20BOMBEROS.mp4;https://dl.dropboxusercontent.com/s/p47am97gslx9pzh/CAMI%C3%93N%20DE%20BOMBEROS.webm
+Chaleco Salvavidas,https://dl.dropboxusercontent.com/s/7xah1ossqyo8nu3/CHALECO%20SALVAVIDAS.mp4	https://dl.dropboxusercontent.com/s/9nx4amvy9wqwk2h/CHALECO%20SALVAVIDAS.webm
+Consciente,https://dl.dropboxusercontent.com/s/7lx7bshcczybhn7/CONSCIENTE.mp4;https://dl.dropboxusercontent.com/s/307b1x213w3olq4/CONSCIENTE.webm
+Cura,https://dl.dropboxusercontent.com/s/d2vfudnd5daxp7t/CURA.mp4;https://dl.dropboxusercontent.com/s/pqskef9jr3x4w1l/CURA.webm
+Curitas,https://dl.dropboxusercontent.com/s/rlqwdrhvb18z4dv/CURITAS.mp4;https://dl.dropboxusercontent.com/s/cwecomwrqyjapq6/CURITAS.webm
+Desalojar,https://dl.dropboxusercontent.com/s/5pg83dd94cpwyf4/DESALOJAR.mp4;https://dl.dropboxusercontent.com/s/zz1kx8573a5nk71/DESALOJAR.webm
+Dolor,https://dl.dropboxusercontent.com/s/t4zfsizff816tys/DOLOR.mp4;https://dl.dropboxusercontent.com/s/5cyhet82baw5fua/DOLOR.webm
+Emergencia,https://dl.dropboxusercontent.com/s/0tot33f4j5vz80g/EMERGENCIA.mp4;https://dl.dropboxusercontent.com/s/vr3m2priiam9nsl/EMERGENCIA.webm
+Enfermero,https://dl.dropboxusercontent.com/s/58jov0rvji7obds/ENFERMERO.mp4;https://dl.dropboxusercontent.com/s/l7iod9attdjx9mz/ENFERMERO.webm
+Estímulo,https://dl.dropboxusercontent.com/s/09rrcfhhptosyhs/EST%C3%8DMULO.mp4;https://dl.dropboxusercontent.com/s/qwcetggv15z6v00/EST%C3%8DMULO.webm
+Extintor,https://dl.dropboxusercontent.com/s/0lvibkcnawgyx2n/EXTINTOR.mp4;https://dl.dropboxusercontent.com/s/hehbyzwsirhqfms/EXTINTOR.webm
+Fractura,https://dl.dropboxusercontent.com/s/a0m7rqpj4gqbt2k/FRACTURA.mp4;https://dl.dropboxusercontent.com/s/mpeb7imkduk5m2r/FRACTURA.webm
+Fuego,https://dl.dropboxusercontent.com/s/cmjhhbsa9ij1ql9/FUEGO.mp4;https://dl.dropboxusercontent.com/s/2bladoekfwkkp56/FUEGO.webm
+Gasa,https://dl.dropboxusercontent.com/s/f1769w79gjazvxh/GASA.mp4;https://dl.dropboxusercontent.com/s/vmc8ecsi0xmofzc/GASA.webm
+Hemorragia,https://dl.dropboxusercontent.com/s/od8mk8g5wl1rmc1/HEMORRAGIA.mp4;https://dl.dropboxusercontent.com/s/sp31jbq4tbptneg/HEMORRAGIA.webm
+Herida,https://dl.dropboxusercontent.com/s/i78sqibxnffzvjc/HERIDA.mp4;https://dl.dropboxusercontent.com/s/n5z6dvgetkz3mk1/HERIDA.webm
+Inmovilizacion,https://dl.dropboxusercontent.com/s/akyxm7sk0w1g86k/INMOBILIZACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/smgg3mzozfpd298/INMOBILIZACI%C3%93N.webm
+Inconsciente,https://dl.dropboxusercontent.com/s/5r219yuel8mhcc5/INSCONSCIENTE.mp4;https://dl.dropboxusercontent.com/s/kmaqy5gj4j2hl16/INSCONSCIENTE.webm
+Inyectadora,https://dl.dropboxusercontent.com/s/9sez5ama9rl4t9o/INYECTADORA.mp4;https://dl.dropboxusercontent.com/s/kntit28bt9k4nq4/INYECTADORA.webm
+Lesión,https://dl.dropboxusercontent.com/s/x9uthvy2k0aq4lp/LESI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/w5epwrekvovhvgb/LESI%C3%93N.webm
+Medicina,https://dl.dropboxusercontent.com/s/7hspimdhiol34vz/MEDICINA.mp4;https://dl.dropboxusercontent.com/s/qk8mymolb9xb4wb/MEDICINA.webm
+Médico,https://dl.dropboxusercontent.com/s/bpgi7v4sbvzjvlp/M%C3%89DICO.mp4;https://dl.dropboxusercontent.com/s/ph81eqguto01eru/M%C3%89DICO.webm
+Número de Emergencias,https://dl.dropboxusercontent.com/s/h40vovdxe1v1olw/N%C3%9AMERO%20DE%20EMERGENCIAS.mp4;https://dl.dropboxusercontent.com/s/yqx9u2hhmyshwmq/N%C3%9AMERO%20DE%20EMERGENCIAS.webm
+Paciente,https://dl.dropboxusercontent.com/s/3ekgm2pn3mhzoyr/PACIENTE.mp4;https://dl.dropboxusercontent.com/s/1nntdh03c9ohf6d/PACIENTE.webm
+Paramedicos,https://dl.dropboxusercontent.com/s/gj6a3nnghhj3dp3/PARAM%C3%89DICOS.mp4;https://dl.dropboxusercontent.com/s/2gb50o4d78q0u0y/PARAM%C3%89DICOS.webm
+Peligro,https://dl.dropboxusercontent.com/s/1mpx32jkr4gwbsn/PELIGRO.mp4;https://dl.dropboxusercontent.com/s/wejuiyb3jlgj9i9/PELIGRO.webm
+Policias,https://dl.dropboxusercontent.com/s/5fioiyzrc4xkaxa/POLIC%C3%8DAS.mp4;https://dl.dropboxusercontent.com/s/e4jkpxsqzhkbwi5/POLIC%C3%8DAS.webm
+Primeros Auxlios,https://dl.dropboxusercontent.com/s/pwv7dtsnlaxd474/PRIMEROS%20AUXILIOS.mp4;https://dl.dropboxusercontent.com/s/0y6igi0gm5gn0vp/PRIMEROS%20AUXILIOS.webm
+¿Puedo Ayudarlo?,https://dl.dropboxusercontent.com/s/lm56a4dyq3aarrr/PUEDO%20AYUDARLO.mp4;https://dl.dropboxusercontent.com/s/sya2y6nkp4jw1ho/PUEDO%20AYUDARLO.webm
+Pulso,https://dl.dropboxusercontent.com/s/hs1c2eryzcck198/PULSO.mp4;https://dl.dropboxusercontent.com/s/ow3jg5vrcyessgx/PULSO.webm
+Quemadura,https://dl.dropboxusercontent.com/s/m0rxbhrmi2nwtty/QUEMADURA.mp4;https://dl.dropboxusercontent.com/s/sdnr86oynphqcm3/QUEMADURA.webm
+RCP,https://dl.dropboxusercontent.com/s/aeofarqiqi56y29/RCP.mp4;https://dl.dropboxusercontent.com/s/zl1ql5vlks3a07x/RCP.webm
+Rescate,https://dl.dropboxusercontent.com/s/lcjke1g7boql3dk/RESCATE.mp4;https://dl.dropboxusercontent.com/s/svgs32mc0xr970t/RESCATE.webm
+Respuesta Motora,https://dl.dropboxusercontent.com/s/7hh48o773tuyim1/RESPUESTA%20MOTORA.mp4;https://dl.dropboxusercontent.com/s/ajyi1ivgc5zh141/RESPUESTA%20MOTORA.webm
+Respuesta Ocular,https://dl.dropboxusercontent.com/s/fx64v5c3jxncgwo/RESPUESTA%20OCULAR.mp4;https://dl.dropboxusercontent.com/s/tjqw6ua8jff8qaw/RESPUESTA%20OCULAR.webm
+Respuesta Verbal,https://dl.dropboxusercontent.com/s/c44j4wt63o46bdf/RESPUESTA%20VERBAL.mp4;https://dl.dropboxusercontent.com/s/uegf3cy17tdmn7a/RESPUESTA%20VERBAL.webm
+Salidas de Emergencia,https://dl.dropboxusercontent.com/s/8r8gm2af7bhawcd/SALIDAS%20DE%20EMERGENCIA.mp4;https://dl.dropboxusercontent.com/s/hmoh6dyha90nwc1/SALIDAS%20DE%20EMERGENCIA.webm
+¿Se encuentra usted bien?,https://dl.dropboxusercontent.com/s/ur9p9v6bvtulo28/SE%20ENCUENTRA%20USTED%20BIEN.mp4;https://dl.dropboxusercontent.com/s/0pclr6779qozr59/SE%20ENCUENTRA%20USTED%20BIEN.webm
+Signos Vitales,https://dl.dropboxusercontent.com/s/6s1ja3mrf5855m0/SIGNOS%20VITALES.mp4;https://dl.dropboxusercontent.com/s/hcgp0jsm6vb2p2c/SIGNOS%20VITALES.webm
+Socorrista,https://dl.dropboxusercontent.com/s/csq59ty7rfc7wep/SOCORRISTA.mp4;https://dl.dropboxusercontent.com/s/9453vnshrw7v1dk/SOCORRISTA.webm
+S.O.S,https://dl.dropboxusercontent.com/s/2ty6ul0bf46g51w/SOS.mp4;https://dl.dropboxusercontent.com/s/m3djak7ok5pe7qn/SOS.webm
+Termometro,https://dl.dropboxusercontent.com/s/0dx1ycffrq1jcja/TERM%C3%93METRO.mp4;https://dl.dropboxusercontent.com/s/qouxf57s95hvlfv/TERM%C3%93METRO.webm
+Traumatismo,https://dl.dropboxusercontent.com/s/jibn1u3ylf1u9ts/TRAUMATISMO.mp4;https://dl.dropboxusercontent.com/s/yjteyujmeit6cc7/TRAUMATISMO.webm
+Venda,https://dl.dropboxusercontent.com/s/6j77tj8fsa52xqn/VENDA.mp4;https://dl.dropboxusercontent.com/s/jeh7z10mflhdqqw/VENDA.webm
+Victima,https://dl.dropboxusercontent.com/s/5qn6rzm0x7tyu6b/VICTIMA.mp4;https://dl.dropboxusercontent.com/s/e2wo4l0ler0lk9l/VICTIMA.webm
+DEPORTES
+48
+Aerobic,https://dl.dropboxusercontent.com/s/t36cfp95k0ghy4l/AEROBIC.mp4;https://dl.dropboxusercontent.com/s/7fpf70hp00n6y4h/AEROBIC.webm
+Alpinismo,https://dl.dropboxusercontent.com/s/3wh5os9cda6t1kt/ALPINISMO.mp4;https://dl.dropboxusercontent.com/s/eojbahoscb0ndfc/ALPINISMO.webm
+Artes Marciales,https://dl.dropboxusercontent.com/s/svd4khu6uxa96v8/ARTES%20MARCIALES.mp4;https://dl.dropboxusercontent.com/s/ul06daee8meg6xo/ARTES%20MARCIALES.webm
+Automovilismo,https://dl.dropboxusercontent.com/s/bxqlwy95pd41r7n/AUTOMOVILISMO.mp4;https://dl.dropboxusercontent.com/s/wu7y3vmcldcrswn/AUTOMOVILISMO.webm
+Beisbol,https://dl.dropboxusercontent.com/s/2f79s7tfumr3sx4/B%C3%89ISBOL.mp4;https://dl.dropboxusercontent.com/s/dczfftf248qb49x/B%C3%89ISBOL.webm
+Bowling,https://dl.dropboxusercontent.com/s/23prkbmbwniy49v/BOWLING.mp4;https://dl.dropboxusercontent.com/s/a13ed3pz14moemx/BOWLING.webm
+Boxeo,https://dl.dropboxusercontent.com/s/f9g4nadjp1lj7yn/BOXEO.mp4;https://dl.dropboxusercontent.com/s/p6apgsf4z1517wf/BOXEO.webm
+Caminata,https://dl.dropboxusercontent.com/s/681rn5fmrqhxyfu/CAMINATA.mp4;https://dl.dropboxusercontent.com/s/ik5c4gnf7n20y93/CAMINATA.webm
+Ciclismo,https://dl.dropboxusercontent.com/s/eyhps15f8a1eynk/CICLISMO.mp4;https://dl.dropboxusercontent.com/s/jsk6ddo1lo8egja/CICLISMO.webm
+Criquet,https://dl.dropboxusercontent.com/s/tj89275hz9arexb/CRIQUET.mp4;https://dl.dropboxusercontent.com/s/a6hq68v6tgiangt/CRIQUET.webm
+Culturismo,https://dl.dropboxusercontent.com/s/qhp0q1re3326v9i/CULTURISMO.mp4;https://dl.dropboxusercontent.com/s/76s0eqa71ea36xx/CULTURISMO.webm
+Deporte,https://dl.dropboxusercontent.com/s/0swgntcn3p4ttq1/DEPORTE.mp4;https://dl.dropboxusercontent.com/s/b9sobtx0s8nvk9v/DEPORTE.webm
+Equitacion,https://dl.dropboxusercontent.com/s/sn24ipgqbfs7k8j/EQUITACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/vyq6q6kbkxdgawo/EQUITACI%C3%93N.webm
+Esgrima,https://dl.dropboxusercontent.com/s/f60w7ife95u5k0a/ESGRIMA.mp4;https://dl.dropboxusercontent.com/s/5celj1v6c0n87ol/ESGRIMA.webm
+Esquí,https://dl.dropboxusercontent.com/s/e7jwtqytssfqpju/ESQU%C3%8D.mp4;https://dl.dropboxusercontent.com/s/k9wxiav906t1v6m/ESQU%C3%8D.webm
+Futbol Sala,https://dl.dropboxusercontent.com/s/fz8lkcc4aqd5m2w/F%C3%9ATBOL%20SALA.mp4;https://dl.dropboxusercontent.com/s/n3xnt8mwmx2g7my/F%C3%9ATBOL%20SALA.webm
+Futbol,https://dl.dropboxusercontent.com/s/83ug0flj6vswh30/F%C3%9ATBOL.mp4;https://dl.dropboxusercontent.com/s/5mjgg91hedenhby/F%C3%9ATBOL.webm
+Golf,https://dl.dropboxusercontent.com/s/0knns32p7yoz9sj/GOLF.mp4;https://dl.dropboxusercontent.com/s/2n6eyyshzbl9z6h/GOLF.webm
+Grandes Ligas,https://dl.dropboxusercontent.com/s/nbwhang1nbpfp7f/GRANDES%20LIGAS.mp4;https://dl.dropboxusercontent.com/s/flvsv7c6sazb972/GRANDES%20LIGAS.webm
+Karate,https://dl.dropboxusercontent.com/s/n3zzoxj7tw183fi/KARATE.mp4;https://dl.dropboxusercontent.com/s/ywto1qawh7qzll8/KARATE.webm
+Kayac,https://dl.dropboxusercontent.com/s/kx7edlq41yg9jit/KAYAC.mp4;https://dl.dropboxusercontent.com/s/n4zdno6ctdfr0fc/KAYAC.webm
+Kitesurfing,https://dl.dropboxusercontent.com/s/zrnyvhh131wy3dq/KITESURFING.mp4;https://dl.dropboxusercontent.com/s/93a14b715rws2aq/KITESURFING.webm
+Kung Fu,https://dl.dropboxusercontent.com/s/gux2mwxpdmwvzry/KUNG%20FU.mp4;https://dl.dropboxusercontent.com/s/0fit4piu2ommfhx/KUNG%20FU.webm
+Lucha Libre,https://dl.dropboxusercontent.com/s/j1z1pcvda5s3bh3/LUCHA%20LIBRE.mp4;https://dl.dropboxusercontent.com/s/h0aq7dxmp9c1gdn/LUCHA%20LIBRE.webm
+Maratón,https://dl.dropboxusercontent.com/s/smyw8j30cqpiwlq/MARAT%C3%93N.mp4;https://dl.dropboxusercontent.com/s/527cczl0ljyp00w/MARAT%C3%93N.webm
+Motociclismo,https://dl.dropboxusercontent.com/s/cnelzch85n4j6mg/MOTOCICLISMO.mp4;https://dl.dropboxusercontent.com/s/m3blub833xcuo0j/MOTOCICLISMO.webm
+Natación,https://dl.dropboxusercontent.com/s/nksrvpvpmkk70rf/NATACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/f0i0sbjokh50ufi/NATACI%C3%93N.webm
+Paintball,https://dl.dropboxusercontent.com/s/14ojhtvbwucqc4s/PAINTBALL.mp4;https://dl.dropboxusercontent.com/s/ro2ts3rbtvgb8ie/PAINTBALL.webm
+Paracaidismo,https://dl.dropboxusercontent.com/s/nho0ijgtg87kh36/PARACAIDISMO.mp4;https://dl.dropboxusercontent.com/s/1hoitxxz36y4pzy/PARACAIDISMO.webm
+Parapente,https://dl.dropboxusercontent.com/s/m6b4dsfi0u3uhiw/PARAPENTE.mp4;https://dl.dropboxusercontent.com/s/30i2kzfgmu2vc8t/PARAPENTE.webm
+Patinaje en Línea,https://dl.dropboxusercontent.com/s/csrnhz147o97hki/PATINAJE%20EN%20L%C3%8DNEA.mp4;https://dl.dropboxusercontent.com/s/ucci1ltkduiifbf/PATINAJE%20EN%20L%C3%8DNEA.webm
+Patinaje Sobre Hielo,https://dl.dropboxusercontent.com/s/9esv5g4gf88chlv/PATINAJE%20SOBRE%20HIELO.mp4;https://dl.dropboxusercontent.com/s/zpo96yvmce3tehk/PATINAJE%20SOBRE%20HIELO.webm
+Pilates,https://dl.dropboxusercontent.com/s/pne5i8via8qcjxw/PILATES.mp4;https://dl.dropboxusercontent.com/s/nscrl0ui80zs3sx/PILATES.webm
+Ping Pong,https://dl.dropboxusercontent.com/s/dv8yee60uf1z9zj/PING%20PONG.mp4;https://dl.dropboxusercontent.com/s/pdftkrclmikt30h/PING%20PONG.webm
+Polo,https://dl.dropboxusercontent.com/s/8otnghb5nr1krwf/POLO.mp4;https://dl.dropboxusercontent.com/s/u8eseyf6amsruh7/POLO.webm
+Pool,https://dl.dropboxusercontent.com/s/1j7myn0wj5yem56/POOL.mp4;https://dl.dropboxusercontent.com/s/7kaf1fu3ynq3zux/POOL.webm
+Rappel,https://dl.dropboxusercontent.com/s/bz5rc1ulr3tpzqj/RAPPEL.mp4;https://dl.dropboxusercontent.com/s/23wmoqhuiov1b6y/RAPPEL.webm
+Skydive,https://dl.dropboxusercontent.com/s/mu4h58xa4y08zk3/SKYDIVE.mp4;https://dl.dropboxusercontent.com/s/pb36o5qqdlpyco1/SKYDIVE.webm
+Skysurf,https://dl.dropboxusercontent.com/s/mpmcih5feyun0p2/SKYSURF.mp4;https://dl.dropboxusercontent.com/s/r984w689lwwcpwb/SKYSURF.webm
+Softball,https://dl.dropboxusercontent.com/s/46u5fahwfyts30h/SOFTBALL.mp4;https://dl.dropboxusercontent.com/s/6r75hy0d4q4oqud/SOFTBALL.webm
+Sumo,https://dl.dropboxusercontent.com/s/ar7o0w0s8cq0fta/SUMO.mp4;https://dl.dropboxusercontent.com/s/kfezmwfp6wcg7el/SUMO.webm
+Surf,https://dl.dropboxusercontent.com/s/ms1capuaij1qzxb/SURF.mp4;https://dl.dropboxusercontent.com/s/hroj3i0du49driz/SURF.webm
+Tennis,https://dl.dropboxusercontent.com/s/c4klxxwddafd481/TENNIS.mp4;https://dl.dropboxusercontent.com/s/a2xsjn63cdlhw3q/TENNIS.webm
+Tiro con Arco,https://dl.dropboxusercontent.com/s/w54lgvyqzzdm1f5/TIRO%20CON%20ARCO.mp4;https://dl.dropboxusercontent.com/s/gbi3yb3rjkytjpi/TIRO%20CON%20ARCO.webm
+Ultimate,https://dl.dropboxusercontent.com/s/lit0zxku7bwk4nc/ULTIMATE.mp4;https://dl.dropboxusercontent.com/s/b79hoi1ij97sogl/ULTIMATE.webm
+Voleibol,https://dl.dropboxusercontent.com/s/ewuzqu0gbit6c2k/VOLEIBOL.mp4;https://dl.dropboxusercontent.com/s/zod58g2ahz03695/VOLEIBOL.webm
+Waterpolo,https://dl.dropboxusercontent.com/s/0d4s646ecsx23fn/WATERPOLO.mp4;https://dl.dropboxusercontent.com/s/aeuwbagn1kvjn0q/WATERPOLO.webm
+Yudo,https://dl.dropboxusercontent.com/s/s2uahv266i6wjh0/YUDO.mp4;https://dl.dropboxusercontent.com/s/zth185km5kz7r2b/YUDO.webm
 DÍAS MESES Y FERIADOS
-27
-Días de la semana,https://dl.dropboxusercontent.com/s/3ibxi18te6buc6c/DIAS%20DE%20LA%20SEMANA.mp4;https://dl.dropboxusercontent.com/s/o0bqt4c6nhqi8zf/DIAS%20DE%20LA%20SEMANA.webm
+26
+Días de la Semana,https://dl.dropboxusercontent.com/s/3ibxi18te6buc6c/DIAS%20DE%20LA%20SEMANA.mp4;https://dl.dropboxusercontent.com/s/o0bqt4c6nhqi8zf/DIAS%20DE%20LA%20SEMANA.webm
 Lunes,https://dl.dropboxusercontent.com/s/y68c559t4japbgo/LUNES.mp4;https://dl.dropboxusercontent.com/s/hgek0yog8a8u9ej/LUNES.webm
 Martes,https://dl.dropboxusercontent.com/s/69co5o5pqunno2e/MARTES.mp4;https://dl.dropboxusercontent.com/s/aovnr6528wtmxry/MARTES.webm
 Miércoles,https://dl.dropboxusercontent.com/s/q0y8ugmiy5z4d9k/MIERCOLES.mp4;https://dl.dropboxusercontent.com/s/pshtqluc3en5xn2/MIERCOLES.webm
@@ -230,26 +433,26 @@ Año nuevo,https://dl.dropboxusercontent.com/s/296q1hnkyi572we/A%C3%91O%20NUEVO.m
 Día de Reyes,https://dl.dropboxusercontent.com/s/4i318isxei07kkg/DIA%20DE%20REYES.mp4;https://dl.dropboxusercontent.com/s/ds1z8utbvjbvjmt/DIA%20DE%20REYES.webm
 Día de los Enamorados,https://dl.dropboxusercontent.com/s/pogi4ljgm36ljr9/DIA%20DE%20LOS%20ENAMORADOS.mp4;https://dl.dropboxusercontent.com/s/bkinwswvvpouir6/DIA%20DE%20LOS%20ENAMORADOS.webm
 Carnaval,https://dl.dropboxusercontent.com/s/5evcxl664c945cw/CARNAVAL.mp4;https://dl.dropboxusercontent.com/s/5v8ndd724s9ar1l/CARNAVAL.webm
-Día del maestro,https://dl.dropboxusercontent.com/s/4vg40vykfxtanqx/DIA%20DEL%20MAESTRO.mp4;https://dl.dropboxusercontent.com/s/bu7yhbxl1jto460/DIA%20DEL%20MAESTRO.webm
+Día del Maestro,https://dl.dropboxusercontent.com/s/4vg40vykfxtanqx/DIA%20DEL%20MAESTRO.mp4;https://dl.dropboxusercontent.com/s/bu7yhbxl1jto460/DIA%20DEL%20MAESTRO.webm
 DIRECCIONES
 27
-Al lado,https://dl.dropboxusercontent.com/s/7kcjsomzvcetunt/al_lado_de%20.mp4;https://dl.dropboxusercontent.com/s/bzzaevtepmp90jx/al_lado_de%20.webm
+Al Lado,https://dl.dropboxusercontent.com/s/7kcjsomzvcetunt/al_lado_de%20.mp4;https://dl.dropboxusercontent.com/s/bzzaevtepmp90jx/al_lado_de%20.webm
 Apartamento,https://dl.dropboxusercontent.com/s/6q7ubgy7l4mqe0r/apartamento.mp4;https://dl.dropboxusercontent.com/s/nbtyjvq37mipf4o/apartamento.webm
 Autopista,https://dl.dropboxusercontent.com/s/2vbnfmwgopqj70x/autopista.mp4;https://dl.dropboxusercontent.com/s/z2g7exinixayc9c/autopista.webm
 Avenida,https://dl.dropboxusercontent.com/s/6o0hceyys564x82/avenida.mp4;https://dl.dropboxusercontent.com/s/b2u39defcmp6wyz/avenida.webm
 Barrio,https://dl.dropboxusercontent.com/s/a4zrenisruvoe2g/barrio.mp4;https://dl.dropboxusercontent.com/s/nmttc0ugu1lw9sz/barrio.webm
-Carro por puesto,https://dl.dropboxusercontent.com/s/5f663anjl2fa09b/carro_por_puesto.mp4;https://dl.dropboxusercontent.com/s/oakqt9chvukiwqj/carro_por_puesto.webm
+Carro por Puesto,https://dl.dropboxusercontent.com/s/5f663anjl2fa09b/carro_por_puesto.mp4;https://dl.dropboxusercontent.com/s/oakqt9chvukiwqj/carro_por_puesto.webm
 Casa,https://dl.dropboxusercontent.com/s/ugw1mcs8p502c6s/casa.mp4;https://dl.dropboxusercontent.com/s/n5h6c4smznhp7fs/casa.webm
-Centro comercial,https://dl.dropboxusercontent.com/s/godmer3gqngtupx/centro_comercial.mp4;https://dl.dropboxusercontent.com/s/cgpcjnswckkv3w4/centro_comercial.webm
-Cerca de aquí,https://dl.dropboxusercontent.com/s/wb076irxvntsumv/cerca_de_aqui.mp4;https://dl.dropboxusercontent.com/s/aj7o3h95ieixmyy/cerca_de_aqui.webm
+Centro Comercial,https://dl.dropboxusercontent.com/s/godmer3gqngtupx/centro_comercial.mp4;https://dl.dropboxusercontent.com/s/cgpcjnswckkv3w4/centro_comercial.webm
+Cerca de Aquí,https://dl.dropboxusercontent.com/s/wb076irxvntsumv/cerca_de_aqui.mp4;https://dl.dropboxusercontent.com/s/aj7o3h95ieixmyy/cerca_de_aqui.webm
 Cerca,https://dl.dropboxusercontent.com/s/tvuf3lhug0xq474/cerca.mp4;https://dl.dropboxusercontent.com/s/aj7o3h95ieixmyy/cerca_de_aqui.webm
-Codigo postal,https://dl.dropboxusercontent.com/s/oyafhzjoh6acyun/codigo_postal_01.mp4;https://dl.dropboxusercontent.com/s/f0oneirkhxyjtas/codigo_postal.webm
-Cruza a la derecha,https://dl.dropboxusercontent.com/s/6qckjbuqgpow2e1/cruza_a_la_derecha.mp4;https://dl.dropboxusercontent.com/s/722s0l3swjhw3i6/cruza_a_la_derecha.webm
-Cuadra ,https://dl.dropboxusercontent.com/s/6y5hiqiwj1uagay/cuadra.mp4;https://dl.dropboxusercontent.com/s/dhcjl5e6c87f4bo/cuadra.webm
-Donde queda,https://dl.dropboxusercontent.com/s/tmxeqkqcwiyngkn/donde_queda.mp4;https://dl.dropboxusercontent.com/s/6w7aq5s4szjkmdk/donde_queda.webm
+Codigo Postal,https://dl.dropboxusercontent.com/s/oyafhzjoh6acyun/codigo_postal_01.mp4;https://dl.dropboxusercontent.com/s/f0oneirkhxyjtas/codigo_postal.webm
+Cruza a la Derecha,https://dl.dropboxusercontent.com/s/6qckjbuqgpow2e1/cruza_a_la_derecha.mp4;https://dl.dropboxusercontent.com/s/722s0l3swjhw3i6/cruza_a_la_derecha.webm
+Cuadra,https://dl.dropboxusercontent.com/s/6y5hiqiwj1uagay/cuadra.mp4;https://dl.dropboxusercontent.com/s/dhcjl5e6c87f4bo/cuadra.webm
+¿Donde Queda?,https://dl.dropboxusercontent.com/s/tmxeqkqcwiyngkn/donde_queda.mp4;https://dl.dropboxusercontent.com/s/6w7aq5s4szjkmdk/donde_queda.webm
 Edificio,https://dl.dropboxusercontent.com/s/rvpn9ayl11jjtx9/edificio.mp4;https://dl.dropboxusercontent.com/s/nnaksnwex4ovtgr/edificio.webm
-Estacion de metro,https://dl.dropboxusercontent.com/s/zd4gli6he3kit08/estacion_de_metro.mp4;https://dl.dropboxusercontent.com/s/5q2rfyj6io3mtj6/estacion_de_tren.webm
-Lejos de aquí,https://dl.dropboxusercontent.com/s/m7l8k8kxfzmwae5/lejos_de_aqui.mp4;https://dl.dropboxusercontent.com/s/7end9tp0usgdsce/lejos_de_aqui.webm
+Estacion de Metro,https://dl.dropboxusercontent.com/s/zd4gli6he3kit08/estacion_de_metro.mp4;https://dl.dropboxusercontent.com/s/5q2rfyj6io3mtj6/estacion_de_tren.webm
+Lejos de Aquí,https://dl.dropboxusercontent.com/s/m7l8k8kxfzmwae5/lejos_de_aqui.mp4;https://dl.dropboxusercontent.com/s/7end9tp0usgdsce/lejos_de_aqui.webm
 Lejos,https://dl.dropboxusercontent.com/s/sv1tqnf89dyb9w1/lejos.mp4;https://dl.dropboxusercontent.com/s/rqxokppx36gp921/lejos.webm
 Metro Bus,https://dl.dropboxusercontent.com/s/yg53rpxjsblzhkt/metro_bus.mp4;https://dl.dropboxusercontent.com/s/8frswfn0ssqp2sb/metro_bus.webm
 Oficina,https://dl.dropboxusercontent.com/s/qyn3kcna8q9ss29/oficina.mp4;https://dl.dropboxusercontent.com/s/eklyx5yaz1xkdek/oficina.webm
@@ -257,7 +460,7 @@ Parada de Bus,https://dl.dropboxusercontent.com/s/3su2mya09xjbq3n/parada_de_bus.
 Piso,https://dl.dropboxusercontent.com/s/g3t9u1du4ym5frl/piso.mp4;https://dl.dropboxusercontent.com/s/pauqpzww4979ozi/piso.webm
 Quinta,https://dl.dropboxusercontent.com/s/1yy7xqdt751bqpf/quinta.mp4;https://dl.dropboxusercontent.com/s/5wqhgwigkamv348/quinta.webm
 Semaforo,https://dl.dropboxusercontent.com/s/uqeuxzzkohba9ru/semaforo.mp4;https://dl.dropboxusercontent.com/s/awnga26rwehy5fy/semaforo.webm
-Sigue derecho,https://dl.dropboxusercontent.com/s/aa7cxvfbeerfa72/sigue_derecho.mp4;https://dl.dropboxusercontent.com/s/l24g1jo3kv2194n/sigue_derecho.webm
+Sigue Derecho,https://dl.dropboxusercontent.com/s/aa7cxvfbeerfa72/sigue_derecho.mp4;https://dl.dropboxusercontent.com/s/l24g1jo3kv2194n/sigue_derecho.webm
 Subida,https://dl.dropboxusercontent.com/s/w1zf3rvqo4cwtki/subida.mp4;https://dl.dropboxusercontent.com/s/v9ayoo4hdjcfogf/subida.webm
 Taxi,https://dl.dropboxusercontent.com/s/t20zeu08wz7y89s/taxi.mp4;https://dl.dropboxusercontent.com/s/cxs19pmx1sr35wx/taxi.webm
 DISCAPACIDAD
@@ -265,20 +468,20 @@ DISCAPACIDAD
 Accesibilidad,https://dl.dropboxusercontent.com/s/6hku63ee8xbf3t1/accesibilidad.mp4;https://dl.dropboxusercontent.com/s/0krhge5g3ar8l56/accesibilidad.webm
 Adquirido,https://dl.dropboxusercontent.com/s/me9sugz9wjjpjqm/adquirido.mp4;https://dl.dropboxusercontent.com/s/7z74cpri6ubn8lj/adquirido.webm
 Amputación,https://dl.dropboxusercontent.com/s/4qx95lrzayc1vga/amputaci%C3%B3n.mp4;https://dl.dropboxusercontent.com/s/71nw419agy5m2pc/amputaci%C3%B3n.webm
-Animal de asistencia,https://dl.dropboxusercontent.com/s/47cat32gzq4beg3/animal%20de%20asistencia.mp4;https://dl.dropboxusercontent.com/s/szk8uhzri4gjr2c/animal%20de%20asistencia.webm
-Ayudas ópticas,https://dl.dropboxusercontent.com/s/qgzvvdsvx2vf620/ayudas%20opticas.mp4;https://dl.dropboxusercontent.com/s/r90walt05wr26tv/ayudas%20opticas.webm
+Animal de Asistencia,https://dl.dropboxusercontent.com/s/47cat32gzq4beg3/animal%20de%20asistencia.mp4;https://dl.dropboxusercontent.com/s/szk8uhzri4gjr2c/animal%20de%20asistencia.webm
+Ayudas Ópticas,https://dl.dropboxusercontent.com/s/qgzvvdsvx2vf620/ayudas%20opticas.mp4;https://dl.dropboxusercontent.com/s/r90walt05wr26tv/ayudas%20opticas.webm
 Barreras,https://dl.dropboxusercontent.com/s/ir7zeedfbz11eb5/barreras.mp4;https://dl.dropboxusercontent.com/s/afodeekor7l16il/barreras.webm
-Bastón de apoyo,https://dl.dropboxusercontent.com/s/cnke7qaclgjfc02/baston%20de%20apoyo.mp4;https://dl.dropboxusercontent.com/s/ux3nuj1dhnd2u2m/baston%20de%20apoyo.webm
-Bastón de rastreo,https://dl.dropboxusercontent.com/s/x5fhr3i7qwq5ahx/baston%20de%20rastreo.mp4;https://dl.dropboxusercontent.com/s/xjsez0venj3hrpn/baston%20de%20rastreo.webm
+Bastón de Apoyo,https://dl.dropboxusercontent.com/s/cnke7qaclgjfc02/baston%20de%20apoyo.mp4;https://dl.dropboxusercontent.com/s/ux3nuj1dhnd2u2m/baston%20de%20apoyo.webm
+Bastón de Rastreo,https://dl.dropboxusercontent.com/s/x5fhr3i7qwq5ahx/baston%20de%20rastreo.mp4;https://dl.dropboxusercontent.com/s/xjsez0venj3hrpn/baston%20de%20rastreo.webm
 Braile,https://dl.dropboxusercontent.com/s/4xxwr1ymv2j7hla/braile.mp4;https://dl.dropboxusercontent.com/s/rj4ajehqbf0idf7/braile.webm
 Calificación,https://dl.dropboxusercontent.com/s/x5gg5j5dkb1e1wz/calificaci%C3%B3n.mp4;https://dl.dropboxusercontent.com/s/y0t0wr1ou2v0p6e/calificaci%C3%B3n.webm
 Ciego,https://dl.dropboxusercontent.com/s/ocd4kqct2bweeje/ciego.mp4;https://dl.dropboxusercontent.com/s/t56a6va6lt1zu60/ciego.webm
 Conapdis,https://dl.dropboxusercontent.com/s/u33e8e6ba9qss8e/conapdis.mp4;https://dl.dropboxusercontent.com/s/ivzvh7t6n51e4vv/conapdis.webm
 Congénito,https://dl.dropboxusercontent.com/s/pgcdozdat0yopdy/cong%C3%A9nito.mp4;https://dl.dropboxusercontent.com/s/ave6ss6nbgrrgmv/cong%C3%A9nito.webm
 Discapacidad Combinada,https://dl.dropboxusercontent.com/s/ujs0kx598koryiu/discapacidad%20combinada.mp4;https://dl.dropboxusercontent.com/s/boo76vhcmzjak2d/discapacidad%20combinada.webm
- Discapacidad Intelectual,https://dl.dropboxusercontent.com/s/4h3mdltk610pn8t/discapacidad%20intelectual.mp4;https://dl.dropboxusercontent.com/s/va488iljd0oga9f/discapacidad%20intelectual.webm
- Discapacidad motora,https://dl.dropboxusercontent.com/s/p0vasat60yo1vek/discapacidad%20motora.mp4;https://dl.dropboxusercontent.com/s/d1amc83gxaj88xi/discapacidad%20motora.webm
- Discapacidad Social,https://dl.dropboxusercontent.com/s/cn48v1ycljhonxc/discapacidad%20social.mp4;https://dl.dropboxusercontent.com/s/9uuekoxdd2iegox/discapacidad%20social.webm
+Discapacidad Intelectual,https://dl.dropboxusercontent.com/s/4h3mdltk610pn8t/discapacidad%20intelectual.mp4;https://dl.dropboxusercontent.com/s/va488iljd0oga9f/discapacidad%20intelectual.webm
+Discapacidad Motora,https://dl.dropboxusercontent.com/s/p0vasat60yo1vek/discapacidad%20motora.mp4;https://dl.dropboxusercontent.com/s/d1amc83gxaj88xi/discapacidad%20motora.webm
+Discapacidad Social,https://dl.dropboxusercontent.com/s/cn48v1ycljhonxc/discapacidad%20social.mp4;https://dl.dropboxusercontent.com/s/9uuekoxdd2iegox/discapacidad%20social.webm
 Discapacidad Visual,https://dl.dropboxusercontent.com/s/8q6kndlkyjqdbs1/discapacidad%20visual.mp4;https://dl.dropboxusercontent.com/s/c0ldqcxwlstwsgb/discapacidad%20visual.webm
 Discapacidad Auditiva,https://dl.dropboxusercontent.com/s/nh14uax5uj88g2e/discpacidad%20auditiva.mp4;https://dl.dropboxusercontent.com/s/sqgzgyjoqxrlq0i/discpacidad%20auditiva.webm
 Discriminación,https://dl.dropboxusercontent.com/s/erojrray0wnmzb9/discriminaci%C3%B3n.mp4;https://dl.dropboxusercontent.com/s/fmnmo6zfw5mp1s3/discriminaci%C3%B3n.webm
@@ -286,17 +489,17 @@ Implante Coclear,https://dl.dropboxusercontent.com/s/nl7bqazjfvh6nou/implante%20
 Inclusión,https://dl.dropboxusercontent.com/s/13bzynjwfyngcn6/inclusi%C3%B3n%20.mp4;https://dl.dropboxusercontent.com/s/317mraxo9eybox0/inclusi%C3%B3n%20.webm
 Integración,https://dl.dropboxusercontent.com/s/0xcwy05pdb81wkf/integraci%C3%B3n.mp4;https://dl.dropboxusercontent.com/s/0p2c6t8qv5pt0qp/integraci%C3%B3n.webm
 Intérprete,https://dl.dropboxusercontent.com/s/34s5xqqnbb7w02q/int%C3%A9rprete.mp4;https://dl.dropboxusercontent.com/s/atdyjoixkvc1bfj/int%C3%A9rprete.webm
-Lengua de señas,https://dl.dropboxusercontent.com/s/hy9vdg583ujpod2/lengua%20de%20se%C3%B1as%20venezolana.mp4;https://dl.dropboxusercontent.com/s/nwc5gjj9ynjtr7o/lengua%20de%20se%C3%B1as%20venezolana.webm
-Ley para personas con Discapacidad,https://dl.dropboxusercontent.com/s/3fao7h9uhzfxtdt/ley%20para%20personas%20con%20discapacidad.mp4;https://dl.dropboxusercontent.com/s/9j2025hkpaam193/ley%20para%20personas%20con%20discapacidad.webm
+Lengua de Señas,https://dl.dropboxusercontent.com/s/hy9vdg583ujpod2/lengua%20de%20se%C3%B1as%20venezolana.mp4;https://dl.dropboxusercontent.com/s/nwc5gjj9ynjtr7o/lengua%20de%20se%C3%B1as%20venezolana.webm
+Ley para Personas con Discapacidad,https://dl.dropboxusercontent.com/s/3fao7h9uhzfxtdt/ley%20para%20personas%20con%20discapacidad.mp4;https://dl.dropboxusercontent.com/s/9j2025hkpaam193/ley%20para%20personas%20con%20discapacidad.webm
 Muletas,https://dl.dropboxusercontent.com/s/m5eatzu3q3q815c/muletas.mp4;https://dl.dropboxusercontent.com/s/wftva7vdncu3cj8/muletas.webm
 Oportunidades,https://dl.dropboxusercontent.com/s/05v56my52k06hc3/oportunidades.mp4;https://dl.dropboxusercontent.com/s/48jrmwkcbcfwylr/oportunidades.webm
 Parapléjico,https://dl.dropboxusercontent.com/s/bti6bvcixqe902t/parapeljico.mp4;https://dl.dropboxusercontent.com/s/gm4yoxdf9n4b18w/parapeljico.webm
 Prevención,https://dl.dropboxusercontent.com/s/gb129yekdzr5ddh/prevenci%C3%B3n.mp4;https://dl.dropboxusercontent.com/s/2oqc1rbkoobfag0/prevenci%C3%B3n.webm
 Prótesis,https://dl.dropboxusercontent.com/s/b9ddogdjubal4hi/pr%C3%B3tesis.mp4;https://dl.dropboxusercontent.com/s/m2irdeshjktcq4k/pr%C3%B3tesis.webm
-Rampa de acceso,https://dl.dropboxusercontent.com/s/na3us3wuwpgtgtw/rampa%20de%20acceso.mp4;https://dl.dropboxusercontent.com/s/4bmf5evbk54h0o7/rampa%20de%20acceso.webm
+Rampa de Acceso,https://dl.dropboxusercontent.com/s/na3us3wuwpgtgtw/rampa%20de%20acceso.mp4;https://dl.dropboxusercontent.com/s/4bmf5evbk54h0o7/rampa%20de%20acceso.webm
 Rehabilitación,https://dl.dropboxusercontent.com/s/9h3sjtlar4onod8/rehabilitaci%C3%B3n.mp4;https://dl.dropboxusercontent.com/s/oaslsyh07gyndmb/rehabilitaci%C3%B3n.webm
-Seguridad laboral,https://dl.dropboxusercontent.com/s/74bkjxzsef6g7mg/seguridad%20laboral.mp4;https://dl.dropboxusercontent.com/s/ko6r6ccc0enaoh6/seguridad%20laboral.webm
-Silla de ruedas,https://dl.dropboxusercontent.com/s/3vxko5ek0pqt406/silla%20de%20ruedas.mp4;https://dl.dropboxusercontent.com/s/qqb94thlzckfx7o/silla%20de%20ruedas.webm
+Seguridad Laboral,https://dl.dropboxusercontent.com/s/74bkjxzsef6g7mg/seguridad%20laboral.mp4;https://dl.dropboxusercontent.com/s/ko6r6ccc0enaoh6/seguridad%20laboral.webm
+Silla de Ruedas,https://dl.dropboxusercontent.com/s/3vxko5ek0pqt406/silla%20de%20ruedas.mp4;https://dl.dropboxusercontent.com/s/qqb94thlzckfx7o/silla%20de%20ruedas.webm
 Sordo,https://dl.dropboxusercontent.com/s/qq71i3125z6va33/sordo.mp4;https://dl.dropboxusercontent.com/s/3nn31d156bw0u7b/sordo.webm
 Sordociego,https://dl.dropboxusercontent.com/s/vaw4dl6qz9bxa54/sordociego.mp4;https://dl.dropboxusercontent.com/s/en58ap9kp6pdt33/sordociego.webm
 Subtitulos,https://dl.dropboxusercontent.com/s/g1wt26apydkecxe/subt%C3%ADtulos.mp4;https://dl.dropboxusercontent.com/s/sw71yvlbgr8b1a7/subt%C3%ADtulos.webm
@@ -318,34 +521,34 @@ Cuidar,https://dl.dropboxusercontent.com/s/jqi0zd9b68j0oql/CUIDAR.mp4;https://dl
 Ecosistema,https://dl.dropboxusercontent.com/s/6d5zum1mvt99b02/ECOSISTEMA.mp4;https://dl.dropboxusercontent.com/s/w8l3l2m2sgcfkrk/ECOSISTEMA.webm
 Energia Alternativa,https://dl.dropboxusercontent.com/s/m5s60z146ywmytr/ENERGIA%20ALTERNATIVA.mp4;https://dl.dropboxusercontent.com/s/bezudanwrnesf91/ENERGIA%20ALTERNATIVA.webm
 Energía Eolica,https://dl.dropboxusercontent.com/s/x2agjlpyvo1qagj/ENERGIA%20EOLICA.mp4;https://dl.dropboxusercontent.com/s/h6t6eqwx7wc8zsa/ENERGIA%20EOLICA.webm
-Energía solar,https://dl.dropboxusercontent.com/s/57nwb3o5g5untmr/ENERGIA%20SOLAR.mp4;https://dl.dropboxusercontent.com/s/inpppmoznei551p/ENERGIA%20SOLAR.webm
-Especie animal,https://dl.dropboxusercontent.com/s/tnzbqdeb286b1gh/ESPECIE%20ANIMAL.mp4;https://dl.dropboxusercontent.com/s/xeb2zac0ecg8ju0/ESPECIE%20ANIMAL.webm
-Especie vegetal,https://dl.dropboxusercontent.com/s/vt1j9ktmevu8mq0/ESPECIE%20VEGETAL.mp4;https://dl.dropboxusercontent.com/s/jxeocwhyqou0drj/ESPECIE%20VEGETAL.webm
+Energía Solar,https://dl.dropboxusercontent.com/s/57nwb3o5g5untmr/ENERGIA%20SOLAR.mp4;https://dl.dropboxusercontent.com/s/inpppmoznei551p/ENERGIA%20SOLAR.webm
+Especie Animal,https://dl.dropboxusercontent.com/s/tnzbqdeb286b1gh/ESPECIE%20ANIMAL.mp4;https://dl.dropboxusercontent.com/s/xeb2zac0ecg8ju0/ESPECIE%20ANIMAL.webm
+Especie Vegetal,https://dl.dropboxusercontent.com/s/vt1j9ktmevu8mq0/ESPECIE%20VEGETAL.mp4;https://dl.dropboxusercontent.com/s/jxeocwhyqou0drj/ESPECIE%20VEGETAL.webm
 Extinción,https://dl.dropboxusercontent.com/s/v00riw03lq0f2we/EXTINSION.mp4;https://dl.dropboxusercontent.com/s/x5kxxbqcefu0yva/EXTINSION.webm
 Fauna,https://dl.dropboxusercontent.com/s/l6jiui9lhfq9ufn/FAUNA.mp4;https://dl.dropboxusercontent.com/s/s39bqjkd1i7ajt3/FAUNA.webm
 Flores,https://dl.dropboxusercontent.com/s/ekcpgk4wyefjtqh/FLORES.mp4;https://dl.dropboxusercontent.com/s/c4wh2y7iwea1wn7/FLORES.webm
 Glacial,https://dl.dropboxusercontent.com/s/o177xcvanhbq2fk/GLACIAL.mp4;https://dl.dropboxusercontent.com/s/k9g09ys03av5k2g/GLACIAL.webm
 Grama,https://dl.dropboxusercontent.com/s/g859eyrgxxx3c0e/GRAMA.mp4;https://dl.dropboxusercontent.com/s/fegj6hor4tmbjpb/GRAMA.webm
 Lago,https://dl.dropboxusercontent.com/s/cdiw8e3dz8252gc/LAGO.mp4;https://dl.dropboxusercontent.com/s/z8mgqiotghb62f2/LAGO.webm
-Medio ambiente,https://dl.dropboxusercontent.com/s/943mxo8c4ho8ua9/MEDIO%20AMBIENTE.mp4;https://dl.dropboxusercontent.com/s/sbsupzlv922hmxq/MEDIO%20AMBIENTE.webm
+Medio Ambiente,https://dl.dropboxusercontent.com/s/943mxo8c4ho8ua9/MEDIO%20AMBIENTE.mp4;https://dl.dropboxusercontent.com/s/sbsupzlv922hmxq/MEDIO%20AMBIENTE.webm
 Montaña,https://dl.dropboxusercontent.com/s/x8pgfhkzb2gh8ws/MONTA%C3%91A.mp4;https://dl.dropboxusercontent.com/s/psryasbgv5ssn52/MONTA%C3%91A.webm
 Orgánico,https://dl.dropboxusercontent.com/s/79evwps3bdavy6z/ORGANICO.mp4;https://dl.dropboxusercontent.com/s/xx13of03fx3fssr/ORGANICO.webm
 Palmeras,https://dl.dropboxusercontent.com/s/b2wbyxkfeb81mwe/PALMERAS.mp4;https://dl.dropboxusercontent.com/s/mx0ngoq49anlq8c/PALMERAS.webm
-Parque nacional,https://dl.dropboxusercontent.com/s/k7k1a0q970p28p8/PARQUE%20NACIONAL.mp4;https://dl.dropboxusercontent.com/s/ruyvod35fl2qqdi/PARQUE%20NACIONAL.webm
+Parque Nacional,https://dl.dropboxusercontent.com/s/k7k1a0q970p28p8/PARQUE%20NACIONAL.mp4;https://dl.dropboxusercontent.com/s/ruyvod35fl2qqdi/PARQUE%20NACIONAL.webm
 Plantar,https://dl.dropboxusercontent.com/s/vdi1a6erd2do2sw/PLANTAR.mp4;https://dl.dropboxusercontent.com/s/v52vrmhclz3r3ir/PLANTAR.webm
-Plantas de tratamiento,https://dl.dropboxusercontent.com/s/rqxdr3zzbw3dpqt/PLANTAS%20DE%20TRATAMIENTO.mp4;https://dl.dropboxusercontent.com/s/dn0gwh5ugxqf09l/PLANTAS%20DE%20TRATAMIENTO.webm
+Plantas de Tratamiento,https://dl.dropboxusercontent.com/s/rqxdr3zzbw3dpqt/PLANTAS%20DE%20TRATAMIENTO.mp4;https://dl.dropboxusercontent.com/s/dn0gwh5ugxqf09l/PLANTAS%20DE%20TRATAMIENTO.webm
 Reciclar,https://dl.dropboxusercontent.com/s/xltdbrs8oxd6jfc/RECICLAR.mp4;https://dl.dropboxusercontent.com/s/tsndyqvczklktxn/RECICLAR.webm
-Recursos naturales,https://dl.dropboxusercontent.com/s/axnmjsl6u8k6rrq/RECURSOS%20NATURALES.mp4;https://dl.dropboxusercontent.com/s/499cyi1gwm40f5x/RECURSOS%20NATURALES.webm
+Recursos Naturales,https://dl.dropboxusercontent.com/s/axnmjsl6u8k6rrq/RECURSOS%20NATURALES.mp4;https://dl.dropboxusercontent.com/s/499cyi1gwm40f5x/RECURSOS%20NATURALES.webm
 Reducir,https://dl.dropboxusercontent.com/s/hj4wf2ilafrskso/REDUCIR.mp4;https://dl.dropboxusercontent.com/s/a37me7miw0845t7/REDUCIR.webm
 Reforestación,https://dl.dropboxusercontent.com/s/ncet67ni031oi9t/REFORESTACION.mp4;https://dl.dropboxusercontent.com/s/6ov6vjhauf7ydui/REFORESTACION.webm
 Regar,https://dl.dropboxusercontent.com/s/65f9e5vkwumz0py/REGAR.mp4;https://dl.dropboxusercontent.com/s/iix14f5qw9q64rj/REGAR.webm
-Reserva forestal,https://dl.dropboxusercontent.com/s/bkjhcb5nnsvh34z/RESERVA%20FORESTAL.mp4;https://dl.dropboxusercontent.com/s/ssdax25qs5erca9/RESERVA%20FORESTAL.webm
+Reserva Forestal,https://dl.dropboxusercontent.com/s/bkjhcb5nnsvh34z/RESERVA%20FORESTAL.mp4;https://dl.dropboxusercontent.com/s/ssdax25qs5erca9/RESERVA%20FORESTAL.webm
 Reusa,https://dl.dropboxusercontent.com/s/o9yblh6t3lh39jv/REUSA.mp4;https://dl.dropboxusercontent.com/s/fbd15ol4f6vrouy/REUSA.webm
 Rio,https://dl.dropboxusercontent.com/s/lfyntjihmqq8x4t/RIO.mp4;https://dl.dropboxusercontent.com/s/pujytqbm8vouwre/RIO.webm
-Santuario de especies,https://dl.dropboxusercontent.com/s/0dl3a74jb7mple8/SANTUARIO%20DE%20ESPECIES.mp4;https://dl.dropboxusercontent.com/s/abwov2i24v4rnh6/SANTUARIO%20DE%20ESPECIES.webm
+Santuario de Especies,https://dl.dropboxusercontent.com/s/0dl3a74jb7mple8/SANTUARIO%20DE%20ESPECIES.mp4;https://dl.dropboxusercontent.com/s/abwov2i24v4rnh6/SANTUARIO%20DE%20ESPECIES.webm
 Selva,https://dl.dropboxusercontent.com/s/0bjl6eiomced7zi/SELVA.mp4;https://dl.dropboxusercontent.com/s/odvykh6nfv0xmy4/SELVA.webm
 Sembrar,https://dl.dropboxusercontent.com/s/f5wdsrt5b4dh0s8/SEMBRAR.mp4;https://dl.dropboxusercontent.com/s/m4d73pcmmtx5pew/SEMBRAR.webm
-Tecnología verde,https://dl.dropboxusercontent.com/s/xukd8pfv013je1u/TECNOLOGIA%20VERDE.mp4;https://dl.dropboxusercontent.com/s/6o8df90lj37dkfv/TECNOLOGIA%20VERDE.webm
+Tecnología Verde,https://dl.dropboxusercontent.com/s/xukd8pfv013je1u/TECNOLOGIA%20VERDE.mp4;https://dl.dropboxusercontent.com/s/6o8df90lj37dkfv/TECNOLOGIA%20VERDE.webm
 Tierra,https://dl.dropboxusercontent.com/s/666jovodurty6r1/TIERRA.mp4;https://dl.dropboxusercontent.com/s/m88byjee4p7k82e/TIERRA.webm
 FAUNA
 31
@@ -396,7 +599,7 @@ Encuadre,https://dl.dropboxusercontent.com/s/uryeoge71yslcmt/Encuadre.mp4;https:
 Enfoque,https://dl.dropboxusercontent.com/s/loc43cltrk96ije/Enfoque.mp4;https://dl.dropboxusercontent.com/s/m5wi723ohkg57vn/Enfoque.webm
 Estudio,https://dl.dropboxusercontent.com/s/vl39wgdkpr55vh3/Estudio.mp4;https://dl.dropboxusercontent.com/s/5kch3hcwg95zg4o/Estudio.webm
 Flash,https://dl.dropboxusercontent.com/s/fgbl3vrsv832g6e/Flash.mp4;https://dl.dropboxusercontent.com/s/9lqj38a3fydgc8e/Flash.webm
-Fotografía conceptual,https://dl.dropboxusercontent.com/s/pqa1nvqs5m1172t/Fotograf%C3%ADa%20Conceptual.mp4;https://dl.dropboxusercontent.com/s/bcciynulqe9c3r9/Fotograf%C3%ADa%20Conceptual.webm
+Fotografía Conceptual,https://dl.dropboxusercontent.com/s/pqa1nvqs5m1172t/Fotograf%C3%ADa%20Conceptual.mp4;https://dl.dropboxusercontent.com/s/bcciynulqe9c3r9/Fotograf%C3%ADa%20Conceptual.webm
 Fotografía de Modas,https://dl.dropboxusercontent.com/s/5kacmytnjz5r0yn/Fotograf%C3%ADa%20de%20Modas.mp4;https://dl.dropboxusercontent.com/s/3ltq3gawr0cnmj0/Fotograf%C3%ADa%20de%20Modas.webm
 Laboratorio,https://dl.dropboxusercontent.com/s/rowb9znrczcgv6m/Laboratorio.mp4;https://dl.dropboxusercontent.com/s/zw2fg4ykwb9ys0v/Laboratorio.webm
 Lente,https://dl.dropboxusercontent.com/s/6g4cpwmraph90v0/Lente.mp4;https://dl.dropboxusercontent.com/s/m4xh6j2r239bigr/Lente.webm
@@ -408,7 +611,7 @@ Obturador,https://dl.dropboxusercontent.com/s/hzrvy9it23jvinz/Obturador.mp4;http
 Pixel,https://dl.dropboxusercontent.com/s/372g6zkwn8suiey/Pixel.mp4;https://dl.dropboxusercontent.com/s/awgaih5ptsrtkdh/Pixel.webm
 Polaroid,https://dl.dropboxusercontent.com/s/jnfvd6skf8m0dk6/Polaroid.mp4;https://dl.dropboxusercontent.com/s/45lg6xf87tkfpky/Polaroid.webm
 Pose,https://dl.dropboxusercontent.com/s/p5nh6fdf3nr17c2/Pose.mp4;https://dl.dropboxusercontent.com/s/7d7tpqxqdl5kac2/Pose.webm
-Programas de edición,https://dl.dropboxusercontent.com/s/tpqo0zgrjwij8bu/Programas%20de%20Edici%C3%B3n.mp4;https://dl.dropboxusercontent.com/s/ddrjhqfkvd3icuo/Programas%20de%20Edici%C3%B3n.webm
+Programas de Edición,https://dl.dropboxusercontent.com/s/tpqo0zgrjwij8bu/Programas%20de%20Edici%C3%B3n.mp4;https://dl.dropboxusercontent.com/s/ddrjhqfkvd3icuo/Programas%20de%20Edici%C3%B3n.webm
 Químicos,https://dl.dropboxusercontent.com/s/go60brqo8uaqo6c/Qu%C3%ADmicos.mp4;https://dl.dropboxusercontent.com/s/k2yu91vu5vaw395/Qu%C3%ADmicos.webm
 Retrato,https://dl.dropboxusercontent.com/s/9d7ewlmto21s21r/Retrato.mp4;https://dl.dropboxusercontent.com/s/u0wuv7gcjswo088/Retrato.webm
 Revelado,https://dl.dropboxusercontent.com/s/g6evo627hmh3gm9/Revelado.mp4;https://dl.dropboxusercontent.com/s/b2764ewf6uiys4z/Revelado.webm
@@ -426,7 +629,7 @@ Calabacin,https://dl.dropboxusercontent.com/s/5o3pu1egajozkks/CALABACIN.mp4;http
 Cambur,https://dl.dropboxusercontent.com/s/moo5znt90py6ots/CAMBUR.mp4;https://dl.dropboxusercontent.com/s/pd8zzmagurn2y2z/CAMBUR.webm
 Cebolla,https://dl.dropboxusercontent.com/s/fyta74op862u5di/CEBOLLA.mp4;https://dl.dropboxusercontent.com/s/a1jfm5zbo1ozcij/CEBOLLA.webm
 Cereza,https://dl.dropboxusercontent.com/s/jrxvt427bd65vbc/CEREZA.mp4;https://dl.dropboxusercontent.com/s/wo3m5jopql61ejs/CEREZA.webm
-Champiñón ,https://dl.dropboxusercontent.com/s/u9qvyvabvalgx9r/CHAMPI%C3%91ON.mp4;https://dl.dropboxusercontent.com/s/g3at41g1dnd78of/CHAMPI%C3%91ON.webm
+Champiñón,https://dl.dropboxusercontent.com/s/u9qvyvabvalgx9r/CHAMPI%C3%91ON.mp4;https://dl.dropboxusercontent.com/s/g3at41g1dnd78of/CHAMPI%C3%91ON.webm
 Coco,https://dl.dropboxusercontent.com/s/car27ro5ocbife1/COCO.mp4;https://dl.dropboxusercontent.com/s/qrk8z9zdyon951i/COCO.webm
 Coliflor,https://dl.dropboxusercontent.com/s/i9zcg3pdph06wnz/COLIFLOR.mp4;https://dl.dropboxusercontent.com/s/lbrlbvrhfxfsqm8/COLIFLOR.webm
 Durazno,https://dl.dropboxusercontent.com/s/znwopsi577bwnga/DURAZNO.mp4;https://dl.dropboxusercontent.com/s/bsqf272h0x0dkqi/DURAZNO.webm
@@ -435,11 +638,11 @@ frutas,https://dl.dropboxusercontent.com/s/2kmalck33sr5o3m/FRUTAS.mp4;https://dl
 Guanábana,https://dl.dropboxusercontent.com/s/4m481tzymoyhdy5/GUANABANA.mp4;https://dl.dropboxusercontent.com/s/frfukjs1rv7z32j/GUANABANA.webm
 Guayaba,https://dl.dropboxusercontent.com/s/8d1kx60qgqc6tj8/GUAYABA.mp4;https://dl.dropboxusercontent.com/s/y43mef1zavuebuq/GUAYABA.webm
 Higo,https://dl.dropboxusercontent.com/s/3cyfio5ekf5grs4/HIGO.mp4;https://dl.dropboxusercontent.com/s/lyjv1b91nkdfnon/HIGO.webm
-Lechosa,https://dl.dropboxusercontent.com/s/imcvczgzh3uzo0x/LECHOSA.webm,https://dl.dropboxusercontent.com/s/imcvczgzh3uzo0x/LECHOSA.webm
+Lechosa,https://dl.dropboxusercontent.com/s/imcvczgzh3uzo0x/LECHOSA.webm;https://dl.dropboxusercontent.com/s/imcvczgzh3uzo0x/LECHOSA.webm
 Lechuga,https://dl.dropboxusercontent.com/s/mq3wquu0d1q5kqy/LECHUGA.mp4;https://dl.dropboxusercontent.com/s/7xyffp8g73plwlz/LECHUGA.webm
 Limón,https://dl.dropboxusercontent.com/s/cos9jknl9l5v2gf/LIMON.mp4;https://dl.dropboxusercontent.com/s/isazfrpr1560wi6/LIMON.webm
 Mandarina,https://dl.dropboxusercontent.com/s/gihturx7dila3g7/MANDARINA.mp4;https://dl.dropboxusercontent.com/s/cf4n3dhivjp3txc/MANDARINA.webm
-Mango ,https://dl.dropboxusercontent.com/s/lx2g8bhik42egqr/MANGO.mp4;https://dl.dropboxusercontent.com/s/stauk9zzorwoyjx/MANGO.webm
+Mango,https://dl.dropboxusercontent.com/s/lx2g8bhik42egqr/MANGO.mp4;https://dl.dropboxusercontent.com/s/stauk9zzorwoyjx/MANGO.webm
 Manzana,https://dl.dropboxusercontent.com/s/e996hy6jvw3rui6/MANZANA.mp4;https://dl.dropboxusercontent.com/s/956cu3sauwfo92q/MANZANA.webm
 Melón,https://dl.dropboxusercontent.com/s/pid27hdwnpwhjbt/MELON.mp4;https://dl.dropboxusercontent.com/s/zvxm18r20ntheu6/MELON.webm
 Mora,https://dl.dropboxusercontent.com/s/ciaffy42pclxp7i/MORA.mp4;https://dl.dropboxusercontent.com/s/zvxm18r20ntheu6/MELON.webm
@@ -468,26 +671,26 @@ Ciencia,https://dl.dropboxusercontent.com/s/deivpjss7h6uwwv/CIENCIA.mp4;https://
 Comunidad,https://dl.dropboxusercontent.com/s/hhpiicsbcmtkc89/COMUNIDAD.mp4;https://dl.dropboxusercontent.com/s/imah96dg9sbui5p/COMUNIDAD.webm
 Conservación,https://dl.dropboxusercontent.com/s/kjlhdy7axvpsohd/CONSERVACION.mp4;https://dl.dropboxusercontent.com/s/fh5m666gbf4ke3b/CONSERVACION.webm
 Contribución,https://dl.dropboxusercontent.com/s/sr7glum6camlxbr/CONTRIBUCION.mp4;https://dl.dropboxusercontent.com/s/18ugjzwpwvdorlu/CONTRIBUCION.webm
-Cultura ,https://dl.dropboxusercontent.com/s/audeoqj2vg1j447/CULTURA.mp4;https://dl.dropboxusercontent.com/s/n1q4p77prjnhy50/CULTURA.webm
+Cultura,https://dl.dropboxusercontent.com/s/audeoqj2vg1j447/CULTURA.mp4;https://dl.dropboxusercontent.com/s/n1q4p77prjnhy50/CULTURA.webm
 Defensa,https://dl.dropboxusercontent.com/s/9324t8jf5d0gzt3/DEFENSA.mp4;https://dl.dropboxusercontent.com/s/nfr6a7xgrmymabg/DEFENSA.webm
-Derechos humanos,https://dl.dropboxusercontent.com/s/f0vnejvwhdm4wrh/DERECHOS%20HUMANOS.mp4;https://dl.dropboxusercontent.com/s/7fvs66yyfu1n9dy/DERECHOS%20HUMANOS.webm
+Derechos Humanos,https://dl.dropboxusercontent.com/s/f0vnejvwhdm4wrh/DERECHOS%20HUMANOS.mp4;https://dl.dropboxusercontent.com/s/7fvs66yyfu1n9dy/DERECHOS%20HUMANOS.webm
 Desarrollo Sustentable,https://dl.dropboxusercontent.com/s/coj0vik5ibyybz9/DESARROLLO%20SUSTENTABLE.mp4;https://dl.dropboxusercontent.com/s/bso3ze8xmphw2v6/DESARROLLO%20SUSTENTABLE.webm
 Desarrollo ,https://dl.dropboxusercontent.com/s/c7cre0uemiis3bc/DESARROLLO.mp4;https://dl.dropboxusercontent.com/s/cx5watjwg6h4qdz/DESARROLLO.webm
-Discapacidad,https://dl.dropboxusercontent.com/s/cx5watjwg6h4qdz/DESARROLLO.webm,https://dl.dropboxusercontent.com/s/599zm61t20iuwfr/DISCAPACIDAD.webm
+Discapacidad,https://dl.dropboxusercontent.com/s/cx5watjwg6h4qdz/DESARROLLO.webm;https://dl.dropboxusercontent.com/s/599zm61t20iuwfr/DISCAPACIDAD.webm
 Educación,https://dl.dropboxusercontent.com/s/5fw4ulrfzill90r/EDUCACION.mp4;https://dl.dropboxusercontent.com/s/u4ushxxr36xvb8v/EDUCACION.webm
 Emergencia,https://dl.dropboxusercontent.com/s/ucgv8nwbx76eiyj/EMERGENCIA.mp4;https://dl.dropboxusercontent.com/s/05ffkekgyyobtz4/EMERGENCIA.webm
-Fundación,https://dl.dropboxusercontent.com/s/be0q5f1ie6b52qo/FUNDACION.webm,https://dl.dropboxusercontent.com/s/be0q5f1ie6b52qo/FUNDACION.webm
+Fundación,https://dl.dropboxusercontent.com/s/be0q5f1ie6b52qo/FUNDACION.webm;https://dl.dropboxusercontent.com/s/be0q5f1ie6b52qo/FUNDACION.webm
 Igualdad,https://dl.dropboxusercontent.com/s/5covcpjz37m71nf/IGUALDAD.mp4;https://dl.dropboxusercontent.com/s/acvuqic7p3r7vne/IGUALDAD.webm
 Justicia,https://dl.dropboxusercontent.com/s/l4kmcuwbb59ohdd/JUSTICIA.mp4;https://dl.dropboxusercontent.com/s/48yqg02n1bdzj2o/JUSTICIA.webm
 Medio Ambiente,https://dl.dropboxusercontent.com/s/mdkcj2uxd9bihv4/MEDIO%20AMBIENTE.mp4;https://dl.dropboxusercontent.com/s/qpo4nwsbsi6towt/MEDIO%20AMBIENTE.webm
-Nuevas realidades,https://dl.dropboxusercontent.com/s/2pehtri8t0eex7e/NUEVAS%20REALIDADES.mp4;https://dl.dropboxusercontent.com/s/14ez4hm1bbhmc2e/NUEVAS%20REALIDADES.webm
-Organización ambiental,https://dl.dropboxusercontent.com/s/ll4k5jd6vqimc9k/ORGANIZACI%C3%93N%20NO%20GUBERNAMENTAL.mp4;https://dl.dropboxusercontent.com/s/s54z625fbhrh9po/ORGANIZACI%C3%93N%20NO%20GUBERNAMENTAL.webm
-Personas con discapacidad,https://dl.dropboxusercontent.com/s/6jryz2x6x4oop8i/PERSONAS%20CON%20DISCAPACIDAD.mp4;https://dl.dropboxusercontent.com/s/g6q0ullv0iq1viw/PERSONAS%20CON%20DISCAPACIDAD.webm
+Nuevas Realidades,https://dl.dropboxusercontent.com/s/2pehtri8t0eex7e/NUEVAS%20REALIDADES.mp4;https://dl.dropboxusercontent.com/s/14ez4hm1bbhmc2e/NUEVAS%20REALIDADES.webm
+Organización Ambiental,https://dl.dropboxusercontent.com/s/ll4k5jd6vqimc9k/ORGANIZACI%C3%93N%20NO%20GUBERNAMENTAL.mp4;https://dl.dropboxusercontent.com/s/s54z625fbhrh9po/ORGANIZACI%C3%93N%20NO%20GUBERNAMENTAL.webm
+Personas con Discapacidad,https://dl.dropboxusercontent.com/s/6jryz2x6x4oop8i/PERSONAS%20CON%20DISCAPACIDAD.mp4;https://dl.dropboxusercontent.com/s/g6q0ullv0iq1viw/PERSONAS%20CON%20DISCAPACIDAD.webm
 Problemas,https://dl.dropboxusercontent.com/s/z538gtcsfgf3mkr/PROBLEMAS.mp4;https://dl.dropboxusercontent.com/s/ex5h3jj9zlhyjen/PROBLEMAS.webm
 Proyectos,https://dl.dropboxusercontent.com/s/lxmkrmha8fq3338/PROYECTOS.mp4;https://dl.dropboxusercontent.com/s/cv3w9s6n5k0ynsk/PROYECTOS.webm
 Refugiado,https://dl.dropboxusercontent.com/s/9m9spkx3itxsgl5/REFUGIADO.mp4;https://dl.dropboxusercontent.com/s/b7ne33tcm746qj5/REFUGIADO.webm
 Rescate,https://dl.dropboxusercontent.com/s/cfk3pkbw1gbivgm/RESCATE.mp4;https://dl.dropboxusercontent.com/s/valvlhqplkdg8ck/RESCATE.webm
-Sin fines de lucro,https://dl.dropboxusercontent.com/s/4aogq23wpe1f8xi/SIN%20FINES%20DE%20LUCRO.mp4;https://dl.dropboxusercontent.com/s/ohnt6p6k2c5a3b0/SIN%20FINES%20DE%20LUCRO.webm
+Sin Fines de Lucro,https://dl.dropboxusercontent.com/s/4aogq23wpe1f8xi/SIN%20FINES%20DE%20LUCRO.mp4;https://dl.dropboxusercontent.com/s/ohnt6p6k2c5a3b0/SIN%20FINES%20DE%20LUCRO.webm
 Social,https://dl.dropboxusercontent.com/s/bfc8sz9zqyg680u/SOCIAL.mp4;https://dl.dropboxusercontent.com/s/zpxoshi2zkwk4tp/SOCIAL.webm
 Solidaridad,https://dl.dropboxusercontent.com/s/hbknpf69x6d5f05/SOLIDARIDAD.mp4;https://dl.dropboxusercontent.com/s/rbt2q5iyx7hd5mk/SOLIDARIDAD.webm
 Soluciones,https://dl.dropboxusercontent.com/s/3lkfby6oksnqanj/SOLUCIONES.mp4;https://dl.dropboxusercontent.com/s/686elc0qxhhqxfm/SOLUCIONES.webm
@@ -531,14 +734,14 @@ Capital,https://dl.dropboxusercontent.com/s/b0pmokrxyqnnha2/CAPITAL.mp4;https://
 Compañía,https://dl.dropboxusercontent.com/s/dwy7jv14lb2mxy4/COMPA%C3%91IA.mp4;https://dl.dropboxusercontent.com/s/dyj172kjehpqlve/COMPA%C3%91IA.webm
 Contabilidad,https://dl.dropboxusercontent.com/s/fcb5vjll34cy3pe/CONTABILIDAD.mp4;https://dl.dropboxusercontent.com/s/letm455j5u0epsk/CONTABILIDAD.webm
 Contrato,https://dl.dropboxusercontent.com/s/vmrsh5b5dplfs3r/CONTRATO.mp4;https://dl.dropboxusercontent.com/s/9o6pcx2j6wlmb3t/CONTRATO.webm
-Cuentas por cobrar,https://dl.dropboxusercontent.com/s/w7t1xabm5gf22ej/CUENTAS%20POR%20COBRAR.mp4;https://dl.dropboxusercontent.com/s/5coq2qnqw1y7mqd/CUENTAS%20POR%20PAGAR.webm
-Cuentas por pagar ,https://dl.dropboxusercontent.com/s/im2khn59nu70ue3/CUENTAS%20POR%20PAGAR.mp4;https://dl.dropboxusercontent.com/s/5coq2qnqw1y7mqd/CUENTAS%20POR%20PAGAR.webm
+Cuentas por Cobrar,https://dl.dropboxusercontent.com/s/w7t1xabm5gf22ej/CUENTAS%20POR%20COBRAR.mp4;https://dl.dropboxusercontent.com/s/5coq2qnqw1y7mqd/CUENTAS%20POR%20PAGAR.webm
+Cuentas por Pagar,https://dl.dropboxusercontent.com/s/im2khn59nu70ue3/CUENTAS%20POR%20PAGAR.mp4;https://dl.dropboxusercontent.com/s/5coq2qnqw1y7mqd/CUENTAS%20POR%20PAGAR.webm
 Deuda,https://dl.dropboxusercontent.com/s/2n0vlxwdghf689u/DEUDA.mp4;https://dl.dropboxusercontent.com/s/djsuyfgve68xbh5/DEUDA.webm
 Economía,https://dl.dropboxusercontent.com/s/c4e15478b1mczgw/ECONOMIA.mp4;https://dl.dropboxusercontent.com/s/4q23fyw8apk5h98/ECONOMIA.webm
 Efectividad,https://dl.dropboxusercontent.com/s/c0hpvd6me6ueyza/EFECTIVIDAD.mp4;https://dl.dropboxusercontent.com/s/f8tozfmfbocjqzk/EFECTIVIDAD.webm
 Empleo,https://dl.dropboxusercontent.com/s/dhjb44z5a9mc2xj/EMPLEO.mp4;https://dl.dropboxusercontent.com/s/8a4svwse5fchefr/EMPLEO.webm
 Finzanzas,https://dl.dropboxusercontent.com/s/x64z49zrmoztr82/FINANZAS.mp4;https://dl.dropboxusercontent.com/s/5lgsfa92a8sqeti/FINANZAS.webm
-Flujo de caja,https://dl.dropboxusercontent.com/s/zoqbi1issbrb6dy/FLUJO%20DE%20CAJA.mp4;https://dl.dropboxusercontent.com/s/mrubzh27l69hucr/FLUJO%20DE%20CAJA.webm
+Flujo de Caja,https://dl.dropboxusercontent.com/s/zoqbi1issbrb6dy/FLUJO%20DE%20CAJA.mp4;https://dl.dropboxusercontent.com/s/mrubzh27l69hucr/FLUJO%20DE%20CAJA.webm
 Impuestos,https://dl.dropboxusercontent.com/s/7btyoe0b2o4vqpx/IMPUESTOS.mp4;https://dl.dropboxusercontent.com/s/xkd4l6ah10tcx6r/IMPUESTOS.webm
 Inversión,https://dl.dropboxusercontent.com/s/n81wrmd4rkibexe/INVERSION.mp4;https://dl.dropboxusercontent.com/s/nf8nfilii9ku5c9/INVERSION.webm
 Marca,https://dl.dropboxusercontent.com/s/5ie4tyrjto9bw14/MARCA.mp4;https://dl.dropboxusercontent.com/s/uqnbq3h63weikjf/MARCA.webm
@@ -554,26 +757,38 @@ Sucursal,https://dl.dropboxusercontent.com/s/elpzxc9d3pcdydg/SUCURSAL.mp4;https:
 Tendencia,https://dl.dropboxusercontent.com/s/peqzrajdvbowul0/TENDENCIA.mp4;https://dl.dropboxusercontent.com/s/5udy3kok0cv5860/TENDENCIA.webm
 Valor,https://dl.dropboxusercontent.com/s/d1fl8yf81o0jzop/VALOR.mp4;https://dl.dropboxusercontent.com/s/t1m4v4kjf2nfuhc/VALOR.webm
 Ventas,https://dl.dropboxusercontent.com/s/oxwn2cpvt205ruy/VENTAS.mp4;https://dl.dropboxusercontent.com/s/zkd2kukz8zr58w2/VENTAS.webm
+HERRAMIENTAS
+10
+Abrazadera,https://dl.dropboxusercontent.com/s/dlgb00p2fh8w12b/ABRAZADERA.mp4;https://dl.dropboxusercontent.com/s/a2dy6hecwgx5lyl/ABRAZADERA.webm
+Alambre,https://dl.dropboxusercontent.com/s/khlg1yn89mpp73h/ALAMBRE.mp4;https://dl.dropboxusercontent.com/s/sy5esx8oe3u0vsq/ALAMBRE.webm
+Alicate,https://dl.dropboxusercontent.com/s/wsoh9g1p66ds42k/ALICATE.mp4;https://dl.dropboxusercontent.com/s/xhemq9vaqh1riza/ALICATE.webm
+Arandela,https://dl.dropboxusercontent.com/s/keudcj9kc2iq1tx/ARANDELA.mp4;https://dl.dropboxusercontent.com/s/kfj54dzq07hsw65/ARANDELA.webm
+Arcilla,https://dl.dropboxusercontent.com/s/oomw1qfl2b9se9u/ARCILLA.mp4;https://dl.dropboxusercontent.com/s/7borwo2shpdfqwb/ARCILLA.webm
+Brocha,https://dl.dropboxusercontent.com/s/5qaxvof4dm5mffr/BROCHA.mp4;https://dl.dropboxusercontent.com/s/nbcz2cf0votapxz/BROCHA.webm
+Cable,https://dl.dropboxusercontent.com/s/gwcql3ywr9cfs3d/CABLE.mp4;https://dl.dropboxusercontent.com/s/oakjyxst2t907rk/CABLE.webm
+Carretilla,https://dl.dropboxusercontent.com/s/ot1bhr5ohk41udt/CARRETILLA.mp4;https://dl.dropboxusercontent.com/s/2fvb5qb41cd2au0/CARRETILLA.webm
+Cemento Blanco,https://dl.dropboxusercontent.com/s/myyq6piz6gcgeq4/CEMENTO%20BLANCO.mp4;https://dl.dropboxusercontent.com/s/56ny8cdh7mujqmq/CEMENTO%20BLANCO.webm
+Cemento Gris,https://dl.dropboxusercontent.com/s/m7gte767nckgtz1/CEMENTO%20GRIS.mp4;https://dl.dropboxusercontent.com/s/p5od18zaj115kx0/CEMENTO%20GRIS.webm
 MUNDO ACUÁTICO
 35
 Aletas,https://dl.dropboxusercontent.com/s/ujhw29qdvpllzmz/aletas.mp4;https://dl.dropboxusercontent.com/s/hryx37fkbd2klvg/aletas.webm
 Algas,https://dl.dropboxusercontent.com/s/qugwyo6eeafqcpr/algas.mp4;https://dl.dropboxusercontent.com/s/iboymx1yzgpjor3/algas.webm
 Arena,https://dl.dropboxusercontent.com/s/jcgyoe2wtrqvp15/arena.mp4;https://dl.dropboxusercontent.com/s/fpbxzjy43vk91nw/arena.webm
 Ballena,https://dl.dropboxusercontent.com/s/c2k1wpx8vnl0i7k/ballena.mp4;https://dl.dropboxusercontent.com/s/9nfktctgdp3vurb/ballena.webm
-Bucear con tanque,https://dl.dropboxusercontent.com/s/90yx80p3ktw3x1t/bucear%20con%20tanque.mp4;https://dl.dropboxusercontent.com/s/xvv7ga8145vbtbw/bucear%20con%20tanque.webm
-Bucear en apnea,https://dl.dropboxusercontent.com/s/qvlizw5potxk5od/bucear%20en%20apnea.mp4;https://dl.dropboxusercontent.com/s/08ol5gr0ckflq1n/bucear%20en%20apnea.webm
+Bucear con Tanque,https://dl.dropboxusercontent.com/s/90yx80p3ktw3x1t/bucear%20con%20tanque.mp4;https://dl.dropboxusercontent.com/s/xvv7ga8145vbtbw/bucear%20con%20tanque.webm
+Bucear en Apnea,https://dl.dropboxusercontent.com/s/qvlizw5potxk5od/bucear%20en%20apnea.mp4;https://dl.dropboxusercontent.com/s/08ol5gr0ckflq1n/bucear%20en%20apnea.webm
 Bucear,https://dl.dropboxusercontent.com/s/jgzigkhpp1cjjib/bucear.mp4;https://dl.dropboxusercontent.com/s/uyyt0586shhwwtk/bucear.webm
-Caballito de mar,https://dl.dropboxusercontent.com/s/l74c88fsiqzbwgi/caballito%20de%20mar.mp4;https://dl.dropboxusercontent.com/s/ztn18zgq7r63j3d/caballito%20de%20mar.webm
+Caballito de Mar,https://dl.dropboxusercontent.com/s/l74c88fsiqzbwgi/caballito%20de%20mar.mp4;https://dl.dropboxusercontent.com/s/ztn18zgq7r63j3d/caballito%20de%20mar.webm
 Cangrejo,https://dl.dropboxusercontent.com/s/o5pfsrgpc20p9a6/cangrejo.mp4;https://dl.dropboxusercontent.com/s/i3cbhtzda1jnao3/cangrejo.webm
 Caracoles,https://dl.dropboxusercontent.com/s/qrxryduud01lxm9/caracoles.mp4;https://dl.dropboxusercontent.com/s/sz2fujsli7a5jnx/caracoles.webm
 Clavado,https://dl.dropboxusercontent.com/s/huoh3yvsplq76u1/clavado.mp4;https://dl.dropboxusercontent.com/s/6wj88pthc4zle17/clavado.webm
 Corales,https://dl.dropboxusercontent.com/s/743aoxxbiya23ti/corales.mp4;https://dl.dropboxusercontent.com/s/9dwted7ijl79nra/corales.webm
 Delfin,https://dl.dropboxusercontent.com/s/qyqbdkym7ediucg/delfin.mp4;https://dl.dropboxusercontent.com/s/ue3bri2hb98679r/delfin.webm
 Deporte Acuático,https://dl.dropboxusercontent.com/s/q01muz2t841zfq8/deporte%20acu%C3%A1tico.mp4;https://dl.dropboxusercontent.com/s/cimxpaj45zqx47j/deporte%20acu%C3%A1tico.webm
-Estrella de mar,https://dl.dropboxusercontent.com/s/il91w28oiel67he/estrella%20de%20mar.mp4;https://dl.dropboxusercontent.com/s/gwkjlryblg7787j/estrella%20de%20mar.webm
+Estrella de Mar,https://dl.dropboxusercontent.com/s/il91w28oiel67he/estrella%20de%20mar.mp4;https://dl.dropboxusercontent.com/s/gwkjlryblg7787j/estrella%20de%20mar.webm
 Flotar,https://dl.dropboxusercontent.com/s/h403r6bq30v10ay/flotar.mp4;https://dl.dropboxusercontent.com/s/vchvxijtn54c36e/flotar.webm
 Malecón,https://dl.dropboxusercontent.com/s/vob7r2m78qbkjpb/malec%C3%B3n.mp4;https://dl.dropboxusercontent.com/s/61647bahpv97nna/malec%C3%B3n.webm
-Mar de leva,https://dl.dropboxusercontent.com/s/z2676nx0yccqzut/mar%20de%20leva.mp4;https://dl.dropboxusercontent.com/s/qmems8h59jqhm50/mar%20de%20leva.webm
+Mar de Leva,https://dl.dropboxusercontent.com/s/z2676nx0yccqzut/mar%20de%20leva.mp4;https://dl.dropboxusercontent.com/s/qmems8h59jqhm50/mar%20de%20leva.webm
 Mar,https://dl.dropboxusercontent.com/s/u0qow5jdwyghtv9/mar.mp4;https://dl.dropboxusercontent.com/s/v1bio37g68mroe6/mar.webm
 Máscara,https://dl.dropboxusercontent.com/s/uotp3mh4unx4dkp/m%C3%A1scara.mp4;https://dl.dropboxusercontent.com/s/0f6tuhgvewim5tt/m%C3%A1scara.webm
 Nadador,https://dl.dropboxusercontent.com/s/609m4q3mkm07h7l/nadador.mp4;https://dl.dropboxusercontent.com/s/9i6fc264pqiyr9m/nadador.webm
@@ -637,8 +852,126 @@ Superheroe,https://dl.dropboxusercontent.com/s/8w4comoym5az6sb/superheroe.mp4;ht
 Tarea,https://dl.dropboxusercontent.com/s/43u7m7z4f0cqk66/tarea.mp4;https://dl.dropboxusercontent.com/s/oey5ul7dq4tpzlo/tarea.webm
 Vacuna,https://dl.dropboxusercontent.com/s/7ybynzya7aueu0w/vacuna.mp4;https://dl.dropboxusercontent.com/s/kjof6emoath3ofq/vacuna.webm
 Videojuego,https://dl.dropboxusercontent.com/s/1zgtocam92iwgj0/videojuego.mp4;https://dl.dropboxusercontent.com/s/6ttmnb1eghkqgf3/videojuego.webm
+OFICINA
+63
+Archivo,https://dl.dropboxusercontent.com/s/lum1fbs4mkkpehf/ARCHIVO.mp4;https://dl.dropboxusercontent.com/s/p1v6nfjha6nv2s5/ARCHIVO.webm
+Artutiro,https://dl.dropboxusercontent.com/s/zxfe7i3jn64kxdp/ARTURITO.mp4;https://dl.dropboxusercontent.com/s/9wlmjdzf6r16k68/ARTURITO.webm
+Basurero,https://dl.dropboxusercontent.com/s/9k8pk3jmtnen7k2/BASURERO.mp4;https://dl.dropboxusercontent.com/s/6gjrlug7s0yti8f/BASURERO.webm
+Baucher	https://dl.dropboxusercontent.com/s/igb9epd6rdct0gr/BAUCHER.mp4;https://dl.dropboxusercontent.com/s/voe866sbamy5ozy/BAUCHER.webm
+Block de notas,https://dl.dropboxusercontent.com/s/yxx59zc5hda0sj9/BLOCK%20DE%20NOTAS.mp4;https://dl.dropboxusercontent.com/s/fx432bzigoregit/BLOCK%20DE%20NOTAS.webm
+Calculadora,https://dl.dropboxusercontent.com/s/k0utmxapvenzhu8/CALCULADORA.mp4;https://dl.dropboxusercontent.com/s/kvsxdzp9hifx9va/CALCULADORA.webm
+Capacitación,https://dl.dropboxusercontent.com/s/4hzp1ygge7ov28g/CAPACITACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/1me2dv6w3z7df4y/CAPACITACI%C3%93N.webm
+Carpeta Oslo,https://dl.dropboxusercontent.com/s/nc4soqb18u9tbu1/CARPETA%20OSLO.mp4;https://dl.dropboxusercontent.com/s/gkcg8yuw5518z8o/CARPETA%20OSLO.webm
+Carpeta,https://dl.dropboxusercontent.com/s/v095rffjcckwsap/CARPETA.mp4;https://dl.dropboxusercontent.com/s/e0yy7lo66nl3vvc/CARPETA.webm
+Carta,https://dl.dropboxusercontent.com/s/dpwrxdhqrnse9l2/CARTA.mp4;https://dl.dropboxusercontent.com/s/a8n4xrofm3nu4lz/CARTA.webm
+Cinta Adhesiva,https://dl.dropboxusercontent.com/s/d28c32q4qskylh4/CINTA%20ADHESIVA.mp4;https://dl.dropboxusercontent.com/s/litrlkcu21pwdo9/CINTA%20ADHESIVA.webm
+Clips,https://dl.dropboxusercontent.com/s/xshiubjg6qvupjw/CLIPS.mp4;https://dl.dropboxusercontent.com/s/z9t1jkaq0icb15w/CLIPS.webm
+Comedor,https://dl.dropboxusercontent.com/s/elmrzlujspkdnxb/COMEDOR.mp4;https://dl.dropboxusercontent.com/s/l53y1i1b9w9eaa6/COMEDOR.webm
+Computadora,https://dl.dropboxusercontent.com/s/uqwugdo5bilfkml/COMPUTADORA.mp4;https://dl.dropboxusercontent.com/s/ymchf0x3zhlj5cm/COMPUTADORA.webm
+Conferencia,https://dl.dropboxusercontent.com/s/dtba58tf7pxtlya/CONFERENCIA.mp4;https://dl.dropboxusercontent.com/s/6bi3vb7pk1314vz/CONFERENCIA.webm
+Corcho,https://dl.dropboxusercontent.com/s/gllw6wzt0m2mexx/CORCHO.mp4;https://dl.dropboxusercontent.com/s/6p90cs6k9f5teqf/CORCHO.webm
+Cubículos,https://dl.dropboxusercontent.com/s/zj8ke405k8j7vxg/CUB%C3%8DCULOS.mp4;https://dl.dropboxusercontent.com/s/00mh50egq2a6bb3/CUB%C3%8DCULOS.webm
+Curso,https://dl.dropboxusercontent.com/s/bz2da2hpvbk17kr/CURSO.mp4;https://dl.dropboxusercontent.com/s/h8jddklt1w2n6vk/CURSO.webm
+Departamentos,https://dl.dropboxusercontent.com/s/50so79oyn9rrtwa/DEPARTAMENTOS.mp4;https://dl.dropboxusercontent.com/s/j5l8lqqtdot2y9z/DEPARTAMENTOS.webm
+Ejecutivo,https://dl.dropboxusercontent.com/s/id41nnh05wm5054/EJECUTIVO.mp4;https://dl.dropboxusercontent.com/s/2xz3u85z1n9ug79/EJECUTIVO.webm
+Engrapadora,https://dl.dropboxusercontent.com/s/r606oukyhr4zby9/ENGRAPADORA.mp4;https://dl.dropboxusercontent.com/s/lm8vde8j6rk5dzq/ENGRAPADORA.webm
+Escáner,https://dl.dropboxusercontent.com/s/2hlnpnbiahr07t6/ESC%C3%81NER.mp4;https://dl.dropboxusercontent.com/s/bnu5jepcchnyiaa/ESC%C3%81NER.webm
+Fax,https://dl.dropboxusercontent.com/s/nvtsv879j1tjh3j/FAX.mp4;https://dl.dropboxusercontent.com/s/g4j8yqodsiv970y/FAX.webm
+Financiamiento,https://dl.dropboxusercontent.com/s/yxryskl52z8rhv5/FINANCIAMIENTO.mp4;https://dl.dropboxusercontent.com/s/z39dcnsq5tzty43/FINANCIAMIENTO.webm
+Formatos,https://dl.dropboxusercontent.com/s/vcbnrqy4fm7pm3f/FORMATOS.mp4;https://dl.dropboxusercontent.com/s/c0ykg6tyf5v0qpe/FORMATOS.webm
+Gancho de Carpeta,https://dl.dropboxusercontent.com/s/815w5hfvtlitmxv/GANCHO%20DE%20CARPETA.mp4;https://dl.dropboxusercontent.com/s/urm2jin8tjstur5/GANCHO%20DE%20CARPETA.webm
+Gastos,https://dl.dropboxusercontent.com/s/yh5pvesgrxn3kst/GASTOS.mp4;https://dl.dropboxusercontent.com/s/3p7bpuvx6i6i22z/GASTOS.webm
+Guillotina,https://dl.dropboxusercontent.com/s/qelfo0g1bp9icll/GUILLOTINA.mp4;https://dl.dropboxusercontent.com/s/9ep655m0ghgpspt/GUILLOTINA.webm
+Hoja Carta,https://dl.dropboxusercontent.com/s/9jq3akyqi4gb6qo/HOJA%20CARTA.mp4;https://dl.dropboxusercontent.com/s/iq55ebijb6mfl8g/HOJA%20CARTA.webm
+Hoja Extra Oficio,https://dl.dropboxusercontent.com/s/sabrh0g7xy293l8/HOJA%20EXTRA%20OFICIO.mp4;https://dl.dropboxusercontent.com/s/mtx6irxawj9u1mx/HOJA%20EXTRA%20OFICIO.webm
+Hoja Membrete,https://dl.dropboxusercontent.com/s/2t6cq1cmasps2hn/HOJA%20MEMBRETE.mp4;https://dl.dropboxusercontent.com/s/7fplhzaa18l2kh8/HOJA%20MEMBRETE.webm
+Hoja Oficio,https://dl.dropboxusercontent.com/s/hh7itui4fy6gb7d/HOJA%20OFICIO.mp4;https://dl.dropboxusercontent.com/s/0j1scmh3i53gbi9/HOJA%20OFICIO.webm
+Hoja,https://dl.dropboxusercontent.com/s/2chnti7hkglxvqp/HOJA.mp4;https://dl.dropboxusercontent.com/s/boyhnrg2a04twog/HOJA.webm
+Horario de Oficina,https://dl.dropboxusercontent.com/s/cnsz9dyzf17vbxm/HORARIO%20DE%20OFICINA.mp4;https://dl.dropboxusercontent.com/s/3ao5sci8t68nboh/HORARIO%20DE%20OFICINA.webm
+Impresora,https://dl.dropboxusercontent.com/s/9imoennrho8xey3/IMPRESORA.mp4;https://dl.dropboxusercontent.com/s/d0mim4ohznwighl/IMPRESORA.webm
+Jefe,https://dl.dropboxusercontent.com/s/bgdo1apw2vloj1v/JEFE.mp4;https://dl.dropboxusercontent.com/s/9xlhp460rfydoja/JEFE.webm
+Lámpara,https://dl.dropboxusercontent.com/s/rvgj09e2mva6rzb/L%C3%81MPARA.mp4;https://dl.dropboxusercontent.com/s/9teguq9b6j5az5v/L%C3%81MPARA.webm
+Lápices,https://dl.dropboxusercontent.com/s/z130zsaavkvzhe6/L%C3%81PICES.mp4;https://dl.dropboxusercontent.com/s/be0pj0o7hi24b95/L%C3%81PICES.webm
+Marcadores,https://dl.dropboxusercontent.com/s/wwkh3xoqyx13wzg/MARCADORES.mp4;https://dl.dropboxusercontent.com/s/rhfallx3mpd7y5f/MARCADORES.webm
+Memorando,https://dl.dropboxusercontent.com/s/tbqasgfemxy7agz/MEMORANDO.mp4;https://dl.dropboxusercontent.com/s/u9y31k28gqvpft9/MEMORANDO.webm
+Mobilirario,https://dl.dropboxusercontent.com/s/gtgwlc4xt2p3h9n/MOBILIARIO.mp4;https://dl.dropboxusercontent.com/s/x55rzukm0wx1gdb/MOBILIARIO.webm
+Oficinas,https://dl.dropboxusercontent.com/s/p8z9iels8n5w831/OFICINAS.mp4;https://dl.dropboxusercontent.com/s/fihvgijcgkvk0y6/OFICINAS.webm
+Papel Carbón,https://dl.dropboxusercontent.com/s/ty09quq7ouehk9v/PAPEL%20CARB%C3%93N.mp4;https://dl.dropboxusercontent.com/s/03qy7prlq2c7viz/PAPEL%20CARB%C3%93N.webm
+Perforadora,https://dl.dropboxusercontent.com/s/5ou60vslio7uqsa/PERFORADORA.mp4;https://dl.dropboxusercontent.com/s/q2qu7zc6npa62qp/PERFORADORA.webm
+Pizarra Acrílica,https://dl.dropboxusercontent.com/s/dh7hqhzinmhkb0d/PIZARRA%20ACR%C3%8DLICA.mp4;https://dl.dropboxusercontent.com/s/8qoldnxuzvxfjyx/PIZARRA%20ACR%C3%8DLICA.webm
+Pizarra,https://dl.dropboxusercontent.com/s/q0rxdmkv1tg8py6/PIZARRA.mp4;https://dl.dropboxusercontent.com/s/205mqzu4vvq8osc/PIZARRA.webm
+Post-It,https://dl.dropboxusercontent.com/s/3w1vhe5671q615p/POST-IT.mp4;https://dl.dropboxusercontent.com/s/205mqzu4vvq8osc/PIZARRA.webm
+Productividad,https://dl.dropboxusercontent.com/s/o82o8yjb3fyenvi/PRODUCTIVIDAD.mp4;https://dl.dropboxusercontent.com/s/fku501fg1mi3d1z/PRODUCTIVIDAD.webm
+Red Informática,https://dl.dropboxusercontent.com/s/r35czcckx8jg4j5/RED%20INFORM%C3%81TICA.mp4;https://dl.dropboxusercontent.com/s/2xtac477mco7y25/RED%20INFORM%C3%81TICA.webm
+Reunión,https://dl.dropboxusercontent.com/s/qofpka5l7v7sro3/REUNI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/6jln96qypuhf1w8/REUNI%C3%93N.webm
+Sala de Conferencias,https://dl.dropboxusercontent.com/s/xlxscdexck2atne/SALA%20DE%20CONFERENCIAS.mp4;https://dl.dropboxusercontent.com/s/8cvsog9fs7lli60/SALA%20DE%20CONFERENCIAS.webm
+Seguro,https://dl.dropboxusercontent.com/s/d87ad96unpa14uo/SEGURO.mp4;https://dl.dropboxusercontent.com/s/t179qstemme599z/SEGURO.webm
+Sello,https://dl.dropboxusercontent.com/s/uwf3jvjbwglgsox/SELLO.mp4;https://dl.dropboxusercontent.com/s/yu81q8t7m3nsaxb/SELLO.webm
+Separadores,https://dl.dropboxusercontent.com/s/ml7mz5u1kbcuday/SEPARADORES.mp4;https://dl.dropboxusercontent.com/s/6fpj2jtadk3hfrm/SEPARADORES.webm
+Silla,https://dl.dropboxusercontent.com/s/6tlyxt911pl481s/SILLA.mp4;https://dl.dropboxusercontent.com/s/el0nxygfq9m60go/SILLA.webm
+Sobre Manila,https://dl.dropboxusercontent.com/s/4wzoq2r42yxlrou/SOBRE%20MANILA.mp4;https://dl.dropboxusercontent.com/s/61ejanqfl7q6y7g/SOBRE%20MANILA.webm
+Sobre Tamaño Carta,https://dl.dropboxusercontent.com/s/o6fpcbyg5h42yj8/SOBRE%20TAMA%C3%91O%20CARTA.mp4	https://dl.dropboxusercontent.com/s/2ubuuxiyd5o5l78/SOBRE%20TAMA%C3%91O%20CARTA.webm
+Taller,https://dl.dropboxusercontent.com/s/r39uc847hphrjfq/TALLER.mp4;https://dl.dropboxusercontent.com/s/6lmod1u89h6szdo/TALLER.webm
+Tarjetero,https://dl.dropboxusercontent.com/s/dsuqry5awh2tvr4/TARJETERO.mp4;https://dl.dropboxusercontent.com/s/ybyuoohj92j6oms/TARJETERO.webm
+Teléfono,https://dl.dropboxusercontent.com/s/e5exmpr7pfpy138/TEL%C3%89FONO.mp4;https://dl.dropboxusercontent.com/s/nj5rw3abmfpeebn/TEL%C3%89FONO.webm
+Tijera,https://dl.dropboxusercontent.com/s/1a8d169hsntptqh/TIJERA.mp4;https://dl.dropboxusercontent.com/s/elh980aacqg9eol/TIJERA.webm
+Transporte,https://dl.dropboxusercontent.com/s/wtutakybkxf389p/TRANSPORTE.mp4;https://dl.dropboxusercontent.com/s/yk67591g9k0yrcv/TRANSPORTE.webm
+Uniforme,https://dl.dropboxusercontent.com/s/irf9sgc1xmwa651/UNIFORME.mp4;https://dl.dropboxusercontent.com/s/en21jxezmkqb4n9/UNIFORME.webm
+PAISES
+51
+Afganistan,https://dl.dropboxusercontent.com/s/8opdf11kjd6jib6/AFGANISTAN.mp4;https://dl.dropboxusercontent.com/s/qx5l8w3ffcsz25l/AFGANISTAN.webm
+Alemania,https://dl.dropboxusercontent.com/s/5h2vj3lixw8byn3/ALEMANIA.mp4;https://dl.dropboxusercontent.com/s/z89w0ykgpvogcg3/ALEMANIA.webm
+Argentina,https://dl.dropboxusercontent.com/s/2fkd70rh44qfbzn/ARGENTINA.mp4;https://dl.dropboxusercontent.com/s/ugyt8a3ughb73ga/ARGENTINA.webm
+Australia,https://dl.dropboxusercontent.com/s/k2r9gxzz11r6rpz/AUSTRALIA.mp4;https://dl.dropboxusercontent.com/s/2r10tk8wl8u9sj3/AUSTRALIA.webm
+Bélgica,https://dl.dropboxusercontent.com/s/6zxifd6s0aq8ffd/B%C3%89LGICA.mp4;https://dl.dropboxusercontent.com/s/t2xl4d0j109xtoe/B%C3%89LGICA.webm
+Bolivia,https://dl.dropboxusercontent.com/s/7u4h9n859hj5hl0/BOLIVIA.mp4;https://dl.dropboxusercontent.com/s/es4epnype1acwou/BOLIVIA.webm
+Brasil,https://dl.dropboxusercontent.com/s/cpiv666hmo096iq/BRASIL.mp4;https://dl.dropboxusercontent.com/s/pdaffh918hoyrxl/BRASIL.webm
+Canadá,https://dl.dropboxusercontent.com/s/y6bjuzf4v8imhfu/CANAD%C3%81.mp4;https://dl.dropboxusercontent.com/s/pr55i9hj0qiqbw2/CANAD%C3%81.webm
+Chile,https://dl.dropboxusercontent.com/s/nwqqsisytg82e84/CHILE.mp4;https://dl.dropboxusercontent.com/s/6dx93tho3ppkugy/CHILE.webm
+China,https://dl.dropboxusercontent.com/s/px40lujda4fxh3k/CHINA.mp4;https://dl.dropboxusercontent.com/s/zjv8s89w1zldj57/CHINA.webm
+Colombia,https://dl.dropboxusercontent.com/s/ijfyrrwwfmp89dv/COLOMBIA.mp4;https://dl.dropboxusercontent.com/s/crmyiwwc1i6m53g/COLOMBIA.webm
+Corea del Norte,https://dl.dropboxusercontent.com/s/uf12w3k99is6tmf/COREA%20DEL%20NORTE.mp4;https://dl.dropboxusercontent.com/s/e16yw08lfkdyu1d/COREA%20DEL%20NORTE.webm
+Corea del Sur,https://dl.dropboxusercontent.com/s/er2l1ykwsltemnu/COREA%20DEL%20SUR.mp4;https://dl.dropboxusercontent.com/s/wxkbtj0e6s7e4nn/COREA%20DEL%20SUR.webm
+Costa Rica,https://dl.dropboxusercontent.com/s/l6qinqh755lt8s8/COSTA%20RICA.mp4;https://dl.dropboxusercontent.com/s/w45mb493n4p3y1h/COSTA%20RICA.webm
+Cuba,https://dl.dropboxusercontent.com/s/cdou8le6qa2p7aa/CUBA.mp4;https://dl.dropboxusercontent.com/s/83lp833om1re68p/CUBA.webm
+Dinamarca,https://dl.dropboxusercontent.com/s/cyxa3z4ix68z06g/DINARMARCA.mp4;https://dl.dropboxusercontent.com/s/wzjh3gu0mo0k5bl/DINARMARCA.webm
+Ecuador,https://dl.dropboxusercontent.com/s/tic8gqmp6lkqcch/ECUADOR.mp4;https://dl.dropboxusercontent.com/s/7vxztxjpco771vu/ECUADOR.webm
+Egipto,https://dl.dropboxusercontent.com/s/2igjr3m2oocr3v2/EGIPTO.mp4;https://dl.dropboxusercontent.com/s/bbth4l6wnjm7nlq/EGIPTO.webm
+El Salvador,https://dl.dropboxusercontent.com/s/p59q1j72wzh85ks/EL%20SALVADOR.mp4;https://dl.dropboxusercontent.com/s/cza94wizsusmrl4/EL%20SALVADOR.webm
+España,https://dl.dropboxusercontent.com/s/0j7qkzie6yb9czr/ESPA%C3%91A.mp4;https://dl.dropboxusercontent.com/s/62bi5bbjx5584ap/ESPA%C3%91A.webm
+Estados Unidos,https://dl.dropboxusercontent.com/s/0wfiy5m77ts5u5u/ESTADOS%20UNIDOS.mp4;https://dl.dropboxusercontent.com/s/1y96u32l6ho4d5g/ESTADOS%20UNIDOS.webm
+Francia,https://dl.dropboxusercontent.com/s/gf86479bb08ofb0/FRANCIA.mp4;https://dl.dropboxusercontent.com/s/9kzkpmouyrxq9jt/FRANCIA.webm
+Grecia,https://dl.dropboxusercontent.com/s/x4l2uy6rd31vgyy/GRECIA.mp4;https://dl.dropboxusercontent.com/s/e67srzgemvsdmbc/GRECIA.webm
+Guatemala,https://dl.dropboxusercontent.com/s/8ww7dire0b5jgnz/GUATEMALA.mp4;https://dl.dropboxusercontent.com/s/yigxvx2hofsormk/GUATEMALA.webm
+Haití,https://dl.dropboxusercontent.com/s/6l8vmhshnvvfn08/HAIT%C3%8D.mp4;https://dl.dropboxusercontent.com/s/nlqzyevq1lkrjfm/HAIT%C3%8D.webm
+Holanda,https://dl.dropboxusercontent.com/s/lczsid6lrf1gf3c/HOLANDA.mp4;https://dl.dropboxusercontent.com/s/mbllo81uznl199y/HOLANDA.webm
+Honduras,https://dl.dropboxusercontent.com/s/flw5f445pvr3uo5/HONDURAS.mp4;https://dl.dropboxusercontent.com/s/5fhzaqmiihk5hmr/HONDURAS.webm
+India,https://dl.dropboxusercontent.com/s/ru2zpybzb590y56/INDIA.mp4;https://dl.dropboxusercontent.com/s/urlynimoi5c0lbv/INDIA.webm
+Indonesia,https://dl.dropboxusercontent.com/s/jbrqlehbyjs7puo/INDONESIA.mp4;https://dl.dropboxusercontent.com/s/avfa5s6wq7yef00/INDONESIA.webm
+Inglaterra,https://dl.dropboxusercontent.com/s/856cqi4i653bxg1/INGLATERRA.mp4;https://dl.dropboxusercontent.com/s/bv8waoviozctjt1/INGLATERRA.webm
+Irak,https://dl.dropboxusercontent.com/s/amfm65xfzvs8xkp/IRAK.mp4;https://dl.dropboxusercontent.com/s/yoa1udvcgvqs2g8/IRAK.webm
+Israel,https://dl.dropboxusercontent.com/s/s7ckg05bfj8sgqc/ISRAEL.mp4;https://dl.dropboxusercontent.com/s/5fqatia8htmrac6/ISRAEL.webm
+Italia,https://dl.dropboxusercontent.com/s/7wjfh31ix3wyiy8/ITALIA.mp4;https://dl.dropboxusercontent.com/s/ummi9j72k78o8ea/ITALIA.webm
+Jamaica,https://dl.dropboxusercontent.com/s/vwwrl6ezjzwyyri/JAMAICA.mp4;https://dl.dropboxusercontent.com/s/ssb2c2ungvruwnn/JAMAICA.webm
+Japón,https://dl.dropboxusercontent.com/s/uuva49ilmsb30pq/JAP%C3%93N.mp4;https://dl.dropboxusercontent.com/s/bxsfmuz3e6emy71/JAP%C3%93N.webm
+Marruecos,https://dl.dropboxusercontent.com/s/ckyi34556ovcbnq/MARRUECOS.mp4;https://dl.dropboxusercontent.com/s/ulswh0oroscd9uh/MARRUECOS.webm
+México,https://dl.dropboxusercontent.com/s/k0jahwqz1iy68yb/M%C3%89XICO.mp4;https://dl.dropboxusercontent.com/s/2x6lu255w8cv839/M%C3%89XICO.webm
+Nicaragua,https://dl.dropboxusercontent.com/s/obgdmo1axdalota/NICARAGUA.mp4;https://dl.dropboxusercontent.com/s/38bgttx5cfxgkhk/NICARAGUA.webm
+Panamá,https://dl.dropboxusercontent.com/s/do8t31bl4v6hqck/PANAM%C3%81.mp4;https://dl.dropboxusercontent.com/s/1c7elsolp21a85e/PANAM%C3%81.webm
+Paraguay,https://dl.dropboxusercontent.com/s/6klr7s9mb92mnbp/PARAGUAY.mp4;https://dl.dropboxusercontent.com/s/qzgdoiofp0gelxq/PARAGUAY.webm
+Perú,https://dl.dropboxusercontent.com/s/dfi4p3trt5wd3pc/PER%C3%9A.mp4;https://dl.dropboxusercontent.com/s/vejc1uckmvlzamz/PER%C3%9A.webm
+Polonia,https://dl.dropboxusercontent.com/s/yl5jm9khrak9v6g/POLONIA.mp4;https://dl.dropboxusercontent.com/s/wwzb9g4srm5jonw/POLONIA.webm
+Portugal,https://dl.dropboxusercontent.com/s/0taqa06luuxh19j/PORTUGAL.mp4;https://dl.dropboxusercontent.com/s/5f8wfdwuy8ge633/PORTUGAL.webm
+República Dominicana,https://dl.dropboxusercontent.com/s/didwxdywlh29uf5/REP%C3%9ABLICA%20DOMINICANA.mp4;https://dl.dropboxusercontent.com/s/kxh108x2hssbeuy/REP%C3%9ABLICA%20DOMINICANA.webm
+Trinidad y Tobago,https://dl.dropboxusercontent.com/s/0hxhs22ki9npcdn/RINIDAD%20Y%20TOBAGO.mp4;https://dl.dropboxusercontent.com/s/3nb9nqx2r022js5/RINIDAD%20Y%20TOBAGO.webm
+Rusia,https://dl.dropboxusercontent.com/s/qbbnxhydcez8kyt/RUSIA.mp4;https://dl.dropboxusercontent.com/s/t7bx1zul22ofy5o/RUSIA.webm
+Suecia,https://dl.dropboxusercontent.com/s/hwmer455w5a9vmm/SUECIA.mp4;https://dl.dropboxusercontent.com/s/3imlrcxidjjgjup/SUECIA.webm
+Suiza,https://dl.dropboxusercontent.com/s/3w044rncrn3abeh/SUIZA.mp4;https://dl.dropboxusercontent.com/s/q4arlawewrfc7ds/SUIZA.webm
+Turquía,https://dl.dropboxusercontent.com/s/cehizb8utbmertb/TURQU%C3%8DA.mp4;https://dl.dropboxusercontent.com/s/c23kfcgz6ux22r9/TURQU%C3%8DA.webm
+Uruguay,https://dl.dropboxusercontent.com/s/85gd1nmlrespbu9/URUGUAY.mp4;https://dl.dropboxusercontent.com/s/fdbqvvrx0u4y70n/URUGUAY.webm
+Venezuela,https://dl.dropboxusercontent.com/s/ep2vi0dyile7w5z/VENEZUELA.mp4;https://dl.dropboxusercontent.com/s/huaphf96221868d/VENEZUELA.webm
 PALABRAS DE WINDA
-30
+29
 Abrazos,https://dl.dropboxusercontent.com/s/dkz2lagi83bc0dd/abrazos.mp4;https://dl.dropboxusercontent.com/s/dtf0iz5gnxq4dhr/abrazos.webm
 Alegria,https://dl.dropboxusercontent.com/s/8evplrjkypt1chb/alegria.mp4;https://dl.dropboxusercontent.com/s/32mtizrcht0fr43/alegria.webm
 Alma,https://dl.dropboxusercontent.com/s/ttv047327c7zfdg/alma.mp4;https://dl.dropboxusercontent.com/s/21srbubcze1sftl/alma.webm
@@ -792,10 +1125,10 @@ Buenas noches,https://dl.dropboxusercontent.com/s/etka9a09ra3dqdy/buenas_noches.
 Buenas tardes,https://dl.dropboxusercontent.com/s/il2ils7lgtluf9r/buenas_tardes.mp4;https://dl.dropboxusercontent.com/s/sj3xu02kx4fmj5q/buenas_tardes.webm
 Buenos dias,https://dl.dropboxusercontent.com/s/1cn62u3lc4yq10q/buenos_dias.mp4;https://dl.dropboxusercontent.com/s/c8yug4o33fa7zet/buenos_dias.webm
 Colega,https://dl.dropboxusercontent.com/s/bbzc4w14l92v280/colega.mp4;https://dl.dropboxusercontent.com/s/h36whloygjqd149/colega.webm
-Como te llamas,https://dl.dropboxusercontent.com/s/2tjlnhsvqdbdmh1/como_te_llamas.mp4;https://dl.dropboxusercontent.com/s/h6gvp9m7x451rhd/como_te_llamas.webm
+¿Como te llamas?,https://dl.dropboxusercontent.com/s/2tjlnhsvqdbdmh1/como_te_llamas.mp4;https://dl.dropboxusercontent.com/s/h6gvp9m7x451rhd/como_te_llamas.webm
 Conocido,https://dl.dropboxusercontent.com/s/andm7gbzpphof9s/conocido.mp4;https://dl.dropboxusercontent.com/s/0sghcbhaazj5qxi/conocido.webm
 Cuñado,https://dl.dropboxusercontent.com/s/qer38mnt643t526/cunyado.mp4;https://dl.dropboxusercontent.com/s/dd9bkfcdv6ny1k9/cunyado.webm
-En que trabajas,https://dl.dropboxusercontent.com/s/40p6shuw6c4oauz/en_que_trabajas.mp4;https://dl.dropboxusercontent.com/s/7wb2dlg9qoja06s/en_que_trabajas.webm
+¿En que trabajas?,https://dl.dropboxusercontent.com/s/40p6shuw6c4oauz/en_que_trabajas.mp4;https://dl.dropboxusercontent.com/s/7wb2dlg9qoja06s/en_que_trabajas.webm
 Ex como prefijo,https://dl.dropboxusercontent.com/s/im6hq5zzl0b8j96/ex_como_prefijo.mp4;https://dl.dropboxusercontent.com/s/qjkuzes965zsawz/ex_como_prefijo.webm
 Gemelo,https://dl.dropboxusercontent.com/s/jusi5k0hl42nofe/gemelo.mp4;https://dl.dropboxusercontent.com/s/210cdgb4cywx75n/gemelo.webm
 Hermano,https://dl.dropboxusercontent.com/s/4j86dc1vydagtea/hermano.mp4;https://dl.dropboxusercontent.com/s/8d4dmgss2nm4dy2/hermano.webm
@@ -812,12 +1145,12 @@ Padres,https://dl.dropboxusercontent.com/s/tznhklmzyotwq8q/padres.mp4;https://dl
 Pana,https://dl.dropboxusercontent.com/s/3wj46n7nfhy1xwm/pana.mp4;https://dl.dropboxusercontent.com/s/qr0508qvo6irr7z/pana.webm
 Primo,https://dl.dropboxusercontent.com/s/b9hahb9aujshndt/primo.mp4;https://dl.dropboxusercontent.com/s/xmeaks9e8xr13ge/primo.webm
 Prometido,https://dl.dropboxusercontent.com/s/wlp27z8593z1iuf/prometido.mp4;https://dl.dropboxusercontent.com/s/1438fy62smh021f/prometido.webm
-Que estudias,https://dl.dropboxusercontent.com/s/h02ep03bnp0d2v5/que_estudias.mp4;https://dl.dropboxusercontent.com/s/b6o09vdd9ovrq3a/que_estudias.webm
+¿Que estudias?,https://dl.dropboxusercontent.com/s/h02ep03bnp0d2v5/que_estudias.mp4;https://dl.dropboxusercontent.com/s/b6o09vdd9ovrq3a/que_estudias.webm
 Quiero conocerlo,https://dl.dropboxusercontent.com/s/2x1xipq5xgf5aen/quiero_conocerlo.mp4;https://dl.dropboxusercontent.com/s/uz0eikdd8euyb59/quiero_conocerlo.webm
 Sobrino,https://dl.dropboxusercontent.com/s/pu2ygaojci15cpm/sobrino.mp4;https://dl.dropboxusercontent.com/s/j15e3te2hp5z0pf/sobrino.webm
 Suegro,https://dl.dropboxusercontent.com/s/008s4ir61zetmwl/suegro.mp4;https://dl.dropboxusercontent.com/s/ssct4zxh3a0o10v/suegro.webm
 Te amo,https://dl.dropboxusercontent.com/s/g4vxhkb84vkupco/te_amo.mp4;https://dl.dropboxusercontent.com/s/5oj0cf2ksyr3nut/te_amo.webm
-Tio,https://dl.dropboxusercontent.com/s/nzc2x0lwta7yqy2/tio.mp4;https://dl.dropboxusercontent.com/s/gqruz3yh98x9byr/tio.webm
+Tío,https://dl.dropboxusercontent.com/s/nzc2x0lwta7yqy2/tio.mp4;https://dl.dropboxusercontent.com/s/gqruz3yh98x9byr/tio.webm
 Yo lo conozco,https://dl.dropboxusercontent.com/s/3iag3b8y1fnuc5j/yo_lo_conozco.mp4;https://dl.dropboxusercontent.com/s/md3ohaqkq5h4ly4/yo_lo_conozco.webm
 RESTAURANTE
 35
@@ -835,7 +1168,7 @@ Comida rapida,https://dl.dropboxusercontent.com/s/0q8ldb7l0dnpkz1/comida_rapida.
 Crudo,https://dl.dropboxusercontent.com/s/g1ixk9to84st6j7/crudo.mp4;https://dl.dropboxusercontent.com/s/0r6pxi53ulf5is9/crudo.webm
 Cuenta,https://dl.dropboxusercontent.com/s/sw9qjqq1n6ugc5l/cuenta.mp4;https://dl.dropboxusercontent.com/s/t13bybqaa1us2gh/cuenta.webm
 Delicioso,https://dl.dropboxusercontent.com/s/nw95rx6njcc95q5/delicioso.mp4;https://dl.dropboxusercontent.com/s/rfr5mp0w3yntlzf/delicioso.webm
-Deseas postre,https://dl.dropboxusercontent.com/s/1c8lbbrwj3ug16q/deseas_postre.mp4;https://dl.dropboxusercontent.com/s/7bm5h6n9hqh7dhw/deseas_postre.webm
+¿Deseas postre?,https://dl.dropboxusercontent.com/s/1c8lbbrwj3ug16q/deseas_postre.mp4;https://dl.dropboxusercontent.com/s/7bm5h6n9hqh7dhw/deseas_postre.webm
 Ensalada,https://dl.dropboxusercontent.com/s/tjg26tpdwtzwonm/ensalada.mp4;https://dl.dropboxusercontent.com/s/wkjpzl9h4atpnl3/ensalada.webm
 Entrada,https://dl.dropboxusercontent.com/s/cvj5jabpbyiedj4/entrada.mp4;https://dl.dropboxusercontent.com/s/nv4vnh84owwuy2c/entrada.webm
 Mantequilla,https://dl.dropboxusercontent.com/s/p9ffo220lr720iy/mantequilla.mp4;https://dl.dropboxusercontent.com/s/yiu7ccllcvoxunc/mantequilla.webm
@@ -850,28 +1183,28 @@ Plato fuerte,https://dl.dropboxusercontent.com/s/wxyysvmqp84d7mr/plato_fuerte.mp
 Plato,https://dl.dropboxusercontent.com/s/hq28sw88bv5nq23/plato.mp4;https://dl.dropboxusercontent.com/s/72ulz0cy19xipob/plato.webm
 Pollo,https://dl.dropboxusercontent.com/s/gmjxpjq4qsk7lcw/pollo.mp4;https://dl.dropboxusercontent.com/s/qr0nd1hkliskh6j/pollo.webm
 Postre,https://dl.dropboxusercontent.com/s/l38aqwpajz5wy6y/postre.mp4;https://dl.dropboxusercontent.com/s/9hf786a8w2g1jwm/postre.webm
-Que deseas beber,https://dl.dropboxusercontent.com/s/z3irmb2puq4xrzx/que_deseas_beber.mp4;https://dl.dropboxusercontent.com/s/0urpwb6ahs6ovbn/que_deseas_beber.webm
-Quieres algo mas,https://dl.dropboxusercontent.com/s/6fbhr6bzfyjos8r/quieres_algo_mas.mp4;https://dl.dropboxusercontent.com/s/cyjt7yprh3oc0hu/quieres_algo_mas.webm
+¿Que deseas beber?,https://dl.dropboxusercontent.com/s/z3irmb2puq4xrzx/que_deseas_beber.mp4;https://dl.dropboxusercontent.com/s/0urpwb6ahs6ovbn/que_deseas_beber.webm
+¿Quieres algo mas?,https://dl.dropboxusercontent.com/s/6fbhr6bzfyjos8r/quieres_algo_mas.mp4;https://dl.dropboxusercontent.com/s/cyjt7yprh3oc0hu/quieres_algo_mas.webm
 Reservaciones,https://dl.dropboxusercontent.com/s/93pzynn6p3efwu0/reservaciones.mp4;https://dl.dropboxusercontent.com/s/5jqg9ba0bgcstjv/reservaciones.webm
-Sabes lo que quieres,https://dl.dropboxusercontent.com/s/jv77b4shvizycj1/sabes_lo_que_quieres_pedir.mp4;https://dl.dropboxusercontent.com/s/pz4jslku8mad1pl/sabes_lo_que_quieres_pedir.webm
+¿Sabes lo que Quieres?,https://dl.dropboxusercontent.com/s/jv77b4shvizycj1/sabes_lo_que_quieres_pedir.mp4;https://dl.dropboxusercontent.com/s/pz4jslku8mad1pl/sabes_lo_que_quieres_pedir.webm
 Sal ,https://dl.dropboxusercontent.com/s/lbqbzqcdlb8tmj3/sal.mp4;https://dl.dropboxusercontent.com/s/d8ga2klw0cs29hk/sal.webm
-Termino medio,https://dl.dropboxusercontent.com/s/rhlvl7yofmdo4e0/termino_medio.mp4;https://dl.dropboxusercontent.com/s/pe6mnjocwibm0si/termino_medio.webm
+Termino Medio,https://dl.dropboxusercontent.com/s/rhlvl7yofmdo4e0/termino_medio.mp4;https://dl.dropboxusercontent.com/s/pe6mnjocwibm0si/termino_medio.webm
 SALUD
 38
 Antibiotico,https://dl.dropboxusercontent.com/s/yzoncd9ut6t5sxe/antibiotico.mp4;https://dl.dropboxusercontent.com/s/m5b0366s5l605nn/antibiotico.webm
-Centro medico,https://dl.dropboxusercontent.com/s/j5rf38v3tindfdt/centro_medico.mp4;https://dl.dropboxusercontent.com/s/d5rua3m0t2w7ogw/centro_medico.webm
+Centro Medico,https://dl.dropboxusercontent.com/s/j5rf38v3tindfdt/centro_medico.mp4;https://dl.dropboxusercontent.com/s/d5rua3m0t2w7ogw/centro_medico.webm
 Contagiar,https://dl.dropboxusercontent.com/s/51zihnxr5ge34le/contagiar.mp4;https://dl.dropboxusercontent.com/s/6ggt6ajd8h9knfi/contagiar.webm
 Cortado,https://dl.dropboxusercontent.com/s/5td5zupekh3n1qs/cortado.mp4;https://dl.dropboxusercontent.com/s/xfex8bxexe1co7d/cortado.webm
 Dentista,https://dl.dropboxusercontent.com/s/6wlgosjr2pffn1w/dentista.mp4;https://dl.dropboxusercontent.com/s/4mv1du2yr2i6b2j/dentista.webm
 Diabetico,https://dl.dropboxusercontent.com/s/662lbfpm49q3lej/diabetico.mp4;https://dl.dropboxusercontent.com/s/95emac1dz9ta0c5/diabetico.webm
 Doctor,https://dl.dropboxusercontent.com/s/mt76jntj06wwcqv/doctor.mp4;https://dl.dropboxusercontent.com/s/45ymtv4rosci8cm/doctor.webm
-Dolor de cabeza,https://dl.dropboxusercontent.com/s/505sy64wubcri7h/dolor_de_cabeza.mp4;https://dl.dropboxusercontent.com/s/rb20shhvxodczfb/dolor_de_cabeza.webm
-Dolor de estomago,https://dl.dropboxusercontent.com/s/n8p6sx8ovxgn0ja/dolor_de_estomago.mp4;https://dl.dropboxusercontent.com/s/c4ipeghi9o366t4/dolor_de_estomago.webm
-Dolor de garganta,https://dl.dropboxusercontent.com/s/5v9ybdpxcfdkomr/dolor_de_garganta.mp4;https://dl.dropboxusercontent.com/s/1qr4dpsb90ikei7/dolor_de_garganta.webm
-Dolor de muela,https://dl.dropboxusercontent.com/s/85b72seolqutulg/dolor_de_muela.mp4;https://dl.dropboxusercontent.com/s/ctb6xutgtrrbbid/dolor_de_muela.webm
-Donde te duele,https://dl.dropboxusercontent.com/s/iyvfveedok69r9x/donde_te_duele.mp4;https://dl.dropboxusercontent.com/s/j6r7344e906csnd/donde_te_duele.webm
-Eres alergico a algo,https://dl.dropboxusercontent.com/s/4lie5oywgji1l2i/eres_alergico_a_algo.mp4;https://dl.dropboxusercontent.com/s/hjra4q6dqho25jk/eres_alergico_a_algo.webm
-Estas herido,https://dl.dropboxusercontent.com/s/zzxpi0nii33t0ii/estas_herido.mp4;https://dl.dropboxusercontent.com/s/t7xzj2v9y0am2qo/estas_herido.webm
+Dolor de Cabeza,https://dl.dropboxusercontent.com/s/505sy64wubcri7h/dolor_de_cabeza.mp4;https://dl.dropboxusercontent.com/s/rb20shhvxodczfb/dolor_de_cabeza.webm
+Dolor de Estomago,https://dl.dropboxusercontent.com/s/n8p6sx8ovxgn0ja/dolor_de_estomago.mp4;https://dl.dropboxusercontent.com/s/c4ipeghi9o366t4/dolor_de_estomago.webm
+Dolor de Garganta,https://dl.dropboxusercontent.com/s/5v9ybdpxcfdkomr/dolor_de_garganta.mp4;https://dl.dropboxusercontent.com/s/1qr4dpsb90ikei7/dolor_de_garganta.webm
+Dolor de Muela,https://dl.dropboxusercontent.com/s/85b72seolqutulg/dolor_de_muela.mp4;https://dl.dropboxusercontent.com/s/ctb6xutgtrrbbid/dolor_de_muela.webm
+¿Donde te duele?,https://dl.dropboxusercontent.com/s/iyvfveedok69r9x/donde_te_duele.mp4;https://dl.dropboxusercontent.com/s/j6r7344e906csnd/donde_te_duele.webm
+¿Eres alergico a algo?,https://dl.dropboxusercontent.com/s/4lie5oywgji1l2i/eres_alergico_a_algo.mp4;https://dl.dropboxusercontent.com/s/hjra4q6dqho25jk/eres_alergico_a_algo.webm
+¿Estas herido?,https://dl.dropboxusercontent.com/s/zzxpi0nii33t0ii/estas_herido.mp4;https://dl.dropboxusercontent.com/s/t7xzj2v9y0am2qo/estas_herido.webm
 Gripe,https://dl.dropboxusercontent.com/s/szri935se1jgxrc/gripe.mp4;https://dl.dropboxusercontent.com/s/uekj8sj9xifnpab/gripe.webm
 Hematoma,https://dl.dropboxusercontent.com/s/cfewiapmx63asdg/hematoma.mp4;https://dl.dropboxusercontent.com/s/3ab9qp156sxv99i/hematoma.webm
 Herida,https://dl.dropboxusercontent.com/s/2q1quf4wxneaqz1/herida.mp4;https://dl.dropboxusercontent.com/s/2jlcrumiewhme30/herida.webm
@@ -885,17 +1218,55 @@ Medicina,https://dl.dropboxusercontent.com/s/p7rdxmwqjl1zqam/medicina.mp4;https:
 Mejorar,https://dl.dropboxusercontent.com/s/p1uzb5d9pa2oeg3/mejorar.mp4;https://dl.dropboxusercontent.com/s/o8boujbi0ljflv6/mejorar.webm
 Operación,https://dl.dropboxusercontent.com/s/2n6rkj6qnydqjl6/operacion.mp4;https://dl.dropboxusercontent.com/s/cbb1t1wzbuks4ns/operacion.webm
 Que sientes,https://dl.dropboxusercontent.com/s/6p9btbhfjfz0xal/que_sientes.mp4;https://dl.dropboxusercontent.com/s/sh22ftg501zdtid/que_sientes.webm
-Quieres ir al hospital,https://dl.dropboxusercontent.com/s/i8vwif7he4zufwf/quieres_ir_al_hospital.mp4;https://dl.dropboxusercontent.com/s/fuae0pt4fe4vk98/quieres_ir_al_hospital.webm
-Quieres ir al medico,https://dl.dropboxusercontent.com/s/wdqceesmveecck6/quieres_ir_al_medico.mp4;https://dl.dropboxusercontent.com/s/p0s9pxhzzu2v5zx/quieres_ir_al_medico.webm
-Quieres que llame a tu doctor,https://dl.dropboxusercontent.com/s/gpql37zj6q7qgr5/quieres_que_llame_a_tu_doctor.mp4;https://dl.dropboxusercontent.com/s/c98erycshtw5zf0/quieres_que_llame_a_tu_doctor.webm
+¿Quieres ir al hospital?,https://dl.dropboxusercontent.com/s/i8vwif7he4zufwf/quieres_ir_al_hospital.mp4;https://dl.dropboxusercontent.com/s/fuae0pt4fe4vk98/quieres_ir_al_hospital.webm
+¿Quieres ir al medico?,https://dl.dropboxusercontent.com/s/wdqceesmveecck6/quieres_ir_al_medico.mp4;https://dl.dropboxusercontent.com/s/p0s9pxhzzu2v5zx/quieres_ir_al_medico.webm
+¿Quieres que llame a tu doctor?,https://dl.dropboxusercontent.com/s/gpql37zj6q7qgr5/quieres_que_llame_a_tu_doctor.mp4;https://dl.dropboxusercontent.com/s/c98erycshtw5zf0/quieres_que_llame_a_tu_doctor.webm
 Resfriado,https://dl.dropboxusercontent.com/s/bxxyw11zt315k14/resfriado.mp4;https://dl.dropboxusercontent.com/s/6uxr3ag0337rox1/resfriado.webm
-Te sientes mejor,https://dl.dropboxusercontent.com/s/49sp7gdwyn31pp2/te_sientes_mejor.mp4;https://dl.dropboxusercontent.com/s/ma2sajz2jwmr1ev/te_sientes_mejor.webm
-Te vamos a llevar al ,https://dl.dropboxusercontent.com/s/cz4rdk6p7uiwi52/te_vamos_a_llevar_al_hospital.mp4;https://dl.dropboxusercontent.com/s/azrpzz6ftwh83n5/te_vamos_a_llevar_al_hospital.webm
+¿Te sientes mejor?,https://dl.dropboxusercontent.com/s/49sp7gdwyn31pp2/te_sientes_mejor.mp4;https://dl.dropboxusercontent.com/s/ma2sajz2jwmr1ev/te_sientes_mejor.webm
+Te vamos a llevar al,https://dl.dropboxusercontent.com/s/cz4rdk6p7uiwi52/te_vamos_a_llevar_al_hospital.mp4;https://dl.dropboxusercontent.com/s/azrpzz6ftwh83n5/te_vamos_a_llevar_al_hospital.webm
 Tos,https://dl.dropboxusercontent.com/s/cgvzgyfkz6rntg7/tos.mp4;https://dl.dropboxusercontent.com/s/ikj1r9gqjfx04el/tos.webm
 Tranquilizante,https://dl.dropboxusercontent.com/s/z4dqrb3b14n5tyq/tranquilizante.mp4;https://dl.dropboxusercontent.com/s/xlaa0ive5zd6hfv/tranquilizante.webm
 Tratamiento,https://dl.dropboxusercontent.com/s/mg2gbs2mm676sn7/tratamiento.mp4;https://dl.dropboxusercontent.com/s/zbroidc6983yudt/tratamiento.webm
 Virus,https://dl.dropboxusercontent.com/s/2t70vtzqiftkuqf/virus.mp4;https://dl.dropboxusercontent.com/s/5wwt825ixas232v/virus.webm
 Vomitar,https://dl.dropboxusercontent.com/s/y2ll5rious0y580/vomitar.mp4;https://dl.dropboxusercontent.com/s/8pti82wavygacix/vomitar.webm
+SIMBOLOS PATRIOS
+36
+Alma Llanera,https://dl.dropboxusercontent.com/s/eqjsr0hdazb6df8/ALMA%20LLANERA.mp4;https://dl.dropboxusercontent.com/s/lhzli1mlh0ifmaz/ALMA%20LLANERA.webm
+Araguaney,https://dl.dropboxusercontent.com/s/m3mmtwr5n5i0xzy/ARAGUANEY.mp4;https://dl.dropboxusercontent.com/s/wv1bbv93881x5b2/ARAGUANEY.webm
+Árbol Nacional,https://dl.dropboxusercontent.com/s/4grauqz4kaa9zeq/%C3%81RBOL%20NACIONAL.mp4;https://dl.dropboxusercontent.com/s/tzi88oe191g5gqh/%C3%81RBOL%20NACIONAL.webm
+Arpa,https://dl.dropboxusercontent.com/s/pkw64vutgqjc2gq/ARPA.mp4;https://dl.dropboxusercontent.com/s/ovu70ff9azjwhqi/ARPA.webm
+Baile de los Diablos de Yare,https://dl.dropboxusercontent.com/s/1qd7p5g791h93si/BAILE%20DE%20LOS%20DIABLOS%20DE%20YARE.mp4;https://dl.dropboxusercontent.com/s/vqilpdc7eu3cpk7/BAILE%20DE%20LOS%20DIABLOS%20DE%20YARE.webm
+Baile de San Benito,https://dl.dropboxusercontent.com/s/ocbj8p7b9efjfa4/BAILE%20DE%20SAN%20BENITO.mp4;https://dl.dropboxusercontent.com/s/wnzvnxkp8ipqnoa/BAILE%20DE%20SAN%20BENITO.webm
+Bandera Nacional,https://dl.dropboxusercontent.com/s/fnyie2vpxixaldj/BANDERA%20NACIONAL.mp4;https://dl.dropboxusercontent.com/s/1a5sfyxsg03m84x/BANDERA%20NACIONAL.webm
+Casa Natal del Libertador,https://dl.dropboxusercontent.com/s/aszgrezl5dx75y9/CASA%20NATAL%20DEL%20LIBERTADOR.mp4;https://dl.dropboxusercontent.com/s/ym26cwp8lrkytuq/CASA%20NATAL%20DEL%20LIBERTADOR.webm
+Cestas Indígenas,https://dl.dropboxusercontent.com/s/15bkokbj9dp29cr/CESTAS%20IND%C3%8DGENAS.mp4;https://dl.dropboxusercontent.com/s/e31yqubwvhocmx6/CESTAS%20IND%C3%8DGENAS.webm
+Chiguire,https://dl.dropboxusercontent.com/s/ayntkv79n5qt0nk/CHIGUIRE.mp4;https://dl.dropboxusercontent.com/s/rs5uqfo7mlv57x1/CHIGUIRE.webm
+Cuatro,https://dl.dropboxusercontent.com/s/kiyyb6lv3l0h6em/CUATRO.mp4;https://dl.dropboxusercontent.com/s/1oeyk3jgf5okrkt/CUATRO.webm
+El Ávila,https://dl.dropboxusercontent.com/s/kr1f1lmzggwc166/EL%20%C3%81VILA.mp4;https://dl.dropboxusercontent.com/s/84cvlq5zif57q0j/EL%20%C3%81VILA.webm
+Escudo,https://dl.dropboxusercontent.com/s/ropwr49q3zcg1i6/ESCUDO.mp4;https://dl.dropboxusercontent.com/s/u0xk5cq3689ofia/ESCUDO.webm
+Flauta Guajira,https://dl.dropboxusercontent.com/s/jby8rwebv7hnk3o/FLAUTA%20GUAJIRA.mp4;https://dl.dropboxusercontent.com/s/2g79fbcsn6px6ar/FLAUTA%20GUAJIRA.webm
+Flor Nacional,https://dl.dropboxusercontent.com/s/8lgaal9gwibam0g/FLOR%20NACIONAL.mp4;https://dl.dropboxusercontent.com/s/40u95o0vld1o0a8/FLOR%20NACIONAL.webm
+Francisco de Miranda,https://dl.dropboxusercontent.com/s/isew86ij6l22aks/FRANCISCO%20DE%20MIRANDA.mp4;https://dl.dropboxusercontent.com/s/5wyq8lc6og0y4ai/FRANCISCO%20DE%20MIRANDA.webm
+Gaitas,https://dl.dropboxusercontent.com/s/bmicr5eex9x5get/GAITAS.mp4;https://dl.dropboxusercontent.com/s/wbe8vbasuuwmwp0/GAITAS.webm
+Gloria Al Bravo Pueblo,https://dl.dropboxusercontent.com/s/rakqi2fukysawy6/GLORIA%20AL%20BRAVO%20PUEBLO.mp4;https://dl.dropboxusercontent.com/s/ifgfp8ilvyihmbi/GLORIA%20AL%20BRAVO%20PUEBLO.webm
+Himno Nacional,https://dl.dropboxusercontent.com/s/4rg2uby12h5dgu1/HIMNO%20NACIONAL.mp4;https://dl.dropboxusercontent.com/s/8zr8dllhnwhyyog/HIMNO%20NACIONAL.webm
+Hotel Humboldt,https://dl.dropboxusercontent.com/s/adl00bpvp30hazj/HOTEL%20HUMBOLDT.mp4;https://dl.dropboxusercontent.com/s/bduhzbnsk87lx33/HOTEL%20HUMBOLDT.webm
+Joropo Cumanés,https://dl.dropboxusercontent.com/s/moamnw5v5y2yh55/JOROPO%20CUMAN%C3%89S.mp4;https://dl.dropboxusercontent.com/s/p0rhy2zw7pb0asv/JOROPO%20CUMAN%C3%89S.webm
+Joropo Tuyero,https://dl.dropboxusercontent.com/s/era6w2uuzft9cti/JOROPO%20TUYERO.mp4;https://dl.dropboxusercontent.com/s/i4oyvx7cxuig1fa/JOROPO%20TUYERO.webm
+Libertador,https://dl.dropboxusercontent.com/s/6yh2jvlm3fb7wut/LIBERTADOR.mp4;https://dl.dropboxusercontent.com/s/b1b9j2joguf5hit/LIBERTADOR.webm
+Maracas,https://dl.dropboxusercontent.com/s/8fjwigq1qi50xr2/MARACAS.mp4;https://dl.dropboxusercontent.com/s/0ogx7n6z8w8sytt/MARACAS.webm
+Nuestra Señora de Coromoto,https://dl.dropboxusercontent.com/s/2jjdh86n3ar582j/NSTRA%20SNRA%20DE%20COROMOTO.mp4;https://dl.dropboxusercontent.com/s/4lcv56lsqa03cpx/NSTRA%20SNRA%20DE%20COROMOTO.webm
+Orquídea,https://dl.dropboxusercontent.com/s/ljz7r1sodn3t3g1/ORQU%C3%8DDEA.mp4;https://dl.dropboxusercontent.com/s/q4q2jlqg78nlx23/ORQU%C3%8DDEA.webm
+Panteón,https://dl.dropboxusercontent.com/s/wdgn0vylfe9jpq8/PANTE%C3%93N.mp4;https://dl.dropboxusercontent.com/s/g8qpnmpa653oxbi/PANTE%C3%93N.webm
+Paradura del Niño Jesús,https://dl.dropboxusercontent.com/s/i7hpabfyrtlvde5/PARADURA%20DEL%20NI%C3%91O%20JESUS.mp4;https://dl.dropboxusercontent.com/s/dydlufx92bjyf0y/PARADURA%20DEL%20NI%C3%91O%20JESUS.webm
+Puente Rafael Urdaneta,https://dl.dropboxusercontent.com/s/ef58brqgftly7j7/PUENTE%20RAFAEL%20URDANETA.mp4;https://dl.dropboxusercontent.com/s/i3f647jg2afabzj/PUENTE%20RAFAEL%20URDANETA.webm
+Religión,https://dl.dropboxusercontent.com/s/4tcykg2wjgx4vvr/RELIGI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/eucpfdqn7xu6xvp/RELIGI%C3%93N.webm
+Salto Ángel,https://dl.dropboxusercontent.com/s/1ydaxudhfpnz1j1/SALTO%20%C3%81NGEL.mp4;https://dl.dropboxusercontent.com/s/i3g8vspmnrvha5j/SALTO%20%C3%81NGEL.webm
+Símbolos Patrios,https://dl.dropboxusercontent.com/s/6ud2rm60ge2kbs7/SIMBOLOS%20PATRIOS.mp4;https://dl.dropboxusercontent.com/s/a9sw9ncr9ziynl3/SIMBOLOS%20PATRIOS.webm
+Simón Bolivar,https://dl.dropboxusercontent.com/s/027ix7h9asm175m/SIM%C3%93N%20BOL%C3%8DVAR.mp4;https://dl.dropboxusercontent.com/s/gcc40ml57w7dwo5/SIM%C3%93N%20BOL%C3%8DVAR.webm
+Tambores,https://dl.dropboxusercontent.com/s/feannvhrw1yelqn/TAMBORES.mp4;https://dl.dropboxusercontent.com/s/3bngmi1q63ymcr4/TAMBORES.webm
+Turpial,https://dl.dropboxusercontent.com/s/ptxnp0ihvmtbpqe/TURPIAL.mp4;https://dl.dropboxusercontent.com/s/wfxkujiua5w5qjq/TURPIAL.webm
+Vasijas de Barro,https://dl.dropboxusercontent.com/s/lzbwvwl14vuxry8/VASIJAS%20DE%20BARRO.mp4;https://dl.dropboxusercontent.com/s/t7iorh7x6e67wt4/VASIJAS%20DE%20BARRO.webm
 TALENTO NACIONAL
 24
 Cantante,https://dl.dropboxusercontent.com/s/jie6dyrf0fkuzvn/CANTANTE.mp4;https://dl.dropboxusercontent.com/s/nh38czgt3nyx6k0/CANTANTE.webm
@@ -908,7 +1279,7 @@ Energía,https://dl.dropboxusercontent.com/s/x1fu3u96dh7u72v/ENERGIA.mp4;https://
 Ensayos,https://dl.dropboxusercontent.com/s/nrlt12soyq0o7zb/ENSAYOS.mp4;https://dl.dropboxusercontent.com/s/ov8mhuurebbb460/ENSAYOS.webm
 Entrega,https://dl.dropboxusercontent.com/s/mcu9z54q68olc05/ENTREGA.mp4;https://dl.dropboxusercontent.com/s/rbkf09ixca937jy/ENTREGA.webm
 Entrevista,https://dl.dropboxusercontent.com/s/dovyto9fupe6h0e/ENTREVISTA.mp4;https://dl.dropboxusercontent.com/s/zshazt7ku55igc0/ENTREVISTA.webm
-Imágen ,https://dl.dropboxusercontent.com/s/ygbaqh226s78aw8/IMAGEN.mp4;https://dl.dropboxusercontent.com/s/1h7qnea0py3n3t4/IMAGEN.webm
+Imágen,https://dl.dropboxusercontent.com/s/ygbaqh226s78aw8/IMAGEN.mp4;https://dl.dropboxusercontent.com/s/1h7qnea0py3n3t4/IMAGEN.webm
 Inspiración,https://dl.dropboxusercontent.com/s/srzr47t9vvt3b1w/INSPIRACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/u1nfnd0h0bk67zs/INSPIRACI%C3%93N.webm
 Letras,https://dl.dropboxusercontent.com/s/xp9ajck320lzmco/LETRAS.mp4;https://dl.dropboxusercontent.com/s/h3y279k2slhzyt0/LETRAS.webm
 Maquillaje,https://dl.dropboxusercontent.com/s/cj8szg593h3w27c/MAQUILLAJE.mp4;https://dl.dropboxusercontent.com/s/wzrntdmebfp9ka9/MAQUILLAJE.webm
@@ -966,6 +1337,56 @@ Touch,https://dl.dropboxusercontent.com/s/7r4l0xxuawbewft/TOUCH.mp4;https://dl.d
 Twitter,https://dl.dropboxusercontent.com/s/kjgmja0uqn0qxxw/TWITTER.mp4;https://dl.dropboxusercontent.com/s/8f9jgwuubiuyy5x/TWITTER.webm
 Video Conferencia,https://dl.dropboxusercontent.com/s/7rjmz2srgge4h5x/VIDEO%20CONFERENCIA.mp4;https://dl.dropboxusercontent.com/s/pz379utfhfe9abx/VIDEO%20CONFERENCIA.webm
 Wifi,https://dl.dropboxusercontent.com/s/u6uw0hx1af4e9ef/WIFI.mp4;https://dl.dropboxusercontent.com/s/upmq9i51ispyfow/WIFI.webm
+VALORES
+48
+Adaptabilidad,https://dl.dropboxusercontent.com/s/aap0kte052eu5n6/ADAPTABILIDAD.mp4;https://dl.dropboxusercontent.com/s/knpdrep8phk637d/ADAPTABILIDAD.webm
+Autenticidad,https://dl.dropboxusercontent.com/s/aqkgr8b2bldrkbh/AUTENTICIDAD.mp4;https://dl.dropboxusercontent.com/s/civqls04pjjj3yt/AUTENTICIDAD.webm
+Ayuda,https://dl.dropboxusercontent.com/s/kr9btks6gu1tid5/AYUDA.mp4;https://dl.dropboxusercontent.com/s/xhj6vi0bpe3ewab/AYUDA.webm
+Colaboración,https://dl.dropboxusercontent.com/s/66feftxomufxh73/COLABORACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/ehpq8ced3zmfyij/COLABORACI%C3%93N.webm
+Compañerismo,https://dl.dropboxusercontent.com/s/dkjkcypsyqwcu51/COMPA%C3%91ERISMO.mp4;https://dl.dropboxusercontent.com/s/tnwn7hbomt3u94x/COMPA%C3%91ERISMO.webm
+Comprensión,https://dl.dropboxusercontent.com/s/uaz1ur478xhvii4/COMPRENSI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/bffozf4hphsksk8/COMPRENSI%C3%93N.webm
+Comunicación,https://dl.dropboxusercontent.com/s/9x1urh3oqgn7yg7/COMUNICACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/zlivooouk25vuua/COMUNICACI%C3%93N.webm
+Confianza,https://dl.dropboxusercontent.com/s/ip885h6g15l6k80/CONFIANZA.mp4;https://dl.dropboxusercontent.com/s/s0ymlnasqp0xdqx/CONFIANZA.webm
+Constancia,https://dl.dropboxusercontent.com/s/dmhyk6lkge0rscl/CONSTANCIA.mp4;https://dl.dropboxusercontent.com/s/xo0msiwa3whwg5b/CONSTANCIA.webm
+Cooperación,https://dl.dropboxusercontent.com/s/xt7gf0ivmzhfclb/COOPERACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/o2gl04fydwjq45h/COOPERACI%C3%93N.webm
+Creatividad,https://dl.dropboxusercontent.com/s/7eex5bv7q9vzlj5/CREATIVIDAD.mp4;https://dl.dropboxusercontent.com/s/3rak79wy66661y4/CREATIVIDAD.webm
+Crecimiento,https://dl.dropboxusercontent.com/s/uk2a9zm19vqk3sj/CRECIMIENTO.mp4;https://dl.dropboxusercontent.com/s/cpwg4y2ukzqyra0/CRECIMIENTO.webm
+Cuidado,https://dl.dropboxusercontent.com/s/b0bx7eqgrmzcbb0/CUIDADO.mp4;https://dl.dropboxusercontent.com/s/kmurolia7ptimiy/CUIDADO.webm
+Cultivo,Enriquecimiento	https://dl.dropboxusercontent.com/s/9pgfdknrcdxwqch/CULTIVO%20ENRIQUECIMIENTO.mp4;https://dl.dropboxusercontent.com/s/t88xmirpj7ogjeh/CULTIVO%20ENRIQUECIMIENTO.webm
+Cumplimiento,https://dl.dropboxusercontent.com/s/xejdpgmrv9hrouh/CUMPLIMIENTO.mp4;https://dl.dropboxusercontent.com/s/t4dwh8ttmbfas5r/CUMPLIMIENTO.webm
+Desarrollo,https://dl.dropboxusercontent.com/s/n8o6wivcspcuo33/DESARROLLO.mp4;https://dl.dropboxusercontent.com/s/lqemc1obch7mi53/DESARROLLO.webm
+Disciplina,https://dl.dropboxusercontent.com/s/a40h52bpv91nbxu/DISCIPLINA.mp4;https://dl.dropboxusercontent.com/s/9mfq80dd3ezzjkk/DISCIPLINA.webm
+Empatía,https://dl.dropboxusercontent.com/s/e1rxrfomh3v5f1u/EMPAT%C3%8DA.mp4;https://dl.dropboxusercontent.com/s/evz94m3v7f7imzd/EMPAT%C3%8DA.webm
+Entrega,https://dl.dropboxusercontent.com/s/d1t2rtojs8sz4x6/ENTREGA.mp4;https://dl.dropboxusercontent.com/s/tyeso1zkus98v4e/ENTREGA.webm
+Entusiasmo,https://dl.dropboxusercontent.com/s/bweid8v62dbojf4/ENTUSIASMO.mp4;https://dl.dropboxusercontent.com/s/rv5i3a9gllk5qty/ENTUSIASMO.webm
+Equilibrio,https://dl.dropboxusercontent.com/s/fl25ojggh4qyf9b/EQUILIBRIO.mp4;https://dl.dropboxusercontent.com/s/finmxngjg4iolri/EQUILIBRIO.webm
+Esperanza,https://dl.dropboxusercontent.com/s/49tg3av2rjaag9a/ESPERANZA.mp4;https://dl.dropboxusercontent.com/s/tqsplcemcygw7bx/ESPERANZA.webm
+Estética,https://dl.dropboxusercontent.com/s/kibgs9gbf9hqul8/EST%C3%89TICA.mp4;https://dl.dropboxusercontent.com/s/8yi7q30n7k7qoph/EST%C3%89TICA.webm
+Fidelidad,https://dl.dropboxusercontent.com/s/9jiibzvrcrwkgvx/FIDELIDAD.mp4;https://dl.dropboxusercontent.com/s/urvfkfzqu12cazh/FIDELIDAD.webm
+Flexibilidad,https://dl.dropboxusercontent.com/s/ggliqly14zwzxpy/FLEXIBILIDAD.mp4;https://dl.dropboxusercontent.com/s/runlp9tgsghh4h8/FLEXIBILIDAD.webm
+Generosidad,https://dl.dropboxusercontent.com/s/kzmrenv6l5sh5nw/GENEROSIDAD.mp4;https://dl.dropboxusercontent.com/s/d3ojsxw7q1d3zll/GENEROSIDAD.webm
+Gentileza,https://dl.dropboxusercontent.com/s/t0agdj46lv93czb/GENTILEZA.mp4;https://dl.dropboxusercontent.com/s/3akrbwc47gxv9mi/GENTILEZA.webm
+Gratitud,https://dl.dropboxusercontent.com/s/xdibt1ov4sueytt/GRATITUD.mp4;https://dl.dropboxusercontent.com/s/ib8t7snvjhgoyb2/GRATITUD.webm
+Humildad,https://dl.dropboxusercontent.com/s/5c5nmxkzwyl7a4a/HUMILDAD.mp4;https://dl.dropboxusercontent.com/s/051xyu49byd1rdj/HUMILDAD.webm
+Igualdad,https://dl.dropboxusercontent.com/s/zoomipi07t2gjss/IGUALDAD.mp4;https://dl.dropboxusercontent.com/s/xmusifxkzy0fwvh/IGUALDAD.webm
+Integridad,https://dl.dropboxusercontent.com/s/f9zhsfs2r6txny8/INTEGRIDAD.mp4;https://dl.dropboxusercontent.com/s/zu4at3egepadr4w/INTEGRIDAD.webm
+Justicia,https://dl.dropboxusercontent.com/s/xmw8ho94igci7u4/JUSTICIA.mp4;https://dl.dropboxusercontent.com/s/xxsacvej4i38giy/JUSTICIA.webm
+Limpieza,https://dl.dropboxusercontent.com/s/drkd3b2eznf3bx9/LIMPIEZA.mp4;https://dl.dropboxusercontent.com/s/8zvl7dg7cnp8bq3/LIMPIEZA.webm
+Madurez,https://dl.dropboxusercontent.com/s/j98ofqxi67b24s9/MADUREZ.mp4;https://dl.dropboxusercontent.com/s/m7yzfombxti5n77/MADUREZ.webm
+Paciencia,https://dl.dropboxusercontent.com/s/2pr0e2tflz2t0np/PACIENCIA.mp4;https://dl.dropboxusercontent.com/s/nod2gv4hlwhrx5f/PACIENCIA.webm
+Participación,https://dl.dropboxusercontent.com/s/oov8xn1ts1y8upl/PARTICIPACI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/zkrdccsdj7q2h5o/PARTICIPACI%C3%93N.webm
+Pasión,https://dl.dropboxusercontent.com/s/85w2wcsxpb02q1w/PASI%C3%93N.mp4;https://dl.dropboxusercontent.com/s/44zn6828cjnbsw4/PASI%C3%93N.webm
+Paz,https://dl.dropboxusercontent.com/s/t7w7eht9wmu6yrm/PAZ.mp4;https://dl.dropboxusercontent.com/s/tpbsoakyi0w6mhi/PAZ.webm
+Pertinencia,https://dl.dropboxusercontent.com/s/wplckys49ep6bgr/PERTINENCIA.mp4;https://dl.dropboxusercontent.com/s/1vd6kpoxm83j41n/PERTINENCIA.webm
+Sencillez,https://dl.dropboxusercontent.com/s/mgskug09ub4ejmm/SENCILLEZ.mp4;https://dl.dropboxusercontent.com/s/j5e388xb1gf3z0c/SENCILLEZ.webm
+Serenidad,https://dl.dropboxusercontent.com/s/fayj4lkh1c5x45j/SERENIDAD.mp4;https://dl.dropboxusercontent.com/s/vc31yhof02p77bi/SERENIDAD.webm
+Solidaridad,https://dl.dropboxusercontent.com/s/2hsbzc8cruvhjsg/SOLIDARIDAD.mp4;https://dl.dropboxusercontent.com/s/3mzg4cupjf9vdwy/SOLIDARIDAD.webm
+Temor,https://dl.dropboxusercontent.com/s/wgfw3ynnp4obqzx/TEMOR.mp4;https://dl.dropboxusercontent.com/s/dpqo1hyoj7hteq1/TEMOR.webm
+Tolerancia,https://dl.dropboxusercontent.com/s/ysxprw2crfy2xav/TOLERANCIA.mp4;https://dl.dropboxusercontent.com/s/wq2r4whu953yrmm/TOLERANCIA.webm
+Valentía,https://dl.dropboxusercontent.com/s/m0n77fgdg1bcatv/VALENT%C3%8DA.mp4;https://dl.dropboxusercontent.com/s/5uxnsouone887s4/VALENT%C3%8DA.webm
+Valores,https://dl.dropboxusercontent.com/s/rdmso8cmbt9rxd3/VALORES.mp4;https://dl.dropboxusercontent.com/s/qnug5avxihzkky0/VALORES.webm
+Virtud,https://dl.dropboxusercontent.com/s/yu48z442m83mb2v/VIRTUD.mp4;https://dl.dropboxusercontent.com/s/cupbqzjcvnqelzn/VIRTUD.webm
+Vitalidad,https://dl.dropboxusercontent.com/s/mwcq0aua8024mep/VITALIDAD.mp4;https://dl.dropboxusercontent.com/s/zaonj3j6hgcu5rz/VITALIDAD.webm
 VERBOS
 45
 Amar,https://dl.dropboxusercontent.com/s/60t7fldlo8i48tt/amar.mp4;https://dl.dropboxusercontent.com/s/cms53mfct2drht9/amar.webm
@@ -986,7 +1407,7 @@ Escribir,https://dl.dropboxusercontent.com/s/pndht3pxfvkcj44/escribir.mp4;https:
 Fastidiar,https://dl.dropboxusercontent.com/s/g2tmvg1senv2fec/fastidiar.mp4;https://dl.dropboxusercontent.com/s/nvp4jepf83or1uc/fastidiar.webm
 Gastar,https://dl.dropboxusercontent.com/s/jogoiby10vfvkaj/gastar.mp4;https://dl.dropboxusercontent.com/s/5gt5ai27by9k814/gastar.webm
 Hablar,https://dl.dropboxusercontent.com/s/d7y1y5skz8ymbr4/hablar.mp4;https://dl.dropboxusercontent.com/s/2wsqbt5t3g48h1w/hablar.webm
-Ir ,https://dl.dropboxusercontent.com/s/c2e7165bvshedhp/ir.mp4;https://dl.dropboxusercontent.com/s/l4bwp51ueqq0678/ir.webm
+Ir,https://dl.dropboxusercontent.com/s/c2e7165bvshedhp/ir.mp4;https://dl.dropboxusercontent.com/s/l4bwp51ueqq0678/ir.webm
 Jurar,https://dl.dropboxusercontent.com/s/gjxvrublim44ej8/jurar.mp4;https://dl.dropboxusercontent.com/s/dofsd1ccsqurgkx/jurar.webm
 Llorar,https://dl.dropboxusercontent.com/s/tddhy1qdgrmdiwr/llorar.mp4;https://dl.dropboxusercontent.com/s/31gqhwkznfkwowt/llorar.webm
 Mandar,https://dl.dropboxusercontent.com/s/ele3649kgttxjle/mandar.mp4;https://dl.dropboxusercontent.com/s/iee3o7703cv4szc/mandar.webm

@@ -14,13 +14,13 @@ if ( isset($_GET['botonBuscar']) ) {
   <head>
     <meta charset="UTF-8">
     <!-- Open Graph url property -->
-    <meta property="og:url" content="http://ensenas.org.ve" />
+    <meta property="og:url" content="http://enseñas.com" />
     <!-- Open Graph title property -->
     <meta property="og:title" content="enSeñas: Aplicación de Lengua de Señas Venezolanas" />
     <!-- Open Graph description property -->
     <meta property="og:description" content="enSeñas es el video diccionario de Lengua de Señas Venezolana de la Fundación Neo Essentia﻿ para sordos y oyentes. Aprende tu palabra y DameTuSeña" />
     <!-- Open Graph image property -->
-    <meta property="og:image" content="http://ensenas.org.ve/assets/img/hi-res-icon.png" />
+    <meta property="og:image" content="http://enseñas.com/assets/img/hi-res-icon.png" />
     <!-- Open Graph type property -->
     <meta property="og:type" content="website" />
     <!-- Open Graph site_name property -->
@@ -45,6 +45,9 @@ if ( isset($_GET['botonBuscar']) ) {
         <span class="forkongithub">
           <a href="https://github.com/marketingdelbueno/ensenas-web" target="_blank">Nuestro código es tuyo</a>
         </span>
+        <span class="forkongithub tedex">
+          <a href="https://youtu.be/r5oBuKl05ck" target="_blank">Charla TEDxUCV</a>
+        </span>
         <div class="logo">
           <h1>
             <a href="/" accesskey="1">Enseñas</a>
@@ -53,18 +56,7 @@ if ( isset($_GET['botonBuscar']) ) {
       </div>
     </header><!-- /header -->
 
-    <div class="mercados-app col-7">
 
-      <h3>También puedes encontrarnos en:</h3>
-      <ul>
-        <li class="google-play">
-          <a href="https://play.google.com/store/apps/details?id=org.neoesentia.ensenas" title="Consigue nuestra aplicación para Android">Google Play</a>
-        </li>
-        <li class="app-world">
-          <a href="http://appworld.blackberry.com/webstore/content/25673872/?countrycode=VE" title="Consigue nuestra aplicación para Blackberry">App World</a>
-        </li>
-      </ul>
-    </div>
 
     <div class="content">
       <div class="container">
@@ -105,11 +97,11 @@ if ( isset($_GET['botonBuscar']) ) {
             </li>
 
             <li class="twitter">
-              <a href="http://twitter.com/share?via=marketingdelbueno&url=https://ensenas.org.ve/&hashtags=DameTuSeña&text=Acabo de descubrir enSeñas: el video diccionario de lengua de señas venezolano" rel="nofollow" title="Twitter" target="_blank">Apóyanos con un Tweet</a>
+              <a href="http://twitter.com/share?via=marketingdelbueno&url=https://enseñas.com/&hashtags=DameTuSeña&text=Acabo de descubrir enSeñas: el video diccionario de lengua de señas venezolano" rel="nofollow" title="Twitter" target="_blank">Apóyanos con un Tweet</a>
               <span>Apóyanos con un Tweet</span>
             </li>
             <li class="facebook">
-              <a href="http://www.facebook.com/sharer.php?u=https://ensenas.org.ve" title="Facebook" target="_blank">Búscanos en Facebook</a>
+              <a href="http://www.facebook.com/sharer.php?u=https://enseñas.com" title="Facebook" target="_blank">Búscanos en Facebook</a>
               <span>Búscanos en Facebook</span>
             </li>
           </ul>
@@ -132,7 +124,7 @@ if ( isset($_GET['botonBuscar']) ) {
     <footer class="foot">
       <div class="container">
         <div class="txtc">
-          <p>2011 <a href="http://www.marketingdelbueno.com/" target="_blank">Marketing del Bueno</a>.</p>
+          <p>2011 - 2019 <a href="http://www.marketingdelbueno.com/" target="_blank">Marketing del Bueno</a>.</p>
         </div>
       </div>
     </footer>

@@ -12,9 +12,17 @@
   transition:0.5s;
 }
 
+.tedex a {
+  background:#c11;
+}
+
 .forkongithub a:hover{
   background:#c11;
   color:#fff;
+}
+
+.tedex a:hover {
+  background:#F29425;
 }
 
 .forkongithub a::before,.forkongithub a::after{
@@ -43,6 +51,10 @@
     z-index:9999;
   }
 
+  .tedex {
+    left:0;
+  }  
+
   .forkongithub a{
     width:200px;
     position:absolute;
@@ -54,5 +66,14 @@
     -o-transform:rotate(45deg);
     transform:rotate(45deg);
     box-shadow:4px 4px 10px rgba(0,0,0,0.8);
+  }
+
+  .tedex a {
+    left:-60px;
+    -webkit-transform:rotate(-45deg);
+    -ms-transform:rotate(-45deg);
+    -moz-transform:rotate(-45deg);
+    -o-transform:rotate(-45deg);
+    transform:rotate(-45deg);
   }
 }

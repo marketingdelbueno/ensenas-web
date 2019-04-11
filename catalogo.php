@@ -83,7 +83,7 @@
     <footer class="foot">
       <div class="container">
         <div class="txtc">
-        <p>2011 <a href="http://www.neoessentia.org/" target="_blank">Fundación NeoEssentia</a> Construyendo Nuevas Realidades.</p>
+          <p>2011 - 2019 <a href="http://www.marketingdelbueno.com/" target="_blank">Marketing del Bueno</a>.</p>
         </div>
       </div>
     </footer>
