@@ -86,6 +86,12 @@
 
                                 switch ($extension) {
 
+                                    case 'mp4':
+
+                                        $type = 'type="video/mp4"';
+
+                                        break;
+
                                     case 'webm':
 
                                         $type = 'type="video/webm"';
